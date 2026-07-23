@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Richard Atelier — Curated for the way you live</title>
+  <meta name="description" content="Richard Atelier kuratiert Lebensräume. Human-Centered Living Design aus Wien — für Penthouses, Villen und Executive Offices. Vienna · New York.">
+
+  <!-- ============================================================
+       HREFLANG — DOMAIN VOR LIVEGANG ERSETZEN
+       hreflang verlangt absolute URLs. Platzhalter-Domain:
+       https://www.richard-atelier.example/
+       ============================================================ -->
+  <link rel="canonical" href="https://www.richard-atelier.example/">
+  <link rel="alternate" hreflang="de" href="https://www.richard-atelier.example/">
+  <link rel="alternate" hreflang="en" href="https://www.richard-atelier.example/en/">
+  <link rel="alternate" hreflang="x-default" href="https://www.richard-atelier.example/en/">
+
+  <link rel="stylesheet" href="assets/styles.css">
+  <noscript><style>.intro{display:none}.reveal,.reveal-line{opacity:1!important;transform:none!important}.figure .reveal-img{clip-path:none!important}</style></noscript>
+</head>
+<body data-theme="light">
+
+  <!-- Intro: Strich fährt ein, Fläche öffnet sich (JS-Timeline) -->
+  <div class="intro" aria-hidden="true">
+    <div class="intro-panel intro-panel--top"></div>
+    <div class="intro-panel intro-panel--bottom"></div>
+    <span class="intro-line"></span>
+  </div>
+
+  <!-- Fixe UI-Ebene -->
+  <a class="ui-brand" href="#intro" aria-label="Richard Atelier — zum Anfang">
+    <span class="brand-line" aria-hidden="true"></span>
+    <span class="brand-word">Richard</span>
+  </a>
+
+  <nav class="ui-lang" aria-label="Sprache">
+    <span aria-current="true" lang="de">DE</span>
+    <a href="en/" hreflang="en" lang="en">EN</a>
+  </nav>
+
+  <div class="ui-clocks" aria-hidden="true">
+    <span class="clock clock--vie">VIE <span data-clock="vie">--:--</span></span>
+    <span class="clock clock--nyc">NYC <span data-clock="nyc">--:--</span></span>
+  </div>
+
+  <nav aria-label="Folien-Navigation">
+    <ol class="ui-dots">
+      <li data-active="true" style="--tip:var(--line-yellow)"><button type="button" aria-label="Folie 1 — Atelier"></button><span class="dot-tip" aria-hidden="true">Atelier</span></li>
+      <li style="--tip:var(--line-green)"><button type="button" aria-label="Folie 2 — Haltung"></button><span class="dot-tip" aria-hidden="true">Haltung</span></li>
+      <li style="--tip:var(--line-magenta)"><button type="button" aria-label="Folie 3 — Die Frage"></button><span class="dot-tip" aria-hidden="true">Die Frage</span></li>
+      <li style="--tip:var(--line-blue)"><button type="button" aria-label="Folie 4 — As you live"></button><span class="dot-tip" aria-hidden="true" lang="en">As you live</span></li>
+      <li style="--tip:var(--line-orange)"><button type="button" aria-label="Folie 5 — Richard"></button><span class="dot-tip" aria-hidden="true">Richard</span></li>
+      <li style="--tip:var(--line-red)"><button type="button" aria-label="Folie 6 — Kontakt"></button><span class="dot-tip" aria-hidden="true">Kontakt</span></li>
+    </ol>
+  </nav>
+
+  <!-- Deck -->
+  <main class="deck">
+    <!-- Roter Faden: fixe Ebene, zeichnet sich pro Folie neu -->
+    <div class="thread-layer" aria-hidden="true">
+      <svg width="100%" height="100%" preserveAspectRatio="none">
+        <path class="thread-path" d=""></path>
+      </svg>
+    </div>
+
+    <!-- 01 · Hero -->
+    <section class="slide slide--hero" id="intro" data-theme="light" aria-label="Richard Atelier">
+      <div class="px-group" data-px="0.15">
+        <div class="hero-mark">
+          <span class="mark-line reveal-line" aria-hidden="true"></span>
+          <h1 class="mark-word reveal" style="--d:300ms">Richard
+            <span class="mark-sub">Atelier</span>
+          </h1>
+        </div>
+        <p class="hero-claim reveal" style="--d:600ms" lang="en">Curated for the way you live.</p>
+        <p class="hero-cities reveal" style="--d:800ms">Vienna&ensp;·&ensp;New York</p>
+      </div>
+    </section>
+
+    <!-- 02 · Haltung / Statement mit Bild -->
+    <section class="slide slide--split" data-theme="light" aria-label="Haltung">
+      <figure class="figure" data-px="-0.09">
+        <img class="reveal-img" src="assets/img/richard-atelier-01.jpg"
+             alt="Platzhalter: Wohnraum als isometrisches 3D-Render"
+             width="1600" height="2000">
+        <figcaption class="figure-caption reveal" style="--d:500ms">Lebensraum, kuratiert</figcaption>
+      </figure>
+      <div class="split-copy" data-px="0.16">
+        <p class="eyebrow reveal" style="--d:150ms">Haltung</p>
+        <h2 class="display reveal" style="--d:300ms">Wir gestalten keine Räume. <strong>Wir gestalten die Art, wie Menschen leben.</strong></h2>
+      </div>
+    </section>
+
+    <!-- 03 · Die entscheidende Frage -->
+    <section class="slide slide--question" data-theme="sand" aria-label="Die entscheidende Frage">
+      <video class="slide-video" autoplay muted loop playsinline preload="metadata" tabindex="-1" aria-hidden="true">
+        <source src="assets/video/richard.mp4" type="video/mp4">
+      </video>
+      <div class="px-group" data-px="0.15">
+      <p class="eyebrow reveal">Der Unterschied</p>
+      <p class="question-old reveal" style="--d:250ms">„Wie soll der Raum aussehen?“<span class="strike" aria-hidden="true"></span></p>
+      <h2 class="display reveal" style="--d:500ms"><strong>„Wie möchten Sie leben?“</strong></h2>
+      <p class="lede reveal" style="--d:750ms">Hier beginnt Human-Centered Living Design: Persönlichkeit, Lebensstil und Zukunftspläne sind die Basis jedes Konzepts — nicht der Grundriss.</p>
+      </div>
+    </section>
+
+    <!-- 04 · As-You-System (Andeutung) -->
+    <section class="slide slide--split split--imgright" data-theme="light" aria-label="As you live">
+      <figure class="figure" data-px="-0.09">
+        <img class="reveal-img" src="assets/img/richard-atelier-02.jpg"
+             alt="Platzhalter: Bad und Wellness als isometrisches 3D-Render"
+             width="1600" height="2000">
+        <figcaption class="figure-caption reveal" style="--d:500ms">As you move — Bad &amp; Wellness</figcaption>
+      </figure>
+      <div class="split-copy" data-px="0.16">
+        <p class="eyebrow reveal" style="--d:150ms">Das System</p>
+        <h2 class="asyou-phrase reveal" style="--d:300ms" lang="en">As you<br><span class="asyou-word" data-words='["are","cook","move","work","rest","gather","host","create"]'>are</span></h2>
+        <p class="lede reveal" style="--d:550ms">Lebenssituationen statt Raumfunktionen. Jede Kunst — Licht, Holz, Boden, Farbe — fügt sich zu einem Konzept, das aus Ihrem Alltag entsteht.</p>
+        <ul class="asyou-rooms reveal" style="--d:750ms" aria-label="Lebensbereiche">
+          <li style="--dot:var(--line-yellow)">Küche</li>
+          <li style="--dot:var(--line-green)">Living</li>
+          <li style="--dot:var(--line-magenta)">Bad &amp; Wellness</li>
+          <li style="--dot:var(--line-blue)">Büro</li>
+          <li style="--dot:var(--line-orange)">Schlafzimmer</li>
+          <li style="--dot:var(--line-red)">Atelier</li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- 05 · Richard -->
+    <section class="slide slide--richard" data-theme="light" aria-label="Wer Richard ist">
+      <figure class="figure" data-px="-0.09">
+        <img class="reveal-img" src="assets/img/richard-atelier-03.jpg"
+             alt="Platzhalter: Editorial-Portrait von Richard"
+             width="1500" height="2000">
+      </figure>
+      <div class="split-copy" data-px="0.16">
+        <p class="eyebrow reveal" style="--d:150ms">Richard</p>
+        <h2 class="display reveal" style="--d:300ms">Richard ist <strong>Kurator, kreativer Kopf, Wegbegleiter.</strong></h2>
+        <p class="lede reveal" style="--d:550ms">Richard führt nicht durch ein Sortiment, sondern durch einen Lebensentwurf — vom ersten Strich bis ins hohe Alter, Hand in Hand.</p>
+        <ul class="richard-roles reveal" style="--d:750ms">
+          <li>Gestalter von Lebenssituationen</li>
+          <li>Übersetzer von Persönlichkeit</li>
+          <li>Partner auf Augenhöhe</li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- 06 · Kontakt -->
+    <section class="slide slide--contact" data-theme="dark" aria-label="Kontakt">
+      <div class="px-group" data-px="0.15">
+      <p class="eyebrow reveal">Der erste Strich</p>
+      <form class="contact-form" novalidate
+            action="assets/send.php" method="post"
+            data-endpoint="assets/send.php"
+            data-msg-ok="Danke. Richard meldet sich persönlich bei Ihnen."
+            data-msg-sending="Wird gesendet …"
+            data-msg-error="Senden fehlgeschlagen. Bitte später erneut versuchen."
+            data-msg-invalid="Bitte geben Sie eine gültige E-Mail-Adresse ein.">
+        <label class="reveal" style="--d:200ms" for="email">Ich interessiere mich für eine Kuratierung meiner Lebensräume.</label>
+        <div class="hp-field" aria-hidden="true">
+          <label for="company">Firma (bitte leer lassen)</label>
+          <input id="company" type="text" name="company" tabindex="-1" autocomplete="off">
+        </div>
+        <div class="contact-row reveal" style="--d:450ms">
+          <input id="email" type="email" name="email" placeholder="Ihre E-Mail-Adresse"
+                 autocomplete="email" inputmode="email" required>
+          <button type="submit">Senden</button>
+        </div>
+        <p class="form-note reveal" style="--d:600ms" aria-live="polite"></p>
+      </form>
+      </div>
+      <div class="contact-footer">
+        Vienna<br>New York
+      </div>
+    </section>
+
+  </main>
+
+  <script src="assets/script.js"></script>
+</body>
+</html>

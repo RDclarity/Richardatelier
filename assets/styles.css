@@ -1,0 +1,700 @@
+/* ============================================================
+   RICHARD ATELIER — Landingpage
+   Design-System: Off-White-Basis, Logo-Braun, pastellige
+   Subway-Akzente. Helvetica Neue. Mobile first.
+   ============================================================ */
+
+:root {
+  /* Basis */
+  --paper:        #F7F4EE;   /* Off-White, warm */
+  --paper-deep:   #EFEAE0;
+  --sand:         #B59C7A;   /* Brand-Beige (Briefing) */
+  --umber:        #A98E6F;   /* Logo-Braun */
+  --umber-deep:   #6E5C45;
+  --ink:          #211D17;   /* warmes Fast-Schwarz */
+  --ink-soft:     #5C5447;
+
+  /* Subway-Pastell (entsättigt) */
+  --line-green:   #9CBFA6;   /* 4·5·6 */
+  --line-yellow:  #E0C98E;   /* N·Q·R */
+  --line-magenta: #D49BB4;   /* Affekt */
+  --line-blue:    #97AFC9;   /* A·C·E */
+  --line-orange:  #DCAB8B;   /* B·D·F·M */
+  --line-red:     #CC9490;   /* 1·2·3 */
+
+  /* Typo */
+  --font: "Helvetica Neue", Helvetica, "Neue Haas Grotesk", Arial, sans-serif;
+
+  /* Bewegung */
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+  --dur-slow: 1100ms;
+  --dur-med:  700ms;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+html { height: 100%; }
+
+body {
+  height: 100dvh;
+  overflow: hidden;
+  font-family: var(--font);
+  font-weight: 400;
+  color: var(--ink);
+  background: var(--paper);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+::selection { background: var(--sand); color: #fff; }
+
+/* ------------------------------------------------------------
+   Intro: Strich fährt ein, Fläche öffnet sich
+   ------------------------------------------------------------ */
+.intro {
+  position: fixed;
+  inset: 0;
+  z-index: 100;
+}
+.intro-panel {
+  position: absolute;
+  left: 0;
+  width: 100%;
+  height: 50.5%; /* leichte Überlappung gegen Haarlinien-Spalt */
+  background: var(--umber);
+  transition: transform 1150ms var(--ease-out);
+}
+.intro-panel--top { top: 0; }
+.intro-panel--bottom { bottom: 0; }
+.intro-line {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  width: 100%;
+  height: 1px;
+  background: var(--paper);
+  transform: scaleX(0);
+  transform-origin: left center;
+  transition: transform 1000ms var(--ease-out), opacity 600ms ease 200ms;
+}
+.intro.is-line .intro-line { transform: scaleX(1); }
+.intro.is-open .intro-panel--top { transform: translateY(-101%); }
+.intro.is-open .intro-panel--bottom { transform: translateY(101%); }
+.intro.is-open .intro-line { opacity: 0; }
+body.intro-active .deck { overflow: hidden; }
+
+/* ------------------------------------------------------------
+   Deck: vollflächige Slides mit Scroll-Snap
+   ------------------------------------------------------------ */
+.deck {
+  position: relative;
+  height: 100dvh;
+  overflow-y: auto;
+  scroll-snap-type: y mandatory;
+  scroll-behavior: smooth;
+  scrollbar-width: none;
+}
+.deck::-webkit-scrollbar { display: none; }
+
+/* Desktop: JS übernimmt die Folienfahrt, CSS-Snap aus */
+body.js-snap .deck { scroll-snap-type: none; scroll-behavior: auto; }
+
+.slide {
+  position: relative;
+  height: 100dvh;
+  scroll-snap-align: start;
+  scroll-snap-stop: always;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: clamp(1.5rem, 5vw, 4rem) clamp(2.4rem, 7vw, 4rem);
+  overflow: hidden;
+}
+
+/* Parallax-Gruppen (JS setzt transform über [data-px]) */
+[data-px] { will-change: transform; }
+.px-group {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--g, 1.8rem);
+}
+
+/* ------------------------------------------------------------
+   Fixe UI-Ebene
+   ------------------------------------------------------------ */
+.ui-brand {
+  position: fixed;
+  top: clamp(1.1rem, 3vw, 2rem);
+  left: clamp(2.4rem, 7vw, 4rem);
+  z-index: 50;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  text-decoration: none;
+  color: var(--ink);
+}
+.ui-brand .brand-line {
+  display: block;
+  width: clamp(2.2rem, 7vw, 4rem);
+  height: 1px;
+  background: currentColor;
+}
+.ui-brand .brand-word {
+  font-size: 0.78rem;
+  font-weight: 500;
+  letter-spacing: 0.42em;
+  text-transform: uppercase;
+}
+
+.ui-lang {
+  position: fixed;
+  top: clamp(1rem, 3vw, 1.9rem);
+  right: clamp(2.4rem, 7vw, 4rem);
+  z-index: 50;
+  display: flex;
+  gap: 0.35rem;
+  font-size: 0.7rem;
+  letter-spacing: 0.18em;
+}
+.ui-lang a, .ui-lang span {
+  text-decoration: none;
+  color: var(--ink-soft);
+  padding: 0.3rem 0.2rem;
+}
+.ui-lang [aria-current="true"] {
+  color: var(--ink);
+  border-bottom: 1px solid var(--ink);
+}
+.ui-lang a:hover { color: var(--umber-deep); }
+
+/* VIE / NYC Uhren */
+.ui-clocks {
+  position: fixed;
+  bottom: clamp(1rem, 3vw, 1.8rem);
+  left: clamp(2.4rem, 7vw, 4rem);
+  z-index: 50;
+  display: flex;
+  gap: 1.4rem;
+  font-size: 0.62rem;
+  letter-spacing: 0.22em;
+  color: var(--ink-soft);
+  text-transform: uppercase;
+  font-variant-numeric: tabular-nums;
+}
+.ui-clocks .clock { display: flex; gap: 0.5em; align-items: baseline; }
+.ui-clocks .clock::before {
+  content: "";
+  width: 5px; height: 5px;
+  border-radius: 50%;
+  align-self: center;
+}
+.clock--vie::before { background: var(--line-yellow); }
+.clock--nyc::before { background: var(--line-blue); }
+
+/* Slide-Navigation: Subway-Kreise */
+.ui-dots {
+  position: fixed;
+  right: clamp(0.9rem, 3vw, 2rem);
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 50;
+  display: flex;
+  flex-direction: column;
+  gap: 0.9rem;
+  list-style: none;
+}
+.ui-dots li { position: relative; display: flex; align-items: center; }
+.ui-dots button {
+  display: block;
+  width: 9px; height: 9px;
+  border-radius: 50%;
+  border: 1px solid var(--ink-soft);
+  background: transparent;
+  cursor: pointer;
+  padding: 0;
+  transition: transform 300ms var(--ease-out), background 300ms, border-color 300ms;
+}
+.ui-dots button:hover { transform: scale(1.4); }
+.ui-dots li[data-active="true"] button {
+  border-color: transparent;
+  background: var(--tip, var(--sand));
+  transform: scale(1.35);
+}
+
+/* Fly-out: Sektionsname im Subway-Schild, Farbe = Punktfarbe */
+.dot-tip {
+  position: absolute;
+  right: calc(100% + 0.9rem);
+  top: 50%;
+  transform: translateY(-50%) translateX(8px);
+  opacity: 0;
+  pointer-events: none;
+  white-space: nowrap;
+  font-size: 0.6rem;
+  font-weight: 500;
+  letter-spacing: 0.24em;
+  text-transform: uppercase;
+  color: var(--ink);
+  background: var(--tip, var(--sand));
+  padding: 0.55em 1.1em 0.5em 1.25em;
+  border-radius: 999px;
+  transition: opacity 320ms var(--ease-out), transform 320ms var(--ease-out);
+}
+@media (hover: hover) and (pointer: fine) {
+  .ui-dots li:hover .dot-tip,
+  .ui-dots li:focus-within .dot-tip {
+    opacity: 1;
+    transform: translateY(-50%) translateX(0);
+  }
+}
+
+/* ------------------------------------------------------------
+   Typografie
+   ------------------------------------------------------------ */
+.eyebrow {
+  font-size: 0.68rem;
+  font-weight: 500;
+  letter-spacing: 0.4em;
+  text-transform: uppercase;
+  color: var(--umber-deep);
+  display: inline-flex;
+  align-items: center;
+  gap: 0.8rem;
+}
+.eyebrow::before {
+  content: "";
+  display: inline-block;
+  width: 2.4rem;
+  height: 1px;
+  background: currentColor;
+  transform-origin: left center;
+}
+
+.display {
+  font-weight: 300;
+  font-size: clamp(2rem, 7.5vw, 4.6rem);
+  line-height: 1.12;
+  letter-spacing: -0.015em;
+  max-width: 16ch;
+}
+.display strong { font-weight: 500; }
+
+.lede {
+  font-size: clamp(0.95rem, 2.4vw, 1.15rem);
+  line-height: 1.7;
+  color: var(--ink-soft);
+  max-width: 46ch;
+}
+
+/* ------------------------------------------------------------
+   Slide 1 — Hero
+   ------------------------------------------------------------ */
+.slide--hero { align-items: flex-start; }
+.slide--hero .px-group { --g: 2.2rem; }
+.hero-mark {
+  display: flex;
+  align-items: center;
+  gap: clamp(1rem, 3vw, 1.8rem);
+}
+.hero-mark .mark-line {
+  width: clamp(4.5rem, 22vw, 16rem);
+  height: 1px;
+  background: var(--ink);
+  transform-origin: left center;
+}
+.hero-mark .mark-word {
+  font-size: clamp(1.7rem, 8vw, 4.4rem);
+  font-weight: 700;
+  letter-spacing: 0.34em;
+  text-transform: uppercase;
+  white-space: nowrap;
+  /* Hover: Bild scheint durch die Buchstaben
+     (Pfad relativ zur CSS-Datei; später echtes Foto einsetzen) */
+  background-image: url("../assets/img/richard-atelier-011.png");
+  background-size: cover;
+  background-position: center;
+  -webkit-background-clip: text;
+  background-clip: text;
+  transition: color 650ms var(--ease-out);
+  cursor: default;
+}
+.hero-mark .mark-word:hover { color: transparent; }
+.hero-mark .mark-sub {
+  display: block;
+  margin-top: 0.4rem;
+  font-size: clamp(0.62rem, 1.8vw, 0.85rem);
+  font-weight: 400;
+  letter-spacing: 0.62em;
+  text-transform: uppercase;
+  color: var(--umber-deep);
+}
+.hero-claim {
+  font-size: clamp(1rem, 3vw, 1.4rem);
+  font-weight: 300;
+  letter-spacing: 0.04em;
+  color: var(--ink-soft);
+}
+.hero-cities {
+  font-size: 0.66rem;
+  letter-spacing: 0.4em;
+  text-transform: uppercase;
+  color: var(--umber);
+}
+/* ------------------------------------------------------------
+   Roter Faden — EINE durchgehende Linie über die gesamte
+   Scroll-Höhe; scrollt mit dem Inhalt (absolute im Deck).
+   ------------------------------------------------------------ */
+.thread-layer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 3;            /* über Slide-Hintergründen, unter Inhalt */
+  pointer-events: none;
+}
+.thread-layer svg { display: block; width: 100%; }
+.thread-path {
+  fill: none;
+  stroke: var(--ink-soft);
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  opacity: 0.5;
+  transition: stroke 600ms, opacity 600ms;
+}
+body[data-theme="sand"] .thread-path,
+body[data-theme="dark"] .thread-path { stroke: var(--paper); opacity: 0.7; }
+
+/* Bilder & Textspalten liegen über dem Faden */
+.figure, .split-copy, .px-group { position: relative; z-index: 6; }
+
+/* ------------------------------------------------------------
+   Slides mit Bild + Statement
+   ------------------------------------------------------------ */
+.slide--split {
+  display: grid;
+  grid-template-rows: minmax(0, 1.1fr) auto;
+  gap: clamp(1.4rem, 4vh, 3rem);
+  align-content: center;
+  padding-top: clamp(4.5rem, 12vh, 7rem);
+  padding-bottom: clamp(3.5rem, 10vh, 5rem);
+}
+.figure {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
+  overflow: hidden;
+}
+.figure img {
+  flex: 1;
+  min-height: 0;
+  width: 100%;
+  object-fit: cover;
+  display: block;
+}
+.figure-caption {
+  margin-top: 0.6rem;
+  font-size: 0.6rem;
+  letter-spacing: 0.26em;
+  text-transform: uppercase;
+  color: var(--umber);
+}
+.split-copy {
+  display: flex;
+  flex-direction: column;
+  gap: 1.1rem;
+}
+
+/* ------------------------------------------------------------
+   Slide 3 — Die Frage (Beige-Vollfläche)
+   ------------------------------------------------------------ */
+.slide--question {
+  background: var(--umber);
+  color: var(--paper);
+  overflow: hidden;
+}
+.slide--question::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(33, 24, 16, 0.24);
+  pointer-events: none;
+  z-index: 4;
+}
+.slide--question .slide-video {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 0.84;
+  z-index: 2;
+  pointer-events: none;
+}
+.slide--question .px-group { --g: 1.6rem; }
+.slide--question .eyebrow { color: var(--paper); opacity: 0.75; }
+.slide--question .lede { color: var(--paper); opacity: 0.85; }
+.question-old {
+  font-weight: 300;
+  font-size: clamp(1.15rem, 3.6vw, 1.9rem);
+  letter-spacing: 0.01em;
+  position: relative;
+  display: inline-block;
+  opacity: 0.66;
+}
+.question-old .strike {
+  position: absolute;
+  left: -2%;
+  top: 54%;
+  width: 104%;
+  height: 1px;
+  background: var(--paper);
+  transform: scaleX(0);
+  transform-origin: left center;
+}
+.slide--question .display { max-width: 14ch; }
+
+/* ------------------------------------------------------------
+   Slide 4 — As-You-System (Andeutung)
+   ------------------------------------------------------------ */
+.asyou-phrase {
+  font-weight: 300;
+  font-size: clamp(2.1rem, 8vw, 4.8rem);
+  line-height: 1.1;
+  letter-spacing: -0.01em;
+}
+.asyou-word {
+  display: inline-block;
+  min-width: 6.6ch;
+  font-weight: 500;
+  color: var(--umber-deep);
+  border-bottom: 1px solid var(--sand);
+  transition: opacity 400ms var(--ease-out), transform 400ms var(--ease-out);
+}
+.asyou-word.is-swapping { opacity: 0; transform: translateY(0.35em); }
+.asyou-rooms {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 1.6rem;
+  font-size: 0.66rem;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+  list-style: none;
+}
+.asyou-rooms li { display: flex; align-items: center; gap: 0.55rem; }
+.asyou-rooms li::before {
+  content: "";
+  width: 5px; height: 5px;
+  border-radius: 50%;
+  background: var(--dot, var(--sand));
+}
+
+/* ------------------------------------------------------------
+   Slide 5 — Richard
+   ------------------------------------------------------------ */
+.slide--richard {
+  display: grid;
+  grid-template-rows: minmax(0, 1fr) auto;
+  gap: clamp(1.4rem, 4vh, 2.6rem);
+  align-content: center;
+  padding-top: clamp(4.5rem, 12vh, 7rem);
+  padding-bottom: clamp(3.5rem, 10vh, 5rem);
+}
+.richard-roles {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem 1.4rem;
+  font-size: 0.68rem;
+  letter-spacing: 0.32em;
+  text-transform: uppercase;
+  color: var(--umber-deep);
+  list-style: none;
+}
+.richard-roles li + li::before {
+  content: "—";
+  margin-right: 1.4rem;
+  color: var(--sand);
+}
+
+/* ------------------------------------------------------------
+   Slide 6 — Kontakt
+   ------------------------------------------------------------ */
+.slide--contact {
+  background: var(--ink);
+  color: var(--paper);
+}
+.slide--contact .px-group { --g: 2rem; width: 100%; }
+.slide--contact .eyebrow { color: var(--sand); }
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  max-width: 34rem;
+  width: 100%;
+}
+.contact-form label {
+  font-weight: 300;
+  font-size: clamp(1.3rem, 4.4vw, 2.2rem);
+  line-height: 1.3;
+  letter-spacing: 0.005em;
+}
+.contact-row {
+  display: flex;
+  border-bottom: 1px solid rgba(247, 244, 238, 0.45);
+  transition: border-color 300ms;
+}
+.contact-row:focus-within { border-color: var(--sand); }
+.contact-form input[type="email"] {
+  flex: 1;
+  min-width: 0;
+  background: transparent;
+  border: 0;
+  outline: 0;
+  color: var(--paper);
+  font-family: var(--font);
+  font-size: 1rem;
+  letter-spacing: 0.04em;
+  padding: 0.9rem 0;
+}
+.contact-form input::placeholder { color: rgba(247, 244, 238, 0.4); }
+.contact-form button {
+  background: transparent;
+  border: 0;
+  color: var(--sand);
+  font-family: var(--font);
+  font-size: 0.7rem;
+  letter-spacing: 0.34em;
+  text-transform: uppercase;
+  cursor: pointer;
+  padding: 0.9rem 0 0.9rem 1rem;
+  transition: color 250ms;
+}
+.contact-form button:hover { color: var(--line-yellow); }
+.form-note {
+  font-size: 0.78rem;
+  color: rgba(247, 244, 238, 0.55);
+  letter-spacing: 0.03em;
+  min-height: 1.2em;
+}
+.contact-footer {
+  position: absolute;
+  bottom: clamp(1rem, 3vw, 1.8rem);
+  right: clamp(2.4rem, 7vw, 4rem);
+  text-align: right;
+  font-size: 0.62rem;
+  letter-spacing: 0.42em;
+  text-transform: uppercase;
+  color: rgba(247, 244, 238, 0.55);
+  line-height: 2;
+}
+
+/* Kontakt-Slide: fixe UI einfärben, wenn dunkle Slide aktiv */
+body[data-theme="dark"] .ui-brand,
+body[data-theme="dark"] .ui-clocks,
+body[data-theme="dark"] .ui-lang a,
+body[data-theme="dark"] .ui-lang span {
+  color: var(--paper);
+}
+body[data-theme="dark"] .ui-lang [aria-current="true"] { border-color: var(--paper); }
+body[data-theme="dark"] .ui-dots button { border-color: rgba(247, 244, 238, 0.6); }
+body[data-theme="sand"] .ui-brand,
+body[data-theme="sand"] .ui-clocks,
+body[data-theme="sand"] .ui-lang a,
+body[data-theme="sand"] .ui-lang span {
+  color: var(--paper);
+}
+body[data-theme="sand"] .ui-lang [aria-current="true"] { border-color: var(--paper); }
+body[data-theme="sand"] .ui-dots button { border-color: rgba(247, 244, 238, 0.7); }
+.ui-brand, .ui-clocks, .ui-lang a, .ui-lang span, .ui-dots button {
+  transition: color 500ms, border-color 500ms;
+}
+
+/* ------------------------------------------------------------
+   Scroll-Reveal (dezent, innerhalb der Slides)
+   ------------------------------------------------------------ */
+.reveal {
+  opacity: 0;
+  transform: translateY(1.4rem);
+  transition:
+    opacity var(--dur-slow) var(--ease-out),
+    transform var(--dur-slow) var(--ease-out);
+  transition-delay: var(--d, 0ms);
+}
+.slide.is-visible .reveal {
+  opacity: 1;
+  transform: none;
+}
+
+.reveal-line { /* Linien zeichnen sich */
+  transform: scaleX(0);
+  transform-origin: left center;
+  transition: transform 1300ms var(--ease-out);
+  transition-delay: var(--d, 0ms);
+}
+.slide.is-visible .reveal-line { transform: scaleX(1); }
+
+.slide.is-visible .question-old .strike {
+  transition: transform 900ms var(--ease-out) 600ms;
+  transform: scaleX(1);
+}
+
+.figure .reveal-img {
+  clip-path: inset(0 0 100% 0);
+  transition: clip-path 1300ms var(--ease-out);
+  transition-delay: var(--d, 0ms);
+}
+.slide.is-visible .figure .reveal-img { clip-path: inset(0 0 0 0); }
+
+/* ------------------------------------------------------------
+   Desktop-Layout
+   ------------------------------------------------------------ */
+@media (min-width: 768px) {
+  .slide--split {
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+    grid-template-rows: none;
+    align-items: center;
+    gap: clamp(2.5rem, 6vw, 6rem);
+  }
+  .slide--split .figure { height: min(72vh, 46rem); }
+  .slide--split.split--imgright .figure { order: 2; }
+  .slide--richard {
+    grid-template-columns: minmax(0, 0.85fr) minmax(0, 1fr);
+    grid-template-rows: none;
+    align-items: center;
+    gap: clamp(2.5rem, 6vw, 6rem);
+  }
+  .slide--richard .figure { height: min(72vh, 44rem); }
+}
+
+/* ------------------------------------------------------------
+   Reduced Motion
+   ------------------------------------------------------------ */
+@media (prefers-reduced-motion: reduce) {
+  .deck { scroll-behavior: auto; }
+  .reveal, .reveal-line, .figure .reveal-img, .question-old .strike {
+    transition: none !important;
+    opacity: 1 !important;
+    transform: none !important;
+    clip-path: none !important;
+  }
+  .intro { display: none; }
+  [data-px] { transform: none !important; }
+  .thread-path { stroke-dashoffset: 0 !important; }
+}
+
+/* Sichtbarer Tastatur-Fokus */
+:focus-visible {
+  outline: 1.5px solid var(--line-blue);
+  outline-offset: 3px;
+}
+
+/* Honeypot — visuell & für Screenreader versteckt, für Bots sichtbar */
+.hp-field {
+  position: absolute !important;
+  left: -9999px !important;
+  width: 1px; height: 1px;
+  overflow: hidden;
+}
