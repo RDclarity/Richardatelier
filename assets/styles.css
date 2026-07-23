@@ -147,6 +147,33 @@ body.js-snap .deck { scroll-snap-type: none; scroll-behavior: auto; }
   text-transform: uppercase;
 }
 
+/* Hauptmenü — bleibt fix unter dem Logo stehen, "fährt" also mit
+   beim Scrollen, egal wie weit man auf einer Seite herunterkommt. */
+.ui-menu {
+  position: fixed;
+  top: clamp(3.3rem, 8.4vw, 4.7rem);
+  left: clamp(2.4rem, 7vw, 4rem);
+  z-index: 50;
+  display: flex;
+  gap: 1.3rem;
+}
+.ui-menu a {
+  text-decoration: none;
+  color: var(--ink-soft);
+  font-size: 0.66rem;
+  font-weight: 500;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  padding-bottom: 0.2em;
+  border-bottom: 1px solid transparent;
+  transition: color 250ms, border-color 250ms;
+}
+.ui-menu a:hover { color: var(--umber-deep); }
+.ui-menu a[aria-current="page"] {
+  color: var(--ink);
+  border-color: currentColor;
+}
+
 .ui-lang {
   position: fixed;
   top: clamp(1rem, 3vw, 1.9rem);
@@ -597,7 +624,8 @@ body[data-theme="dark"] .thread-path { stroke: var(--paper); opacity: 0.7; }
 body[data-theme="dark"] .ui-brand,
 body[data-theme="dark"] .ui-clocks,
 body[data-theme="dark"] .ui-lang a,
-body[data-theme="dark"] .ui-lang span {
+body[data-theme="dark"] .ui-lang span,
+body[data-theme="dark"] .ui-menu a {
   color: var(--paper);
 }
 body[data-theme="dark"] .ui-lang [aria-current="true"] { border-color: var(--paper); }
@@ -605,12 +633,13 @@ body[data-theme="dark"] .ui-dots button { border-color: rgba(247, 244, 238, 0.6)
 body[data-theme="sand"] .ui-brand,
 body[data-theme="sand"] .ui-clocks,
 body[data-theme="sand"] .ui-lang a,
-body[data-theme="sand"] .ui-lang span {
+body[data-theme="sand"] .ui-lang span,
+body[data-theme="sand"] .ui-menu a {
   color: var(--paper);
 }
 body[data-theme="sand"] .ui-lang [aria-current="true"] { border-color: var(--paper); }
 body[data-theme="sand"] .ui-dots button { border-color: rgba(247, 244, 238, 0.7); }
-.ui-brand, .ui-clocks, .ui-lang a, .ui-lang span, .ui-dots button {
+.ui-brand, .ui-clocks, .ui-lang a, .ui-lang span, .ui-dots button, .ui-menu a {
   transition: color 500ms, border-color 500ms;
 }
 
@@ -928,6 +957,41 @@ body.static-page {
   line-height: 1.6;
 }
 .reference-card-body .static-cta { margin-top: 0.4rem; }
+
+/* ------------------------------------------------------------
+   Team — Übersichtskarten
+   ------------------------------------------------------------ */
+.team-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2.4rem;
+}
+@media (min-width: 700px) {
+  .team-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+.team-card { display: flex; flex-direction: column; gap: 1.1rem; }
+.team-card img {
+  width: 100%;
+  aspect-ratio: 4 / 5;
+  object-fit: cover;
+  border-radius: 14px;
+  display: block;
+}
+.team-card-name {
+  font-size: clamp(1.2rem, 2.8vw, 1.5rem);
+  font-weight: 400;
+}
+.team-card-role {
+  font-size: 0.66rem;
+  letter-spacing: 0.28em;
+  text-transform: uppercase;
+  color: var(--umber-deep);
+}
+.team-card-bio {
+  color: var(--ink-soft);
+  font-size: 0.92rem;
+  line-height: 1.65;
+}
 
 /* ------------------------------------------------------------
    Referenz-Fallstudie — Vollbild-Statement-Slide
