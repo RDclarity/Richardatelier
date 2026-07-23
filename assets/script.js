@@ -256,11 +256,25 @@
      Bei Erfolg: Weiterleitung zur Danke-Seite (data-success-url).
      Ohne JS greift der native Form-Post + das "redirect"-Hidden-
      Feld, das Web3Forms serverseitig auswertet.
+
+     Lead-ID: wird beim Laden erzeugt, als Hidden-Feld mitgesendet
+     und an die Danke-/Projektinfos-Seite weitergereicht (?lead=…).
+     So lassen sich Anfrage und späterer Projektinfos-Fragebogen
+     im künftigen CRM derselben Person zuordnen, auch ohne dass
+     das CRM heute schon existiert.
      ---------------------------------------------------------- */
+  function generateLeadId() {
+    if (window.crypto && typeof window.crypto.randomUUID === "function") return window.crypto.randomUUID();
+    return Date.now().toString(36) + "-" + Math.random().toString(36).slice(2, 10);
+  }
+
   var form = document.querySelector(".contact-form");
   if (form) {
     var endpoint = form.getAttribute("data-endpoint") || "https://api.web3forms.com/submit";
     var successUrl = form.getAttribute("data-success-url") || "danke/";
+    var leadInput = form.querySelector("input[name='lead_id']");
+    if (leadInput) leadInput.value = generateLeadId();
+
     form.addEventListener("submit", function (e) {
       e.preventDefault();
       var emailInput = form.querySelector("input[type='email']");
@@ -282,7 +296,10 @@
         .then(function (r) { return r.json().catch(function () { return { success: false }; }); })
         .then(function (res) {
           if (res && res.success) {
-            window.location.href = successUrl;
+            var q = new URLSearchParams();
+            if (leadInput && leadInput.value) q.set("lead", leadInput.value);
+            q.set("email", emailInput.value);
+            window.location.href = successUrl + "?" + q.toString();
           } else {
             if (note) note.textContent = form.getAttribute("data-msg-error") || "";
             if (btn) btn.disabled = false;

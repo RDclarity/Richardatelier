@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Questionnaire — Richard Atelier</title>
-  <meta name="description" content="A short questionnaire about your project with Richard Atelier — including photo and floor plan upload.">
+  <title>Project Info — Richard Atelier</title>
+  <meta name="description" content="Project info in advance for your project with Richard Atelier — including photo and floor plan upload.">
   <meta name="robots" content="noindex">
   <link rel="stylesheet" href="../../assets/styles.css">
 </head>
@@ -16,13 +16,13 @@
   </a>
 
   <nav class="ui-lang" aria-label="Language">
-    <a href="../../fragebogen/" hreflang="de" lang="de">DE</a>
+    <a href="../../projektinfos/" hreflang="de" lang="de">DE</a>
     <span aria-current="true" lang="en">EN</span>
   </nav>
 
   <main class="qpage-main">
     <div class="qpage-intro">
-      <p class="eyebrow">The questionnaire</p>
+      <p class="eyebrow">Project info in advance</p>
       <h1 class="display">Tell us about your project.</h1>
       <p class="lede">
         A few short questions are enough to prepare the first conversation with Richard.
@@ -33,15 +33,18 @@
     <form class="questionnaire-form" novalidate
           action="https://api.web3forms.com/submit" method="post" enctype="multipart/form-data"
           data-endpoint="https://api.web3forms.com/submit"
-          data-success-url="../danke/?type=fragebogen"
+          data-success-url="../danke/"
+          data-success-type="project-info"
           data-msg-sending="Sending …"
           data-msg-error="Sending failed. Please try again later."
           data-msg-invalid="Please enter a valid email address.">
       <!-- Web3Forms: create an Access Key at web3forms.com and paste it here.
            File uploads (photos, floor plan) require the Pro plan. -->
       <input type="hidden" name="access_key" value="YOUR_WEB3FORMS_ACCESS_KEY">
-      <input type="hidden" name="subject" value="Questionnaire — Richard Atelier">
+      <input type="hidden" name="subject" value="Project info — Richard Atelier">
       <input type="hidden" name="from_name" value="Richard Atelier Website">
+      <!-- Lead ID links this submission to the original inquiry in the future CRM -->
+      <input type="hidden" name="lead_id" id="lead_id" value="">
 
       <fieldset class="qgroup" data-multi="true">
         <legend class="qgroup-label">What are you interested in?</legend>
@@ -139,12 +142,12 @@
       </div>
 
       <div class="qpage-submit">
-        <button type="submit">Submit questionnaire</button>
+        <button type="submit">Submit project info</button>
         <p class="form-note" aria-live="polite"></p>
       </div>
     </form>
   </main>
 
-  <script src="../../assets/fragebogen.js"></script>
+  <script src="../../assets/projektinfos.js"></script>
 </body>
 </html>

@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Thank You — Richard Atelier</title>
-  <meta name="description" content="Thank you for your inquiry to Richard Atelier. Next step: a short questionnaire about your project.">
+  <meta name="description" content="Thank you for your inquiry to Richard Atelier. Next step: project info in advance.">
   <meta name="robots" content="noindex">
   <link rel="stylesheet" href="../../assets/styles.css">
 </head>
@@ -25,21 +25,34 @@
     <h1 class="display" id="thanks-headline">Thank you for your inquiry.</h1>
     <p class="lede" id="thanks-copy">
       Richard will get in touch with you personally. Within a few minutes you will also
-      receive an email with a short questionnaire about your project — it helps us prepare
+      receive an email asking for a bit of project info in advance — it helps us prepare
       the first conversation. You can answer it directly online, including photos of your
       space and your floor plan.
     </p>
-    <a class="static-cta" href="../fragebogen/">Fill in the questionnaire now</a>
+    <a class="static-cta" id="project-info-cta" href="../project-info/">Fill in project info now</a>
   </main>
 
   <div class="static-footer">Vienna<br>New York</div>
 
   <script>
-    if (new URLSearchParams(location.search).get("type") === "fragebogen") {
-      document.getElementById("thanks-headline").textContent = "Thank you for your answers.";
-      document.getElementById("thanks-copy").textContent =
-        "We have received your questionnaire and documents. Richard will use it to prepare your first conversation and will be in touch with you personally shortly.";
-    }
+    (function () {
+      var params = new URLSearchParams(location.search);
+
+      var cta = document.getElementById("project-info-cta");
+      if (cta) {
+        var fwd = new URLSearchParams();
+        if (params.get("lead")) fwd.set("lead", params.get("lead"));
+        if (params.get("email")) fwd.set("email", params.get("email"));
+        var qs = fwd.toString();
+        if (qs) cta.href = cta.getAttribute("href") + "?" + qs;
+      }
+
+      if (params.get("type") === "project-info") {
+        document.getElementById("thanks-headline").textContent = "Thank you for your answers.";
+        document.getElementById("thanks-copy").textContent =
+          "We have received your project info and documents. Richard will use it to prepare your first conversation and will be in touch with you personally shortly.";
+      }
+    })();
   </script>
 </body>
 </html>

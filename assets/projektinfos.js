@@ -1,5 +1,5 @@
 /* ============================================================
-   RICHARD ATELIER — Fragebogen
+   RICHARD ATELIER — Projektinfos vorab
    Klickbare Chip-Fragen, Datei-Vorschau, Absenden an Web3Forms.
    Vanilla JS, keine Abhängigkeiten.
    ============================================================ */
@@ -61,13 +61,25 @@
     if (emailInput) emailInput.value = emailParam;
   }
 
+  /* Lead-ID: aus dem Link übernehmen (?lead=…), damit dieser
+     Fragebogen im künftigen CRM derselben Anfrage zugeordnet
+     werden kann. Fehlt der Parameter (z. B. Direktaufruf ohne
+     E-Mail-Link), wird eine neue ID erzeugt, damit trotzdem ein
+     eindeutiger Datensatz entsteht. */
+  function generateLeadId() {
+    if (window.crypto && typeof window.crypto.randomUUID === "function") return window.crypto.randomUUID();
+    return Date.now().toString(36) + "-" + Math.random().toString(36).slice(2, 10);
+  }
+  var leadInput = document.getElementById("lead_id");
+  if (leadInput) leadInput.value = params.get("lead") || generateLeadId();
+
   /* Absenden — gleiches Muster wie das Kontaktformular:
      progressive enhancement, Web3Forms per fetch, bei Erfolg
      Weiterleitung zur Danke-Seite. */
   var form = document.querySelector(".questionnaire-form");
   if (form) {
     var endpoint = form.getAttribute("data-endpoint") || "https://api.web3forms.com/submit";
-    var successUrl = form.getAttribute("data-success-url") || "../danke/?type=fragebogen";
+    var successBase = form.getAttribute("data-success-url") || "../danke/";
     form.addEventListener("submit", function (e) {
       e.preventDefault();
       var note = form.querySelector(".form-note");
@@ -86,7 +98,10 @@
         .then(function (r) { return r.json().catch(function () { return { success: false }; }); })
         .then(function (res) {
           if (res && res.success) {
-            window.location.href = successUrl;
+            var q = new URLSearchParams();
+            q.set("type", form.getAttribute("data-success-type") || "projektinfos");
+            if (leadInput && leadInput.value) q.set("lead", leadInput.value);
+            window.location.href = successBase + "?" + q.toString();
           } else {
             if (note) note.textContent = form.getAttribute("data-msg-error") || "";
             if (btn) btn.disabled = false;

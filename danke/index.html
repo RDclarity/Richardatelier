@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Vielen Dank — Richard Atelier</title>
-  <meta name="description" content="Vielen Dank für Ihre Anfrage bei Richard Atelier. Der nächste Schritt: ein kurzer Fragenkatalog zu Ihrem Projekt.">
+  <meta name="description" content="Vielen Dank für Ihre Anfrage bei Richard Atelier. Der nächste Schritt: Projektinfos vorab.">
   <meta name="robots" content="noindex">
   <link rel="stylesheet" href="../assets/styles.css">
 </head>
@@ -25,21 +25,34 @@
     <h1 class="display" id="thanks-headline">Vielen Dank für Ihre Anfrage.</h1>
     <p class="lede" id="thanks-copy">
       Richard meldet sich persönlich bei Ihnen. In wenigen Minuten erhalten Sie zudem eine
-      E-Mail mit einem kurzen Fragenkatalog zu Ihrem Projekt — er hilft uns, das erste
-      Gespräch optimal vorzubereiten. Sie können ihn direkt online beantworten, inklusive
+      E-Mail mit der Bitte um ein paar Projektinfos vorab — sie hilft uns, das erste
+      Gespräch optimal vorzubereiten. Sie können sie direkt online beantworten, inklusive
       Fotos Ihres Raums und Ihres Grundrisses.
     </p>
-    <a class="static-cta" href="../fragebogen/">Fragenkatalog jetzt schon ausfüllen</a>
+    <a class="static-cta" id="projektinfos-cta" href="../projektinfos/">Projektinfos vorab jetzt schon ausfüllen</a>
   </main>
 
   <div class="static-footer">Vienna<br>New York</div>
 
   <script>
-    if (new URLSearchParams(location.search).get("type") === "fragebogen") {
-      document.getElementById("thanks-headline").textContent = "Vielen Dank für Ihre Angaben.";
-      document.getElementById("thanks-copy").textContent =
-        "Wir haben Ihren Fragenkatalog inklusive Unterlagen erhalten. Richard bereitet damit Ihr erstes Gespräch vor und meldet sich in Kürze persönlich bei Ihnen.";
-    }
+    (function () {
+      var params = new URLSearchParams(location.search);
+
+      var cta = document.getElementById("projektinfos-cta");
+      if (cta) {
+        var fwd = new URLSearchParams();
+        if (params.get("lead")) fwd.set("lead", params.get("lead"));
+        if (params.get("email")) fwd.set("email", params.get("email"));
+        var qs = fwd.toString();
+        if (qs) cta.href = cta.getAttribute("href") + "?" + qs;
+      }
+
+      if (params.get("type") === "projektinfos") {
+        document.getElementById("thanks-headline").textContent = "Vielen Dank für Ihre Angaben.";
+        document.getElementById("thanks-copy").textContent =
+          "Wir haben Ihre Projektinfos inklusive Unterlagen erhalten. Richard bereitet damit Ihr erstes Gespräch vor und meldet sich in Kürze persönlich bei Ihnen.";
+      }
+    })();
   </script>
 </body>
 </html>
