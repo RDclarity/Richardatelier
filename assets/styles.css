@@ -876,3 +876,123 @@ body.static-page {
 }
 .questionnaire-form button[type="submit"]:hover { background: var(--umber-deep); }
 .questionnaire-form button[type="submit"]:disabled { opacity: 0.6; cursor: default; }
+
+/* ------------------------------------------------------------
+   Referenzen — Übersichtskarte
+   ------------------------------------------------------------ */
+.reference-card {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  border: 1px solid rgba(33, 24, 16, 0.14);
+  border-radius: 14px;
+  overflow: hidden;
+  transition: border-color 250ms;
+}
+.reference-card:hover { border-color: var(--umber); }
+.reference-card img {
+  width: 100%;
+  aspect-ratio: 16 / 10;
+  object-fit: cover;
+  display: block;
+}
+.reference-card-body {
+  padding: 1.6rem 1.8rem 1.9rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+.reference-card-tag {
+  font-size: 0.62rem;
+  letter-spacing: 0.28em;
+  text-transform: uppercase;
+  color: var(--umber-deep);
+}
+.reference-card-body h2 {
+  font-size: clamp(1.3rem, 3vw, 1.7rem);
+  font-weight: 400;
+}
+.reference-card-body p:not(.reference-card-tag) {
+  color: var(--ink-soft);
+  font-size: 0.92rem;
+  line-height: 1.6;
+}
+.reference-card-body .static-cta { margin-top: 0.4rem; }
+
+/* ------------------------------------------------------------
+   Referenz-Fallstudie — Vollbild-Statement-Slide
+   ------------------------------------------------------------ */
+.slide--feature { overflow: hidden; color: var(--paper); }
+.slide--feature .feature-media {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: 1;
+}
+.slide--feature::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(33, 24, 16, 0.5);
+  z-index: 2;
+  pointer-events: none;
+}
+.slide--feature .px-group { position: relative; z-index: 6; }
+.slide--feature .eyebrow { color: var(--paper); opacity: 0.8; }
+.slide--feature .display { color: var(--paper); max-width: 18ch; }
+.slide--feature .lede { color: var(--paper); opacity: 0.9; }
+
+/* "Geänderte Details" — vorher/nachher als Liste */
+.change-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.7rem;
+  list-style: none;
+  margin-top: 0.4rem;
+}
+.change-list li { font-size: 0.92rem; color: var(--ink-soft); line-height: 1.5; }
+.change-list li strong { color: var(--ink); font-weight: 500; }
+.change-list .arrow { color: var(--umber); margin: 0 0.5em; }
+
+/* Eckdaten */
+.facts-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.3rem 2rem;
+  list-style: none;
+  margin-top: 0.6rem;
+}
+.facts-grid li { display: flex; flex-direction: column; gap: 0.35rem; }
+.fact-label {
+  font-size: 0.62rem;
+  letter-spacing: 0.26em;
+  text-transform: uppercase;
+  color: var(--umber-deep);
+}
+.fact-value { font-size: 0.92rem; color: var(--ink); }
+
+/* Dunkle Slides dürfen .display/.lede jetzt auch für Fließtext
+   nutzen (bisher nur Formular-Elemente auf .slide--contact) */
+.slide--contact .display { color: var(--paper); }
+.slide--contact .lede { color: var(--paper); opacity: 0.85; }
+
+.cta-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6rem;
+  margin-top: 0.6rem;
+  padding: 1rem 2.2rem;
+  background: var(--sand);
+  color: var(--ink);
+  border-radius: 999px;
+  text-decoration: none;
+  font-size: 0.7rem;
+  font-weight: 500;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  transition: background 250ms;
+  width: fit-content;
+}
+.cta-button:hover { background: var(--line-yellow); }
