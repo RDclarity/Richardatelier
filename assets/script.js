@@ -136,8 +136,12 @@
     deck.style.scrollBehavior = "auto";
     targetTop = deck.scrollTop;
 
-    /* Längere Eingabe-Sperre: Sektionen bekommen mehr Ruhe
-       zwischen den Übergängen, kein Mehrfachsprung pro Wisch. */
+    /* Eingabe-Sperre: kein Mehrfachsprung pro Wisch. Die Sperre muss
+       mindestens so lange halten wie die Folienfahrt selbst dauert
+       (navDur, ~900–1700ms) — sonst lösen nachlaufende Wheel-Events
+       vom Trackpad-Momentum-Scrolling (die oft länger als 500ms
+       nachlaufen) eine zweite Fahrt aus, während die erste noch
+       läuft, und eine Folie wird übersprungen. */
     var wheelLock = 0;
     deck.addEventListener(
       "wheel",
@@ -146,8 +150,8 @@
         if (Math.abs(e.deltaY) < 6) return;
         var now = performance.now();
         if (now < wheelLock) return;
-        wheelLock = now + 520;
         goTo(targetIndex + (e.deltaY > 0 ? 1 : -1));
+        wheelLock = now + navDur;
       },
       { passive: false }
     );
