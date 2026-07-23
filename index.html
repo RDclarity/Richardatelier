@@ -152,12 +152,17 @@
       <div class="px-group" data-px="0.15">
       <p class="eyebrow reveal">Der erste Strich</p>
       <form class="contact-form" novalidate
-            action="assets/send.php" method="post"
-            data-endpoint="assets/send.php"
-            data-msg-ok="Danke. Richard meldet sich persönlich bei Ihnen."
+            action="https://api.web3forms.com/submit" method="post"
+            data-endpoint="https://api.web3forms.com/submit"
+            data-success-url="danke/"
             data-msg-sending="Wird gesendet …"
             data-msg-error="Senden fehlgeschlagen. Bitte später erneut versuchen."
-            data-msg-invalid="Bitte geben Sie eine gültige E-Mail-Adresse ein.">
+            data-msg-invalid="Bitte geben Sie E-Mail und Telefonnummer korrekt ein.">
+        <!-- Web3Forms: Access Key unter web3forms.com erstellen und hier eintragen -->
+        <input type="hidden" name="access_key" value="YOUR_WEB3FORMS_ACCESS_KEY">
+        <input type="hidden" name="subject" value="Neue Anfrage — Richard Atelier">
+        <input type="hidden" name="from_name" value="Richard Atelier Website">
+        <input type="hidden" name="redirect" value="https://rdclarity.github.io/Richardatelier/danke/">
         <label class="reveal" style="--d:200ms" for="email">Ich interessiere mich für eine Kuratierung meiner Lebensräume.</label>
         <div class="hp-field" aria-hidden="true">
           <label for="company">Firma (bitte leer lassen)</label>
@@ -166,6 +171,12 @@
         <div class="contact-row reveal" style="--d:450ms">
           <input id="email" type="email" name="email" placeholder="Ihre E-Mail-Adresse"
                  autocomplete="email" inputmode="email" required>
+        </div>
+        <div class="contact-row reveal" style="--d:500ms">
+          <input id="phone" type="tel" name="phone" placeholder="Ihre Telefonnummer"
+                 autocomplete="tel" inputmode="tel" required>
+        </div>
+        <div class="contact-actions reveal" style="--d:550ms">
           <button type="submit">Senden</button>
         </div>
         <p class="form-note reveal" style="--d:600ms" aria-live="polite"></p>

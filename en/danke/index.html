@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Thank You — Richard Atelier</title>
+  <meta name="description" content="Thank you for your inquiry to Richard Atelier. Next step: a short questionnaire about your project.">
+  <meta name="robots" content="noindex">
+  <link rel="stylesheet" href="../../assets/styles.css">
+</head>
+<body data-theme="light" class="static-page">
+
+  <a class="ui-brand" href="../" aria-label="Richard Atelier — back to home">
+    <span class="brand-line" aria-hidden="true"></span>
+    <span class="brand-word">Richard</span>
+  </a>
+
+  <nav class="ui-lang" aria-label="Language">
+    <a href="../../danke/" hreflang="de" lang="de">DE</a>
+    <span aria-current="true" lang="en">EN</span>
+  </nav>
+
+  <main class="static-hero px-group">
+    <p class="eyebrow">The next step</p>
+    <h1 class="display" id="thanks-headline">Thank you for your inquiry.</h1>
+    <p class="lede" id="thanks-copy">
+      Richard will get in touch with you personally. Within a few minutes you will also
+      receive an email with a short questionnaire about your project — it helps us prepare
+      the first conversation. You can answer it directly online, including photos of your
+      space and your floor plan.
+    </p>
+    <a class="static-cta" href="../fragebogen/">Fill in the questionnaire now</a>
+  </main>
+
+  <div class="static-footer">Vienna<br>New York</div>
+
+  <script>
+    if (new URLSearchParams(location.search).get("type") === "fragebogen") {
+      document.getElementById("thanks-headline").textContent = "Thank you for your answers.";
+      document.getElementById("thanks-copy").textContent =
+        "We have received your questionnaire and documents. Richard will use it to prepare your first conversation and will be in touch with you personally shortly.";
+    }
+  </script>
+</body>
+</html>

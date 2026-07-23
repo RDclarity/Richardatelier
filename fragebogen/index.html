@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fragenkatalog — Richard Atelier</title>
+  <meta name="description" content="Kurzer Fragenkatalog zu Ihrem Projekt bei Richard Atelier — inklusive Foto- und Grundriss-Upload.">
+  <meta name="robots" content="noindex">
+  <link rel="stylesheet" href="../assets/styles.css">
+</head>
+<body data-theme="light" class="static-page">
+
+  <a class="ui-brand" href="../" aria-label="Richard Atelier — zur Startseite">
+    <span class="brand-line" aria-hidden="true"></span>
+    <span class="brand-word">Richard</span>
+  </a>
+
+  <nav class="ui-lang" aria-label="Sprache">
+    <span aria-current="true" lang="de">DE</span>
+    <a href="../en/fragebogen/" hreflang="en" lang="en">EN</a>
+  </nav>
+
+  <main class="qpage-main">
+    <div class="qpage-intro">
+      <p class="eyebrow">Der Fragenkatalog</p>
+      <h1 class="display">Erzählen Sie uns von Ihrem Projekt.</h1>
+      <p class="lede">
+        Ein paar kurze Fragen genügen, um das erste Gespräch mit Richard optimal
+        vorzubereiten. Alle Angaben sind unverbindlich und lassen sich später vertiefen.
+      </p>
+    </div>
+
+    <form class="questionnaire-form" novalidate
+          action="https://api.web3forms.com/submit" method="post" enctype="multipart/form-data"
+          data-endpoint="https://api.web3forms.com/submit"
+          data-success-url="../danke/?type=fragebogen"
+          data-msg-sending="Wird gesendet …"
+          data-msg-error="Senden fehlgeschlagen. Bitte später erneut versuchen."
+          data-msg-invalid="Bitte geben Sie eine gültige E-Mail-Adresse ein.">
+      <!-- Web3Forms: Access Key unter web3forms.com erstellen und hier eintragen.
+           Für Datei-Uploads (Fotos, Grundriss) ist der Pro-Plan nötig. -->
+      <input type="hidden" name="access_key" value="YOUR_WEB3FORMS_ACCESS_KEY">
+      <input type="hidden" name="subject" value="Fragenkatalog — Richard Atelier">
+      <input type="hidden" name="from_name" value="Richard Atelier Website">
+
+      <fieldset class="qgroup" data-multi="true">
+        <legend class="qgroup-label">Wofür interessieren Sie sich?</legend>
+        <div class="chip-row" role="group" aria-label="Lebensbereiche">
+          <button type="button" class="chip" data-value="Küche">Küche</button>
+          <button type="button" class="chip" data-value="Living">Living</button>
+          <button type="button" class="chip" data-value="Bad & Wellness">Bad &amp; Wellness</button>
+          <button type="button" class="chip" data-value="Büro">Büro</button>
+          <button type="button" class="chip" data-value="Schlafzimmer">Schlafzimmer</button>
+          <button type="button" class="chip" data-value="Atelier">Atelier</button>
+        </div>
+        <input type="hidden" name="bereiche">
+      </fieldset>
+
+      <fieldset class="qgroup">
+        <legend class="qgroup-label">Für wen gestalten wir?</legend>
+        <div class="chip-row" role="group" aria-label="Lebenssituation">
+          <button type="button" class="chip" data-value="Für mich allein">Für mich allein</button>
+          <button type="button" class="chip" data-value="Für uns als Paar">Für uns als Paar</button>
+          <button type="button" class="chip" data-value="Für die ganze Familie">Für die ganze Familie</button>
+          <button type="button" class="chip" data-value="Für ein Business / Office">Für ein Business / Office</button>
+        </div>
+        <input type="hidden" name="fuer_wen">
+      </fieldset>
+
+      <fieldset class="qgroup">
+        <legend class="qgroup-label">Um welches Objekt geht es?</legend>
+        <div class="chip-row" role="group" aria-label="Objekttyp">
+          <button type="button" class="chip" data-value="Eigentumswohnung">Eigentumswohnung</button>
+          <button type="button" class="chip" data-value="Haus / Villa">Haus / Villa</button>
+          <button type="button" class="chip" data-value="Penthouse">Penthouse</button>
+          <button type="button" class="chip" data-value="Büro / Praxis">Büro / Praxis</button>
+          <button type="button" class="chip" data-value="Sonstiges">Sonstiges</button>
+        </div>
+        <input type="hidden" name="objekt">
+      </fieldset>
+
+      <fieldset class="qgroup">
+        <legend class="qgroup-label">Wie ist der Zeitrahmen?</legend>
+        <div class="chip-row" role="group" aria-label="Zeitrahmen">
+          <button type="button" class="chip" data-value="So schnell wie möglich">So schnell wie möglich</button>
+          <button type="button" class="chip" data-value="In den nächsten 3 Monaten">In den nächsten 3 Monaten</button>
+          <button type="button" class="chip" data-value="In den nächsten 6–12 Monaten">In den nächsten 6–12 Monaten</button>
+          <button type="button" class="chip" data-value="Noch offen">Noch offen</button>
+        </div>
+        <input type="hidden" name="zeitrahmen">
+      </fieldset>
+
+      <fieldset class="qgroup">
+        <legend class="qgroup-label">Budgetrahmen</legend>
+        <div class="chip-row" role="group" aria-label="Budget">
+          <button type="button" class="chip" data-value="bis 25.000 €">bis 25.000 €</button>
+          <button type="button" class="chip" data-value="25.000–75.000 €">25.000–75.000 €</button>
+          <button type="button" class="chip" data-value="75.000–150.000 €">75.000–150.000 €</button>
+          <button type="button" class="chip" data-value="über 150.000 €">über 150.000 €</button>
+          <button type="button" class="chip" data-value="Noch offen">Noch offen</button>
+        </div>
+        <input type="hidden" name="budget">
+      </fieldset>
+
+      <div class="qrow">
+        <label for="fotos">Fotos Ihres aktuellen Raums (optional)</label>
+        <div class="file-field">
+          <input id="fotos" type="file" name="fotos[]" accept="image/*" multiple>
+          <span class="file-name">Keine Datei ausgewählt</span>
+        </div>
+      </div>
+
+      <div class="qrow">
+        <label for="grundriss">Grundriss — als Bild oder PDF (optional)</label>
+        <div class="file-field">
+          <input id="grundriss" type="file" name="grundriss[]" accept="image/*,.pdf" multiple>
+          <span class="file-name">Keine Datei ausgewählt</span>
+        </div>
+      </div>
+
+      <div class="qrow">
+        <label for="wuensche">Weitere Wünsche oder Anmerkungen</label>
+        <textarea id="wuensche" name="wuensche" placeholder="Erzählen Sie uns, was Ihnen wichtig ist …"></textarea>
+      </div>
+
+      <div class="qrow">
+        <label for="qname">Ihr Name</label>
+        <input id="qname" type="text" name="name" autocomplete="name">
+      </div>
+
+      <div class="qrow">
+        <label for="qemail">Ihre E-Mail-Adresse</label>
+        <input id="qemail" type="email" name="email" autocomplete="email" inputmode="email" required>
+      </div>
+
+      <div class="qrow">
+        <label for="qphone">Ihre Telefonnummer</label>
+        <input id="qphone" type="tel" name="phone" autocomplete="tel" inputmode="tel">
+      </div>
+
+      <div class="qpage-submit">
+        <button type="submit">Fragenkatalog absenden</button>
+        <p class="form-note" aria-live="polite"></p>
+      </div>
+    </form>
+  </main>
+
+  <script src="../assets/fragebogen.js"></script>
+</body>
+</html>

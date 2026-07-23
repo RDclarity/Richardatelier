@@ -252,43 +252,46 @@
   }
 
   /* ----------------------------------------------------------
-     7 | Kontakt-Formular — sendet an assets/send.php (PHPMailer)
+     7 | Kontakt-Formular — sendet an Web3Forms (api.web3forms.com)
+     Bei Erfolg: Weiterleitung zur Danke-Seite (data-success-url).
+     Ohne JS greift der native Form-Post + das "redirect"-Hidden-
+     Feld, das Web3Forms serverseitig auswertet.
      ---------------------------------------------------------- */
   var form = document.querySelector(".contact-form");
   if (form) {
-    var endpoint = form.getAttribute("data-endpoint") || "assets/send.php";
+    var endpoint = form.getAttribute("data-endpoint") || "https://api.web3forms.com/submit";
+    var successUrl = form.getAttribute("data-success-url") || "danke/";
     form.addEventListener("submit", function (e) {
       e.preventDefault();
-      var input = form.querySelector("input[type='email']");
+      var emailInput = form.querySelector("input[type='email']");
+      var phoneInput = form.querySelector("input[type='tel']");
       var note = form.querySelector(".form-note");
       var btn = form.querySelector("button[type='submit']");
-      var hp = form.querySelector("input[name='company']"); /* Honeypot */
-      if (!input || !input.value || !input.checkValidity()) {
+      var phoneOk = phoneInput && /^[0-9+()\-\s]{6,}$/.test(phoneInput.value);
+      if (!emailInput || !emailInput.value || !emailInput.checkValidity() || !phoneOk) {
         if (note) note.textContent = form.getAttribute("data-msg-invalid") || "";
         return;
       }
       if (note) note.textContent = form.getAttribute("data-msg-sending") || "";
       if (btn) btn.disabled = true;
 
-      var data = new FormData();
-      data.append("email", input.value);
-      if (hp) data.append("company", hp.value);   /* Bots füllen das aus */
+      var data = new FormData(form);           /* nimmt auch die hidden Web3Forms-Felder mit */
       data.append("lang", document.documentElement.lang || "de");
 
-      fetch(endpoint, { method: "POST", body: data, headers: { "X-Requested-With": "fetch" } })
-        .then(function (r) { return r.json().catch(function () { return { ok: false }; }); })
+      fetch(endpoint, { method: "POST", body: data, headers: { "Accept": "application/json" } })
+        .then(function (r) { return r.json().catch(function () { return { success: false }; }); })
         .then(function (res) {
-          if (res && res.ok) {
-            if (note) note.textContent = form.getAttribute("data-msg-ok") || "";
-            input.value = "";
+          if (res && res.success) {
+            window.location.href = successUrl;
           } else {
             if (note) note.textContent = form.getAttribute("data-msg-error") || "";
+            if (btn) btn.disabled = false;
           }
         })
         .catch(function () {
           if (note) note.textContent = form.getAttribute("data-msg-error") || "";
-        })
-        .then(function () { if (btn) btn.disabled = false; });
+          if (btn) btn.disabled = false;
+        });
     });
   }
 

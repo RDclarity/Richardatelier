@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Questionnaire — Richard Atelier</title>
+  <meta name="description" content="A short questionnaire about your project with Richard Atelier — including photo and floor plan upload.">
+  <meta name="robots" content="noindex">
+  <link rel="stylesheet" href="../../assets/styles.css">
+</head>
+<body data-theme="light" class="static-page">
+
+  <a class="ui-brand" href="../" aria-label="Richard Atelier — back to home">
+    <span class="brand-line" aria-hidden="true"></span>
+    <span class="brand-word">Richard</span>
+  </a>
+
+  <nav class="ui-lang" aria-label="Language">
+    <a href="../../fragebogen/" hreflang="de" lang="de">DE</a>
+    <span aria-current="true" lang="en">EN</span>
+  </nav>
+
+  <main class="qpage-main">
+    <div class="qpage-intro">
+      <p class="eyebrow">The questionnaire</p>
+      <h1 class="display">Tell us about your project.</h1>
+      <p class="lede">
+        A few short questions are enough to prepare the first conversation with Richard.
+        Everything here is non-binding and can be refined later.
+      </p>
+    </div>
+
+    <form class="questionnaire-form" novalidate
+          action="https://api.web3forms.com/submit" method="post" enctype="multipart/form-data"
+          data-endpoint="https://api.web3forms.com/submit"
+          data-success-url="../danke/?type=fragebogen"
+          data-msg-sending="Sending …"
+          data-msg-error="Sending failed. Please try again later."
+          data-msg-invalid="Please enter a valid email address.">
+      <!-- Web3Forms: create an Access Key at web3forms.com and paste it here.
+           File uploads (photos, floor plan) require the Pro plan. -->
+      <input type="hidden" name="access_key" value="YOUR_WEB3FORMS_ACCESS_KEY">
+      <input type="hidden" name="subject" value="Questionnaire — Richard Atelier">
+      <input type="hidden" name="from_name" value="Richard Atelier Website">
+
+      <fieldset class="qgroup" data-multi="true">
+        <legend class="qgroup-label">What are you interested in?</legend>
+        <div class="chip-row" role="group" aria-label="Living areas">
+          <button type="button" class="chip" data-value="Kitchen">Kitchen</button>
+          <button type="button" class="chip" data-value="Living">Living</button>
+          <button type="button" class="chip" data-value="Bath & Wellness">Bath &amp; Wellness</button>
+          <button type="button" class="chip" data-value="Office">Office</button>
+          <button type="button" class="chip" data-value="Bedroom">Bedroom</button>
+          <button type="button" class="chip" data-value="Atelier">Atelier</button>
+        </div>
+        <input type="hidden" name="areas">
+      </fieldset>
+
+      <fieldset class="qgroup">
+        <legend class="qgroup-label">Who are we designing for?</legend>
+        <div class="chip-row" role="group" aria-label="Living situation">
+          <button type="button" class="chip" data-value="Just for me">Just for me</button>
+          <button type="button" class="chip" data-value="For us as a couple">For us as a couple</button>
+          <button type="button" class="chip" data-value="For the whole family">For the whole family</button>
+          <button type="button" class="chip" data-value="For a business / office">For a business / office</button>
+        </div>
+        <input type="hidden" name="for_whom">
+      </fieldset>
+
+      <fieldset class="qgroup">
+        <legend class="qgroup-label">What kind of property?</legend>
+        <div class="chip-row" role="group" aria-label="Property type">
+          <button type="button" class="chip" data-value="Condominium">Condominium</button>
+          <button type="button" class="chip" data-value="House / Villa">House / Villa</button>
+          <button type="button" class="chip" data-value="Penthouse">Penthouse</button>
+          <button type="button" class="chip" data-value="Office / Practice">Office / Practice</button>
+          <button type="button" class="chip" data-value="Other">Other</button>
+        </div>
+        <input type="hidden" name="property_type">
+      </fieldset>
+
+      <fieldset class="qgroup">
+        <legend class="qgroup-label">What is the timeframe?</legend>
+        <div class="chip-row" role="group" aria-label="Timeframe">
+          <button type="button" class="chip" data-value="As soon as possible">As soon as possible</button>
+          <button type="button" class="chip" data-value="Within the next 3 months">Within the next 3 months</button>
+          <button type="button" class="chip" data-value="Within the next 6–12 months">Within the next 6–12 months</button>
+          <button type="button" class="chip" data-value="Still open">Still open</button>
+        </div>
+        <input type="hidden" name="timeframe">
+      </fieldset>
+
+      <fieldset class="qgroup">
+        <legend class="qgroup-label">Budget range</legend>
+        <div class="chip-row" role="group" aria-label="Budget">
+          <button type="button" class="chip" data-value="up to €25,000">up to €25,000</button>
+          <button type="button" class="chip" data-value="€25,000–75,000">€25,000–75,000</button>
+          <button type="button" class="chip" data-value="€75,000–150,000">€75,000–150,000</button>
+          <button type="button" class="chip" data-value="over €150,000">over €150,000</button>
+          <button type="button" class="chip" data-value="Still open">Still open</button>
+        </div>
+        <input type="hidden" name="budget">
+      </fieldset>
+
+      <div class="qrow">
+        <label for="fotos">Photos of your current space (optional)</label>
+        <div class="file-field">
+          <input id="fotos" type="file" name="photos[]" accept="image/*" multiple>
+          <span class="file-name">No file selected</span>
+        </div>
+      </div>
+
+      <div class="qrow">
+        <label for="grundriss">Floor plan — image or PDF (optional)</label>
+        <div class="file-field">
+          <input id="grundriss" type="file" name="floorplan[]" accept="image/*,.pdf" multiple>
+          <span class="file-name">No file selected</span>
+        </div>
+      </div>
+
+      <div class="qrow">
+        <label for="wuensche">Anything else you'd like to share</label>
+        <textarea id="wuensche" name="notes" placeholder="Tell us what matters to you …"></textarea>
+      </div>
+
+      <div class="qrow">
+        <label for="qname">Your name</label>
+        <input id="qname" type="text" name="name" autocomplete="name">
+      </div>
+
+      <div class="qrow">
+        <label for="qemail">Your email address</label>
+        <input id="qemail" type="email" name="email" autocomplete="email" inputmode="email" required>
+      </div>
+
+      <div class="qrow">
+        <label for="qphone">Your phone number</label>
+        <input id="qphone" type="tel" name="phone" autocomplete="tel" inputmode="tel">
+      </div>
+
+      <div class="qpage-submit">
+        <button type="submit">Submit questionnaire</button>
+        <p class="form-note" aria-live="polite"></p>
+      </div>
+    </form>
+  </main>
+
+  <script src="../../assets/fragebogen.js"></script>
+</body>
+</html>
