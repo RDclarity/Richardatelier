@@ -28,18 +28,13 @@
     </div>
 
     <form class="questionnaire-form" novalidate
-          action="https://api.web3forms.com/submit" method="post" enctype="multipart/form-data"
-          data-endpoint="https://api.web3forms.com/submit"
+          action="https://nbnpeoiqiakwnnkorxim.supabase.co/functions/v1/richard-atelier-projektblatt-mail" method="post" enctype="multipart/form-data"
+          data-endpoint="https://nbnpeoiqiakwnnkorxim.supabase.co/functions/v1/richard-atelier-projektblatt-mail"
           data-success-url="../danke/"
           data-success-type="projektblatt-gastronomie"
           data-msg-sending="Wird gesendet …"
           data-msg-error="Senden fehlgeschlagen. Bitte später erneut versuchen."
           data-msg-invalid="Bitte geben Sie eine gültige E-Mail-Adresse ein.">
-      <!-- Web3Forms: Access Key unter web3forms.com erstellen und hier eintragen.
-           Für Datei-Uploads ist der Pro-Plan nötig. -->
-      <input type="hidden" name="access_key" value="YOUR_WEB3FORMS_ACCESS_KEY">
-      <input type="hidden" name="subject" value="Projektblatt Gastronomie — Richard Atelier">
-      <input type="hidden" name="from_name" value="Richard Atelier Website">
       <!-- Lead-ID verknüpft diese Anfrage später im CRM -->
       <input type="hidden" name="lead_id" id="lead_id" value="">
 
