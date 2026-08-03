@@ -279,6 +279,19 @@
     var leadInput = form.querySelector("input[name='lead_id']");
     if (leadInput) leadInput.value = generateLeadId();
 
+    /* Wohnraum/Gastronomie-Auswahl: einfache Chip-Gruppe mit genau
+       einer aktiven Option, Wert landet im Hidden-Feld "interesse"
+       und steuert später auf der Danke-Seite, zu welchem
+       Projektblatt weitergeleitet wird. */
+    var interesseInput = form.querySelector("#interesse");
+    var interesseChips = Array.prototype.slice.call(form.querySelectorAll(".interesse-row .chip"));
+    interesseChips.forEach(function (chip) {
+      chip.addEventListener("click", function () {
+        interesseChips.forEach(function (c) { c.setAttribute("aria-pressed", c === chip ? "true" : "false"); });
+        if (interesseInput) interesseInput.value = chip.getAttribute("data-value") || "";
+      });
+    });
+
     form.addEventListener("submit", function (e) {
       e.preventDefault();
       var emailInput = form.querySelector("input[type='email']");
@@ -303,6 +316,7 @@
             var q = new URLSearchParams();
             if (leadInput && leadInput.value) q.set("lead", leadInput.value);
             q.set("email", emailInput.value);
+            if (interesseInput && interesseInput.value) q.set("interesse", interesseInput.value);
             window.location.href = successUrl + "?" + q.toString();
           } else {
             if (note) note.textContent = form.getAttribute("data-msg-error") || "";

@@ -11,7 +11,7 @@
   <link rel="alternate" hreflang="en" href="https://richardatelier.com/en/">
   <link rel="alternate" hreflang="x-default" href="https://richardatelier.com/en/">
 
-  <link rel="stylesheet" href="assets/styles.css?v=20260803a">
+  <link rel="stylesheet" href="assets/styles.css?v=20260803b">
   <noscript><style>.intro{display:none}.reveal,.reveal-line{opacity:1!important;transform:none!important}.figure .reveal-img{clip-path:none!important}</style></noscript>
 </head>
 <body data-theme="light">
@@ -162,6 +162,14 @@
             data-msg-invalid="Bitte geben Sie E-Mail und Telefonnummer korrekt ein.">
         <input type="hidden" name="lead_id" value="">
         <label class="reveal" style="--d:200ms" for="email">Ich interessiere mich für eine Kuratierung meiner Lebensräume.</label>
+        <div class="interesse-row reveal" style="--d:350ms">
+          <span class="interesse-label">Ich interessiere mich für</span>
+          <div class="chip-row" role="group" aria-label="Interesse">
+            <button type="button" class="chip" data-value="wohnraum" aria-pressed="true">Wohnraum</button>
+            <button type="button" class="chip" data-value="gastronomie" aria-pressed="false">Gastronomie</button>
+          </div>
+          <input type="hidden" name="interesse" id="interesse" value="wohnraum">
+        </div>
         <div class="hp-field" aria-hidden="true">
           <label for="company">Firma (bitte leer lassen)</label>
           <input id="company" type="text" name="company" tabindex="-1" autocomplete="off">
@@ -187,6 +195,6 @@
 
   </main>
 
-  <script src="assets/script.js?v=20260803a"></script>
+  <script src="assets/script.js?v=20260803b"></script>
 </body>
 </html>

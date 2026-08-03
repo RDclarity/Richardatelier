@@ -6,7 +6,7 @@
   <title>Vielen Dank — Richard Atelier</title>
   <meta name="description" content="Vielen Dank für Ihre Anfrage bei Richard Atelier. Der nächste Schritt: Projektinfos vorab.">
   <meta name="robots" content="noindex">
-  <link rel="stylesheet" href="../assets/styles.css?v=20260803a">
+  <link rel="stylesheet" href="../assets/styles.css?v=20260803b">
 </head>
 <body data-theme="light" class="static-page">
 
@@ -30,12 +30,11 @@
     <p class="eyebrow">Der nächste Schritt</p>
     <h1 class="display" id="thanks-headline">Vielen Dank für Ihre Anfrage.</h1>
     <p class="lede" id="thanks-copy">
-      Richard meldet sich persönlich bei Ihnen. In wenigen Minuten erhalten Sie zudem eine
-      E-Mail mit der Bitte um ein paar Projektinfos vorab — sie hilft uns, das erste
-      Gespräch optimal vorzubereiten. Sie können sie direkt online beantworten, inklusive
-      Fotos Ihres Raums und Ihres Grundrisses.
+      Richard meldet sich persönlich bei Ihnen. Damit das erste Gespräch optimal vorbereitet
+      ist, können Sie schon jetzt ein paar Angaben zu Ihrem Projekt machen — inklusive Fotos
+      und Grundriss.
     </p>
-    <a class="static-cta" id="projektinfos-cta" href="../projektinfos/">Projektinfos vorab jetzt schon ausfüllen</a>
+    <a class="static-cta" id="projektblatt-cta" href="../projektblatt-privatbereich/">Projektblatt jetzt schon ausfüllen</a>
   </main>
 
   <div class="static-footer">Vienna<br>New York</div>
@@ -43,9 +42,14 @@
   <script>
     (function () {
       var params = new URLSearchParams(location.search);
+      var interesse = params.get("interesse");
 
-      var cta = document.getElementById("projektinfos-cta");
+      var cta = document.getElementById("projektblatt-cta");
       if (cta) {
+        if (interesse === "gastronomie") {
+          cta.href = "../projektblatt-gastronomie/";
+          cta.textContent = "Projektblatt Gastronomie jetzt schon ausfüllen";
+        }
         var fwd = new URLSearchParams();
         if (params.get("lead")) fwd.set("lead", params.get("lead"));
         if (params.get("email")) fwd.set("email", params.get("email"));
@@ -53,10 +57,11 @@
         if (qs) cta.href = cta.getAttribute("href") + "?" + qs;
       }
 
-      if (params.get("type") === "projektinfos") {
-        document.getElementById("thanks-headline").textContent = "Vielen Dank für Ihre Angaben.";
+      if (params.get("type") === "projektblatt-privatbereich") {
+        document.getElementById("thanks-headline").textContent = "Vielen Dank für Ihr Projektblatt.";
         document.getElementById("thanks-copy").textContent =
-          "Wir haben Ihre Projektinfos inklusive Unterlagen erhalten. Richard bereitet damit Ihr erstes Gespräch vor und meldet sich in Kürze persönlich bei Ihnen.";
+          "Wir haben Ihre Angaben zu Ihrem Projekt erhalten. Richard bereitet damit Ihr erstes Gespräch vor und meldet sich in Kürze persönlich bei Ihnen.";
+        if (cta) cta.style.display = "none";
       }
 
       if (params.get("type") === "projektblatt-gastronomie") {

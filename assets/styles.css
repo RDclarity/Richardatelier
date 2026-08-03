@@ -589,6 +589,25 @@ body[data-theme="dark"] .thread-path { stroke: var(--paper); opacity: 0.7; }
 }
 .contact-form input::placeholder { color: rgba(247, 244, 238, 0.4); }
 .contact-actions { display: flex; justify-content: flex-end; }
+
+/* Wohnraum/Gastronomie-Auswahl im Kontaktformular — Chips auf dunklem Grund */
+.interesse-row { display: flex; flex-direction: column; gap: 0.6rem; }
+.interesse-label {
+  font-size: 0.62rem;
+  letter-spacing: 0.28em;
+  text-transform: uppercase;
+  color: var(--sand);
+}
+.contact-form .chip {
+  border-color: rgba(247, 244, 238, 0.4);
+  color: var(--paper);
+}
+.contact-form .chip:hover { border-color: var(--sand); }
+.contact-form .chip[aria-pressed="true"] {
+  background: var(--sand);
+  border-color: var(--sand);
+  color: var(--ink);
+}
 .contact-form button {
   background: transparent;
   border: 0;
