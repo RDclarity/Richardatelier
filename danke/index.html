@@ -17,6 +17,7 @@
 
   <nav class="ui-menu" aria-label="Hauptmenü">
     <a href="../referenzen/">Referenzen</a>
+    <a href="../gastronomie/">Gastronomie</a>
     <a href="../team/">Team</a>
   </nav>
 
@@ -56,6 +57,13 @@
         document.getElementById("thanks-headline").textContent = "Vielen Dank für Ihre Angaben.";
         document.getElementById("thanks-copy").textContent =
           "Wir haben Ihre Projektinfos inklusive Unterlagen erhalten. Richard bereitet damit Ihr erstes Gespräch vor und meldet sich in Kürze persönlich bei Ihnen.";
+      }
+
+      if (params.get("type") === "projektblatt-gastronomie") {
+        document.getElementById("thanks-headline").textContent = "Vielen Dank für Ihr Projektblatt.";
+        document.getElementById("thanks-copy").textContent =
+          "Wir haben Ihre Angaben zum Gastronomieprojekt erhalten. Richard bereitet damit das Erstgespräch vor und meldet sich in Kürze persönlich bei Ihnen.";
+        if (cta) cta.style.display = "none";
       }
     })();
   </script>
