@@ -6,7 +6,7 @@
   <title>Vielen Dank — Richard Atelier</title>
   <meta name="description" content="Vielen Dank für Ihre Anfrage bei Richard Atelier. Der nächste Schritt: Projektinfos vorab.">
   <meta name="robots" content="noindex">
-  <link rel="stylesheet" href="../assets/styles.css?v=20260803b">
+  <link rel="stylesheet" href="../assets/styles.css?v=20260804a">
 </head>
 <body data-theme="light" class="static-page">
 
@@ -17,7 +17,7 @@
 
   <nav class="ui-menu" aria-label="Hauptmenü">
     <a href="../referenzen/">Referenzen</a>
-    <a href="../gastronomie/">Gastronomie</a>
+    <a href="../gastronomie/">Gewerblich</a>
     <a href="../team/">Team</a>
   </nav>
 
@@ -48,7 +48,7 @@
       if (cta) {
         if (interesse === "gastronomie") {
           cta.href = "../projektblatt-gastronomie/";
-          cta.textContent = "Projektblatt Gastronomie jetzt schon ausfüllen";
+          cta.textContent = "Projektblatt Gewerblich jetzt schon ausfüllen";
         }
         var fwd = new URLSearchParams();
         if (params.get("lead")) fwd.set("lead", params.get("lead"));
@@ -67,7 +67,7 @@
       if (params.get("type") === "projektblatt-gastronomie") {
         document.getElementById("thanks-headline").textContent = "Vielen Dank für Ihr Projektblatt.";
         document.getElementById("thanks-copy").textContent =
-          "Wir haben Ihre Angaben zum Gastronomieprojekt erhalten. Richard bereitet damit das Erstgespräch vor und meldet sich in Kürze persönlich bei Ihnen.";
+          "Wir haben Ihre Angaben zu Ihrem gewerblichen Projekt erhalten. Richard bereitet damit das Erstgespräch vor und meldet sich in Kürze persönlich bei Ihnen.";
         if (cta) cta.style.display = "none";
       }
     })();

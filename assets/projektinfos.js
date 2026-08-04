@@ -93,9 +93,17 @@
       if (btn) btn.disabled = true;
 
       var data = new FormData(form);
+      var controller = ("AbortController" in window) ? new AbortController() : null;
+      var timeoutMsg = "Das Absenden dauert ungewöhnlich lange (große Dateien?). Bitte prüfen Sie Ihre Internetverbindung und versuchen Sie es erneut, notfalls mit kleineren oder weniger Dateien.";
+      var timeoutId = controller ? setTimeout(function () { controller.abort(); }, 90000) : null;
 
-      fetch(endpoint, { method: "POST", body: data, headers: { "Accept": "application/json" } })
-        .then(function (r) { return r.json().catch(function () { return { success: false }; }); })
+      fetch(endpoint, {
+        method: "POST",
+        body: data,
+        headers: { "Accept": "application/json" },
+        signal: controller ? controller.signal : undefined
+      })
+        .then(function (r) { if (timeoutId) clearTimeout(timeoutId); return r.json().catch(function () { return { success: false }; }); })
         .then(function (res) {
           if (res && res.success) {
             var q = new URLSearchParams();
@@ -107,8 +115,9 @@
             if (btn) btn.disabled = false;
           }
         })
-        .catch(function () {
-          if (note) note.textContent = form.getAttribute("data-msg-error") || "";
+        .catch(function (err) {
+          if (timeoutId) clearTimeout(timeoutId);
+          if (note) note.textContent = (err && err.name === "AbortError") ? timeoutMsg : (form.getAttribute("data-msg-error") || "");
           if (btn) btn.disabled = false;
         });
     });
