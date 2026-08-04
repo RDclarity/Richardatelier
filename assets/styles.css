@@ -22,13 +22,21 @@
   --line-orange:  #DCAB8B;   /* B·D·F·M */
   --line-red:     #CC9490;   /* 1·2·3 */
 
-  /* Subway-Original (offizielle MTA-Linienfarben, für die Folien-Navigation) */
+  /* Subway-Original (offizielle MTA-Linienfarben, EN-Seiten) */
   --subway-yellow:  #FCCC0A;   /* N·Q·R·W */
   --subway-green:   #00933C;   /* 4·5·6 */
   --subway-magenta: #B933AD;   /* 7 */
   --subway-blue:    #0039A6;   /* A·C·E */
   --subway-orange:  #FF6319;   /* B·D·F·M */
   --subway-red:     #EE352E;   /* 1·2·3 */
+
+  /* Wiener-Linien-Original (offizielle U-Bahn-Linienfarben, DE-Seiten) */
+  --ubahn-u1: #E4001C;   /* U1 — Rot */
+  --ubahn-u2: #A6238E;   /* U2 — Violett */
+  --ubahn-u3: #F57F29;   /* U3 — Orange */
+  --ubahn-u4: #009640;   /* U4 — Grün */
+  --ubahn-u5: #1CADA6;   /* U5 — Türkis */
+  --ubahn-u6: #96682F;   /* U6 — Braun */
 
   /* Typo */
   --font: "Helvetica Neue", Helvetica, "Neue Haas Grotesk", Arial, sans-serif;
@@ -244,14 +252,15 @@ body.js-snap .deck { scroll-snap-type: none; scroll-behavior: auto; }
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 17px; height: 17px;
+  width: 14px; height: 14px;
   border-radius: 50%;
   border: none;
   background: var(--tip, var(--sand));
   box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.16);
   color: var(--tip-text, #fff);
   font-family: var(--font);
-  font-size: 9.5px;
+  font-size: 6.6px;
+  letter-spacing: -0.02em;
   font-weight: 700;
   line-height: 1;
   cursor: pointer;
