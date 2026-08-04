@@ -22,6 +22,14 @@
   --line-orange:  #DCAB8B;   /* B·D·F·M */
   --line-red:     #CC9490;   /* 1·2·3 */
 
+  /* Subway-Original (offizielle MTA-Linienfarben, für die Folien-Navigation) */
+  --subway-yellow:  #FCCC0A;   /* N·Q·R·W */
+  --subway-green:   #00933C;   /* 4·5·6 */
+  --subway-magenta: #B933AD;   /* 7 */
+  --subway-blue:    #0039A6;   /* A·C·E */
+  --subway-orange:  #FF6319;   /* B·D·F·M */
+  --subway-red:     #EE352E;   /* 1·2·3 */
+
   /* Typo */
   --font: "Helvetica Neue", Helvetica, "Neue Haas Grotesk", Arial, sans-serif;
 
@@ -233,20 +241,27 @@ body.js-snap .deck { scroll-snap-type: none; scroll-behavior: auto; }
 }
 .ui-dots li { position: relative; display: flex; align-items: center; }
 .ui-dots button {
-  display: block;
-  width: 9px; height: 9px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 17px; height: 17px;
   border-radius: 50%;
-  border: 1px solid var(--ink-soft);
-  background: transparent;
+  border: none;
+  background: var(--tip, var(--sand));
+  box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.16);
+  color: var(--tip-text, #fff);
+  font-family: var(--font);
+  font-size: 9.5px;
+  font-weight: 700;
+  line-height: 1;
   cursor: pointer;
   padding: 0;
-  transition: transform 300ms var(--ease-out), background 300ms, border-color 300ms;
+  transition: transform 300ms var(--ease-out), box-shadow 300ms;
 }
-.ui-dots button:hover { transform: scale(1.4); }
+.ui-dots button:hover { transform: scale(1.18); }
 .ui-dots li[data-active="true"] button {
-  border-color: transparent;
-  background: var(--tip, var(--sand));
-  transform: scale(1.35);
+  transform: scale(1.22);
+  box-shadow: 0 0 0 2px var(--paper), 0 0 0 3.5px var(--tip);
 }
 
 /* Fly-out: Sektionsname im Subway-Schild, Farbe = Punktfarbe */
@@ -648,7 +663,6 @@ body[data-theme="dark"] .ui-menu a {
   color: var(--paper);
 }
 body[data-theme="dark"] .ui-lang [aria-current="true"] { border-color: var(--paper); }
-body[data-theme="dark"] .ui-dots button { border-color: rgba(247, 244, 238, 0.6); }
 body[data-theme="sand"] .ui-brand,
 body[data-theme="sand"] .ui-clocks,
 body[data-theme="sand"] .ui-lang a,
@@ -657,8 +671,7 @@ body[data-theme="sand"] .ui-menu a {
   color: var(--paper);
 }
 body[data-theme="sand"] .ui-lang [aria-current="true"] { border-color: var(--paper); }
-body[data-theme="sand"] .ui-dots button { border-color: rgba(247, 244, 238, 0.7); }
-.ui-brand, .ui-clocks, .ui-lang a, .ui-lang span, .ui-dots button, .ui-menu a {
+.ui-brand, .ui-clocks, .ui-lang a, .ui-lang span, .ui-menu a {
   transition: color 500ms, border-color 500ms;
 }
 
