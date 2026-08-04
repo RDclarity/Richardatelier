@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Scheda Progetto Privato — Richard Atelier</title>
+  <meta name="description" content="Prima raccolta dati per la creazione del concept e del preventivo per il tuo progetto abitativo.">
+  <meta name="robots" content="noindex, nofollow">
+  <link rel="stylesheet" href="../../assets/styles.css?v=20260804g">
+</head>
+<body data-theme="light" class="static-page">
+
+  <a class="ui-brand" href="../" aria-label="Richard Atelier — torna alla home">
+    <span class="brand-line" aria-hidden="true"></span>
+    <span class="brand-word">Richard</span>
+  </a>
+
+  <main class="qpage-main">
+    <div class="qpage-intro">
+      <p class="eyebrow">Scheda Progetto</p>
+      <h1 class="display">Raccontaci come vuoi vivere.</h1>
+      <p class="lede">
+        Questa scheda costituisce la base per il nostro primo colloquio. Più precise
+        sono le informazioni, più possiamo valutare con precisione concept, impegno e
+        ambito di investimento. I punti ancora aperti può semplicemente lasciarli
+        vuoti — li chiariremo insieme sul posto.
+      </p>
+    </div>
+
+    <form class="questionnaire-form" novalidate
+          action="https://nbnpeoiqiakwnnkorxim.supabase.co/functions/v1/richard-atelier-projektblatt-privat-mail" method="post" enctype="multipart/form-data"
+          data-endpoint="https://nbnpeoiqiakwnnkorxim.supabase.co/functions/v1/richard-atelier-projektblatt-privat-mail"
+          data-success-url="../danke/"
+          data-success-type="projektblatt-privatbereich"
+          data-msg-sending="Invio in corso …"
+          data-msg-error="Invio non riuscito. Riprova più tardi."
+          data-msg-invalid="Inserisci un indirizzo email valido.">
+      <input type="hidden" name="lead_id" id="lead_id" value="">
+      <input type="hidden" name="lang" value="it">
+
+      <!-- 01 · Contatto e Referente -->
+      <div class="section-title"><span class="section-num">01</span><h2>Contatto e Referente</h2></div>
+
+      <div class="qrow">
+        <label for="qname">Nome</label>
+        <input id="qname" type="text" name="name" autocomplete="name">
+      </div>
+      <div class="qrow">
+        <label for="qphone">Telefono</label>
+        <input id="qphone" type="tel" name="phone" autocomplete="tel">
+      </div>
+      <div class="qrow">
+        <label for="qemail">E-Mail</label>
+        <input id="qemail" type="email" name="email" autocomplete="email" required>
+      </div>
+      <div class="qrow">
+        <label for="adresse">Indirizzo dell'immobile</label>
+        <input id="adresse" type="text" name="adresse_objekt">
+      </div>
+      <div class="qrow">
+        <label for="entscheidungstraeger">Decisore — chi decide in via definitiva? (se più persone)</label>
+        <input id="entscheidungstraeger" type="text" name="entscheidungstraeger">
+      </div>
+
+      <!-- 02 · Concept di Vita -->
+      <div class="section-title"><span class="section-num">02</span><h2>Concept di Vita</h2></div>
+      <p class="section-note">Non: come dovrebbe apparire lo spazio? Ma: come vuoi vivere?</p>
+
+      <fieldset class="qgroup">
+        <legend class="qgroup-label">Per chi progettiamo?</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="Solo per me">Solo per me</button>
+          <button type="button" class="chip" data-value="Per noi come coppia">Per noi come coppia</button>
+          <button type="button" class="chip" data-value="Per tutta la famiglia">Per tutta la famiglia</button>
+          <button type="button" class="chip" data-value="Per un business / ufficio">Per un business / ufficio</button>
+        </div>
+        <input type="hidden" name="fuer_wen">
+      </fieldset>
+
+      <div class="qrow">
+        <label for="lebenssituation">Situazione di vita attuale — es. figli in casa, figli andati via, esigenze di home office, cura/accessibilità</label>
+        <textarea id="lebenssituation" name="lebenssituation"></textarea>
+      </div>
+      <div class="qrow">
+        <label for="nutzung">Come e quanto spesso usa la casa? — quotidianità, rifugio del weekend, rappresentanza, locazione</label>
+        <input id="nutzung" type="text" name="nutzung">
+      </div>
+      <div class="qrow">
+        <label for="zukunftsplaene">Progetti futuri (prossimi 5-10 anni) — es. figli in arrivo, ampliamento home office, ridimensionamento in età avanzata</label>
+        <input id="zukunftsplaene" type="text" name="zukunftsplaene">
+      </div>
+
+      <!-- 03 · Immobile e Superficie -->
+      <div class="section-title"><span class="section-num">03</span><h2>Immobile e Superficie</h2></div>
+
+      <fieldset class="qgroup">
+        <legend class="qgroup-label">Tipo di immobile</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="Appartamento di proprietà">Appartamento di proprietà</button>
+          <button type="button" class="chip" data-value="Casa / Villa">Casa / Villa</button>
+          <button type="button" class="chip" data-value="Penthouse">Penthouse</button>
+          <button type="button" class="chip" data-value="Ufficio / Studio">Ufficio / Studio</button>
+          <button type="button" class="chip" data-value="Altro">Altro</button>
+        </div>
+        <input type="hidden" name="objekttyp">
+      </fieldset>
+
+      <fieldset class="qgroup">
+        <legend class="qgroup-label">Stato dell'immobile</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="Proprietà">Proprietà</button>
+          <button type="button" class="chip" data-value="Affitto">Affitto</button>
+        </div>
+        <input type="hidden" name="objektstatus">
+      </fieldset>
+
+      <div class="qrow">
+        <label for="flaeche_gesamt">Superficie totale (m²)</label>
+        <input id="flaeche_gesamt" type="text" name="flaeche_gesamt" inputmode="decimal">
+      </div>
+      <div class="qrow">
+        <label for="zimmer">Numero di stanze attuali</label>
+        <input id="zimmer" type="text" name="zimmer_aktuell" inputmode="numeric">
+      </div>
+      <div class="qrow">
+        <label for="ebenen">Numero di livelli / piani</label>
+        <input id="ebenen" type="text" name="ebenen">
+      </div>
+      <div class="qrow">
+        <label for="baujahr">Anno di costruzione / stato</label>
+        <input id="baujahr" type="text" name="baujahr_zustand">
+      </div>
+      <div class="qrow">
+        <label for="aussenflaeche">Superficie esterna — giardino, balcone, terrazza (m²)</label>
+        <input id="aussenflaeche" type="text" name="aussenflaeche">
+      </div>
+
+      <fieldset class="qgroup" data-multi="true">
+        <legend class="qgroup-label">Particolarità</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="Vincolo storico">Vincolo storico</button>
+          <button type="button" class="chip" data-value="Stucchi d'epoca">Stucchi d'epoca</button>
+          <button type="button" class="chip" data-value="Volta">Volta</button>
+          <button type="button" class="chip" data-value="Pendenza del terreno">Pendenza del terreno</button>
+          <button type="button" class="chip" data-value="Nessuna">Nessuna</button>
+        </div>
+        <input type="hidden" name="besonderheiten">
+      </fieldset>
+
+      <fieldset class="qgroup" data-multi="true">
+        <legend class="qgroup-label">Documentazione disponibile</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="Planimetrie esistenti">Planimetrie esistenti</button>
+          <button type="button" class="chip" data-value="Foto">Foto</button>
+          <button type="button" class="chip" data-value="Attestato energetico">Attestato energetico</button>
+          <button type="button" class="chip" data-value="Nessuna">Nessuna</button>
+        </div>
+        <input type="hidden" name="vorhandene_unterlagen">
+      </fieldset>
+
+      <div class="qrow">
+        <label for="upload-unterlagen">Carica documenti — foto, planimetria (immagine o PDF, opzionale)</label>
+        <div class="file-field" data-empty-text="Nessun file selezionato">
+          <input id="upload-unterlagen" type="file" name="unterlagen[]" accept="image/*,.pdf" multiple>
+          <span class="file-name">Nessun file selezionato</span>
+        </div>
+      </div>
+
+      <!-- 04 · Programma degli Spazi -->
+      <div class="section-title"><span class="section-num">04</span><h2>Programma degli Spazi</h2></div>
+
+      <fieldset class="qgroup" data-multi="true">
+        <legend class="qgroup-label">Cosa ti interessa?</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="Cucina">Cucina</button>
+          <button type="button" class="chip" data-value="Living">Living</button>
+          <button type="button" class="chip" data-value="Bagno & Benessere">Bagno &amp; Benessere</button>
+          <button type="button" class="chip" data-value="Ufficio">Ufficio</button>
+          <button type="button" class="chip" data-value="Camera da letto">Camera da letto</button>
+          <button type="button" class="chip" data-value="Cameretta">Cameretta</button>
+          <button type="button" class="chip" data-value="Camera ospiti">Camera ospiti</button>
+          <button type="button" class="chip" data-value="Cabina armadio">Cabina armadio</button>
+          <button type="button" class="chip" data-value="Atelier">Atelier</button>
+        </div>
+        <input type="hidden" name="raumprogramm">
+      </fieldset>
+
+      <div class="qrow">
+        <label for="raumprogramm_anmerkung">Note sul programma degli spazi</label>
+        <textarea id="raumprogramm_anmerkung" name="raumprogramm_anmerkung"></textarea>
+      </div>
+
+      <!-- 05 · Esistente -->
+      <div class="section-title"><span class="section-num">05</span><h2>Esistente — Cosa Resta, Cosa Va</h2></div>
+      <p class="section-note">Scegli una valutazione per ogni voce. È la leva più importante per budget e tempi di cantiere.</p>
+
+      <fieldset class="qgroup qgroup--compact">
+        <legend class="qgroup-label">Pavimenti</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="resta invariato">resta</button>
+          <button type="button" class="chip" data-value="recuperare / integrare">recuperare</button>
+          <button type="button" class="chip" data-value="sostituire">sostituire</button>
+          <button type="button" class="chip" data-value="ancora da definire">ancora da definire</button>
+        </div>
+        <input type="hidden" name="bestand_boeden">
+      </fieldset>
+      <fieldset class="qgroup qgroup--compact">
+        <legend class="qgroup-label">Pareti/distribuzione degli spazi</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="resta invariato">resta</button>
+          <button type="button" class="chip" data-value="recuperare / integrare">recuperare</button>
+          <button type="button" class="chip" data-value="sostituire">sostituire</button>
+          <button type="button" class="chip" data-value="ancora da definire">ancora da definire</button>
+        </div>
+        <input type="hidden" name="bestand_waende">
+      </fieldset>
+      <fieldset class="qgroup qgroup--compact">
+        <legend class="qgroup-label">Cucina</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="resta invariato">resta</button>
+          <button type="button" class="chip" data-value="recuperare / integrare">recuperare</button>
+          <button type="button" class="chip" data-value="sostituire">sostituire</button>
+          <button type="button" class="chip" data-value="ancora da definire">ancora da definire</button>
+        </div>
+        <input type="hidden" name="bestand_kueche">
+      </fieldset>
+      <fieldset class="qgroup qgroup--compact">
+        <legend class="qgroup-label">Bagno</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="resta invariato">resta</button>
+          <button type="button" class="chip" data-value="recuperare / integrare">recuperare</button>
+          <button type="button" class="chip" data-value="sostituire">sostituire</button>
+          <button type="button" class="chip" data-value="ancora da definire">ancora da definire</button>
+        </div>
+        <input type="hidden" name="bestand_bad">
+      </fieldset>
+      <fieldset class="qgroup qgroup--compact">
+        <legend class="qgroup-label">Mobili/arredi fissi</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="resta invariato">resta</button>
+          <button type="button" class="chip" data-value="recuperare / integrare">recuperare</button>
+          <button type="button" class="chip" data-value="sostituire">sostituire</button>
+          <button type="button" class="chip" data-value="ancora da definire">ancora da definire</button>
+        </div>
+        <input type="hidden" name="bestand_moebel">
+      </fieldset>
+      <fieldset class="qgroup qgroup--compact">
+        <legend class="qgroup-label">Illuminazione</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="resta invariato">resta</button>
+          <button type="button" class="chip" data-value="recuperare / integrare">recuperare</button>
+          <button type="button" class="chip" data-value="sostituire">sostituire</button>
+          <button type="button" class="chip" data-value="ancora da definire">ancora da definire</button>
+        </div>
+        <input type="hidden" name="bestand_beleuchtung">
+      </fieldset>
+      <fieldset class="qgroup qgroup--compact">
+        <legend class="qgroup-label">Impianto elettrico</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="resta invariato">resta</button>
+          <button type="button" class="chip" data-value="recuperare / integrare">recuperare</button>
+          <button type="button" class="chip" data-value="sostituire">sostituire</button>
+          <button type="button" class="chip" data-value="ancora da definire">ancora da definire</button>
+        </div>
+        <input type="hidden" name="bestand_elektrik">
+      </fieldset>
+      <fieldset class="qgroup qgroup--compact">
+        <legend class="qgroup-label">Riscaldamento/climatizzazione</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="resta invariato">resta</button>
+          <button type="button" class="chip" data-value="recuperare / integrare">recuperare</button>
+          <button type="button" class="chip" data-value="sostituire">sostituire</button>
+          <button type="button" class="chip" data-value="ancora da definire">ancora da definire</button>
+        </div>
+        <input type="hidden" name="bestand_heizung">
+      </fieldset>
+      <fieldset class="qgroup qgroup--compact">
+        <legend class="qgroup-label">Finestre/facciata</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="resta invariato">resta</button>
+          <button type="button" class="chip" data-value="recuperare / integrare">recuperare</button>
+          <button type="button" class="chip" data-value="sostituire">sostituire</button>
+          <button type="button" class="chip" data-value="ancora da definire">ancora da definire</button>
+        </div>
+        <input type="hidden" name="bestand_fassade">
+      </fieldset>
+      <fieldset class="qgroup qgroup--compact">
+        <legend class="qgroup-label">Area esterna</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="resta invariato">resta</button>
+          <button type="button" class="chip" data-value="recuperare / integrare">recuperare</button>
+          <button type="button" class="chip" data-value="sostituire">sostituire</button>
+          <button type="button" class="chip" data-value="ancora da definire">ancora da definire</button>
+        </div>
+        <input type="hidden" name="bestand_aussenbereich">
+      </fieldset>
+
+      <div class="qrow">
+        <label for="wertvolle_stuecke">Pezzi di particolare valore da conservare — es. cimeli, opere d'arte, mobili specifici</label>
+        <textarea id="wertvolle_stuecke" name="wertvolle_stuecke"></textarea>
+      </div>
+
+      <!-- 06 · Tecnica e Vincoli -->
+      <div class="section-title"><span class="section-num">06</span><h2>Tecnica e Vincoli</h2></div>
+
+      <fieldset class="qgroup" data-multi="true">
+        <legend class="qgroup-label">Interventi previsti</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="Planimetria/pareti">Planimetria/pareti</button>
+          <button type="button" class="chip" data-value="Nuovo impianto elettrico">Nuovo impianto elettrico</button>
+          <button type="button" class="chip" data-value="Nuovo impianto idraulico">Nuovo impianto idraulico</button>
+          <button type="button" class="chip" data-value="Nuovo riscaldamento">Nuovo riscaldamento</button>
+          <button type="button" class="chip" data-value="solo superfici e arredi">solo superfici e arredi</button>
+        </div>
+        <input type="hidden" name="geplante_eingriffe">
+      </fieldset>
+
+      <fieldset class="qgroup" data-multi="true">
+        <legend class="qgroup-label">Temi noti</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="Vincoli di tutela storica">Vincoli di tutela storica</button>
+          <button type="button" class="chip" data-value="Statica">Statica</button>
+          <button type="button" class="chip" data-value="Umidità/muffa">Umidità/muffa</button>
+          <button type="button" class="chip" data-value="Accessibilità">Accessibilità</button>
+          <button type="button" class="chip" data-value="Nessuno noto">Nessuno noto</button>
+        </div>
+        <input type="hidden" name="bekannte_themen">
+      </fieldset>
+
+      <div class="qrow">
+        <label for="fachplaner">Progettisti già coinvolti — architetto, ingegnere strutturale, impiantista</label>
+        <input id="fachplaner" type="text" name="fachplaner">
+      </div>
+
+      <!-- 07 · Design e Atmosfera -->
+      <div class="section-title"><span class="section-num">07</span><h2>Design e Atmosfera</h2></div>
+
+      <div class="qrow">
+        <label for="stimmung">Atmosfera desiderata — in tre parole</label>
+        <input id="stimmung" type="text" name="gewuenschte_stimmung">
+      </div>
+      <div class="qrow">
+        <label for="referenzen_gestaltung">Riferimenti — case, immagini, moodboard, Pinterest</label>
+        <textarea id="referenzen_gestaltung" name="referenzen"></textarea>
+      </div>
+      <div class="qrow">
+        <label for="materialvorlieben">Preferenze materiche — tipo di legno, pietra, ottone, tessuti</label>
+        <input id="materialvorlieben" type="text" name="materialvorlieben">
+      </div>
+      <div class="qrow">
+        <label for="no_gos">No-gos — materiali, colori, forme</label>
+        <input id="no_gos" type="text" name="no_gos">
+      </div>
+      <div class="qrow">
+        <label for="licht">Illuminazione — atmosfera giorno/sera, dimmerazione</label>
+        <input id="licht" type="text" name="licht">
+      </div>
+
+      <!-- 08 · Ambito di Investimento -->
+      <div class="section-title"><span class="section-num">08</span><h2>Ambito di Investimento</h2></div>
+      <p class="section-note">Lavoriamo fin dall'inizio con un budget, non contro di esso. Una fascia onesta aiuta più di una cifra tonda.</p>
+
+      <fieldset class="qgroup">
+        <legend class="qgroup-label">Budget complessivo (netto)</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="fino a 50.000 €">fino a 50.000 €</button>
+          <button type="button" class="chip" data-value="50.000–150.000 €">50.000–150.000 €</button>
+          <button type="button" class="chip" data-value="150.000–350.000 €">150.000–350.000 €</button>
+          <button type="button" class="chip" data-value="350.000–750.000 €">350.000–750.000 €</button>
+          <button type="button" class="chip" data-value="oltre 750.000 €">oltre 750.000 €</button>
+          <button type="button" class="chip" data-value="ancora da definire">ancora da definire</button>
+        </div>
+        <input type="hidden" name="budgetrahmen">
+      </fieldset>
+
+      <div class="qrow">
+        <label for="enthalten">Dovrebbe includere — progettazione, arredi, opere edili, impianti</label>
+        <input id="enthalten" type="text" name="budget_enthalten">
+      </div>
+      <div class="qrow">
+        <label for="finanzierung">Finanziamento — mezzi propri, banca, altro</label>
+        <input id="finanzierung" type="text" name="finanzierung">
+      </div>
+
+      <!-- 09 · Tempistiche -->
+      <div class="section-title"><span class="section-num">09</span><h2>Tempistiche</h2></div>
+
+      <div class="qrow">
+        <label for="baubeginn">Inizio lavori / trasloco desiderato — data / finestra temporale</label>
+        <input id="baubeginn" type="text" name="gewuenschter_baubeginn">
+      </div>
+      <div class="qrow">
+        <label for="fixtermine">Scadenze fisse</label>
+        <input id="fixtermine" type="text" name="fixtermine">
+      </div>
+
+      <fieldset class="qgroup">
+        <legend class="qgroup-label">Situazione abitativa durante i lavori</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="Trasferimento possibile">Trasferimento possibile</button>
+          <button type="button" class="chip" data-value="Parzialmente abitata">Parzialmente abitata</button>
+          <button type="button" class="chip" data-value="Abitata continuativamente">Abitata continuativamente</button>
+        </div>
+        <input type="hidden" name="wohnsituation_umbau">
+      </fieldset>
+
+      <!-- 10 · Ambito di Servizi Desiderato -->
+      <div class="section-title"><span class="section-num">10</span><h2>Ambito di Servizi Desiderato</h2></div>
+
+      <fieldset class="qgroup" data-multi="true">
+        <legend class="qgroup-label">Servizi</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="Concept e posizionamento">Concept e posizionamento</button>
+          <button type="button" class="chip" data-value="Concept spazi e arredo">Concept spazi e arredo</button>
+          <button type="button" class="chip" data-value="Progettazione">Progettazione</button>
+          <button type="button" class="chip" data-value="Progettazione esecutiva">Progettazione esecutiva</button>
+          <button type="button" class="chip" data-value="Concept materiali e colori">Concept materiali e colori</button>
+          <button type="button" class="chip" data-value="Progettazione illuminotecnica">Progettazione illuminotecnica</button>
+          <button type="button" class="chip" data-value="Design di mobili su misura">Design di mobili su misura</button>
+          <button type="button" class="chip" data-value="Gara d'appalto / affidamento">Gara d'appalto / affidamento</button>
+          <button type="button" class="chip" data-value="Direzione lavori / gestione progetto">Direzione lavori / gestione progetto</button>
+          <button type="button" class="chip" data-value="Realizzazione lavori di falegnameria">Realizzazione lavori di falegnameria</button>
+          <button type="button" class="chip" data-value="Allestimento e styling">Allestimento e styling</button>
+          <button type="button" class="chip" data-value="Gestione completa">Gestione completa</button>
+        </div>
+        <input type="hidden" name="leistungsumfang">
+      </fieldset>
+      <p class="section-note">
+        La realizzazione artigianale avviene tramite la nostra bottega artigiana
+        Tischlerkultur — progettazione ed esecuzione da un'unica fonte.
+      </p>
+
+      <!-- 11 · Note Aggiuntive -->
+      <div class="section-title"><span class="section-num">11</span><h2>Note Aggiuntive</h2></div>
+
+      <div class="qrow">
+        <label for="ergaenzungen">Cosa dovremmo sapere su di te, sul luogo o sul progetto che non è stato chiesto sopra?</label>
+        <textarea id="ergaenzungen" name="ergaenzungen"></textarea>
+      </div>
+
+      <div class="qpage-submit">
+        <button type="submit">Invia scheda progetto</button>
+        <p class="form-note" aria-live="polite"></p>
+      </div>
+    </form>
+  </main>
+
+  <div class="static-footer">Vienna<br>New York</div>
+
+  <script src="../../assets/projektinfos.js?v=20260804g"></script>
+</body>
+</html>

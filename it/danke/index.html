@@ -4,9 +4,9 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Grazie — Richard Atelier</title>
-  <meta name="description" content="Grazie per la tua richiesta a Richard Atelier.">
+  <meta name="description" content="Grazie per la tua richiesta a Richard Atelier. Prossimo passo: scheda progetto.">
   <meta name="robots" content="noindex">
-  <link rel="stylesheet" href="../../assets/styles.css?v=20260804f">
+  <link rel="stylesheet" href="../../assets/styles.css?v=20260804g">
 </head>
 <body data-theme="light" class="static-page">
 
@@ -32,10 +32,62 @@
     <p class="eyebrow">Il prossimo passo</p>
     <h1 class="display" id="thanks-headline">Grazie per la tua richiesta.</h1>
     <p class="lede" id="thanks-copy">
-      Richard ti contatterà personalmente a breve per parlare del tuo progetto.
+      Richard ti contatterà personalmente. Per preparare al meglio il primo
+      colloquio, puoi già indicarci qualche dettaglio sul tuo progetto —
+      incluse foto e planimetria.
     </p>
+    <a class="static-cta" id="projektblatt-cta" href="../scheda-progetto-privato/">Compila subito la scheda progetto</a>
   </main>
 
   <div class="static-footer">Vienna<br>New York</div>
+
+  <script>
+    (function () {
+      var params = new URLSearchParams(location.search);
+      var interesse = params.get("interesse");
+
+      var cta = document.getElementById("projektblatt-cta");
+      if (cta) {
+        if (interesse === "gastronomie") {
+          cta.href = "../scheda-progetto-commerciale/";
+          cta.textContent = "Compila subito la scheda progetto commerciale";
+        }
+        var fwd = new URLSearchParams();
+        if (params.get("lead")) fwd.set("lead", params.get("lead"));
+        if (params.get("email")) fwd.set("email", params.get("email"));
+        var qs = fwd.toString();
+        if (qs) cta.href = cta.getAttribute("href") + "?" + qs;
+      }
+
+      if (params.get("type") === "projektblatt-privatbereich") {
+        document.getElementById("thanks-headline").textContent = "Grazie per la tua scheda progetto.";
+        document.getElementById("thanks-copy").textContent =
+          "Abbiamo ricevuto i dati del tuo progetto. Richard li userà per preparare il primo colloquio e ti contatterà personalmente a breve.";
+        if (cta) cta.style.display = "none";
+      }
+
+      if (params.get("type") === "projektblatt-gastronomie") {
+        document.getElementById("thanks-headline").textContent = "Grazie per la tua scheda progetto.";
+        document.getElementById("thanks-copy").textContent =
+          "Abbiamo ricevuto i dati del tuo progetto commerciale. Richard li userà per preparare il primo colloquio e ti contatterà personalmente a breve.";
+        if (cta) cta.style.display = "none";
+      }
+
+      /* Alcuni file caricati potrebbero non entrare, insieme al PDF, in
+         un'unica email (limite di dimensione) e sono stati omessi lato
+         server invece di far fallire l'intero invio — il mittente deve
+         esserne informato, altrimenti penserebbe che sia arrivato tutto. */
+      var skippedCount = parseInt(params.get("skipped") || "0", 10);
+      if (skippedCount > 0) {
+        var skippedNote = document.createElement("p");
+        skippedNote.className = "lede";
+        skippedNote.style.color = "#b5652d";
+        skippedNote.textContent = skippedCount === 1
+          ? "Nota: un file caricato era troppo grande e non è stato inviato. Inviacelo separatamente via email a inquiry@richardatelier.com."
+          : skippedCount + " file caricati erano troppo grandi e non sono stati inviati. Inviaceli separatamente via email a inquiry@richardatelier.com.";
+        document.getElementById("thanks-copy").insertAdjacentElement("afterend", skippedNote);
+      }
+    })();
+  </script>
 </body>
 </html>

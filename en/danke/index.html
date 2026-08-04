@@ -4,9 +4,9 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Thank You — Richard Atelier</title>
-  <meta name="description" content="Thank you for your inquiry to Richard Atelier. Next step: project info in advance.">
+  <meta name="description" content="Thank you for your inquiry to Richard Atelier. Next step: project brief.">
   <meta name="robots" content="noindex">
-  <link rel="stylesheet" href="../../assets/styles.css?v=20260804f">
+  <link rel="stylesheet" href="../../assets/styles.css?v=20260804g">
 </head>
 <body data-theme="light" class="static-page">
 
@@ -32,12 +32,11 @@
     <p class="eyebrow">The next step</p>
     <h1 class="display" id="thanks-headline">Thank you for your inquiry.</h1>
     <p class="lede" id="thanks-copy">
-      Richard will get in touch with you personally. Within a few minutes you will also
-      receive an email asking for a bit of project info in advance — it helps us prepare
-      the first conversation. You can answer it directly online, including photos of your
-      space and your floor plan.
+      Richard will get in touch with you personally. To help prepare the first
+      conversation, you can already share a few details about your project —
+      including photos and a floor plan.
     </p>
-    <a class="static-cta" id="project-info-cta" href="../project-info/">Fill in project info now</a>
+    <a class="static-cta" id="projektblatt-cta" href="../project-brief-private/">Fill in the project brief now</a>
   </main>
 
   <div class="static-footer">Vienna<br>New York</div>
@@ -45,9 +44,14 @@
   <script>
     (function () {
       var params = new URLSearchParams(location.search);
+      var interesse = params.get("interesse");
 
-      var cta = document.getElementById("project-info-cta");
+      var cta = document.getElementById("projektblatt-cta");
       if (cta) {
+        if (interesse === "gastronomie") {
+          cta.href = "../project-brief-commercial/";
+          cta.textContent = "Fill in the commercial project brief now";
+        }
         var fwd = new URLSearchParams();
         if (params.get("lead")) fwd.set("lead", params.get("lead"));
         if (params.get("email")) fwd.set("email", params.get("email"));
@@ -55,10 +59,18 @@
         if (qs) cta.href = cta.getAttribute("href") + "?" + qs;
       }
 
-      if (params.get("type") === "project-info") {
-        document.getElementById("thanks-headline").textContent = "Thank you for your answers.";
+      if (params.get("type") === "projektblatt-privatbereich") {
+        document.getElementById("thanks-headline").textContent = "Thank you for your project brief.";
         document.getElementById("thanks-copy").textContent =
-          "We have received your project info and documents. Richard will use it to prepare your first conversation and will be in touch with you personally shortly.";
+          "We have received your project details. Richard will use them to prepare your first conversation and will be in touch with you personally shortly.";
+        if (cta) cta.style.display = "none";
+      }
+
+      if (params.get("type") === "projektblatt-gastronomie") {
+        document.getElementById("thanks-headline").textContent = "Thank you for your project brief.";
+        document.getElementById("thanks-copy").textContent =
+          "We have received the details of your commercial project. Richard will use them to prepare the first conversation and will be in touch with you personally shortly.";
+        if (cta) cta.style.display = "none";
       }
 
       /* Some uploaded files may not fit alongside the PDF in a single email

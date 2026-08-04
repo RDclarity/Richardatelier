@@ -48,7 +48,7 @@
       if (!label) return;
       label.textContent = input.files.length
         ? Array.prototype.map.call(input.files, function (f) { return f.name; }).join(", ")
-        : "Keine Datei ausgewählt";
+        : (field.getAttribute("data-empty-text") || "Keine Datei ausgewählt");
     });
   });
 

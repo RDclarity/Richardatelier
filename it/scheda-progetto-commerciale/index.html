@@ -1,0 +1,666 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Scheda Progetto Commerciale — Richard Atelier</title>
+  <meta name="description" content="Prima raccolta dati per la creazione del concept e del preventivo per il tuo progetto commerciale.">
+  <meta name="robots" content="noindex, nofollow">
+  <link rel="stylesheet" href="../../assets/styles.css?v=20260804g">
+</head>
+<body data-theme="light" class="static-page">
+
+  <a class="ui-brand" href="../" aria-label="Richard Atelier — torna alla home">
+    <span class="brand-line" aria-hidden="true"></span>
+    <span class="brand-word">Richard</span>
+  </a>
+
+  <main class="qpage-main">
+    <div class="qpage-intro">
+      <p class="eyebrow">Scheda Progetto Commerciale</p>
+      <h1 class="display">Prima raccolta dati per concept e preventivo.</h1>
+      <p class="lede">
+        Questa scheda costituisce la base per il nostro primo colloquio. Più precise
+        sono le informazioni, più possiamo valutare con precisione concept, impegno e
+        ambito di investimento. I punti ancora aperti può semplicemente lasciarli
+        vuoti — li chiariremo insieme sul posto.
+      </p>
+    </div>
+
+    <form class="questionnaire-form" novalidate
+          action="https://nbnpeoiqiakwnnkorxim.supabase.co/functions/v1/richard-atelier-projektblatt-mail" method="post" enctype="multipart/form-data"
+          data-endpoint="https://nbnpeoiqiakwnnkorxim.supabase.co/functions/v1/richard-atelier-projektblatt-mail"
+          data-success-url="../danke/"
+          data-success-type="projektblatt-gastronomie"
+          data-msg-sending="Invio in corso …"
+          data-msg-error="Invio non riuscito. Riprova più tardi."
+          data-msg-invalid="Inserisci un indirizzo email valido.">
+      <input type="hidden" name="lead_id" id="lead_id" value="">
+      <input type="hidden" name="lang" value="it">
+
+      <!-- 01 · Azienda & Contatto -->
+      <div class="section-title"><span class="section-num">01</span><h2>Azienda &amp; Contatto</h2></div>
+
+      <div class="qrow">
+        <label for="betrieb">Azienda / Ragione sociale</label>
+        <input id="betrieb" type="text" name="betrieb">
+      </div>
+      <div class="qrow">
+        <label for="ansprechpartner">Persona di contatto</label>
+        <input id="ansprechpartner" type="text" name="ansprechpartner">
+      </div>
+      <div class="qrow">
+        <label for="funktion">Ruolo</label>
+        <input id="funktion" type="text" name="funktion">
+      </div>
+      <div class="qrow">
+        <label for="qphone">Telefono</label>
+        <input id="qphone" type="tel" name="phone" autocomplete="tel">
+      </div>
+      <div class="qrow">
+        <label for="qemail">E-Mail</label>
+        <input id="qemail" type="email" name="email" autocomplete="email" required>
+      </div>
+      <div class="qrow">
+        <label for="adresse">Indirizzo dell'immobile</label>
+        <input id="adresse" type="text" name="adresse_objekt">
+      </div>
+      <div class="qrow">
+        <label for="entscheidungstraeger">Decisore — chi dà l'approvazione finale?</label>
+        <input id="entscheidungstraeger" type="text" name="entscheidungstraeger">
+      </div>
+
+      <!-- 02 · Concept dell'Attività -->
+      <div class="section-title"><span class="section-num">02</span><h2>Concept dell'Attività</h2></div>
+
+      <fieldset class="qgroup" data-multi="true">
+        <legend class="qgroup-label">Tipo di attività</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="Ristorante">Ristorante</button>
+          <button type="button" class="chip" data-value="Bar">Bar</button>
+          <button type="button" class="chip" data-value="Caffè">Caffè</button>
+          <button type="button" class="chip" data-value="Bistrot">Bistrot</button>
+          <button type="button" class="chip" data-value="F&B alberghiero">F&amp;B alberghiero</button>
+          <button type="button" class="chip" data-value="Club/Lounge">Club/Lounge</button>
+          <button type="button" class="chip" data-value="Panetteria/Pasticceria">Panetteria/Pasticceria</button>
+          <button type="button" class="chip" data-value="Da asporto">Da asporto</button>
+          <button type="button" class="chip" data-value="Location per eventi">Location per eventi</button>
+        </div>
+        <input type="hidden" name="art_des_betriebs">
+      </fieldset>
+      <div class="qrow">
+        <label for="betrieb_sonstiges">Tipo di attività — Altro</label>
+        <input id="betrieb_sonstiges" type="text" name="art_des_betriebs_sonstiges">
+      </div>
+
+      <fieldset class="qgroup">
+        <legend class="qgroup-label">Progetto</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="Nuova apertura">Nuova apertura</button>
+          <button type="button" class="chip" data-value="Rilevamento di attività esistente">Rilevamento di attività esistente</button>
+          <button type="button" class="chip" data-value="Ristrutturazione dell'esistente">Ristrutturazione dell'esistente</button>
+          <button type="button" class="chip" data-value="Rebranding / Riposizionamento">Rebranding / Riposizionamento</button>
+        </div>
+        <input type="hidden" name="vorhaben">
+      </fieldset>
+
+      <fieldset class="qgroup">
+        <legend class="qgroup-label">Servizio</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="Servizio completo">Servizio completo</button>
+          <button type="button" class="chip" data-value="Banco / Self-service">Banco / Self-service</button>
+          <button type="button" class="chip" data-value="Buffet">Buffet</button>
+          <button type="button" class="chip" data-value="Formula mista">Formula mista</button>
+        </div>
+        <input type="hidden" name="service">
+      </fieldset>
+
+      <div class="qrow">
+        <label for="kuechenstil">Stile di cucina / Offerta</label>
+        <input id="kuechenstil" type="text" name="kuechenstil_angebot">
+      </div>
+      <div class="qrow">
+        <label for="zielgruppe">Target</label>
+        <input id="zielgruppe" type="text" name="zielgruppe">
+      </div>
+      <div class="qrow">
+        <label for="bon">Scontrino medio per ospite (EUR)</label>
+        <input id="bon" type="text" name="bon_pro_gast" inputmode="decimal">
+      </div>
+      <div class="qrow">
+        <label for="betriebszeiten">Orari di apertura — giorni, fasce orarie, stagionalità</label>
+        <input id="betriebszeiten" type="text" name="betriebszeiten">
+      </div>
+      <div class="qrow">
+        <label for="positionierung">Posizionamento — es. casual fine dining, focus serale</label>
+        <input id="positionierung" type="text" name="positionierung">
+      </div>
+
+      <!-- 03 · Superficie & Immobile -->
+      <div class="section-title"><span class="section-num">03</span><h2>Superficie &amp; Immobile</h2></div>
+
+      <div class="qrow">
+        <label for="flaeche_gesamt">Superficie totale (m²)</label>
+        <input id="flaeche_gesamt" type="text" name="flaeche_gesamt" inputmode="decimal">
+      </div>
+      <div class="qrow">
+        <label for="flaeche_gastraum">di cui sala (m²)</label>
+        <input id="flaeche_gastraum" type="text" name="flaeche_gastraum" inputmode="decimal">
+      </div>
+      <div class="qrow">
+        <label for="flaeche_bar">di cui bar/bancone (m²)</label>
+        <input id="flaeche_bar" type="text" name="flaeche_bar" inputmode="decimal">
+      </div>
+      <div class="qrow">
+        <label for="flaeche_kueche">di cui cucina (m²)</label>
+        <input id="flaeche_kueche" type="text" name="flaeche_kueche" inputmode="decimal">
+      </div>
+      <div class="qrow">
+        <label for="flaeche_neben">di cui locali accessori — magazzino, cella frigo, personale, servizi (m²)</label>
+        <input id="flaeche_neben" type="text" name="flaeche_nebenraeume">
+      </div>
+      <div class="qrow">
+        <label for="flaeche_aussen">Superficie esterna — terrazza/dehors (m²)</label>
+        <input id="flaeche_aussen" type="text" name="flaeche_aussen">
+      </div>
+      <div class="qrow">
+        <label for="raumhoehe">Altezza dei locali (m) — indicare se variabile</label>
+        <input id="raumhoehe" type="text" name="raumhoehe">
+      </div>
+      <div class="qrow">
+        <label for="ebenen">Numero di livelli / piani</label>
+        <input id="ebenen" type="text" name="ebenen">
+      </div>
+
+      <fieldset class="qgroup">
+        <legend class="qgroup-label">Stato dell'immobile</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="Proprietà">Proprietà</button>
+          <button type="button" class="chip" data-value="Affitto">Affitto</button>
+          <button type="button" class="chip" data-value="Locazione">Locazione</button>
+        </div>
+        <input type="hidden" name="objektstatus">
+      </fieldset>
+
+      <fieldset class="qgroup">
+        <legend class="qgroup-label">Durata residua del contratto</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="< 5 anni">&lt; 5 anni</button>
+          <button type="button" class="chip" data-value="5–10 anni">5–10 anni</button>
+          <button type="button" class="chip" data-value="> 10 anni">&gt; 10 anni</button>
+        </div>
+        <input type="hidden" name="restlaufzeit">
+      </fieldset>
+
+      <fieldset class="qgroup" data-multi="true">
+        <legend class="qgroup-label">Particolarità</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="Vincolo storico">Vincolo storico</button>
+          <button type="button" class="chip" data-value="Zona protetta">Zona protetta</button>
+          <button type="button" class="chip" data-value="Volta">Volta</button>
+          <button type="button" class="chip" data-value="Serve consenso del proprietario">Serve consenso del proprietario</button>
+          <button type="button" class="chip" data-value="Nessuna">Nessuna</button>
+        </div>
+        <input type="hidden" name="besonderheiten">
+      </fieldset>
+
+      <fieldset class="qgroup" data-multi="true">
+        <legend class="qgroup-label">Documentazione disponibile</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="Planimetrie esistenti">Planimetrie esistenti</button>
+          <button type="button" class="chip" data-value="Rilievo">Rilievo</button>
+          <button type="button" class="chip" data-value="Foto">Foto</button>
+          <button type="button" class="chip" data-value="Licenza d'esercizio">Licenza d'esercizio</button>
+          <button type="button" class="chip" data-value="Nessuna">Nessuna</button>
+        </div>
+        <input type="hidden" name="vorhandene_unterlagen">
+      </fieldset>
+
+      <div class="qrow">
+        <label for="upload-unterlagen">Carica documenti — planimetrie, rilievo, foto (immagine o PDF, opzionale)</label>
+        <div class="file-field" data-empty-text="Nessun file selezionato">
+          <input id="upload-unterlagen" type="file" name="unterlagen[]" accept="image/*,.pdf" multiple>
+          <span class="file-name">Nessun file selezionato</span>
+        </div>
+      </div>
+
+      <!-- 04 · Ospiti & Capacità -->
+      <div class="section-title"><span class="section-num">04</span><h2>Ospiti &amp; Capacità</h2></div>
+      <p class="section-note">
+        Nota: capacità e distanza confortevole sono direttamente correlate —
+        verificheremo il numero obiettivo rispetto a superficie, percorsi e normative.
+      </p>
+
+      <div class="qrow">
+        <label for="sitzplaetze_aktuell">Posti a sedere attuali (interno)</label>
+        <input id="sitzplaetze_aktuell" type="text" name="sitzplaetze_aktuell" inputmode="numeric">
+      </div>
+      <div class="qrow">
+        <label for="sitzplaetze_ziel">Posti a sedere obiettivo (interno) — capacità desiderata</label>
+        <input id="sitzplaetze_ziel" type="text" name="sitzplaetze_ziel" inputmode="numeric">
+      </div>
+      <div class="qrow">
+        <label for="sitzplaetze_aussen">Posti a sedere esterni — attuali / obiettivo</label>
+        <input id="sitzplaetze_aussen" type="text" name="sitzplaetze_aussen">
+      </div>
+      <div class="qrow">
+        <label for="stehplaetze">Posti in piedi / bar — attuali / obiettivo</label>
+        <input id="stehplaetze" type="text" name="stehplaetze">
+      </div>
+      <div class="qrow">
+        <label for="tischmix">Mix di tavoli desiderato — es. 2/4/6 posti, tavoli banchetto, tavolo condiviso</label>
+        <input id="tischmix" type="text" name="tischmix">
+      </div>
+      <div class="qrow">
+        <label for="separee">Sala privata / gruppi — esigenze per eventi, dimensione massima gruppo</label>
+        <input id="separee" type="text" name="separee_gruppen">
+      </div>
+      <div class="qrow">
+        <label for="gaeste_pro_tag">Ospiti al giorno — previsti / attuali</label>
+        <input id="gaeste_pro_tag" type="text" name="gaeste_pro_tag">
+      </div>
+      <div class="qrow">
+        <label for="auslastung">Occupazione dei posti — incasso per posto, rotazione per serata</label>
+        <input id="auslastung" type="text" name="sitzplatzauslastung">
+      </div>
+
+      <!-- 05 · Esistente -->
+      <div class="section-title"><span class="section-num">05</span><h2>Esistente — Cosa Resta, Cosa Va</h2></div>
+      <p class="section-note">
+        Scegli una valutazione per ogni voce. È la leva più importante per budget e
+        tempi di cantiere.
+      </p>
+
+      <fieldset class="qgroup qgroup--compact">
+        <legend class="qgroup-label">Sedute (sedie, panche, divani)</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="resta invariato">resta</button>
+          <button type="button" class="chip" data-value="recuperare / integrare">recuperare</button>
+          <button type="button" class="chip" data-value="sostituire">sostituire</button>
+          <button type="button" class="chip" data-value="non applicabile">non applicabile</button>
+          <button type="button" class="chip" data-value="ancora da definire">ancora da definire</button>
+        </div>
+        <input type="hidden" name="bestand_sitzmoebel">
+      </fieldset>
+      <fieldset class="qgroup qgroup--compact">
+        <legend class="qgroup-label">Tavoli/piani tavolo</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="resta invariato">resta</button>
+          <button type="button" class="chip" data-value="recuperare / integrare">recuperare</button>
+          <button type="button" class="chip" data-value="sostituire">sostituire</button>
+          <button type="button" class="chip" data-value="non applicabile">non applicabile</button>
+          <button type="button" class="chip" data-value="ancora da definire">ancora da definire</button>
+        </div>
+        <input type="hidden" name="bestand_tische">
+      </fieldset>
+      <fieldset class="qgroup qgroup--compact">
+        <legend class="qgroup-label">Bar/bancone</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="resta invariato">resta</button>
+          <button type="button" class="chip" data-value="recuperare / integrare">recuperare</button>
+          <button type="button" class="chip" data-value="sostituire">sostituire</button>
+          <button type="button" class="chip" data-value="non applicabile">non applicabile</button>
+          <button type="button" class="chip" data-value="ancora da definire">ancora da definire</button>
+        </div>
+        <input type="hidden" name="bestand_bar_theke">
+      </fieldset>
+      <fieldset class="qgroup qgroup--compact">
+        <legend class="qgroup-label">Retrobanco/scaffali</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="resta invariato">resta</button>
+          <button type="button" class="chip" data-value="recuperare / integrare">recuperare</button>
+          <button type="button" class="chip" data-value="sostituire">sostituire</button>
+          <button type="button" class="chip" data-value="non applicabile">non applicabile</button>
+          <button type="button" class="chip" data-value="ancora da definire">ancora da definire</button>
+        </div>
+        <input type="hidden" name="bestand_rueckbuffet">
+      </fieldset>
+      <fieldset class="qgroup qgroup--compact">
+        <legend class="qgroup-label">Rivestimenti a parete/pannelli</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="resta invariato">resta</button>
+          <button type="button" class="chip" data-value="recuperare / integrare">recuperare</button>
+          <button type="button" class="chip" data-value="sostituire">sostituire</button>
+          <button type="button" class="chip" data-value="non applicabile">non applicabile</button>
+          <button type="button" class="chip" data-value="ancora da definire">ancora da definire</button>
+        </div>
+        <input type="hidden" name="bestand_wandverkleidung">
+      </fieldset>
+      <fieldset class="qgroup qgroup--compact">
+        <legend class="qgroup-label">Pavimentazione</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="resta invariato">resta</button>
+          <button type="button" class="chip" data-value="recuperare / integrare">recuperare</button>
+          <button type="button" class="chip" data-value="sostituire">sostituire</button>
+          <button type="button" class="chip" data-value="non applicabile">non applicabile</button>
+          <button type="button" class="chip" data-value="ancora da definire">ancora da definire</button>
+        </div>
+        <input type="hidden" name="bestand_bodenbelag">
+      </fieldset>
+      <fieldset class="qgroup qgroup--compact">
+        <legend class="qgroup-label">Design del soffitto</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="resta invariato">resta</button>
+          <button type="button" class="chip" data-value="recuperare / integrare">recuperare</button>
+          <button type="button" class="chip" data-value="sostituire">sostituire</button>
+          <button type="button" class="chip" data-value="non applicabile">non applicabile</button>
+          <button type="button" class="chip" data-value="ancora da definire">ancora da definire</button>
+        </div>
+        <input type="hidden" name="bestand_decke">
+      </fieldset>
+      <fieldset class="qgroup qgroup--compact">
+        <legend class="qgroup-label">Illuminazione</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="resta invariato">resta</button>
+          <button type="button" class="chip" data-value="recuperare / integrare">recuperare</button>
+          <button type="button" class="chip" data-value="sostituire">sostituire</button>
+          <button type="button" class="chip" data-value="non applicabile">non applicabile</button>
+          <button type="button" class="chip" data-value="ancora da definire">ancora da definire</button>
+        </div>
+        <input type="hidden" name="bestand_beleuchtung">
+      </fieldset>
+      <fieldset class="qgroup qgroup--compact">
+        <legend class="qgroup-label">Impianto elettrico sala</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="resta invariato">resta</button>
+          <button type="button" class="chip" data-value="recuperare / integrare">recuperare</button>
+          <button type="button" class="chip" data-value="sostituire">sostituire</button>
+          <button type="button" class="chip" data-value="non applicabile">non applicabile</button>
+          <button type="button" class="chip" data-value="ancora da definire">ancora da definire</button>
+        </div>
+        <input type="hidden" name="bestand_elektrik">
+      </fieldset>
+      <fieldset class="qgroup qgroup--compact">
+        <legend class="qgroup-label">Ventilazione/climatizzazione</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="resta invariato">resta</button>
+          <button type="button" class="chip" data-value="recuperare / integrare">recuperare</button>
+          <button type="button" class="chip" data-value="sostituire">sostituire</button>
+          <button type="button" class="chip" data-value="non applicabile">non applicabile</button>
+          <button type="button" class="chip" data-value="ancora da definire">ancora da definire</button>
+        </div>
+        <input type="hidden" name="bestand_lueftung">
+      </fieldset>
+      <fieldset class="qgroup qgroup--compact">
+        <legend class="qgroup-label">Tecnologia di cucina/grandi apparecchi</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="resta invariato">resta</button>
+          <button type="button" class="chip" data-value="recuperare / integrare">recuperare</button>
+          <button type="button" class="chip" data-value="sostituire">sostituire</button>
+          <button type="button" class="chip" data-value="non applicabile">non applicabile</button>
+          <button type="button" class="chip" data-value="ancora da definire">ancora da definire</button>
+        </div>
+        <input type="hidden" name="bestand_kuechentechnik">
+      </fieldset>
+      <fieldset class="qgroup qgroup--compact">
+        <legend class="qgroup-label">Refrigerazione</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="resta invariato">resta</button>
+          <button type="button" class="chip" data-value="recuperare / integrare">recuperare</button>
+          <button type="button" class="chip" data-value="sostituire">sostituire</button>
+          <button type="button" class="chip" data-value="non applicabile">non applicabile</button>
+          <button type="button" class="chip" data-value="ancora da definire">ancora da definire</button>
+        </div>
+        <input type="hidden" name="bestand_kuehlung">
+      </fieldset>
+      <fieldset class="qgroup qgroup--compact">
+        <legend class="qgroup-label">Servizi igienici</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="resta invariato">resta</button>
+          <button type="button" class="chip" data-value="recuperare / integrare">recuperare</button>
+          <button type="button" class="chip" data-value="sostituire">sostituire</button>
+          <button type="button" class="chip" data-value="non applicabile">non applicabile</button>
+          <button type="button" class="chip" data-value="ancora da definire">ancora da definire</button>
+        </div>
+        <input type="hidden" name="bestand_sanitaer">
+      </fieldset>
+      <fieldset class="qgroup qgroup--compact">
+        <legend class="qgroup-label">Finestre/facciata/vetrina</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="resta invariato">resta</button>
+          <button type="button" class="chip" data-value="recuperare / integrare">recuperare</button>
+          <button type="button" class="chip" data-value="sostituire">sostituire</button>
+          <button type="button" class="chip" data-value="non applicabile">non applicabile</button>
+          <button type="button" class="chip" data-value="ancora da definire">ancora da definire</button>
+        </div>
+        <input type="hidden" name="bestand_fassade">
+      </fieldset>
+      <fieldset class="qgroup qgroup--compact">
+        <legend class="qgroup-label">Arredo esterno</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="resta invariato">resta</button>
+          <button type="button" class="chip" data-value="recuperare / integrare">recuperare</button>
+          <button type="button" class="chip" data-value="sostituire">sostituire</button>
+          <button type="button" class="chip" data-value="non applicabile">non applicabile</button>
+          <button type="button" class="chip" data-value="ancora da definire">ancora da definire</button>
+        </div>
+        <input type="hidden" name="bestand_aussenmoeblierung">
+      </fieldset>
+      <fieldset class="qgroup qgroup--compact">
+        <legend class="qgroup-label">Insegne/immagine esterna</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="resta invariato">resta</button>
+          <button type="button" class="chip" data-value="recuperare / integrare">recuperare</button>
+          <button type="button" class="chip" data-value="sostituire">sostituire</button>
+          <button type="button" class="chip" data-value="non applicabile">non applicabile</button>
+          <button type="button" class="chip" data-value="ancora da definire">ancora da definire</button>
+        </div>
+        <input type="hidden" name="bestand_beschilderung">
+      </fieldset>
+
+      <div class="qrow">
+        <label for="wertvolle_stuecke">Pezzi di particolare valore da conservare — es. bancone originale, boiserie, cimeli, opere d'arte</label>
+        <textarea id="wertvolle_stuecke" name="wertvolle_stuecke"></textarea>
+      </div>
+
+      <!-- 06 · Tecnica, Vincoli e Permessi -->
+      <div class="section-title"><span class="section-num">06</span><h2>Tecnica, Vincoli e Permessi</h2></div>
+
+      <fieldset class="qgroup">
+        <legend class="qgroup-label">Licenza d'esercizio</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="presente e idonea">presente e idonea</button>
+          <button type="button" class="chip" data-value="presente, necessita modifica">presente, necessita modifica</button>
+          <button type="button" class="chip" data-value="da richiedere ex novo">da richiedere ex novo</button>
+          <button type="button" class="chip" data-value="non chiaro">non chiaro</button>
+        </div>
+        <input type="hidden" name="betriebsanlagengenehmigung">
+      </fieldset>
+
+      <fieldset class="qgroup" data-multi="true">
+        <legend class="qgroup-label">Interventi previsti</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="Planimetria/pareti">Planimetria/pareti</button>
+          <button type="button" class="chip" data-value="Spostamento cucina">Spostamento cucina</button>
+          <button type="button" class="chip" data-value="Nuova ventilazione">Nuova ventilazione</button>
+          <button type="button" class="chip" data-value="Nuovo impianto idraulico">Nuovo impianto idraulico</button>
+          <button type="button" class="chip" data-value="Nuovo impianto elettrico">Nuovo impianto elettrico</button>
+          <button type="button" class="chip" data-value="solo superfici e arredi">solo superfici e arredi</button>
+        </div>
+        <input type="hidden" name="geplante_eingriffe">
+      </fieldset>
+
+      <fieldset class="qgroup" data-multi="true">
+        <legend class="qgroup-label">Temi noti</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="Isolamento acustico verso vicini">Isolamento acustico verso vicini</button>
+          <button type="button" class="chip" data-value="Prevenzione incendi">Prevenzione incendi</button>
+          <button type="button" class="chip" data-value="Accessibilità">Accessibilità</button>
+          <button type="button" class="chip" data-value="Vie di fuga">Vie di fuga</button>
+          <button type="button" class="chip" data-value="Aspirazione/odori">Aspirazione/odori</button>
+          <button type="button" class="chip" data-value="Nessuno noto">Nessuno noto</button>
+        </div>
+        <input type="hidden" name="bekannte_themen">
+      </fieldset>
+
+      <div class="qrow">
+        <label for="fachplaner">Progettisti già coinvolti — architetto, ingegnere strutturale, impiantista, progettista cucine</label>
+        <input id="fachplaner" type="text" name="fachplaner">
+      </div>
+      <div class="qrow">
+        <label for="bekannte_auflagen">Vincoli noti</label>
+        <textarea id="bekannte_auflagen" name="bekannte_auflagen"></textarea>
+      </div>
+
+      <!-- 07 · Design e Atmosfera -->
+      <div class="section-title"><span class="section-num">07</span><h2>Design e Atmosfera</h2></div>
+
+      <div class="qrow">
+        <label for="stimmung">Atmosfera desiderata — in tre parole</label>
+        <input id="stimmung" type="text" name="gewuenschte_stimmung">
+      </div>
+      <div class="qrow">
+        <label for="referenzen_gestaltung">Riferimenti — locali, hotel, immagini, moodboard, Pinterest</label>
+        <textarea id="referenzen_gestaltung" name="referenzen"></textarea>
+      </div>
+      <div class="qrow">
+        <label for="materialvorlieben">Preferenze materiche — tipo di legno, pietra, ottone, tessuti</label>
+        <input id="materialvorlieben" type="text" name="materialvorlieben">
+      </div>
+      <div class="qrow">
+        <label for="no_gos">No-gos — materiali, colori, forme</label>
+        <input id="no_gos" type="text" name="no_gos">
+      </div>
+      <div class="qrow">
+        <label for="corporate_identity">Corporate identity — logo, colori, manuale disponibile?</label>
+        <input id="corporate_identity" type="text" name="corporate_identity">
+      </div>
+      <div class="qrow">
+        <label for="licht">Illuminazione — atmosfera giorno/sera, dimmerazione, scene</label>
+        <input id="licht" type="text" name="licht">
+      </div>
+      <div class="qrow">
+        <label for="akustik">Acustica — problemi attuali, esigenze</label>
+        <input id="akustik" type="text" name="akustik">
+      </div>
+      <div class="qrow">
+        <label for="musik_medien">Musica / media — impianto audio, schermi, esigenze tecniche</label>
+        <input id="musik_medien" type="text" name="musik_medien">
+      </div>
+
+      <!-- 08 · Ambito di Investimento -->
+      <div class="section-title"><span class="section-num">08</span><h2>Ambito di Investimento</h2></div>
+      <p class="section-note">
+        Lavoriamo fin dall'inizio con un budget, non contro di esso. Una fascia onesta
+        aiuta più di una cifra tonda.
+      </p>
+
+      <fieldset class="qgroup">
+        <legend class="qgroup-label">Budget complessivo (netto)</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="fino a 100.000 €">fino a 100.000 €</button>
+          <button type="button" class="chip" data-value="100.000–250.000 €">100.000–250.000 €</button>
+          <button type="button" class="chip" data-value="250.000–500.000 €">250.000–500.000 €</button>
+          <button type="button" class="chip" data-value="500.000–1.000.000 €">500.000–1.000.000 €</button>
+          <button type="button" class="chip" data-value="oltre 1.000.000 €">oltre 1.000.000 €</button>
+          <button type="button" class="chip" data-value="ancora da definire">ancora da definire</button>
+        </div>
+        <input type="hidden" name="budgetrahmen">
+      </fieldset>
+
+      <div class="qrow">
+        <label for="zielwert">Valore obiettivo / fascia (EUR netto)</label>
+        <input id="zielwert" type="text" name="zielwert_bandbreite">
+      </div>
+      <div class="qrow">
+        <label for="enthalten">Dovrebbe includere — progettazione, arredi, opere edili, impianti, cucina, allestimento</label>
+        <input id="enthalten" type="text" name="budget_enthalten">
+      </div>
+      <div class="qrow">
+        <label for="bereits_vergeben">Già assegnato / fisso — es. tecnologia di cucina già ordinata</label>
+        <input id="bereits_vergeben" type="text" name="bereits_vergeben">
+      </div>
+      <div class="qrow">
+        <label for="finanzierung">Finanziamento — mezzi propri, banca, birrificio/partner, leasing</label>
+        <input id="finanzierung" type="text" name="finanzierung">
+      </div>
+      <div class="qrow">
+        <label for="foerderungen">Contributi — richiesti / previsti / nessuno</label>
+        <input id="foerderungen" type="text" name="foerderungen">
+      </div>
+      <div class="qrow">
+        <label for="reserve">Riserva — margine calcolato in %</label>
+        <input id="reserve" type="text" name="reserve">
+      </div>
+
+      <!-- 09 · Tempistiche -->
+      <div class="section-title"><span class="section-num">09</span><h2>Tempistiche</h2></div>
+
+      <div class="qrow">
+        <label for="eroeffnung">Apertura desiderata — data / finestra temporale</label>
+        <input id="eroeffnung" type="text" name="gewuenschte_eroeffnung">
+      </div>
+      <div class="qrow">
+        <label for="fixtermine">Scadenze fisse — inizio stagione, evento, decorrenza contratto</label>
+        <input id="fixtermine" type="text" name="fixtermine">
+      </div>
+      <div class="qrow">
+        <label for="verfuegbarkeit">Disponibilità dell'immobile — accessibile da quando</label>
+        <input id="verfuegbarkeit" type="text" name="verfuegbarkeit_objekt">
+      </div>
+
+      <fieldset class="qgroup">
+        <legend class="qgroup-label">Attività durante i lavori</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="Chiusura totale possibile">Chiusura totale possibile</button>
+          <button type="button" class="chip" data-value="Serve attività parziale">Serve attività parziale</button>
+          <button type="button" class="chip" data-value="Attività continua">Attività continua</button>
+        </div>
+        <input type="hidden" name="betrieb_waehrend_umbau">
+      </fieldset>
+
+      <fieldset class="qgroup">
+        <legend class="qgroup-label">Realizzazione</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="In un'unica fase">In un'unica fase</button>
+          <button type="button" class="chip" data-value="In fasi di cantiere">In fasi di cantiere</button>
+        </div>
+        <input type="hidden" name="umsetzung">
+      </fieldset>
+
+      <!-- 10 · Ambito di Servizi Desiderato -->
+      <div class="section-title"><span class="section-num">10</span><h2>Ambito di Servizi Desiderato</h2></div>
+
+      <fieldset class="qgroup" data-multi="true">
+        <legend class="qgroup-label">Servizi</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="Concept e posizionamento">Concept e posizionamento</button>
+          <button type="button" class="chip" data-value="Concept spazi e arredo">Concept spazi e arredo</button>
+          <button type="button" class="chip" data-value="Progettazione">Progettazione</button>
+          <button type="button" class="chip" data-value="Progettazione esecutiva">Progettazione esecutiva</button>
+          <button type="button" class="chip" data-value="Concept materiali e colori">Concept materiali e colori</button>
+          <button type="button" class="chip" data-value="Progettazione illuminotecnica">Progettazione illuminotecnica</button>
+          <button type="button" class="chip" data-value="Design di mobili su misura">Design di mobili su misura</button>
+          <button type="button" class="chip" data-value="Gara d'appalto / affidamento">Gara d'appalto / affidamento</button>
+          <button type="button" class="chip" data-value="Direzione lavori / gestione progetto">Direzione lavori / gestione progetto</button>
+          <button type="button" class="chip" data-value="Realizzazione lavori di falegnameria">Realizzazione lavori di falegnameria</button>
+          <button type="button" class="chip" data-value="Allestimento e styling">Allestimento e styling</button>
+          <button type="button" class="chip" data-value="Gestione completa">Gestione completa</button>
+        </div>
+        <input type="hidden" name="leistungsumfang">
+      </fieldset>
+      <p class="section-note">
+        La realizzazione artigianale avviene tramite la nostra bottega artigiana
+        Tischlerkultur — progettazione ed esecuzione da un'unica fonte.
+      </p>
+
+      <!-- 11 · Note Aggiuntive -->
+      <div class="section-title"><span class="section-num">11</span><h2>Note Aggiuntive</h2></div>
+
+      <div class="qrow">
+        <label for="ergaenzungen">Cosa dovremmo sapere sull'attività, sul luogo o sul progetto che non è stato chiesto sopra?</label>
+        <textarea id="ergaenzungen" name="ergaenzungen"></textarea>
+      </div>
+
+      <div class="qpage-submit">
+        <button type="submit">Invia scheda progetto</button>
+        <p class="form-note" aria-live="polite"></p>
+      </div>
+    </form>
+  </main>
+
+  <div class="static-footer">Vienna<br>New York</div>
+
+  <script src="../../assets/projektinfos.js?v=20260804g"></script>
+</body>
+</html>
