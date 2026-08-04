@@ -70,6 +70,22 @@
           "Wir haben Ihre Angaben zu Ihrem gewerblichen Projekt erhalten. Richard bereitet damit das Erstgespräch vor und meldet sich in Kürze persönlich bei Ihnen.";
         if (cta) cta.style.display = "none";
       }
+
+      /* Manche hochgeladenen Dateien passen zusammen mit dem PDF nicht mehr
+         in eine einzelne E-Mail (Größenlimit) und wurden serverseitig
+         übersprungen, statt den ganzen Versand scheitern zu lassen — das
+         muss dem Absender hier sichtbar gesagt werden, sonst denkt er,
+         alles sei angekommen. */
+      var skippedCount = parseInt(params.get("skipped") || "0", 10);
+      if (skippedCount > 0) {
+        var skippedNote = document.createElement("p");
+        skippedNote.className = "lede";
+        skippedNote.style.color = "#b5652d";
+        skippedNote.textContent = skippedCount === 1
+          ? "Hinweis: Eine hochgeladene Datei war zu groß und wurde nicht mitgeschickt. Bitte senden Sie sie separat per E-Mail an inquiry@richardatelier.com."
+          : skippedCount + " hochgeladene Dateien waren zu groß und wurden nicht mitgeschickt. Bitte senden Sie sie separat per E-Mail an inquiry@richardatelier.com.";
+        document.getElementById("thanks-copy").insertAdjacentElement("afterend", skippedNote);
+      }
     })();
   </script>
 </body>

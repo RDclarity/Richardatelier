@@ -58,6 +58,21 @@
         document.getElementById("thanks-copy").textContent =
           "We have received your project info and documents. Richard will use it to prepare your first conversation and will be in touch with you personally shortly.";
       }
+
+      /* Some uploaded files may not fit alongside the PDF in a single email
+         (size limit) and were skipped server-side instead of failing the
+         whole submission — the sender needs to be told, or they'd assume
+         everything arrived. */
+      var skippedCount = parseInt(params.get("skipped") || "0", 10);
+      if (skippedCount > 0) {
+        var skippedNote = document.createElement("p");
+        skippedNote.className = "lede";
+        skippedNote.style.color = "#b5652d";
+        skippedNote.textContent = skippedCount === 1
+          ? "Note: one uploaded file was too large and was not sent. Please email it separately to inquiry@richardatelier.com."
+          : skippedCount + " uploaded files were too large and were not sent. Please email them separately to inquiry@richardatelier.com.";
+        document.getElementById("thanks-copy").insertAdjacentElement("afterend", skippedNote);
+      }
     })();
   </script>
 </body>

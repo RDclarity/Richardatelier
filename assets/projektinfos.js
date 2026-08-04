@@ -109,6 +109,7 @@
             var q = new URLSearchParams();
             q.set("type", form.getAttribute("data-success-type") || "projektinfos");
             if (leadInput && leadInput.value) q.set("lead", leadInput.value);
+            if (res.skipped && res.skipped.length) q.set("skipped", String(res.skipped.length));
             window.location.href = successBase + "?" + q.toString();
           } else {
             if (note) note.textContent = form.getAttribute("data-msg-error") || "";
