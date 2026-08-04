@@ -9,9 +9,36 @@
   <link rel="canonical" href="https://richardatelier.com/">
   <link rel="alternate" hreflang="de" href="https://richardatelier.com/">
   <link rel="alternate" hreflang="en" href="https://richardatelier.com/en/">
+  <link rel="alternate" hreflang="it" href="https://richardatelier.com/it/">
+  <link rel="alternate" hreflang="es" href="https://richardatelier.com/es/">
   <link rel="alternate" hreflang="x-default" href="https://richardatelier.com/en/">
 
-  <link rel="stylesheet" href="assets/styles.css?v=20260804e">
+  <script>
+    /* Automatische Spracherkennung — nur auf der DE-Startseite (dem
+       Wurzel-Domain-Aufruf). Eine bewusst gewählte Sprache (Klick im
+       Umschalter, in localStorage gemerkt) hat immer Vorrang; sonst
+       entscheidet die Browsersprache: Deutsch bleibt hier, Italienisch
+       geht auf /it/, Spanisch auf /es/, alles andere auf /en/. Läuft
+       synchron im <head>, damit kein DE-Blitz vor der Weiterleitung
+       sichtbar wird. */
+    (function () {
+      var pref = null;
+      try { pref = localStorage.getItem("ra-lang-pref"); } catch (e) {}
+      if (pref === "de") return;
+      if (pref === "en") { location.replace("en/" + location.search + location.hash); return; }
+      if (pref === "it") { location.replace("it/" + location.search + location.hash); return; }
+      if (pref === "es") { location.replace("es/" + location.search + location.hash); return; }
+
+      var langs = navigator.languages || [navigator.language || ""];
+      var primary = (langs[0] || "").toLowerCase();
+      if (primary.indexOf("de") === 0) return;
+      if (primary.indexOf("it") === 0) { location.replace("it/" + location.search + location.hash); return; }
+      if (primary.indexOf("es") === 0) { location.replace("es/" + location.search + location.hash); return; }
+      location.replace("en/" + location.search + location.hash);
+    })();
+  </script>
+
+  <link rel="stylesheet" href="assets/styles.css?v=20260804f">
   <noscript><style>.intro{display:none}.reveal,.reveal-line{opacity:1!important;transform:none!important}.figure .reveal-img{clip-path:none!important}</style></noscript>
 </head>
 <body data-theme="light">
@@ -38,6 +65,8 @@
   <nav class="ui-lang" aria-label="Sprache">
     <span aria-current="true" lang="de">DE</span>
     <a href="en/" hreflang="en" lang="en">EN</a>
+    <a href="it/" hreflang="it" lang="it">IT</a>
+    <a href="es/" hreflang="es" lang="es">ES</a>
   </nav>
 
   <div class="ui-clocks" aria-hidden="true">
@@ -47,12 +76,12 @@
 
   <nav aria-label="Folien-Navigation">
     <ol class="ui-dots">
-      <li data-active="true" style="--tip:var(--ubahn-u1)"><button type="button" aria-label="Folie 1 — Atelier">U1</button><span class="dot-tip" aria-hidden="true">Atelier</span></li>
-      <li style="--tip:var(--ubahn-u2)"><button type="button" aria-label="Folie 2 — Haltung">U2</button><span class="dot-tip" aria-hidden="true">Haltung</span></li>
-      <li style="--tip:var(--ubahn-u3)"><button type="button" aria-label="Folie 3 — Die Frage">U3</button><span class="dot-tip" aria-hidden="true">Die Frage</span></li>
-      <li style="--tip:var(--ubahn-u4)"><button type="button" aria-label="Folie 4 — As you live">U4</button><span class="dot-tip" aria-hidden="true" lang="en">As you live</span></li>
-      <li style="--tip:var(--ubahn-u5)"><button type="button" aria-label="Folie 5 — Richard">U5</button><span class="dot-tip" aria-hidden="true">Richard</span></li>
-      <li style="--tip:var(--ubahn-u6)"><button type="button" aria-label="Folie 6 — Kontakt">U6</button><span class="dot-tip" aria-hidden="true">Kontakt</span></li>
+      <li data-active="true" style="--tip:var(--subway-yellow); --tip-text:#151310"><button type="button" aria-label="Folie 1 — Atelier">N</button><span class="dot-tip" aria-hidden="true">Atelier</span></li>
+      <li style="--tip:var(--subway-green)"><button type="button" aria-label="Folie 2 — Haltung">6</button><span class="dot-tip" aria-hidden="true">Haltung</span></li>
+      <li style="--tip:var(--subway-magenta)"><button type="button" aria-label="Folie 3 — Die Frage">7</button><span class="dot-tip" aria-hidden="true">Die Frage</span></li>
+      <li style="--tip:var(--subway-blue)"><button type="button" aria-label="Folie 4 — As you live">A</button><span class="dot-tip" aria-hidden="true" lang="en">As you live</span></li>
+      <li style="--tip:var(--subway-orange)"><button type="button" aria-label="Folie 5 — Richard">D</button><span class="dot-tip" aria-hidden="true">Richard</span></li>
+      <li style="--tip:var(--subway-red)"><button type="button" aria-label="Folie 6 — Kontakt">1</button><span class="dot-tip" aria-hidden="true">Kontakt</span></li>
     </ol>
   </nav>
 
@@ -195,6 +224,6 @@
 
   </main>
 
-  <script src="assets/script.js?v=20260804e"></script>
+  <script src="assets/script.js?v=20260804f"></script>
 </body>
 </html>

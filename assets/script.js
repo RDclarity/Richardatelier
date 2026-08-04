@@ -6,6 +6,18 @@
 (function () {
   "use strict";
 
+  /* ----------------------------------------------------------
+     0 | Sprachwahl merken — wenn jemand DE/EN/IT im Umschalter
+     anklickt, wird das gespeichert, damit die automatische
+     Spracherkennung auf der Startseite eine bewusste Wahl nicht
+     wieder überschreibt.
+     ---------------------------------------------------------- */
+  Array.prototype.slice.call(document.querySelectorAll(".ui-lang a[lang]")).forEach(function (a) {
+    a.addEventListener("click", function () {
+      try { localStorage.setItem("ra-lang-pref", a.getAttribute("lang")); } catch (e) {}
+    });
+  });
+
   var deck = document.querySelector(".deck");
   var slides = Array.prototype.slice.call(document.querySelectorAll(".slide"));
   var dots = Array.prototype.slice.call(document.querySelectorAll(".ui-dots li"));
