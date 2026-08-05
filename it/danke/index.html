@@ -6,7 +6,8 @@
   <title>Grazie — Richard Atelier</title>
   <meta name="description" content="Grazie per la tua richiesta a Richard Atelier. Prossimo passo: scheda progetto.">
   <meta name="robots" content="noindex">
-  <link rel="stylesheet" href="../../assets/styles.css?v=20260804g">
+  <link rel="stylesheet" href="../../assets/styles.css?v=20260804h">
+  <script src="../../assets/analytics.js?v=20260804h"></script>
 </head>
 <body data-theme="light" class="static-page">
 
@@ -45,6 +46,10 @@
     (function () {
       var params = new URLSearchParams(location.search);
       var interesse = params.get("interesse");
+
+      if (typeof window.raTrackConversion === "function") {
+        window.raTrackConversion(params.get("type") || "contact");
+      }
 
       var cta = document.getElementById("projektblatt-cta");
       if (cta) {

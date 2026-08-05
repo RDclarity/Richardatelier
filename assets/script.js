@@ -320,6 +320,7 @@
 
       var data = new FormData(form);           /* nimmt auch die hidden Web3Forms-Felder mit */
       data.append("lang", document.documentElement.lang || "de");
+      data.append("marketing_consent", window.raConsent || "");
 
       fetch(endpoint, { method: "POST", body: data, headers: { "Accept": "application/json" } })
         .then(function (r) { return r.json().catch(function () { return { success: false }; }); })

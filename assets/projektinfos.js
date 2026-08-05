@@ -93,6 +93,7 @@
       if (btn) btn.disabled = true;
 
       var data = new FormData(form);
+      data.append("marketing_consent", window.raConsent || "");
       var controller = ("AbortController" in window) ? new AbortController() : null;
       var timeoutMsg = "Das Absenden dauert ungewöhnlich lange (große Dateien?). Bitte prüfen Sie Ihre Internetverbindung und versuchen Sie es erneut, notfalls mit kleineren oder weniger Dateien.";
       var timeoutId = controller ? setTimeout(function () { controller.abort(); }, 90000) : null;
