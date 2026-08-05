@@ -78,6 +78,13 @@
         if (cta) cta.style.display = "none";
       }
 
+      if (params.get("type") === "lieferant") {
+        document.getElementById("thanks-headline").textContent = 'Gracias por tu consulta.';
+        document.getElementById("thanks-copy").textContent =
+          'Hemos recibido tu consulta y nos pondremos en contacto una vez que hayamos evaluado una posible colaboración.';
+        if (cta) cta.style.display = "none";
+      }
+
       /* Algunos archivos subidos pueden no caber junto con el PDF en un
          único correo (límite de tamaño) y se omitieron en el servidor en
          lugar de hacer fallar todo el envío — hay que informar al

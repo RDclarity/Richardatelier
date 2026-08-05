@@ -78,6 +78,13 @@
         if (cta) cta.style.display = "none";
       }
 
+      if (params.get("type") === "lieferant") {
+        document.getElementById("thanks-headline").textContent = 'Thank you for your inquiry.';
+        document.getElementById("thanks-copy").textContent =
+          "We have received your inquiry and will be in touch once we've reviewed a possible collaboration.";
+        if (cta) cta.style.display = "none";
+      }
+
       /* Some uploaded files may not fit alongside the PDF in a single email
          (size limit) and were skipped server-side instead of failing the
          whole submission — the sender needs to be told, or they'd assume

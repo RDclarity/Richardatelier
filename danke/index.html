@@ -78,6 +78,13 @@
         if (cta) cta.style.display = "none";
       }
 
+      if (params.get("type") === "lieferant") {
+        document.getElementById("thanks-headline").textContent = 'Vielen Dank für Ihre Anfrage.';
+        document.getElementById("thanks-copy").textContent =
+          'Wir haben Ihre Anfrage erhalten und melden uns, sobald wir eine mögliche Zusammenarbeit geprüft haben.';
+        if (cta) cta.style.display = "none";
+      }
+
       /* Manche hochgeladenen Dateien passen zusammen mit dem PDF nicht mehr
          in eine einzelne E-Mail (Größenlimit) und wurden serverseitig
          übersprungen, statt den ganzen Versand scheitern zu lassen — das

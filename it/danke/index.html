@@ -78,6 +78,13 @@
         if (cta) cta.style.display = "none";
       }
 
+      if (params.get("type") === "lieferant") {
+        document.getElementById("thanks-headline").textContent = 'Grazie per la tua richiesta.';
+        document.getElementById("thanks-copy").textContent =
+          'Abbiamo ricevuto la tua richiesta e ti contatteremo dopo aver valutato una possibile collaborazione.';
+        if (cta) cta.style.display = "none";
+      }
+
       /* Alcuni file caricati potrebbero non entrare, insieme al PDF, in
          un'unica email (limite di dimensione) e sono stati omessi lato
          server invece di far fallire l'intero invio — il mittente deve

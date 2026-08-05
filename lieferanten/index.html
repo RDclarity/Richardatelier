@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lieferanten &amp; Partner — Richard Atelier</title>
+  <meta name="description" content="Sie sind Hersteller, Handwerksbetrieb oder Lieferant und möchten mit Richard Atelier zusammenarbeiten? Erzählen Sie uns von sich.">
+  <link rel="canonical" href="https://richardatelier.com/lieferanten/">
+  <link rel="alternate" hreflang="de" href="https://richardatelier.com/lieferanten/">
+  <link rel="alternate" hreflang="en" href="https://richardatelier.com/en/suppliers/">
+  <link rel="alternate" hreflang="it" href="https://richardatelier.com/it/fornitori/">
+  <link rel="alternate" hreflang="es" href="https://richardatelier.com/es/proveedores/">
+  <link rel="stylesheet" href="../assets/styles.css?v=20260804h">
+  <script src="../assets/analytics.js?v=20260804h"></script>
+</head>
+<body data-theme="light" class="static-page">
+
+  <a class="ui-brand" href="../" aria-label="Richard Atelier — zur Startseite">
+    <span class="brand-line" aria-hidden="true"></span>
+    <span class="brand-word">Richard</span>
+  </a>
+
+  <nav class="ui-menu" aria-label="Hauptmenü">
+    <a href="../referenzen/">Referenzen</a>
+    <a href="../gastronomie/">Gewerblich</a>
+    <a href="../team/">Team</a>
+  </nav>
+
+  <nav class="ui-lang" aria-label="Sprache">
+    <span aria-current="true" lang="de">DE</span>
+    <a href="../en/suppliers/" hreflang="en" lang="en">EN</a>
+    <a href="../it/fornitori/" hreflang="it" lang="it">IT</a>
+    <a href="../es/proveedores/" hreflang="es" lang="es">ES</a>
+  </nav>
+
+  <main class="qpage-main">
+    <div class="qpage-intro">
+      <p class="eyebrow">Für Lieferanten &amp; Partner</p>
+      <h1 class="display">Werden Sie Partner von Richard Atelier.</h1>
+      <p class="lede">
+        Wir arbeiten mit ausgewählten Herstellern, Handwerksbetrieben und Lieferanten
+        zusammen, die unseren Anspruch an Qualität, Zuverlässigkeit und Gestaltung teilen.
+        Wenn Sie an einer Zusammenarbeit interessiert sind, erzählen Sie uns kurz von sich
+        und Ihrem Angebot.
+      </p>
+    </div>
+
+    <form class="questionnaire-form" novalidate
+          action="https://nbnpeoiqiakwnnkorxim.supabase.co/functions/v1/richard-atelier-supplier-mail" method="post"
+          data-endpoint="https://nbnpeoiqiakwnnkorxim.supabase.co/functions/v1/richard-atelier-supplier-mail"
+          data-success-url="../danke/"
+          data-success-type="lieferant"
+          data-msg-sending="Wird gesendet …"
+          data-msg-error="Senden fehlgeschlagen. Bitte später erneut versuchen."
+          data-msg-invalid="Bitte geben Sie eine gültige E-Mail-Adresse ein.">
+      <input type="hidden" name="lead_id" id="lead_id" value="">
+      <input type="hidden" name="lang" value="de">
+
+      <div class="qrow">
+        <label for="unternehmen">Unternehmen / Firmenname</label>
+        <input id="unternehmen" type="text" name="unternehmen">
+      </div>
+      <div class="qrow">
+        <label for="ansprechpartner">Ansprechpartner:in</label>
+        <input id="ansprechpartner" type="text" name="ansprechpartner">
+      </div>
+      <div class="qrow">
+        <label for="qemail">E-Mail</label>
+        <input id="qemail" type="email" name="email" autocomplete="email" required>
+      </div>
+      <div class="qrow">
+        <label for="qphone">Telefon</label>
+        <input id="qphone" type="tel" name="phone" autocomplete="tel">
+      </div>
+      <div class="qrow">
+        <label for="website">Website</label>
+        <input id="website" type="text" name="website" placeholder="https://">
+      </div>
+
+      <fieldset class="qgroup" data-multi="true">
+        <legend class="qgroup-label">Kategorie</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="Möbel & Einrichtung">Möbel &amp; Einrichtung</button>
+          <button type="button" class="chip" data-value="Beleuchtung">Beleuchtung</button>
+          <button type="button" class="chip" data-value="Textilien & Stoffe">Textilien &amp; Stoffe</button>
+          <button type="button" class="chip" data-value="Boden- & Wandbeläge">Boden- &amp; Wandbeläge</button>
+          <button type="button" class="chip" data-value="Baustoffe & Ausbau">Baustoffe &amp; Ausbau</button>
+          <button type="button" class="chip" data-value="Handwerk / Gewerke">Handwerk / Gewerke</button>
+          <button type="button" class="chip" data-value="Küchen & Sanitär">Küchen &amp; Sanitär</button>
+          <button type="button" class="chip" data-value="Sonstiges">Sonstiges</button>
+        </div>
+        <input type="hidden" name="kategorie">
+      </fieldset>
+
+      <div class="qrow">
+        <label for="nachricht">Erzählen Sie uns von Ihrem Unternehmen und Ihrem Angebot</label>
+        <textarea id="nachricht" name="nachricht"></textarea>
+      </div>
+
+      <div class="qpage-submit">
+        <button type="submit">Anfrage senden</button>
+        <p class="form-note" aria-live="polite"></p>
+      </div>
+    </form>
+  </main>
+
+  <div class="static-footer">Vienna<br>New York</div>
+
+  <script src="../assets/projektinfos.js?v=20260804h"></script>
+</body>
+</html>
