@@ -6,8 +6,8 @@
   <title>Gracias — Richard Atelier</title>
   <meta name="description" content="Gracias por tu consulta a Richard Atelier. Siguiente paso: ficha de proyecto.">
   <meta name="robots" content="noindex">
-  <link rel="stylesheet" href="../../assets/styles.css?v=20260804h">
-  <script src="../../assets/analytics.js?v=20260804h"></script>
+  <link rel="stylesheet" href="../../assets/styles.css?v=20260804j">
+  <script src="../../assets/analytics.js?v=20260804j"></script>
 </head>
 <body data-theme="light" class="static-page">
 
@@ -82,6 +82,29 @@
         document.getElementById("thanks-headline").textContent = 'Gracias por tu consulta.';
         document.getElementById("thanks-copy").textContent =
           'Hemos recibido tu consulta y nos pondremos en contacto una vez que hayamos evaluado una posible colaboración.';
+        if (cta) cta.style.display = "none";
+      }
+
+      if (params.get("type") === "job-contact") {
+        document.getElementById("thanks-headline").textContent = "Gracias por ponerte en contacto.";
+        document.getElementById("thanks-copy").textContent =
+          "En el siguiente paso podrás contarnos más sobre ti y subir tu currículum.";
+        if (cta) {
+          var jobFwd = new URLSearchParams();
+          if (params.get("lead")) jobFwd.set("lead", params.get("lead"));
+          if (params.get("email")) jobFwd.set("email", params.get("email"));
+          if (params.get("position")) jobFwd.set("position", params.get("position"));
+          var jobQs = jobFwd.toString();
+          cta.href = "../carrera/solicitud/" + (jobQs ? "?" + jobQs : "");
+          cta.textContent = "Completar solicitud ahora";
+          cta.style.display = "";
+        }
+      }
+
+      if (params.get("type") === "bewerbung") {
+        document.getElementById("thanks-headline").textContent = "Gracias por tu solicitud.";
+        document.getElementById("thanks-copy").textContent =
+          "Hemos recibido tu solicitud y nos pondremos en contacto contigo personalmente lo antes posible.";
         if (cta) cta.style.display = "none";
       }
 

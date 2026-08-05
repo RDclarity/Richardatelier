@@ -6,8 +6,8 @@
   <title>Thank You — Richard Atelier</title>
   <meta name="description" content="Thank you for your inquiry to Richard Atelier. Next step: project brief.">
   <meta name="robots" content="noindex">
-  <link rel="stylesheet" href="../../assets/styles.css?v=20260804h">
-  <script src="../../assets/analytics.js?v=20260804h"></script>
+  <link rel="stylesheet" href="../../assets/styles.css?v=20260804j">
+  <script src="../../assets/analytics.js?v=20260804j"></script>
 </head>
 <body data-theme="light" class="static-page">
 
@@ -82,6 +82,29 @@
         document.getElementById("thanks-headline").textContent = 'Thank you for your inquiry.';
         document.getElementById("thanks-copy").textContent =
           "We have received your inquiry and will be in touch once we've reviewed a possible collaboration.";
+        if (cta) cta.style.display = "none";
+      }
+
+      if (params.get("type") === "job-contact") {
+        document.getElementById("thanks-headline").textContent = "Thank you for reaching out.";
+        document.getElementById("thanks-copy").textContent =
+          "In the next step you can tell us more about yourself and upload your CV.";
+        if (cta) {
+          var jobFwd = new URLSearchParams();
+          if (params.get("lead")) jobFwd.set("lead", params.get("lead"));
+          if (params.get("email")) jobFwd.set("email", params.get("email"));
+          if (params.get("position")) jobFwd.set("position", params.get("position"));
+          var jobQs = jobFwd.toString();
+          cta.href = "../careers/apply/" + (jobQs ? "?" + jobQs : "");
+          cta.textContent = "Complete your application now";
+          cta.style.display = "";
+        }
+      }
+
+      if (params.get("type") === "bewerbung") {
+        document.getElementById("thanks-headline").textContent = "Thank you for your application.";
+        document.getElementById("thanks-copy").textContent =
+          "We have received your application and will be in touch with you personally as soon as possible.";
         if (cta) cta.style.display = "none";
       }
 

@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Application — Careers — Richard Atelier</title>
+  <meta name="description" content="Your application to Richard Atelier — tell us more about yourself and upload your CV.">
+  <meta name="robots" content="noindex, nofollow">
+  <link rel="canonical" href="https://richardatelier.com/en/careers/apply/">
+  <link rel="alternate" hreflang="de" href="https://richardatelier.com/karriere/bewerbung/">
+  <link rel="alternate" hreflang="en" href="https://richardatelier.com/en/careers/apply/">
+  <link rel="alternate" hreflang="it" href="https://richardatelier.com/it/carriera/candidatura/">
+  <link rel="alternate" hreflang="es" href="https://richardatelier.com/es/carrera/solicitud/">
+  <link rel="stylesheet" href="../../../assets/styles.css?v=20260804j">
+  <script src="../../../assets/analytics.js?v=20260804j"></script>
+</head>
+<body data-theme="light" class="static-page">
+
+  <a class="ui-brand" href="../../" aria-label="Richard Atelier — back to home">
+    <span class="brand-line" aria-hidden="true"></span>
+    <span class="brand-word">Richard</span>
+  </a>
+
+  <nav class="ui-menu" aria-label="Main menu">
+    <a href="../../references/">References</a>
+    <a href="../../hospitality/">Commercial</a>
+    <a href="../../team/">Team</a>
+  </nav>
+
+  <nav class="ui-lang" aria-label="Language">
+    <a href="../../../karriere/bewerbung/" hreflang="de" lang="de">DE</a>
+    <span aria-current="true" lang="en">EN</span>
+    <a href="../../../it/carriera/candidatura/" hreflang="it" lang="it">IT</a>
+    <a href="../../../es/carrera/solicitud/" hreflang="es" lang="es">ES</a>
+  </nav>
+
+  <main class="qpage-main">
+    <div class="qpage-intro">
+      <p class="eyebrow">Application</p>
+      <h1 class="display">Tell us more about yourself.</h1>
+      <p class="lede">
+        Thank you for your interest in Richard Atelier. Feel free to add more
+        details about your application here and upload your CV — anything
+        still open we can clarify in a personal conversation.
+      </p>
+    </div>
+
+    <form class="questionnaire-form" novalidate
+          action="https://nbnpeoiqiakwnnkorxim.supabase.co/functions/v1/richard-atelier-application-mail" method="post" enctype="multipart/form-data"
+          data-endpoint="https://nbnpeoiqiakwnnkorxim.supabase.co/functions/v1/richard-atelier-application-mail"
+          data-success-url="../../danke/"
+          data-success-type="bewerbung"
+          data-msg-sending="Sending …"
+          data-msg-error="Sending failed. Please try again later."
+          data-msg-invalid="Please enter a valid email address.">
+      <input type="hidden" name="lead_id" id="lead_id" value="">
+      <input type="hidden" name="lang" value="en">
+
+      <div class="qrow">
+        <label for="qname">Name</label>
+        <input id="qname" type="text" name="name" autocomplete="name">
+      </div>
+      <div class="qrow">
+        <label for="qemail">Email</label>
+        <input id="qemail" type="email" name="email" autocomplete="email" required>
+      </div>
+      <div class="qrow">
+        <label for="qphone">Phone</label>
+        <input id="qphone" type="tel" name="phone" autocomplete="tel">
+      </div>
+      <div class="qrow">
+        <label for="position">Position</label>
+        <input id="position" type="text" name="position">
+      </div>
+      <div class="qrow">
+        <label for="verfuegbar_ab">Available from</label>
+        <input id="verfuegbar_ab" type="text" name="verfuegbar_ab">
+      </div>
+      <div class="qrow">
+        <label for="gehalt">Salary expectation (optional)</label>
+        <input id="gehalt" type="text" name="gehalt">
+      </div>
+      <div class="qrow">
+        <label for="nachricht">Your motivation — what draws you to this role?</label>
+        <textarea id="nachricht" name="nachricht"></textarea>
+      </div>
+
+      <div class="qrow">
+        <label for="upload-lebenslauf">Upload your CV (PDF recommended)</label>
+        <div class="file-field" data-empty-text="No file selected">
+          <input id="upload-lebenslauf" type="file" name="lebenslauf" accept="application/pdf,.doc,.docx,image/*">
+          <span class="file-name">No file selected</span>
+        </div>
+      </div>
+      <div class="qrow">
+        <label for="upload-unterlagen">Further documents — references, portfolio (optional)</label>
+        <div class="file-field" data-empty-text="No file selected">
+          <input id="upload-unterlagen" type="file" name="weitere_unterlagen[]" accept="application/pdf,.doc,.docx,image/*" multiple>
+          <span class="file-name">No file selected</span>
+        </div>
+      </div>
+
+      <div class="qpage-submit">
+        <button type="submit">Send application</button>
+        <p class="form-note" aria-live="polite"></p>
+      </div>
+    </form>
+  </main>
+
+  <div class="static-footer">Vienna<br>New York</div>
+
+  <script src="../../../assets/projektinfos.js?v=20260804j"></script>
+</body>
+</html>

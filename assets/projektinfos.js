@@ -61,6 +61,15 @@
     if (emailInput) emailInput.value = emailParam;
   }
 
+  /* Position aus dem Link vorbefüllen (?position=…) — Karriere:
+     Kurzformular auf der Stellenseite gibt die Position an das
+     tiefergehende Bewerbungsformular weiter. */
+  var positionParam = params.get("position");
+  if (positionParam) {
+    var positionInput = document.getElementById("position");
+    if (positionInput) positionInput.value = positionParam;
+  }
+
   /* Lead-ID: aus dem Link übernehmen (?lead=…), damit dieser
      Fragebogen im künftigen CRM derselben Anfrage zugeordnet
      werden kann. Fehlt der Parameter (z. B. Direktaufruf ohne
@@ -107,10 +116,19 @@
         .then(function (r) { if (timeoutId) clearTimeout(timeoutId); return r.json().catch(function () { return { success: false }; }); })
         .then(function (res) {
           if (res && res.success) {
+            var successType = form.getAttribute("data-success-type") || "projektinfos";
             var q = new URLSearchParams();
-            q.set("type", form.getAttribute("data-success-type") || "projektinfos");
+            q.set("type", successType);
             if (leadInput && leadInput.value) q.set("lead", leadInput.value);
             if (res.skipped && res.skipped.length) q.set("skipped", String(res.skipped.length));
+            /* Karriere-Kurzformular: E-Mail und Position an die Danke-Seite
+               weitergeben, damit die CTA zum tiefergehenden Bewerbungs-
+               formular beides vorausfüllen kann. */
+            if (successType === "job-contact") {
+              if (emailInput && emailInput.value) q.set("email", emailInput.value);
+              var positionField = form.querySelector("[name='position']");
+              if (positionField && positionField.value) q.set("position", positionField.value);
+            }
             window.location.href = successBase + "?" + q.toString();
           } else {
             if (note) note.textContent = form.getAttribute("data-msg-error") || "";

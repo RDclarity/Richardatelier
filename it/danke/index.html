@@ -6,8 +6,8 @@
   <title>Grazie — Richard Atelier</title>
   <meta name="description" content="Grazie per la tua richiesta a Richard Atelier. Prossimo passo: scheda progetto.">
   <meta name="robots" content="noindex">
-  <link rel="stylesheet" href="../../assets/styles.css?v=20260804h">
-  <script src="../../assets/analytics.js?v=20260804h"></script>
+  <link rel="stylesheet" href="../../assets/styles.css?v=20260804j">
+  <script src="../../assets/analytics.js?v=20260804j"></script>
 </head>
 <body data-theme="light" class="static-page">
 
@@ -82,6 +82,29 @@
         document.getElementById("thanks-headline").textContent = 'Grazie per la tua richiesta.';
         document.getElementById("thanks-copy").textContent =
           'Abbiamo ricevuto la tua richiesta e ti contatteremo dopo aver valutato una possibile collaborazione.';
+        if (cta) cta.style.display = "none";
+      }
+
+      if (params.get("type") === "job-contact") {
+        document.getElementById("thanks-headline").textContent = "Grazie per averci contattato.";
+        document.getElementById("thanks-copy").textContent =
+          "Nel prossimo passo potrai raccontarci di più su di te e caricare il tuo curriculum.";
+        if (cta) {
+          var jobFwd = new URLSearchParams();
+          if (params.get("lead")) jobFwd.set("lead", params.get("lead"));
+          if (params.get("email")) jobFwd.set("email", params.get("email"));
+          if (params.get("position")) jobFwd.set("position", params.get("position"));
+          var jobQs = jobFwd.toString();
+          cta.href = "../carriera/candidatura/" + (jobQs ? "?" + jobQs : "");
+          cta.textContent = "Completa ora la candidatura";
+          cta.style.display = "";
+        }
+      }
+
+      if (params.get("type") === "bewerbung") {
+        document.getElementById("thanks-headline").textContent = "Grazie per la tua candidatura.";
+        document.getElementById("thanks-copy").textContent =
+          "Abbiamo ricevuto la tua candidatura e ti contatteremo personalmente il prima possibile.";
         if (cta) cta.style.display = "none";
       }
 
