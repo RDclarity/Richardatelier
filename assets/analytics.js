@@ -18,7 +18,7 @@
   // aktualisieren, ohne die Website neu zu deployen. Bis sie gesetzt sind,
   // liefert der Endpoint leere Strings und es passiert clientseitig nichts
   // (der Consent-Banner erscheint trotzdem schon).
-  var CONFIG_ENDPOINT = "https://nbnpeoiqiakwnnkorxim.supabase.co/functions/v1/richard-atelier-tracking-config";
+  var CONFIG_ENDPOINT = "https://mlubcxdwwsrvcoufnkaf.supabase.co/functions/v1/ra-tracking-config";
   var CONFIG = { GA4_MEASUREMENT_ID: "", GOOGLE_ADS_ID: "", GOOGLE_ADS_CONVERSION_LABEL: "", META_PIXEL_ID: "" };
   var configReady = fetch(CONFIG_ENDPOINT, { headers: { Accept: "application/json" } })
     .then(function (r) { return r.ok ? r.json() : null; })
