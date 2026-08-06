@@ -189,6 +189,22 @@ body.js-snap .deck { scroll-snap-type: none; scroll-behavior: auto; }
   color: var(--ink);
   border-color: currentColor;
 }
+/* Kontakt sticht als Handlungsaufforderung leicht hervor, statt wie
+   ein gleichwertiger weiterer Menüpunkt zu wirken — nur per
+   Schriftgewicht, damit die theme-abhängige Lesbarkeit (hell/dunkel/
+   sand, siehe body[data-theme=...] .ui-menu a weiter unten) intakt
+   bleibt und der Text nie mit dem Hintergrund verschmilzt. */
+.ui-menu-contact { font-weight: 700; }
+/* Mobil: mit fünf Punkten (Referenzen, Gewerblich, Bad, Team, Kontakt)
+   passt das Menü nicht mehr in eine Zeile — sauber umbrechen lassen,
+   statt rechts aus dem Viewport zu laufen. */
+@media (max-width: 600px) {
+  .ui-menu {
+    flex-wrap: wrap;
+    gap: 0.5rem 0.9rem;
+    max-width: calc(100vw - 5rem);
+  }
+}
 
 .ui-lang {
   position: fixed;

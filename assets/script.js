@@ -193,6 +193,37 @@
   });
 
   /* ----------------------------------------------------------
+     3b | "Kontakt"-Links (Menü oben, CTA-Buttons): auf der
+     Startseite selbst sanft zur Kontakt-Folie fahren statt hart
+     zu springen. Kommt man mit #kontakt in der URL von einer
+     anderen Seite an (z. B. .../#kontakt), ebenfalls sanft
+     dorthin fahren statt dem harten Browser-Sprung, der den
+     internen Fahrt-Status (targetIndex/wheelLock) nicht kennt.
+     ---------------------------------------------------------- */
+  var kontaktSlide = document.getElementById("kontakt");
+  if (kontaktSlide) {
+    var kontaktIndex = slides.indexOf(kontaktSlide);
+    if (kontaktIndex > -1) {
+      Array.prototype.slice.call(document.querySelectorAll('a[href="#kontakt"]')).forEach(function (a) {
+        a.addEventListener("click", function (e) {
+          e.preventDefault();
+          goTo(kontaktIndex);
+        });
+      });
+      if (location.hash === "#kontakt") {
+        /* Erst nach vollständigem Laden (Bilder/Video beeinflussen die
+           Folienhöhen) fahren — sonst ist offsetTop noch falsch
+           berechnet und die Fahrt landet eine Folie zu früh. */
+        if (document.readyState === "complete") {
+          goTo(kontaktIndex);
+        } else {
+          window.addEventListener("load", function () { goTo(kontaktIndex); });
+        }
+      }
+    }
+  }
+
+  /* ----------------------------------------------------------
      4 | Parallax: Texte und Bilder bewegen sich beim Übergang
      unterschiedlich schnell ([data-px]-Faktor pro Element)
      ---------------------------------------------------------- */
