@@ -5,8 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Comercial — Richard Atelier</title>
   <meta name="description" content="Dirección de obra completa para proyectos comerciales: planificación de procesos, equipamiento y ejecución desde un único interlocutor — por Richard Atelier.">
-  <link rel="stylesheet" href="../../assets/styles.css?v=20260804n">
-  <script src="../../assets/analytics.js?v=20260804n"></script>
+  <link rel="stylesheet" href="../../assets/styles.css?v=20260804o">
+  <script src="../../assets/analytics.js?v=20260804o"></script>
   <noscript><style>.reveal,.reveal-line{opacity:1!important;transform:none!important}.figure .reveal-img{clip-path:none!important}</style></noscript>
 </head>
 <body data-theme="light">
@@ -64,6 +64,26 @@
           equipamiento y ejecución desde un único interlocutor. Human-Centered Living
           Design, aplicado al lugar donde las personas se encuentran.
         </p>
+        <form class="contact-form hero-contact reveal" style="--d:1000ms" novalidate
+              action="https://nbnpeoiqiakwnnkorxim.supabase.co/functions/v1/richard-atelier-contact-mail" method="post"
+              data-endpoint="https://nbnpeoiqiakwnnkorxim.supabase.co/functions/v1/richard-atelier-contact-mail"
+              data-success-url="../danke/"
+              data-msg-sending="Enviando …"
+              data-msg-error="Error al enviar. Inténtalo de nuevo más tarde."
+              data-msg-invalid="Introduce un correo electrónico y un número de teléfono válidos.">
+          <input type="hidden" name="lead_id" value="">
+          <input type="hidden" name="interesse" value="gastronomie">
+          <span class="hero-contact-label reveal" style="--d:950ms">Consulta directa</span>
+          <div class="hp-field" aria-hidden="true">
+            <label for="hc-company">Empresa (dejar en blanco)</label>
+            <input id="hc-company" type="text" name="company" tabindex="-1" autocomplete="off">
+          </div>
+          <input type="email" name="email" placeholder="Tu correo electrónico" autocomplete="email" inputmode="email" required aria-label="Tu correo electrónico">
+          <input type="tel" name="phone" placeholder="Tu número de teléfono" autocomplete="tel" inputmode="tel" required aria-label="Tu número de teléfono">
+          <button type="submit">Consultar</button>
+          <p class="form-note" aria-live="polite"></p>
+        </form>
+
       </div>
     </section>
 
@@ -167,6 +187,6 @@
 
   </main>
 
-  <script src="../../assets/script.js?v=20260804n"></script>
+  <script src="../../assets/script.js?v=20260804o"></script>
 </body>
 </html>

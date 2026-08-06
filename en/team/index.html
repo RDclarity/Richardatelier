@@ -3,12 +3,18 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Team — Richard Atelier</title>
-  <meta name="description" content="The team behind Richard Atelier — human-centered living design from Vienna and New York.">
-  <link rel="stylesheet" href="../../assets/styles.css?v=20260804n">
-  <script src="../../assets/analytics.js?v=20260804n"></script>
+  <title>Richard — the curator — Richard Atelier</title>
+  <meta name="description" content="Richard Dobrohruschka — the curator behind Richard Atelier. From three generations of Viennese carpentry to human-centered living design.">
+  <link rel="canonical" href="https://richardatelier.com/en/team/">
+  <link rel="alternate" hreflang="de" href="https://richardatelier.com/team/">
+  <link rel="alternate" hreflang="en" href="https://richardatelier.com/en/team/">
+  <link rel="alternate" hreflang="it" href="https://richardatelier.com/it/team/">
+  <link rel="alternate" hreflang="es" href="https://richardatelier.com/es/team/">
+  <link rel="stylesheet" href="../../assets/styles.css?v=20260804o">
+  <script src="../../assets/analytics.js?v=20260804o"></script>
+  <noscript><style>.reveal,.reveal-line{opacity:1!important;transform:none!important}.figure .reveal-img{clip-path:none!important}</style></noscript>
 </head>
-<body data-theme="light" class="static-page">
+<body data-theme="light">
 
   <a class="ui-brand" href="../" aria-label="Richard Atelier — back to home">
     <span class="brand-line" aria-hidden="true"></span>
@@ -19,7 +25,7 @@
     <a href="../references/">References</a>
     <a href="../hospitality/">Commercial</a>
     <a href="../bathroom-renovation/" class="ui-menu-bad">Bath</a>
-    <a href="../team/" aria-current="page">Team</a>
+    <a href="./" aria-current="page">Team</a>
     <a href="../#kontakt" class="ui-menu-contact">Contact</a>
   </nav>
 
@@ -30,30 +36,145 @@
     <a href="../../es/team/" hreflang="es" lang="es">ES</a>
   </nav>
 
-  <main class="qpage-main qpage-main--wide">
-    <div class="qpage-intro">
-      <p class="eyebrow">Team</p>
-      <h1 class="display">The people behind Richard Atelier.</h1>
-      <p class="lede">
-        A small, precise team — centered on the person the design is for.
-      </p>
+  <div class="ui-clocks" aria-hidden="true">
+    <span class="clock clock--vie">VIE <span data-clock="vie">--:--</span></span>
+    <span class="clock clock--nyc">NYC <span data-clock="nyc">--:--</span></span>
+  </div>
+
+  <nav aria-label="Main menu">
+    <ol class="ui-dots">
+      <li data-active="true" style="--tip:var(--subway-yellow); --tip-text:#151310"><button type="button" aria-label="1 — Richard">N</button><span class="dot-tip" aria-hidden="true">Richard</span></li>
+      <li style="--tip:var(--subway-green);"><button type="button" aria-label="2 — Curator">6</button><span class="dot-tip" aria-hidden="true">Curator</span></li>
+      <li style="--tip:var(--subway-magenta);"><button type="button" aria-label="3 — Origins">7</button><span class="dot-tip" aria-hidden="true">Origins</span></li>
+      <li style="--tip:var(--subway-blue);"><button type="button" aria-label="4 — Atelier">A</button><span class="dot-tip" aria-hidden="true">Atelier</span></li>
+      <li style="--tip:var(--subway-orange);"><button type="button" aria-label="5 — Attitude">D</button><span class="dot-tip" aria-hidden="true">Attitude</span></li>
+      <li style="--tip:var(--subway-red);"><button type="button" aria-label="6 — Contact">1</button><span class="dot-tip" aria-hidden="true">Contact</span></li>
+    </ol>
+  </nav>
+
+  <main class="deck">
+    <div class="thread-layer" aria-hidden="true">
+      <svg width="100%" height="100%" preserveAspectRatio="none">
+        <path class="thread-path" d=""></path>
+      </svg>
     </div>
 
-    <div class="team-grid">
-      <div class="team-card">
-        <img src="../../assets/img/richard-atelier-03.jpg"
-             alt="Placeholder: editorial portrait of Richard Dobrohruschka" loading="lazy"><span class="ai-disclosure">AI-GENERATED</span>
-        <p class="team-card-role">Curator</p>
-        <h2 class="team-card-name">Richard Dobrohruschka</h2>
-        <p class="team-card-bio">
-          Richard doesn't guide you through a product range, but through a way of life — from
-          the first line on paper, hand in hand, for decades to come. Designer of life
-          situations, translator of personality, partner at eye level.
+    <!-- 01 · Hero -->
+    <section class="slide slide--hero" data-theme="light" aria-label="Richard">
+      <div class="px-group" data-px="0.15">
+        <p class="eyebrow reveal" style="--d:150ms">The atelier</p>
+        <h1 class="display reveal" style="--d:350ms">Curator, creative mind, <strong>companion.</strong></h1>
+        <p class="lede reveal" style="--d:600ms">
+          Behind Richard Atelier is a person who doesn't guide you through a product range, but through a way of living — from the first line into old age, hand in hand.
+        </p>
+        <form class="contact-form hero-contact reveal" style="--d:1000ms" novalidate
+              action="https://nbnpeoiqiakwnnkorxim.supabase.co/functions/v1/richard-atelier-contact-mail" method="post"
+              data-endpoint="https://nbnpeoiqiakwnnkorxim.supabase.co/functions/v1/richard-atelier-contact-mail"
+              data-success-url="../danke/"
+              data-msg-sending="Sending …"
+              data-msg-error="Sending failed. Please try again later."
+              data-msg-invalid="Please enter a valid email address and phone number.">
+          <input type="hidden" name="lead_id" value="">
+          <input type="hidden" name="interesse" value="wohnraum">
+          <span class="hero-contact-label reveal" style="--d:950ms">Inquire directly</span>
+          <div class="hp-field" aria-hidden="true">
+            <label for="hc-company">Company (please leave blank)</label>
+            <input id="hc-company" type="text" name="company" tabindex="-1" autocomplete="off">
+          </div>
+          <input type="email" name="email" placeholder="Your email address" autocomplete="email" inputmode="email" required aria-label="Your email address">
+          <input type="tel" name="phone" placeholder="Your phone number" autocomplete="tel" inputmode="tel" required aria-label="Your phone number">
+          <button type="submit">Inquire</button>
+          <p class="form-note" aria-live="polite"></p>
+        </form>
+      </div>
+    </section>
+
+    <!-- 02 · Der Kurator -->
+    <section class="slide slide--richard" data-theme="light" aria-label="The curator">
+      <figure class="figure" data-px="-0.09">
+        <img class="reveal-img" src="../../assets/img/richard-atelier-03.jpg"
+             alt="Editorial portrait of Richard Dobrohruschka"
+             width="1500" height="2000"><span class="ai-disclosure">AI-GENERATED</span>
+        <figcaption class="figure-caption reveal" style="--d:500ms">Richard Dobrohruschka · The curator</figcaption>
+      </figure>
+      <div class="split-copy" data-px="0.16">
+        <p class="eyebrow reveal" style="--d:150ms">The curator</p>
+        <h2 class="display reveal" style="--d:300ms">Richard translates <strong>personality into space.</strong></h2>
+        <p class="lede reveal" style="--d:550ms">
+          A curator is neither a salesperson nor a decorator. Richard listens, orders, selects — and brings light, wood, floor, colour and form together into a concept that grows out of your life, not out of a catalogue. He remains the single point of contact, from the first sketch to the finished handover.
         </p>
       </div>
-    </div>
+    </section>
+
+    <!-- 03 · Herkunft -->
+    <section class="slide slide--split split--imgright" data-theme="light" aria-label="Origins">
+      <figure class="figure" data-px="-0.09">
+        <img class="reveal-img" src="../../assets/img/richard-atelier-01.jpg"
+             alt="Placeholder: workshop and craft"
+             width="1600" height="2000"><span class="ai-disclosure">AI-GENERATED</span>
+        <figcaption class="figure-caption reveal" style="--d:500ms">Viennese carpentry since 1935</figcaption>
+      </figure>
+      <div class="split-copy" data-px="0.16">
+        <p class="eyebrow reveal" style="--d:150ms">Origins</p>
+        <h2 class="display reveal" style="--d:300ms">Raised between <strong>workshop and drawing board.</strong></h2>
+        <p class="lede reveal" style="--d:550ms">
+          Richard's path begins in the craft: in a Viennese carpentry tradition founded in 1935 by Leopold Dobrohruschka and carried on today in the third generation. Between workbench and floor plan, Richard learned that good design never ends with how something looks — it has to hold, to function, and to last for decades.
+        </p>
+      </div>
+    </section>
+
+    <!-- 04 · Vom Möbel zum Lebenskonzept -->
+    <section class="slide slide--feature" data-theme="dark" aria-label="Tischlerkultur × Richard Atelier">
+      <img class="feature-media" src="../../assets/img/richard-atelier-02.jpg"
+           alt="Placeholder: design meets craft"><span class="ai-disclosure">AI-GENERATED</span>
+      <div class="px-group" data-px="0.15">
+        <p class="eyebrow reveal">Tischlerkultur × Richard Atelier</p>
+        <h2 class="display reveal" style="--d:300ms">From furniture <strong>to a way of living.</strong></h2>
+        <p class="lede reveal" style="--d:550ms">
+          It didn't begin with an idea, but with the wish for more: people wanted not just furniture, but atmosphere, identity, spaces that tell their story. Richard Atelier designs living concepts instead of individual pieces — combining the design with the precise craftsmanship of Tischlerkultur. Design, planning and execution from one coordinated hand.
+        </p>
+      </div>
+    </section>
+
+    <!-- 05 · Haltung / Philosophie -->
+    <section class="slide slide--split" data-theme="light" aria-label="Attitude">
+      <figure class="figure" data-px="-0.09">
+        <img class="reveal-img" src="../../assets/img/richard-atelier-03.jpg"
+             alt="Placeholder: curated living space"
+             width="1500" height="2000"><span class="ai-disclosure">AI-GENERATED</span>
+        <figcaption class="figure-caption reveal" style="--d:500ms">The person at the centre</figcaption>
+      </figure>
+      <div class="split-copy" data-px="0.16">
+        <p class="eyebrow reveal" style="--d:150ms">Attitude</p>
+        <h2 class="display reveal" style="--d:300ms">“Spaces that aren't just built, <strong>but lived.”</strong></h2>
+        <p class="lede reveal" style="--d:550ms">
+          This sentence is Richard's measure. It never begins with the floor plan, but with the person: how do you want to live? Everything else grows from the answer.
+        </p>
+        <ul class="richard-roles reveal" style="--d:750ms">
+          <li>Designer of life situations</li>
+          <li>Translator of personality</li>
+          <li>A partner as an equal</li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- 06 · Kontakt -->
+    <section class="slide slide--contact" data-theme="dark" aria-label="Your project">
+      <div class="px-group" data-px="0.15">
+        <p class="eyebrow reveal">Your project</p>
+        <h2 class="display reveal" style="--d:300ms">Get to <strong>know Richard.</strong></h2>
+        <p class="lede reveal" style="--d:500ms">
+          Every project begins with a conversation — and with the question of how you want to live.
+        </p>
+        <a class="cta-button reveal" style="--d:650ms" href="../#kontakt">Send an inquiry now</a>
+      </div>
+      <div class="contact-footer">
+        Vienna<br>New York
+      </div>
+    </section>
+
   </main>
 
-  <div class="static-footer">Vienna<br>New York</div>
+  <script src="../../assets/script.js?v=20260804o"></script>
 </body>
 </html>

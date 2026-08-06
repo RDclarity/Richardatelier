@@ -315,8 +315,10 @@
     return Date.now().toString(36) + "-" + Math.random().toString(36).slice(2, 10);
   }
 
-  var form = document.querySelector(".contact-form");
-  if (form) {
+  /* Alle .contact-form-Elemente auf der Seite verdrahten — es kann
+     mehrere geben (kompaktes Schnellkontakt-Formular oben im Hero UND
+     das ausführliche unten in der Kontakt-Folie). */
+  function wireContactForm(form) {
     var endpoint = form.getAttribute("data-endpoint") || "https://api.web3forms.com/submit";
     var successUrl = form.getAttribute("data-success-url") || "danke/";
     var leadInput = form.querySelector("input[name='lead_id']");
@@ -325,8 +327,9 @@
     /* Wohnraum/Gastronomie-Auswahl: einfache Chip-Gruppe mit genau
        einer aktiven Option, Wert landet im Hidden-Feld "interesse"
        und steuert später auf der Danke-Seite, zu welchem
-       Projektblatt weitergeleitet wird. */
-    var interesseInput = form.querySelector("#interesse");
+       Projektblatt weitergeleitet wird. Das kompakte Hero-Formular
+       hat diese Chips nicht — dann bleibt interesseInput schlicht null. */
+    var interesseInput = form.querySelector("input[name='interesse']");
     var interesseChips = Array.prototype.slice.call(form.querySelectorAll(".interesse-row .chip"));
     interesseChips.forEach(function (chip) {
       chip.addEventListener("click", function () {
@@ -373,6 +376,7 @@
         });
     });
   }
+  Array.prototype.slice.call(document.querySelectorAll(".contact-form")).forEach(wireContactForm);
 
   /* ----------------------------------------------------------
      8 | Lebendiger Hintergrund (nur helle Slides)

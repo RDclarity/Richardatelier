@@ -5,8 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Riferimenti — Richard Atelier</title>
   <meta name="description" content="Riferimenti selezionati di Richard Atelier — spazi abitativi curati, Human-Centered Living Design.">
-  <link rel="stylesheet" href="../../assets/styles.css?v=20260804n">
-  <script src="../../assets/analytics.js?v=20260804n"></script>
+  <link rel="stylesheet" href="../../assets/styles.css?v=20260804o">
+  <script src="../../assets/analytics.js?v=20260804o"></script>
   <noscript><style>.reveal,.reveal-line{opacity:1!important;transform:none!important}.figure .reveal-img{clip-path:none!important}</style></noscript>
 </head>
 <body data-theme="light">
@@ -62,6 +62,26 @@
           Ogni progetto inizia con la stessa domanda: come vuoi vivere? Uno sguardo su
           situazioni abitative curate — dal punto di partenza alla casa finita.
         </p>
+        <form class="contact-form hero-contact reveal" style="--d:1000ms" novalidate
+              action="https://nbnpeoiqiakwnnkorxim.supabase.co/functions/v1/richard-atelier-contact-mail" method="post"
+              data-endpoint="https://nbnpeoiqiakwnnkorxim.supabase.co/functions/v1/richard-atelier-contact-mail"
+              data-success-url="../danke/"
+              data-msg-sending="Invio in corso …"
+              data-msg-error="Invio non riuscito. Riprova più tardi."
+              data-msg-invalid="Inserisci un'email e un numero di telefono validi.">
+          <input type="hidden" name="lead_id" value="">
+          <input type="hidden" name="interesse" value="wohnraum">
+          <span class="hero-contact-label reveal" style="--d:950ms">Richiedi subito</span>
+          <div class="hp-field" aria-hidden="true">
+            <label for="hc-company">Azienda (lasciare vuoto)</label>
+            <input id="hc-company" type="text" name="company" tabindex="-1" autocomplete="off">
+          </div>
+          <input type="email" name="email" placeholder="La tua email" autocomplete="email" inputmode="email" required aria-label="La tua email">
+          <input type="tel" name="phone" placeholder="Il tuo numero di telefono" autocomplete="tel" inputmode="tel" required aria-label="Il tuo numero di telefono">
+          <button type="submit">Invia</button>
+          <p class="form-note" aria-live="polite"></p>
+        </form>
+
       </div>
     </section>
 
@@ -140,6 +160,6 @@
 
   </main>
 
-  <script src="../../assets/script.js?v=20260804n"></script>
+  <script src="../../assets/script.js?v=20260804o"></script>
 </body>
 </html>
