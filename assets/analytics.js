@@ -32,6 +32,51 @@
     .catch(function () { /* Kein Tracking-Config verfügbar — bleibt inaktiv, kein Fehler für den Besucher. */ });
   // -----------------------------------------------------------------
 
+  // ---- First-Party-Besuchszählung (eigenes Backend) ----------------
+  // Zählt Seitenaufrufe anonym in die eigene Richard-Atelier-Datenbank
+  // (Edge Function ra-track). Bewusst datensparsam: kein Cookie, keine
+  // IP, kein Fingerprint, nur Pfad/Referrer/Sprache und eine zufällige,
+  // rein anonyme Session-ID im sessionStorage (verfällt beim Schließen
+  // des Tabs). Weil keinerlei personenbezogene Daten verarbeitet werden,
+  // läuft diese reine Aggregat-Statistik unabhängig vom Consent-Banner.
+  var TRACK_ENDPOINT = "https://mlubcxdwwsrvcoufnkaf.supabase.co/functions/v1/ra-track";
+  function anonSessionId() {
+    try {
+      var sid = sessionStorage.getItem("ra-sid");
+      if (!sid) {
+        sid = (window.crypto && window.crypto.randomUUID)
+          ? window.crypto.randomUUID()
+          : (Date.now().toString(36) + Math.random().toString(36).slice(2, 10));
+        sessionStorage.setItem("ra-sid", sid);
+      }
+      return sid;
+    } catch (e) { return null; }
+  }
+  function trackPageView() {
+    try {
+      var payload = JSON.stringify({
+        path: location.pathname + location.search,
+        referrer: document.referrer || null,
+        lang: document.documentElement.lang || null,
+        session_id: anonSessionId(),
+      });
+      // Bewusst als CORS-"simple request" (text/plain, ohne Credentials):
+      // kein Preflight, und der Wildcard-CORS-Header des Endpoints greift.
+      // Der Server liest den Body unabhängig vom Content-Type als JSON.
+      // keepalive überlebt auch einen sofortigen Seitenwechsel.
+      fetch(TRACK_ENDPOINT, {
+        method: "POST",
+        headers: { "Content-Type": "text/plain;charset=UTF-8" },
+        body: payload,
+        keepalive: true,
+        credentials: "omit",
+        mode: "cors",
+      }).catch(function () {});
+    } catch (e) { /* Tracking ist best effort — niemals die Seite stören. */ }
+  }
+  trackPageView();
+  // -----------------------------------------------------------------
+
   var STORAGE_KEY = "ra-consent"; // "granted" | "denied"
 
   function getConsent() {
