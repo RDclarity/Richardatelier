@@ -12,7 +12,7 @@
   --umber:        #A98E6F;   /* Logo-Braun */
   --umber-deep:   #6E5C45;
   --ink:          #211D17;   /* warmes Fast-Schwarz */
-  --ink-soft:     #5C5447;
+  --ink-soft:     #453E32;   /* dunkler als zuvor (#5C5447) — bessere Lesbarkeit */
 
   /* Subway-Pastell (entsättigt) */
   --line-green:   #9CBFA6;   /* 4·5·6 */
@@ -655,6 +655,16 @@ body[data-theme="dark"] .thread-path { stroke: var(--paper); opacity: 0.7; }
   display: flex;
   border-bottom: 1px solid rgba(247, 244, 238, 0.45);
   transition: border-color 300ms;
+  /* Deckt den durchlaufenden Faden/das Kuvert dahinter ab — sonst
+     scheint die Linie durch das (sonst transparente) Eingabefeld.
+     Padding+negativer Margin lassen den Deckungsbereich leicht über
+     den Rand hinausragen, damit auch in der schmalen Lücke zwischen
+     den Zeilen (Flex-"gap") nichts von der Linie durchscheint. */
+  background: var(--ink);
+  position: relative;
+  z-index: 1;
+  padding: 0.4rem 0;
+  margin: -0.4rem 0;
 }
 .contact-row:focus-within { border-color: var(--sand); }
 .contact-form input[type="email"],
@@ -748,15 +758,19 @@ body[data-theme="dark"] .thread-path { stroke: var(--paper); opacity: 0.7; }
 .hero-contact input[type="tel"] {
   flex: 1 1 11rem;
   min-width: 0;
-  background: transparent;
+  /* Deckt den durchlaufenden Faden dahinter ab — sonst scheint die
+     Linie durch das (sonst transparente) Eingabefeld. */
+  background: var(--paper);
   border: 0;
   border-bottom: 1px solid rgba(33, 24, 16, 0.3);
   border-radius: 0;
-  padding: 0.7rem 0;
+  padding: 0.7rem 0.4rem;
   font-family: var(--font);
   font-size: 0.95rem;
   color: var(--ink);
   outline: 0;
+  position: relative;
+  z-index: 1;
   transition: border-color 250ms;
 }
 .hero-contact input[type="email"]::placeholder,
@@ -790,6 +804,7 @@ body[data-theme="dark"] .thread-path { stroke: var(--paper); opacity: 0.7; }
    bleibt der Schnellkontakt lesbar. */
 body[data-theme="dark"] .hero-contact input[type="email"],
 body[data-theme="dark"] .hero-contact input[type="tel"] {
+  background: var(--ink);
   color: var(--paper);
   border-bottom-color: rgba(247, 244, 238, 0.45);
 }
