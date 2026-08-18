@@ -221,6 +221,14 @@ body.js-snap .deck { scroll-snap-type: none; scroll-behavior: auto; }
     max-width: calc(100vw - 5rem);
   }
 }
+/* Sehr schmale Screens (z. B. iPhone SE, 320px): "——— RICHARD" links und
+   "DE EN IT ES" rechts kollidieren sonst, weil beide fix und ohne
+   Rücksicht aufeinander positioniert sind — die dekorative Linie vorm
+   Logo darf hier weichen, das schafft genug Platz. */
+@media (max-width: 380px) {
+  .ui-brand .brand-line { display: none; }
+  .ui-brand { gap: 0; }
+}
 
 .ui-lang {
   position: fixed;
@@ -375,11 +383,17 @@ body.js-snap .deck { scroll-snap-type: none; scroll-behavior: auto; }
    ------------------------------------------------------------ */
 .slide--hero {
   align-items: flex-start;
-  /* Garantierter Abstand zur fixen Marke/Navigation oben — seit dem
-     Schnellkontakt-Formular ist der Hero-Inhalt spürbar höher, bei
-     zentrierter Ausrichtung (justify-content: center von .slide) rutscht
-     er sonst auf kurzen/schmalen Viewports unter die fixe Kopfzeile. */
-  padding-top: clamp(6.5rem, 18vw, 9rem);
+  /* Nicht mehr zentriert (justify-content: center von .slide), sondern
+     fix an den reservierten Abstand oben angehängt — seit dem
+     Schnellkontakt-Formular ist der Hero-Inhalt auf kurzen/schmalen
+     Viewports oft höher als der verfügbare Platz; bei Zentrierung
+     "überläuft" ein zu hoher Block dann nach BEIDEN Seiten, wodurch der
+     obere Rand über die reservierte Zone hinaus unter die fixe Kopfzeile
+     rutscht. Mit flex-start bleibt der Startpunkt garantiert fix, der
+     Überlauf passiert nur noch unten (dort von .slide { overflow:hidden }
+     abgeschnitten — unkritisch, die Folie bleibt scrollbar erreichbar). */
+  justify-content: flex-start;
+  padding-top: clamp(7.2rem, 20vw, 9.5rem);
 }
 .slide--hero .px-group { --g: 2.2rem; }
 .hero-mark {
