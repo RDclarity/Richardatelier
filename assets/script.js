@@ -80,6 +80,36 @@
         { root: deck, threshold: 0.55 }
       );
       slides.forEach(function (s) { io.observe(s); });
+
+      /* Video erst laden, wenn seine Folie fast erreicht ist (nicht erst,
+         wenn schon sichtbar) — sonst startet die 10-MB-Datei zu spät und
+         man sieht kurz das Poster-Bild statt bereits das laufende Video.
+         Ganzheitlich betrachtet: verhindert, dass das Video die initiale
+         Ladezeit der Seite (und damit das Kontaktformular im Hero)
+         blockiert — besonders auf Mobilfunk ein spürbarer Unterschied. */
+      var lazyVideos = Array.prototype.slice.call(document.querySelectorAll("video.slide-video[data-src]"));
+      if (lazyVideos.length) {
+        var vio = new IntersectionObserver(
+          function (entries) {
+            entries.forEach(function (entry) {
+              if (!entry.isIntersecting) return;
+              var v = entry.target.querySelector("video.slide-video[data-src]");
+              if (!v) return;
+              var src = v.getAttribute("data-src");
+              v.removeAttribute("data-src");
+              var source = document.createElement("source");
+              source.src = src;
+              source.type = "video/mp4";
+              v.appendChild(source);
+              v.load();
+              v.play().catch(function () {});
+              vio.unobserve(entry.target);
+            });
+          },
+          { root: deck, rootMargin: "100% 0px 100% 0px" }
+        );
+        lazyVideos.forEach(function (v) { vio.observe(v.closest(".slide")); });
+      }
     } else {
       slides.forEach(function (s) { s.classList.add("is-visible"); });
     }
