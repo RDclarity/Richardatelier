@@ -373,7 +373,14 @@ body.js-snap .deck { scroll-snap-type: none; scroll-behavior: auto; }
 /* ------------------------------------------------------------
    Slide 1 — Hero
    ------------------------------------------------------------ */
-.slide--hero { align-items: flex-start; }
+.slide--hero {
+  align-items: flex-start;
+  /* Garantierter Abstand zur fixen Marke/Navigation oben — seit dem
+     Schnellkontakt-Formular ist der Hero-Inhalt spürbar höher, bei
+     zentrierter Ausrichtung (justify-content: center von .slide) rutscht
+     er sonst auf kurzen/schmalen Viewports unter die fixe Kopfzeile. */
+  padding-top: clamp(6.5rem, 18vw, 9rem);
+}
 .slide--hero .px-group { --g: 2.2rem; }
 .hero-mark {
   display: flex;
