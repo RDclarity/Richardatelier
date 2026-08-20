@@ -990,6 +990,58 @@ body.static-page {
   line-height: 2;
 }
 
+/* Kleine Links unter dem Vienna/New-York-Schriftzug (Impressum,
+   Datenschutz) — teilt sich die Klasse mit .footer-links, damit
+   Hover/Layout identisch sind, nur eng an den Kontext angepasst. */
+.static-footer .footer-links {
+  justify-content: flex-end;
+  margin-top: 0.4rem;
+  font-size: 0.6rem;
+  letter-spacing: 0.1em;
+  text-transform: none;
+}
+
+/* ------------------------------------------------------------
+   Rechtstexte — Impressum, Datenschutzerklärung
+   ------------------------------------------------------------ */
+.legal-page {
+  max-width: 42rem;
+  margin: 0 auto;
+  padding: clamp(6rem, 16vh, 8.5rem) clamp(1.6rem, 6vw, 2rem) 8rem;
+}
+.legal-page .display { max-width: none; margin-bottom: 0.6rem; }
+.legal-page .lede { max-width: none; margin-bottom: 3rem; }
+.legal-page h2 {
+  font-size: clamp(1rem, 2.2vw, 1.2rem);
+  font-weight: 500;
+  color: var(--ink);
+  margin: 2.6rem 0 0.9rem;
+  padding-top: 1.8rem;
+  border-top: 1px solid rgba(33, 24, 16, 0.12);
+}
+.legal-page h2:first-of-type { border-top: 0; padding-top: 0; margin-top: 0; }
+.legal-page p, .legal-page li {
+  font-size: 0.92rem;
+  line-height: 1.7;
+  color: var(--ink-soft);
+}
+.legal-page p { margin: 0 0 1.1rem; }
+.legal-page ul { margin: 0 0 1.1rem; padding-left: 1.3rem; }
+.legal-page li { margin-bottom: 0.4rem; }
+.legal-page a { color: var(--umber-deep); text-decoration: underline; text-underline-offset: 0.15em; }
+.legal-page a:hover { color: var(--ink); }
+.legal-page .legal-meta {
+  font-size: 0.8rem;
+  color: var(--ink-soft);
+  margin-bottom: 2.4rem;
+}
+.legal-page .legal-translation-note {
+  font-size: 0.78rem;
+  font-style: italic;
+  color: var(--sand);
+  margin: -1.6rem 0 2.6rem;
+}
+
 /* ------------------------------------------------------------
    Fragebogen — klickbare Fragen (Chips), Datei-Upload
    ------------------------------------------------------------ */

@@ -174,11 +174,14 @@
   // ---- Consent-Banner (nur einblenden, solange keine Wahl
   // getroffen wurde) --------------------------------------------------
   var LANG = (document.documentElement.lang || "de").slice(0, 2);
+  // Root-relative (nicht "../"-basiert), weil analytics.js auf jeder Seite in
+  // beliebiger Verzeichnistiefe läuft und die eigene Tiefe nicht kennt —
+  // funktioniert unter der eigenen Domain unabhängig von der Aufruftiefe.
   var TXT = {
-    de: { text: "Wir verwenden Cookies für Analyse und Marketing, um diese Website zu verbessern.", accept: "Akzeptieren", decline: "Ablehnen" },
-    en: { text: "We use cookies for analytics and marketing to improve this website.", accept: "Accept", decline: "Decline" },
-    it: { text: "Utilizziamo cookie per analisi e marketing per migliorare questo sito.", accept: "Accetta", decline: "Rifiuta" },
-    es: { text: "Utilizamos cookies con fines analíticos y de marketing para mejorar este sitio.", accept: "Aceptar", decline: "Rechazar" },
+    de: { text: "Wir verwenden Cookies für Analyse und Marketing, um diese Website zu verbessern. Mehr dazu in unserer ", accept: "Akzeptieren", decline: "Ablehnen", privacyHref: "/datenschutz/", privacyLabel: "Datenschutzerklärung" },
+    en: { text: "We use cookies for analytics and marketing to improve this website. More in our ", accept: "Accept", decline: "Decline", privacyHref: "/en/privacy-policy/", privacyLabel: "privacy policy" },
+    it: { text: "Utilizziamo cookie per analisi e marketing per migliorare questo sito. Maggiori informazioni nella nostra ", accept: "Accetta", decline: "Rifiuta", privacyHref: "/it/privacy/", privacyLabel: "informativa sulla privacy" },
+    es: { text: "Utilizamos cookies con fines analíticos y de marketing para mejorar este sitio. Más información en nuestra ", accept: "Aceptar", decline: "Rechazar", privacyHref: "/es/privacidad/", privacyLabel: "política de privacidad" },
   };
   var t = TXT[LANG] || TXT.de;
 
@@ -196,7 +199,13 @@
 
     var p = document.createElement("p");
     p.style.cssText = "margin:0;flex:1 1 260px;min-width:200px;";
-    p.textContent = t.text;
+    p.appendChild(document.createTextNode(t.text));
+    var privacyLink = document.createElement("a");
+    privacyLink.href = t.privacyHref;
+    privacyLink.textContent = t.privacyLabel;
+    privacyLink.style.cssText = "color:inherit;text-decoration:underline;text-underline-offset:0.15em;";
+    p.appendChild(privacyLink);
+    p.appendChild(document.createTextNode("."));
 
     var actions = document.createElement("div");
     actions.style.cssText = "display:flex;gap:0.6rem;flex:0 0 auto;";
