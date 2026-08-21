@@ -461,14 +461,14 @@ body.js-snap .deck { scroll-snap-type: none; scroll-behavior: auto; }
 .thread-path {
   fill: none;
   stroke: var(--ink-soft);
-  stroke-width: 2;
+  stroke-width: 1.4;
   stroke-linecap: round;
   stroke-linejoin: round;
-  opacity: 0.5;
+  opacity: 0.32;
   transition: stroke 600ms, opacity 600ms;
 }
 body[data-theme="sand"] .thread-path,
-body[data-theme="dark"] .thread-path { stroke: var(--paper); opacity: 0.7; }
+body[data-theme="dark"] .thread-path { stroke: var(--paper); opacity: 0.45; }
 
 /* Bilder & Textspalten liegen über dem Faden */
 .figure, .split-copy, .px-group { position: relative; z-index: 6; }

@@ -491,13 +491,17 @@
 
   function makeThreadModel(n) {
     var bx = [], i;
-    for (i = 0; i <= n; i++) bx[i] = rand(0.34, 0.66);
+    /* Etwas seitlicher als früher (0.34–0.66 war ein enger Korridor
+       durch die Bildschirmmitte, genau dort, wo beim Scrollen der Blick
+       liegt) — die Übergangspunkte zwischen den Folien dürfen jetzt
+       weiter zu den Rändern hin wandern. */
+    for (i = 0; i <= n; i++) bx[i] = rand(0.24, 0.76);
     var bands = [];
     for (i = 0; i < n; i++) {
       var s = SIDE[i] || "free", swing;
-      if (s === "L") swing = rand(0.14, 0.34);
-      else if (s === "R") swing = rand(0.66, 0.86);
-      else swing = rand(0.26, 0.74);
+      if (s === "L") swing = rand(0.08, 0.24);
+      else if (s === "R") swing = rand(0.76, 0.92);
+      else swing = rand(0.16, 0.84);
       bands.push({
         swing: swing,
         loopR: rand(0.03, 0.055),
