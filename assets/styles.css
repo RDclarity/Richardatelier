@@ -496,6 +496,25 @@ body.js-snap .deck { scroll-snap-type: none; scroll-behavior: auto; }
   text-transform: uppercase;
   color: var(--umber);
 }
+/* Telefonnummer direkt im Hero — steht sonst nur klein im Impressum,
+   für einen Anruf-getriebenen Betrieb wie diesen soll sie aber sofort
+   sichtbar und antippbar sein, nicht erst am Ende der Seite. */
+.hero-phone {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5em;
+  margin-top: clamp(1.4rem, 4vw, 2rem);
+  font-size: 0.82rem;
+  font-weight: 500;
+  letter-spacing: 0.05em;
+  color: var(--umber-deep);
+  text-decoration: none;
+  border-bottom: 1px solid currentColor;
+  padding-bottom: 0.2em;
+  width: fit-content;
+  transition: color 250ms;
+}
+.hero-phone:hover { color: var(--ink); }
 /* ------------------------------------------------------------
    Roter Faden — EINE durchgehende Linie über die gesamte
    Scroll-Höhe; scrollt mit dem Inhalt (absolute im Deck).
@@ -723,6 +742,28 @@ body[data-theme="dark"] .thread-path { stroke: var(--paper); opacity: 0.45; }
   line-height: 1.3;
   letter-spacing: 0.005em;
 }
+/* Telefonnummer als klare Alternative zum Formular — direkt anrufen
+   statt tippen. Eigener Hintergrund wie .contact-row, damit der Faden
+   dahinter nicht durchscheint. */
+.contact-phone {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5em;
+  width: fit-content;
+  font-size: 0.85rem;
+  font-weight: 500;
+  letter-spacing: 0.03em;
+  color: var(--sand);
+  text-decoration: none;
+  border-bottom: 1px solid currentColor;
+  padding: 0.3rem 0.1rem;
+  margin: -0.3rem 0 0.4rem;
+  background: var(--ink);
+  position: relative;
+  z-index: 1;
+  transition: color 250ms;
+}
+.contact-phone:hover { color: var(--paper); }
 .contact-row {
   display: flex;
   border-bottom: 1px solid rgba(247, 244, 238, 0.45);
