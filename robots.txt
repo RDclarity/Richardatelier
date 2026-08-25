@@ -1,0 +1,65 @@
+User-agent: *
+Allow: /
+
+# Danke- und Formular-/Fragebogen-Seiten sind bereits per
+# <meta name="robots" content="noindex"> ausgeschlossen — hier zusätzlich
+# der Vollständigkeit halber.
+Disallow: /danke/
+Disallow: /en/danke/
+Disallow: /it/danke/
+Disallow: /es/danke/
+Disallow: /projektblatt-privatbereich/
+Disallow: /projektblatt-gastronomie/
+Disallow: /projektinfos/
+Disallow: /en/project-brief-private/
+Disallow: /en/project-brief-commercial/
+Disallow: /en/project-info/
+Disallow: /it/scheda-progetto-privato/
+Disallow: /it/scheda-progetto-commerciale/
+Disallow: /es/ficha-proyecto-privado/
+Disallow: /es/ficha-proyecto-comercial/
+Disallow: /karriere/bewerbung/
+Disallow: /en/careers/apply/
+Disallow: /it/carriera/candidatura/
+Disallow: /es/carrera/solicitud/
+
+# KI-Crawler ausdrücklich erlaubt, damit Assistenten wie ChatGPT,
+# Claude, Perplexity & Co. die Seite korrekt zusammenfassen/zitieren
+# können, statt sie mangels Erlaubnis zu überspringen.
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+Sitemap: https://richardatelier.com/sitemap.xml

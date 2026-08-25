@@ -1443,10 +1443,21 @@ body.static-page {
    sicher vom rechten Rand fernzuhalten. Untereinander statt nebeneinander
    ist auf schmalen Screens eindeutig schmaler und damit sicher. */
 @media (max-width: 600px) {
+  .contact-footer {
+    /* Angehoben, damit der jetzt mehrzeilige Link-Block (3 Zeilen
+       untereinander) komplett über der Uhren-Zeile endet, statt mit ihr
+       auf derselben Höhe zu kollidieren (siehe .footer-links unten). */
+    bottom: clamp(2.6rem, 8vw, 3.4rem);
+  }
   .contact-footer .footer-links {
     flex-direction: column;
     align-items: flex-end;
     gap: 0.35rem;
+    /* Erbt sonst .contact-footers sehr weite letter-spacing (0.42em) —
+       bei "DATENSCHUTZ"/"ANRUFEN" wäre das auf schmalen Screens (320px)
+       zusätzlich unnötig breit. */
+    font-size: 0.6rem;
+    letter-spacing: 0.12em;
   }
 }
 
