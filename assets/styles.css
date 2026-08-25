@@ -490,31 +490,51 @@ body.js-snap .deck { scroll-snap-type: none; scroll-behavior: auto; }
   letter-spacing: 0.04em;
   color: var(--ink-soft);
 }
+/* Kurzer Beschreibungssatz — sagt konkret, was Richard Atelier macht,
+   statt nur die Stimmungs-Tagline stehen zu lassen. Wichtig gerade für
+   Besucher, die über eine Werbeanzeige direkt im Hero landen und noch
+   nichts über den Betrieb wissen. */
+.hero-desc {
+  font-size: clamp(0.85rem, 2.1vw, 1rem);
+  line-height: 1.6;
+  color: var(--ink-soft);
+  max-width: 34ch;
+  margin-top: 0.3rem;
+}
 .hero-cities {
   font-size: 0.66rem;
   letter-spacing: 0.4em;
   text-transform: uppercase;
   color: var(--umber);
 }
-/* Telefonnummer direkt im Hero — steht sonst nur klein im Impressum,
-   für einen Anruf-getriebenen Betrieb wie diesen soll sie aber sofort
-   sichtbar und antippbar sein, nicht erst am Ende der Seite. */
-.hero-phone {
+/* Zwei gleichwertige Handlungsoptionen statt nur der Telefonnummer:
+   direkt anrufen ODER zum echten Formular auf der Kontakt-Folie
+   scrollen — für alle, die lieber schreiben als anrufen. */
+.hero-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1.6rem;
+  margin-top: clamp(1.4rem, 4vw, 2rem);
+}
+.hero-phone,
+.hero-cta-secondary {
   display: inline-flex;
   align-items: center;
   gap: 0.5em;
-  margin-top: clamp(1.4rem, 4vw, 2rem);
   font-size: 0.82rem;
   font-weight: 500;
   letter-spacing: 0.05em;
-  color: var(--umber-deep);
   text-decoration: none;
   border-bottom: 1px solid currentColor;
   padding-bottom: 0.2em;
   width: fit-content;
   transition: color 250ms;
 }
+.hero-phone { color: var(--umber-deep); }
 .hero-phone:hover { color: var(--ink); }
+.hero-cta-secondary { color: var(--ink-soft); }
+.hero-cta-secondary:hover { color: var(--ink); }
 /* ------------------------------------------------------------
    Roter Faden — EINE durchgehende Linie über die gesamte
    Scroll-Höhe; scrollt mit dem Inhalt (absolute im Deck).
