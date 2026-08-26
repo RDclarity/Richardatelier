@@ -498,7 +498,7 @@ body.js-snap .deck { scroll-snap-type: none; scroll-behavior: auto; }
   font-size: clamp(0.85rem, 2.1vw, 1rem);
   line-height: 1.6;
   color: var(--ink-soft);
-  max-width: 34ch;
+  max-width: 42ch;
   margin-top: 0.3rem;
 }
 .hero-cities {
