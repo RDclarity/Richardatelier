@@ -807,8 +807,20 @@ body[data-theme="dark"] .thread-path { stroke: var(--paper); opacity: 0.45; }
 .contact-form input::placeholder { color: rgba(247, 244, 238, 0.4); }
 .contact-actions { display: flex; justify-content: flex-end; }
 
-/* Wohnraum/Gastronomie-Auswahl im Kontaktformular — Chips auf dunklem Grund */
-.interesse-row { display: flex; flex-direction: column; gap: 0.6rem; }
+/* Wohnraum/Gastronomie-Auswahl im Kontaktformular — Chips auf dunklem Grund.
+   Gleiche Maskierung wie .contact-row: deckt den durchlaufenden Faden/das
+   Kuvert dahinter ab — sonst scheinen die Linien durch die (teils
+   transparenten) Chips und sehen wie ein Darstellungsfehler aus. */
+.interesse-row {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+  background: var(--ink);
+  position: relative;
+  z-index: 1;
+  padding: 0.4rem 0;
+  margin: -0.4rem 0;
+}
 .interesse-label {
   font-size: 0.62rem;
   letter-spacing: 0.28em;
