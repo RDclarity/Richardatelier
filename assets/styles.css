@@ -330,15 +330,23 @@ body[data-theme="sand"] .ui-menu { background: var(--ink); box-shadow: 0 16px 40
   list-style: none;
 }
 .ui-dots li { position: relative; display: flex; align-items: center; }
+/* Sichtbarer Punkt bleibt 14px (bewusst kleine Subway-Optik), aber die
+   tatsächliche Klick-/Tippfläche wird über padding auf 24px vergrößert
+   (WCAG-Mindestgröße für Touch-Ziele) — background-clip:content-box hält
+   die Farbe auf die sichtbaren 14px begrenzt, der Rand bleibt transparent,
+   aber klickbar. Der Insetring/Active-Glow wandert dafür auf ::after,
+   exakt auf den sichtbaren Kreis ausgerichtet, damit optisch nichts sich
+   ändert. */
 .ui-dots button {
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 14px; height: 14px;
+  width: 24px; height: 24px;
+  padding: 5px;
   border-radius: 50%;
   border: none;
   background: var(--tip, var(--sand));
-  box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.16);
+  background-clip: content-box;
   color: var(--tip-text, #fff);
   font-family: var(--font);
   font-size: 6.6px;
@@ -346,12 +354,23 @@ body[data-theme="sand"] .ui-menu { background: var(--ink); box-shadow: 0 16px 40
   font-weight: 700;
   line-height: 1;
   cursor: pointer;
-  padding: 0;
-  transition: transform 300ms var(--ease-out), box-shadow 300ms;
+  position: relative;
+  transition: transform 300ms var(--ease-out);
+}
+.ui-dots button::after {
+  content: "";
+  position: absolute;
+  inset: 5px;
+  border-radius: 50%;
+  box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.16);
+  pointer-events: none;
+  transition: box-shadow 300ms;
 }
 .ui-dots button:hover { transform: scale(1.18); }
 .ui-dots li[data-active="true"] button {
   transform: scale(1.22);
+}
+.ui-dots li[data-active="true"] button::after {
   box-shadow: 0 0 0 2px var(--paper), 0 0 0 3.5px var(--tip);
 }
 
@@ -455,17 +474,24 @@ body[data-theme="sand"] .ui-menu { background: var(--ink); box-shadow: 0 16px 40
   letter-spacing: 0.34em;
   text-transform: uppercase;
   white-space: nowrap;
-  /* Hover: Bild scheint durch die Buchstaben
-     (Pfad relativ zur CSS-Datei; später echtes Foto einsetzen) */
-  background-image: url("../assets/img/richard-atelier-011.png");
-  background-size: cover;
-  background-position: center;
-  -webkit-background-clip: text;
-  background-clip: text;
-  transition: color 650ms var(--ease-out);
   cursor: default;
 }
-.hero-mark .mark-word:hover { color: transparent; }
+/* Hover: Bild scheint durch die Buchstaben. Nur auf Geräten mit echtem
+   Hover (Maus) definiert — auf Touch-Geräten (kein :hover, der Großteil
+   des Traffics) wird das Hintergrundbild dadurch gar nicht erst
+   angefordert. War vorher unbedingt gesetzt und hat auf jedem Handy-
+   Aufruf ein 1,1-MB-PNG mitgeladen, das dort nie sichtbar wurde. */
+@media (hover: hover) and (pointer: fine) {
+  .hero-mark .mark-word {
+    background-image: url("../assets/img/richard-atelier-011.jpg");
+    background-size: cover;
+    background-position: center;
+    -webkit-background-clip: text;
+    background-clip: text;
+    transition: color 650ms var(--ease-out);
+  }
+  .hero-mark .mark-word:hover { color: transparent; }
+}
 .hero-mark .mark-sub {
   display: block;
   margin-top: 0.4rem;

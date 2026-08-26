@@ -86,7 +86,17 @@
          man sieht kurz das Poster-Bild statt bereits das laufende Video.
          Ganzheitlich betrachtet: verhindert, dass das Video die initiale
          Ladezeit der Seite (und damit das Kontaktformular im Hero)
-         blockiert — besonders auf Mobilfunk ein spürbarer Unterschied. */
+         blockiert — besonders auf Mobilfunk ein spürbarer Unterschied.
+
+         rootMargin bewusst nur 50% (nicht 100%): das Video steht auf
+         Folie 3, deren Oberkante bei genau 2 Bildschirmhöhen liegt. Mit
+         100% reichte die vergrößerte Root-Zone beim Laden exakt bis
+         dorthin (2 × 100% = 2 Bildschirmhöhen) — ein Grenzfall, der laut
+         Lighthouse/PageSpeed (Moto G Power, langsames 4G) das Video
+         SOFORT beim Seitenaufruf lud, ganz ohne zu scrollen (LCP 9,9 s,
+         12 MB Payload). Mit 50% bleibt ein sicherer halber
+         Bildschirm Abstand, das Video lädt trotzdem rechtzeitig bevor
+         man dort ankommt, aber nie schon beim ersten Rendern. */
       var lazyVideos = Array.prototype.slice.call(document.querySelectorAll("video.slide-video[data-src]"));
       if (lazyVideos.length) {
         var vio = new IntersectionObserver(
@@ -106,7 +116,7 @@
               vio.unobserve(entry.target);
             });
           },
-          { root: deck, rootMargin: "100% 0px 100% 0px" }
+          { root: deck, rootMargin: "50% 0px 50% 0px" }
         );
         lazyVideos.forEach(function (v) { vio.observe(v.closest(".slide")); });
       }
