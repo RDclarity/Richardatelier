@@ -179,16 +179,68 @@ body.js-snap .deck { scroll-snap-type: none; scroll-behavior: auto; }
   text-transform: uppercase;
 }
 
-/* Hauptmenü — bleibt fix unter dem Logo stehen, "fährt" also mit
-   beim Scrollen, egal wie weit man auf einer Seite herunterkommt. */
+/* Hauptmenü — immer als Hamburger-Dropdown, auf jeder Bildschirmgröße
+   (nicht nur mobil): Klick auf .nav-toggle-btn blendet das Panel ein.
+   Reines CSS (Checkbox-Hack), damit es auch auf Seiten ohne script.js
+   funktioniert (die meisten Unterseiten laden nur analytics.js).
+   Markup: <input class="nav-toggle-input"> + <label class="nav-toggle-btn">
+   stehen unmittelbar VOR <nav class="ui-menu">, damit der
+   Geschwister-Selektor (~) greift. */
+.nav-toggle-input { display: none; }
+.nav-toggle-btn {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 4px;
+  position: fixed;
+  top: clamp(3.2rem, 8.2vw, 4.6rem);
+  left: clamp(2.4rem, 7vw, 4rem);
+  z-index: 55;
+  width: 20px;
+  height: 14px;
+  padding: 0;
+  border: 0;
+  background: none;
+  cursor: pointer;
+}
+.nav-toggle-btn span {
+  display: block;
+  width: 100%;
+  height: 1.5px;
+  background: var(--ink);
+  transition: transform 250ms, opacity 200ms;
+}
+.nav-toggle-input:checked ~ .nav-toggle-btn span:nth-child(1) { transform: translateY(5.5px) rotate(45deg); }
+.nav-toggle-input:checked ~ .nav-toggle-btn span:nth-child(2) { opacity: 0; }
+.nav-toggle-input:checked ~ .nav-toggle-btn span:nth-child(3) { transform: translateY(-5.5px) rotate(-45deg); }
+
 .ui-menu {
   position: fixed;
-  top: clamp(3.3rem, 8.4vw, 4.7rem);
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.9rem;
+  max-width: none;
+  top: calc(clamp(3.2rem, 8.2vw, 4.6rem) + 2.1rem);
   left: clamp(2.4rem, 7vw, 4rem);
   z-index: 50;
   display: flex;
-  gap: 1.3rem;
+  padding: 1.2rem 1.5rem;
+  background: var(--paper);
+  border-radius: 0.9rem;
+  box-shadow: 0 16px 40px rgba(21, 19, 16, 0.16);
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(-6px);
+  transition: opacity 220ms ease, transform 220ms ease, visibility 220ms;
 }
+.nav-toggle-input:checked ~ .ui-menu {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+body[data-theme="dark"] .ui-menu,
+body[data-theme="sand"] .ui-menu { background: var(--ink); box-shadow: 0 16px 40px rgba(0, 0, 0, 0.4); }
+
 .ui-menu a {
   text-decoration: none;
   color: var(--ink-soft);
@@ -211,67 +263,6 @@ body.js-snap .deck { scroll-snap-type: none; scroll-behavior: auto; }
    sand, siehe body[data-theme=...] .ui-menu a weiter unten) intakt
    bleibt und der Text nie mit dem Hintergrund verschmilzt. */
 .ui-menu-contact { font-weight: 700; }
-
-/* Mobil: Hamburger statt fünf umbrechender Textlinks. Reines CSS
-   (Checkbox-Hack), damit es auch auf Seiten ohne script.js
-   funktioniert (die meisten Unterseiten laden nur analytics.js).
-   Markup: <input class="nav-toggle-input"> + <label class="nav-toggle-btn">
-   stehen unmittelbar VOR <nav class="ui-menu">, damit der
-   Geschwister-Selektor (~) greift. */
-.nav-toggle-input { display: none; }
-.nav-toggle-btn { display: none; }
-@media (max-width: 600px) {
-  .nav-toggle-btn {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    gap: 4px;
-    position: fixed;
-    top: clamp(3.2rem, 8.2vw, 4.6rem);
-    left: clamp(2.4rem, 7vw, 4rem);
-    z-index: 55;
-    width: 20px;
-    height: 14px;
-    padding: 0;
-    border: 0;
-    background: none;
-    cursor: pointer;
-  }
-  .nav-toggle-btn span {
-    display: block;
-    width: 100%;
-    height: 1.5px;
-    background: var(--ink);
-    transition: transform 250ms, opacity 200ms;
-  }
-  .nav-toggle-input:checked ~ .nav-toggle-btn span:nth-child(1) { transform: translateY(5.5px) rotate(45deg); }
-  .nav-toggle-input:checked ~ .nav-toggle-btn span:nth-child(2) { opacity: 0; }
-  .nav-toggle-input:checked ~ .nav-toggle-btn span:nth-child(3) { transform: translateY(-5.5px) rotate(-45deg); }
-
-  .ui-menu {
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 0.9rem;
-    max-width: none;
-    top: calc(clamp(3.2rem, 8.2vw, 4.6rem) + 2.1rem);
-    left: clamp(2.4rem, 7vw, 4rem);
-    padding: 1.2rem 1.5rem;
-    background: var(--paper);
-    border-radius: 0.9rem;
-    box-shadow: 0 16px 40px rgba(21, 19, 16, 0.16);
-    opacity: 0;
-    visibility: hidden;
-    transform: translateY(-6px);
-    transition: opacity 220ms ease, transform 220ms ease, visibility 220ms;
-  }
-  .nav-toggle-input:checked ~ .ui-menu {
-    opacity: 1;
-    visibility: visible;
-    transform: translateY(0);
-  }
-  body[data-theme="dark"] .ui-menu,
-  body[data-theme="sand"] .ui-menu { background: var(--ink); box-shadow: 0 16px 40px rgba(0, 0, 0, 0.4); }
-}
 /* Sehr schmale Screens (z. B. iPhone SE, 320px): "——— RICHARD" links und
    "DE EN IT ES" rechts kollidieren sonst, weil beide fix und ohne
    Rücksicht aufeinander positioniert sind — die dekorative Linie vorm
