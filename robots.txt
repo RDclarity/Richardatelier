@@ -4,6 +4,10 @@ Allow: /
 # Backend/CRM — kein öffentlicher Inhalt, ohnehin per Login geschützt.
 Disallow: /admin/
 
+# Kampagnen-Landingpage — bewusst nicht verlinkt/indexiert, nur für
+# Direktaufruf über Werbeanzeigen.
+Disallow: /badezimmer/
+
 # Danke- und Formular-/Fragebogen-Seiten sind bereits per
 # <meta name="robots" content="noindex"> ausgeschlossen — hier zusätzlich
 # der Vollständigkeit halber.
