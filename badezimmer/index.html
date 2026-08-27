@@ -14,8 +14,8 @@
   <meta property="og:title" content="Badezimmer Renovierung Wien — kostenlose Erstberatung">
   <meta property="og:description" content="Ihr neues Traumbad in Wien — Konzept, Material und Umsetzung aus einer Hand. Jetzt unverbindlich anfragen oder direkt anrufen.">
   <meta property="og:image" content="https://richardatelier.com/assets/img/badrenovierung-leistungen.jpg">
-  <link rel="stylesheet" href="../assets/styles.css?v=202608065">
-  <script src="../assets/analytics.js?v=202608065"></script>
+  <link rel="stylesheet" href="../assets/styles.css?v=202608066">
+  <script src="../assets/analytics.js?v=202608066"></script>
 </head>
 <body data-theme="light" class="static-page">
 
@@ -38,16 +38,52 @@
             data-success-url="../danke/"
             data-msg-sending="Wird gesendet …"
             data-msg-error="Senden fehlgeschlagen. Bitte später erneut versuchen oder direkt anrufen."
-            data-msg-invalid="Bitte geben Sie E-Mail und Telefonnummer korrekt ein.">
+            data-msg-invalid="Bitte füllen Sie alle Pflichtfelder aus und bestätigen Sie die Datenschutzerklärung.">
         <input type="hidden" name="lead_id" value="">
         <input type="hidden" name="interesse" value="wohnraum">
-        <label for="bz-email">Kostenlose Erstberatung anfragen</label>
+        <input type="hidden" name="name" value="">
+        <label class="field-label" for="bz-vorname">Kostenlose Erstberatung anfragen</label>
         <div class="hp-field" aria-hidden="true">
           <label for="bz-company">Firma (bitte leer lassen)</label>
           <input id="bz-company" type="text" name="company" tabindex="-1" autocomplete="off">
         </div>
-        <input id="bz-email" type="email" name="email" placeholder="Ihre E-Mail-Adresse" autocomplete="email" inputmode="email" required aria-label="Ihre E-Mail-Adresse">
-        <input type="tel" name="phone" placeholder="Ihre Telefonnummer" autocomplete="tel" inputmode="tel" required aria-label="Ihre Telefonnummer">
+
+        <div class="form-row-2">
+          <div class="field">
+            <label class="field-label" for="bz-vorname">Vorname *</label>
+            <input id="bz-vorname" type="text" name="vorname" placeholder="Vorname" autocomplete="given-name" required aria-label="Vorname">
+          </div>
+          <div class="field">
+            <label class="field-label" for="bz-nachname">Nachname *</label>
+            <input id="bz-nachname" type="text" name="nachname" placeholder="Nachname" autocomplete="family-name" required aria-label="Nachname">
+          </div>
+        </div>
+
+        <div class="field">
+          <label class="field-label" for="bz-email">E-Mail-Adresse *</label>
+          <input id="bz-email" type="email" name="email" placeholder="ihre@email.at" autocomplete="email" inputmode="email" required aria-label="Ihre E-Mail-Adresse">
+        </div>
+
+        <div class="form-row-2">
+          <div class="field">
+            <label class="field-label" for="bz-phone">Telefonnummer *</label>
+            <input id="bz-phone" type="tel" name="phone" placeholder="+43 660 …" autocomplete="tel" inputmode="tel" required aria-label="Ihre Telefonnummer">
+          </div>
+          <div class="field">
+            <label class="field-label" for="bz-plz">Postleitzahl *</label>
+            <input id="bz-plz" type="text" name="plz" placeholder="z. B. 1230" autocomplete="postal-code" inputmode="numeric" pattern="[0-9]{4}" maxlength="4" required aria-label="Ihre Postleitzahl">
+          </div>
+        </div>
+
+        <label class="check-field">
+          <input type="checkbox" name="newsletter" value="ja">
+          <span>Ja, ich möchte den Newsletter mit Tipps &amp; Angeboten von Richard Atelier erhalten.</span>
+        </label>
+        <label class="check-field">
+          <input type="checkbox" name="privacy" required aria-required="true">
+          <span>Ich habe die <a href="../datenschutz/" target="_blank" rel="noopener">Datenschutzerklärung</a> gelesen und stimme der Verarbeitung meiner Daten zu. *</span>
+        </label>
+
         <button type="submit">Jetzt unverbindlich anfragen</button>
         <p class="form-note" aria-live="polite"></p>
       </form>
@@ -270,16 +306,52 @@
           data-success-url="../danke/"
           data-msg-sending="Wird gesendet …"
           data-msg-error="Senden fehlgeschlagen. Bitte später erneut versuchen oder direkt anrufen."
-          data-msg-invalid="Bitte geben Sie E-Mail und Telefonnummer korrekt ein.">
+          data-msg-invalid="Bitte füllen Sie alle Pflichtfelder aus und bestätigen Sie die Datenschutzerklärung.">
       <input type="hidden" name="lead_id" value="">
       <input type="hidden" name="interesse" value="wohnraum">
-      <label for="bz-email-2">Kostenlose Erstberatung anfragen</label>
+      <input type="hidden" name="name" value="">
+      <label class="field-label" for="bz-vorname-2">Kostenlose Erstberatung anfragen</label>
       <div class="hp-field" aria-hidden="true">
         <label for="bz-company-2">Firma (bitte leer lassen)</label>
         <input id="bz-company-2" type="text" name="company" tabindex="-1" autocomplete="off">
       </div>
-      <input id="bz-email-2" type="email" name="email" placeholder="Ihre E-Mail-Adresse" autocomplete="email" inputmode="email" required aria-label="Ihre E-Mail-Adresse">
-      <input type="tel" name="phone" placeholder="Ihre Telefonnummer" autocomplete="tel" inputmode="tel" required aria-label="Ihre Telefonnummer">
+
+      <div class="form-row-2">
+        <div class="field">
+          <label class="field-label" for="bz-vorname-2">Vorname *</label>
+          <input id="bz-vorname-2" type="text" name="vorname" placeholder="Vorname" autocomplete="given-name" required aria-label="Vorname">
+        </div>
+        <div class="field">
+          <label class="field-label" for="bz-nachname-2">Nachname *</label>
+          <input id="bz-nachname-2" type="text" name="nachname" placeholder="Nachname" autocomplete="family-name" required aria-label="Nachname">
+        </div>
+      </div>
+
+      <div class="field">
+        <label class="field-label" for="bz-email-2">E-Mail-Adresse *</label>
+        <input id="bz-email-2" type="email" name="email" placeholder="ihre@email.at" autocomplete="email" inputmode="email" required aria-label="Ihre E-Mail-Adresse">
+      </div>
+
+      <div class="form-row-2">
+        <div class="field">
+          <label class="field-label" for="bz-phone-2">Telefonnummer *</label>
+          <input id="bz-phone-2" type="tel" name="phone" placeholder="+43 660 …" autocomplete="tel" inputmode="tel" required aria-label="Ihre Telefonnummer">
+        </div>
+        <div class="field">
+          <label class="field-label" for="bz-plz-2">Postleitzahl *</label>
+          <input id="bz-plz-2" type="text" name="plz" placeholder="z. B. 1230" autocomplete="postal-code" inputmode="numeric" pattern="[0-9]{4}" maxlength="4" required aria-label="Ihre Postleitzahl">
+        </div>
+      </div>
+
+      <label class="check-field">
+        <input type="checkbox" name="newsletter" value="ja">
+        <span>Ja, ich möchte den Newsletter mit Tipps &amp; Angeboten von Richard Atelier erhalten.</span>
+      </label>
+      <label class="check-field">
+        <input type="checkbox" name="privacy" required aria-required="true">
+        <span>Ich habe die <a href="../datenschutz/" target="_blank" rel="noopener">Datenschutzerklärung</a> gelesen und stimme der Verarbeitung meiner Daten zu. *</span>
+      </label>
+
       <button type="submit">Jetzt unverbindlich anfragen</button>
       <p class="form-note" aria-live="polite"></p>
     </form>
@@ -308,15 +380,27 @@
 
         form.addEventListener("submit", function (e) {
           e.preventDefault();
+          var vornameInput = form.querySelector("input[name='vorname']");
+          var nachnameInput = form.querySelector("input[name='nachname']");
           var emailInput = form.querySelector("input[type='email']");
           var phoneInput = form.querySelector("input[type='tel']");
+          var plzInput = form.querySelector("input[name='plz']");
+          var privacyInput = form.querySelector("input[name='privacy']");
+          var nameHidden = form.querySelector("input[name='name']");
           var note = form.querySelector(".form-note");
           var btn = form.querySelector("button[type='submit']");
+
+          var namesOk = vornameInput && nachnameInput && vornameInput.value.trim() && nachnameInput.value.trim();
           var phoneOk = phoneInput && /^[0-9+()\-\s]{6,}$/.test(phoneInput.value);
-          if (!emailInput || !emailInput.value || !emailInput.checkValidity() || !phoneOk) {
+          var plzOk = !plzInput || /^[0-9]{4}$/.test(plzInput.value.trim());
+          var privacyOk = !privacyInput || privacyInput.checked;
+
+          if (!namesOk || !emailInput || !emailInput.value || !emailInput.checkValidity() || !phoneOk || !plzOk || !privacyOk) {
             if (note) note.textContent = form.getAttribute("data-msg-invalid") || "";
             return;
           }
+          if (nameHidden) nameHidden.value = (vornameInput.value.trim() + " " + nachnameInput.value.trim()).trim();
+
           if (note) note.textContent = form.getAttribute("data-msg-sending") || "";
           if (btn) btn.disabled = true;
 

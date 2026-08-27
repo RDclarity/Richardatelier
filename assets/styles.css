@@ -1697,7 +1697,8 @@ body.static-page {
 }
 .lp-hero .hero-contact-label { display: none; }
 .lp-hero input[type="email"],
-.lp-hero input[type="tel"] {
+.lp-hero input[type="tel"],
+.lp-hero input[type="text"] {
   width: 100%;
   background: rgba(247, 244, 238, 0.95);
   border: none;
@@ -1709,7 +1710,8 @@ body.static-page {
   color: var(--ink);
 }
 .lp-hero input[type="email"]::placeholder,
-.lp-hero input[type="tel"]::placeholder { color: var(--ink-soft); }
+.lp-hero input[type="tel"]::placeholder,
+.lp-hero input[type="text"]::placeholder { color: var(--ink-soft); }
 .lp-hero button[type="submit"] {
   width: 100%;
   background: var(--umber-deep);
@@ -1746,6 +1748,49 @@ body.static-page {
   padding-bottom: 0.15em;
 }
 .lp-hero-phone:hover { border-color: var(--paper); }
+
+/* Erweiterte Formularfelder (Vorname/Nachname/PLZ + Checkboxen) — für die
+   Lead-Gen-Formulare auf /badezimmer/. Ungebunden an .lp-hero/.lp-cta-band,
+   da beide Kontexte denselben dunklen Hintergrund mit cremefarbenen
+   Eingabefeldern verwenden. */
+.contact-form .form-row-2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0 0.7rem;
+}
+.contact-form .field { min-width: 0; }
+.contact-form label.field-label {
+  display: block;
+  font-size: 0.68rem;
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  color: rgba(247, 244, 238, 0.75);
+  margin: 0 0 0.3rem;
+}
+.contact-form .check-field {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.6rem;
+  font-size: 0.78rem;
+  line-height: 1.45;
+  color: rgba(247, 244, 238, 0.85);
+  cursor: pointer;
+}
+.contact-form .check-field input[type="checkbox"] {
+  flex-shrink: 0;
+  width: 1.1rem;
+  height: 1.1rem;
+  margin-top: 0.15rem;
+  accent-color: var(--sand);
+  cursor: pointer;
+}
+.contact-form .check-field a { color: var(--sand); text-decoration: underline; }
+.contact-form .check-field a:hover { color: var(--paper); }
+@media (max-width: 420px) {
+  .contact-form .form-row-2 { grid-template-columns: 1fr; }
+}
 
 /* Vertrauensleiste: Bewertung + kurze Fakten */
 .lp-trust {
@@ -1862,7 +1907,8 @@ body.static-page {
   text-align: left;
 }
 .lp-cta-band input[type="email"],
-.lp-cta-band input[type="tel"] {
+.lp-cta-band input[type="tel"],
+.lp-cta-band input[type="text"] {
   width: 100%;
   background: var(--paper);
   border: none;
@@ -1873,6 +1919,9 @@ body.static-page {
   font-size: 0.92rem;
   color: var(--ink);
 }
+.lp-cta-band input[type="email"]::placeholder,
+.lp-cta-band input[type="tel"]::placeholder,
+.lp-cta-band input[type="text"]::placeholder { color: var(--ink-soft); }
 .lp-cta-band button[type="submit"] {
   width: 100%;
   background: var(--sand);
