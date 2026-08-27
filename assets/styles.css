@@ -772,6 +772,11 @@ body[data-theme="dark"] .thread-path { stroke: var(--paper); opacity: 0.45; }
   gap: 1rem;
   max-width: 34rem;
   width: 100%;
+  /* Kleiner fester Abstand zum absolut positionierten .contact-footer
+     darunter — bewusst klein/fix statt vh-basiert, da vh-Einheiten auf
+     kurzen Screens (wo der Platz am knappsten ist) den Abstand gerade
+     dort am stärksten schrumpfen lassen würden. */
+  margin-bottom: 1.6rem;
 }
 .contact-form label {
   font-weight: 300;
@@ -831,7 +836,7 @@ body[data-theme="dark"] .thread-path { stroke: var(--paper); opacity: 0.45; }
   padding: 0.9rem 0;
 }
 .contact-form input::placeholder { color: rgba(247, 244, 238, 0.4); }
-.contact-actions { display: flex; justify-content: flex-end; }
+.contact-actions { display: flex; justify-content: flex-end; margin-top: 0.6rem; }
 
 /* Wohnraum/Gastronomie-Auswahl im Kontaktformular — Chips auf dunklem Grund.
    Gleiche Maskierung wie .contact-row: deckt den durchlaufenden Faden/das
@@ -863,19 +868,23 @@ body[data-theme="dark"] .thread-path { stroke: var(--paper); opacity: 0.45; }
   border-color: var(--sand);
   color: var(--ink);
 }
-.contact-form button {
-  background: transparent;
+.contact-form button[type="submit"] {
+  background: var(--umber-deep);
   border: 0;
-  color: var(--sand);
+  color: var(--paper);
   font-family: var(--font);
-  font-size: 0.7rem;
-  letter-spacing: 0.34em;
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.16em;
   text-transform: uppercase;
+  text-align: center;
   cursor: pointer;
-  padding: 0.9rem 0 0.9rem 1rem;
-  transition: color 250ms;
+  padding: 0.95rem 1.6rem;
+  border-radius: 0.6rem;
+  width: 100%;
+  transition: background 250ms, color 250ms;
 }
-.contact-form button:hover { color: var(--line-yellow); }
+.contact-form button[type="submit"]:hover { background: var(--sand); color: var(--ink); }
 .form-note {
   font-size: 0.78rem;
   color: rgba(247, 244, 238, 0.55);
@@ -1509,6 +1518,14 @@ body.static-page {
 .contact-footer .footer-contact:hover,
 .lp-footer .footer-contact:hover { border-color: currentColor; opacity: 1; }
 .footer-contact-sep { opacity: 0.5; margin: 0 0.35em; letter-spacing: 0; }
+/* Auf der Kontakt-Folie (Startseite) ist die Telefonnummer bereits
+   prominent über dem Formular verlinkt ("Oder rufen Sie direkt an …") —
+   die zusätzliche Kontaktzeile im engen, höhenfixierten Folien-Footer
+   (.slide { height: 100dvh; overflow: hidden }) wäre dort nur redundant
+   und sorgt auf kürzeren Screens (z. B. iPhone SE, 375×667) dafür, dass
+   der Formular-Button aus dem sichtbaren Bereich rutscht. */
+.contact-footer .footer-contact,
+.contact-footer .footer-contact-sep { display: none; }
 /* Kontakt-Slide, mobil: die Uhren (VIE/NYC) stehen fix unten links —
    bei vier statt zwei Links reicht Umbruch allein nicht immer, um sie
    sicher vom rechten Rand fernzuhalten. Untereinander statt nebeneinander
@@ -1532,12 +1549,13 @@ body.static-page {
     letter-spacing: 0.12em;
   }
   /* Telefon/E-Mail auf schmalen Screens untereinander statt mit "·"
-     nebeneinander — sonst läuft die Zeile bei 320px leicht über. */
-  .static-footer .footer-contact,
-  .contact-footer .footer-contact {
+     nebeneinander — sonst läuft die Zeile bei 320px leicht über.
+     .contact-footer bleibt ausgenommen (dort oben per display:none
+     ausgeblendet, siehe Kommentar dort). */
+  .static-footer .footer-contact {
     display: block;
   }
-  .footer-contact-sep { display: none; }
+  .static-footer .footer-contact-sep { display: none; }
 }
 
 /* ------------------------------------------------------------
