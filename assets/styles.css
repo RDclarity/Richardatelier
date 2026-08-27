@@ -1487,16 +1487,39 @@ body.static-page {
   transition: border-color 250ms, opacity 250ms;
 }
 .footer-links a:hover { border-color: currentColor; opacity: 1; }
+
+/* Kontaktzeile (Telefon/E-Mail) unter "Vienna/New York" im Mikro-Footer.
+   Bewusst normal getrackt statt der sehr weiten 0.42em-Laufweite des
+   restlichen Footers — bei einer Telefonnummer/E-Mail-Adresse wäre das
+   sonst kaum lesbar. */
+.static-footer .footer-contact,
+.contact-footer .footer-contact,
+.lp-footer .footer-contact {
+  display: inline-block;
+  font-size: 0.62rem;
+  letter-spacing: 0.03em;
+  text-transform: none;
+  color: inherit;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  opacity: 0.85;
+  transition: border-color 250ms, opacity 250ms;
+}
+.static-footer .footer-contact:hover,
+.contact-footer .footer-contact:hover,
+.lp-footer .footer-contact:hover { border-color: currentColor; opacity: 1; }
+.footer-contact-sep { opacity: 0.5; margin: 0 0.35em; letter-spacing: 0; }
 /* Kontakt-Slide, mobil: die Uhren (VIE/NYC) stehen fix unten links —
    bei vier statt zwei Links reicht Umbruch allein nicht immer, um sie
    sicher vom rechten Rand fernzuhalten. Untereinander statt nebeneinander
    ist auf schmalen Screens eindeutig schmaler und damit sicher. */
 @media (max-width: 600px) {
   .contact-footer {
-    /* Angehoben, damit der jetzt mehrzeilige Link-Block (3 Zeilen
-       untereinander) komplett über der Uhren-Zeile endet, statt mit ihr
-       auf derselben Höhe zu kollidieren (siehe .footer-links unten). */
-    bottom: clamp(2.6rem, 8vw, 3.4rem);
+    /* Angehoben, damit der jetzt mehrzeilige Link-Block (Kontaktzeile +
+       3 Nav-Zeilen untereinander) komplett über der Uhren-Zeile endet,
+       statt mit ihr auf derselben Höhe zu kollidieren (siehe .footer-links
+       unten). */
+    bottom: clamp(3.4rem, 11vw, 4.2rem);
   }
   .contact-footer .footer-links {
     flex-direction: column;
@@ -1508,6 +1531,13 @@ body.static-page {
     font-size: 0.6rem;
     letter-spacing: 0.12em;
   }
+  /* Telefon/E-Mail auf schmalen Screens untereinander statt mit "·"
+     nebeneinander — sonst läuft die Zeile bei 320px leicht über. */
+  .static-footer .footer-contact,
+  .contact-footer .footer-contact {
+    display: block;
+  }
+  .footer-contact-sep { display: none; }
 }
 
 /* ------------------------------------------------------------

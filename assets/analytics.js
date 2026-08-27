@@ -171,6 +171,49 @@
     });
   };
 
+  // ---- Telefon-/E-Mail-Klicks als Meta-Lead-Event ---------------------
+  // Auf jeder Seite, in jeder Sprache: ein Klick auf einen tel:- oder
+  // mailto:-Link zählt als Kontaktaufnahme, genau wie ein abgesendetes
+  // Formular. Feuert sowohl das clientseitige Pixel-Event (fbq) als auch,
+  // mit derselben Event-ID zur Deduplizierung, ein serverseitiges
+  // Conversions-API-Event (robuster gegen Adblocker/ITP) über
+  // ra-meta-click-event. Ohne Einwilligung passiert nichts.
+  var META_CLICK_ENDPOINT = "https://mlubcxdwwsrvcoufnkaf.supabase.co/functions/v1/ra-meta-click-event";
+  function readCookie(name) {
+    var match = document.cookie.match(new RegExp("(?:^|; )" + name + "=([^;]*)"));
+    return match ? decodeURIComponent(match[1]) : undefined;
+  }
+  function trackContactClick(type) {
+    if (getConsent() !== "granted") return;
+    var eventId = (window.crypto && window.crypto.randomUUID)
+      ? window.crypto.randomUUID()
+      : (Date.now().toString(36) + Math.random().toString(36).slice(2, 10));
+    configReady.then(function () {
+      if (window.fbq) {
+        window.fbq("track", "Lead", { content_category: type + "_click" }, { eventID: eventId });
+      }
+      try {
+        fetch(META_CLICK_ENDPOINT, {
+          method: "POST",
+          keepalive: true,
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({
+            type: type,
+            eventId: eventId,
+            url: window.location.href,
+            fbp: readCookie("_fbp"),
+            fbc: readCookie("_fbc"),
+          }),
+        }).catch(function () {});
+      } catch (e) { /* Tracking ist best effort — darf den Klick nie stören. */ }
+    });
+  }
+  document.addEventListener("click", function (e) {
+    var link = e.target.closest ? e.target.closest('a[href^="tel:"], a[href^="mailto:"]') : null;
+    if (!link) return;
+    trackContactClick(link.href.indexOf("mailto:") === 0 ? "email" : "phone");
+  });
+
   // ---- Consent-Banner (nur einblenden, solange keine Wahl
   // getroffen wurde) --------------------------------------------------
   var LANG = (document.documentElement.lang || "de").slice(0, 2);
