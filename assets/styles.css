@@ -1913,3 +1913,64 @@ body.static-page {
 .lp-footer nav { display: flex; justify-content: center; gap: 1rem; margin-top: 0.6rem; flex-wrap: wrap; }
 .lp-footer a { color: inherit; text-decoration: none; border-bottom: 1px solid transparent; }
 .lp-footer a:hover { border-color: currentColor; }
+
+/* Landingpage Badezimmer — zusätzliche Sektionen (Material, Über uns, FAQ) */
+.lp-about {
+  display: grid;
+  grid-template-columns: 1fr 1.3fr;
+  gap: clamp(1.6rem, 5vw, 3rem);
+  align-items: center;
+}
+.lp-about img { width: 100%; border-radius: 0.8rem; object-fit: cover; aspect-ratio: 4/5; }
+.lp-about-copy p { color: var(--ink-soft); line-height: 1.7; margin-bottom: 1rem; }
+@media (max-width: 720px) {
+  .lp-about { grid-template-columns: 1fr; }
+}
+
+.lp-facts {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(11rem, 1fr));
+  gap: 1rem;
+  margin-top: 2rem;
+}
+.lp-fact {
+  border: 1px solid rgba(33, 24, 16, 0.1);
+  border-radius: 0.7rem;
+  padding: 1.1rem 1.2rem;
+  text-align: center;
+}
+.lp-fact span { display: block; }
+.lp-fact .fact-word { font-size: 0.82rem; font-weight: 600; color: var(--ink); }
+
+.lp-faq { max-width: 42rem; margin: 0 auto; }
+.lp-faq details {
+  border-bottom: 1px solid rgba(33, 24, 16, 0.12);
+  padding: 1.2rem 0;
+}
+.lp-faq summary {
+  cursor: pointer;
+  font-size: 1rem;
+  font-weight: 500;
+  color: var(--ink);
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+}
+.lp-faq summary::-webkit-details-marker { display: none; }
+.lp-faq summary::after {
+  content: "+";
+  font-size: 1.3rem;
+  font-weight: 300;
+  color: var(--umber-deep);
+  flex-shrink: 0;
+  transition: transform 200ms;
+}
+.lp-faq details[open] summary::after { content: "–"; }
+.lp-faq p.answer {
+  margin-top: 0.8rem;
+  font-size: 0.92rem;
+  line-height: 1.65;
+  color: var(--ink-soft);
+}
