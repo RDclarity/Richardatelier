@@ -171,9 +171,9 @@
     });
   };
 
-  // ---- Telefon-/E-Mail-Klicks als Meta-Lead-Event ---------------------
-  // Auf jeder Seite, in jeder Sprache: ein Klick auf einen tel:- oder
-  // mailto:-Link zählt als Kontaktaufnahme, genau wie ein abgesendetes
+  // ---- Telefon-/E-Mail-/WhatsApp-Klicks als Meta-Lead-Event ------------
+  // Auf jeder Seite, in jeder Sprache: ein Klick auf einen tel:-, mailto:-
+  // oder wa.me-Link zählt als Kontaktaufnahme, genau wie ein abgesendetes
   // Formular. Feuert sowohl das clientseitige Pixel-Event (fbq) als auch,
   // mit derselben Event-ID zur Deduplizierung, ein serverseitiges
   // Conversions-API-Event (robuster gegen Adblocker/ITP) über
@@ -209,9 +209,14 @@
     });
   }
   document.addEventListener("click", function (e) {
-    var link = e.target.closest ? e.target.closest('a[href^="tel:"], a[href^="mailto:"]') : null;
+    var link = e.target.closest
+      ? e.target.closest('a[href^="tel:"], a[href^="mailto:"], a[href^="https://wa.me/"]')
+      : null;
     if (!link) return;
-    trackContactClick(link.href.indexOf("mailto:") === 0 ? "email" : "phone");
+    var type = link.href.indexOf("mailto:") === 0
+      ? "email"
+      : (link.href.indexOf("wa.me") > -1 ? "whatsapp" : "phone");
+    trackContactClick(type);
   });
 
   // ---- Consent-Banner (nur einblenden, solange keine Wahl
