@@ -76,6 +76,44 @@
     } catch (e) { /* Tracking ist best effort — niemals die Seite stören. */ }
   }
   trackPageView();
+
+  // ---- Formular-Start-Signal ----------------------------------------
+  // Zählt (anonym, wie trackPageView) den ersten Tastatur-/Klick-Kontakt
+  // mit einem Kontaktformular auf der Seite — unabhängig davon, ob es
+  // später abgesendet wird. Beantwortet "hat überhaupt jemand angefangen
+  // auszufüllen?", was reine Erfolgs-/Danke-Seiten-Zahlen nicht zeigen.
+  // Kein Feldinhalt wird übertragen, nur dass + wo (Formular-ID/Pfad)
+  // Interaktion stattfand. Ein Marker pro Formular pro Seitenaufruf.
+  var formsStarted = {};
+  function trackFormStart(form, formIndex) {
+    var key = formIndex;
+    if (formsStarted[key]) return;
+    formsStarted[key] = true;
+    try {
+      var payload = JSON.stringify({
+        path: location.pathname + "#form-start-" + formIndex,
+        referrer: document.referrer || null,
+        lang: document.documentElement.lang || null,
+        session_id: anonSessionId(),
+      });
+      fetch(TRACK_ENDPOINT, {
+        method: "POST",
+        headers: { "Content-Type": "text/plain;charset=UTF-8" },
+        body: payload,
+        keepalive: true,
+        credentials: "omit",
+        mode: "cors",
+      }).catch(function () {});
+    } catch (e) { /* best effort */ }
+  }
+  document.addEventListener("focusin", function (e) {
+    var field = e.target.closest ? e.target.closest(".contact-form input, .contact-form textarea, .contact-form select") : null;
+    if (!field) return;
+    var form = field.closest(".contact-form");
+    if (!form || field.name === "company") return; // Honeypot ignorieren
+    var forms = Array.prototype.slice.call(document.querySelectorAll(".contact-form"));
+    trackFormStart(form, forms.indexOf(form));
+  });
   // -----------------------------------------------------------------
 
   var STORAGE_KEY = "ra-consent"; // "granted" | "denied"
