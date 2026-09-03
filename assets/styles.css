@@ -2000,6 +2000,50 @@ body.static-page {
   padding-bottom: 0.15em;
 }
 
+/* Scroll-Reveal für Landingpages außerhalb des Slide-Decks (z. B.
+   /badezimmer/) — gleiches Prinzip wie das .reveal-Muster der
+   Hauptseite (opacity/translateY, per IntersectionObserver ausgelöst),
+   aber pro Sektion statt pro Folie beobachtet, da es hier keinen
+   .deck/.slide-Kontext gibt. */
+.lp-reveal {
+  opacity: 0;
+  transform: translateY(1.6rem);
+  transition: opacity var(--dur-slow) var(--ease-out), transform var(--dur-slow) var(--ease-out);
+  transition-delay: var(--d, 0ms);
+}
+.lp-hero.is-visible .lp-reveal,
+.lp-trust.is-visible .lp-reveal,
+.lp-section.is-visible .lp-reveal,
+.lp-cta-band.is-visible .lp-reveal {
+  opacity: 1;
+  transform: none;
+}
+@media (prefers-reduced-motion: reduce) {
+  .lp-reveal { transition: none !important; opacity: 1 !important; transform: none !important; }
+}
+
+/* Hervorgehobenes Zitat (Vertrauens-/Über-uns-Abschnitte) */
+.lp-quote {
+  font-family: inherit;
+  font-size: clamp(1.1rem, 2.6vw, 1.35rem);
+  font-style: italic;
+  font-weight: 300;
+  color: var(--umber-deep);
+  border-left: 2px solid var(--sand);
+  padding-left: 1.1rem;
+  margin: 1.5rem 0;
+  line-height: 1.5;
+}
+.lp-quote-by {
+  display: block;
+  font-size: 0.72rem;
+  font-style: normal;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+  margin-top: 0.5rem;
+}
+
 .lp-footer {
   text-align: center;
   padding: 2.4rem 1.4rem 3rem;
