@@ -19,7 +19,7 @@
   // liefert der Endpoint leere Strings und es passiert clientseitig nichts
   // (der Consent-Banner erscheint trotzdem schon).
   var CONFIG_ENDPOINT = "https://mlubcxdwwsrvcoufnkaf.supabase.co/functions/v1/ra-tracking-config";
-  var CONFIG = { GA4_MEASUREMENT_ID: "", GOOGLE_ADS_ID: "", GOOGLE_ADS_CONVERSION_LABEL: "", META_PIXEL_ID: "" };
+  var CONFIG = { GA4_MEASUREMENT_ID: "", GOOGLE_ADS_ID: "", GOOGLE_ADS_CONVERSION_LABEL: "", META_PIXEL_ID: "", CLARITY_PROJECT_ID: "" };
   var configReady = fetch(CONFIG_ENDPOINT, { headers: { Accept: "application/json" } })
     .then(function (r) { return r.ok ? r.json() : null; })
     .then(function (data) {
@@ -28,6 +28,7 @@
       CONFIG.GOOGLE_ADS_ID = data.googleAdsId || "";
       CONFIG.GOOGLE_ADS_CONVERSION_LABEL = data.googleAdsConversionLabel || "";
       CONFIG.META_PIXEL_ID = data.metaPixelId || "";
+      CONFIG.CLARITY_PROJECT_ID = data.clarityProjectId || "";
     })
     .catch(function () { /* Kein Tracking-Config verfügbar — bleibt inaktiv, kein Fehler für den Besucher. */ });
   // -----------------------------------------------------------------
@@ -146,6 +147,16 @@
         /* eslint-enable */
         window.fbq("init", CONFIG.META_PIXEL_ID);
         window.fbq("track", "PageView");
+      }
+
+      if (CONFIG.CLARITY_PROJECT_ID) {
+        /* eslint-disable */
+        (function (c, l, a, r, i, t, y) {
+          c[a] = c[a] || function () { (c[a].q = c[a].q || []).push(arguments); };
+          t = l.createElement(r); t.async = 1; t.src = "https://www.clarity.ms/tag/" + i;
+          y = l.getElementsByTagName(r)[0]; y.parentNode.insertBefore(t, y);
+        })(window, document, "clarity", "script", CONFIG.CLARITY_PROJECT_ID);
+        /* eslint-enable */
       }
     });
   }
