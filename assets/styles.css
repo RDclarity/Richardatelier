@@ -1514,6 +1514,19 @@ body.static-page {
   opacity: 0.85;
   transition: border-color 250ms, opacity 250ms;
 }
+/* Firmenanschrift im Mikro-Footer — aus demselben Grund wie .footer-contact
+   normal statt mit 0.42em Laufweite getrackt (sonst bei einer Straßen-
+   adresse kaum lesbar und deutlich zu breit für den rechtsbündigen,
+   schmalen Footer-Block). */
+.static-footer .footer-address,
+.contact-footer .footer-address,
+.lp-footer .footer-address {
+  display: inline-block;
+  font-size: 0.62rem;
+  letter-spacing: 0.03em;
+  text-transform: none;
+  opacity: 0.85;
+}
 .static-footer .footer-contact:hover,
 .contact-footer .footer-contact:hover,
 .lp-footer .footer-contact:hover { border-color: currentColor; opacity: 1; }

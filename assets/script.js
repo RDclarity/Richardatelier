@@ -184,29 +184,27 @@
   }
 
   if (pointerFine && !reduced) {
-    document.body.classList.add("js-snap");   /* CSS-Snap aus, JS übernimmt */
+    document.body.classList.add("js-snap");   /* CSS-Snap aus (siehe unten) */
     deck.style.scrollBehavior = "auto";
     targetTop = deck.scrollTop;
 
-    /* Eingabe-Sperre: kein Mehrfachsprung pro Wisch. Die Sperre muss
-       mindestens so lange halten wie die Folienfahrt selbst dauert
-       (navDur, ~900–1700ms) — sonst lösen nachlaufende Wheel-Events
-       vom Trackpad-Momentum-Scrolling (die oft länger als 500ms
-       nachlaufen) eine zweite Fahrt aus, während die erste noch
-       läuft, und eine Folie wird übersprungen. */
-    var wheelLock = 0;
-    deck.addEventListener(
-      "wheel",
-      function (e) {
-        e.preventDefault();
-        if (Math.abs(e.deltaY) < 6) return;
-        var now = performance.now();
-        if (now < wheelLock) return;
-        goTo(targetIndex + (e.deltaY > 0 ? 1 : -1));
-        wheelLock = now + navDur;
-      },
-      { passive: false }
-    );
+    /* Freies Scrollen: früher fing ein Wheel-Handler hier jedes Rad-
+       Event ab (e.preventDefault()) und erzwang genau eine Folie pro
+       Wisch mit ~900–1700ms Sperre dazwischen — man konnte die Seite
+       dadurch nie in einem Zug durchscrollen, sondern musste jede
+       Folie einzeln "erkämpfen". Bewusst entfernt: der Wheel läuft
+       jetzt nativ durch (js-snap deaktiviert nur das CSS-Snap, siehe
+       unten — es greift nichts mehr ein). goTo() bleibt für die
+       Punkt-Navigation, Pfeiltasten und "Kontakt"-Links erhalten,
+       die weiterhin sanft zur Zielfolie fahren sollen.
+
+       targetIndex bleibt trotzdem korrekt: setActive() (vom
+       IntersectionObserver bei jeder neu sichtbaren Folie aufgerufen,
+       siehe startObserver() oben) aktualisiert targetIndex bereits
+       mit, solange gerade keine goTo()-Fahrt läuft — Pfeiltasten
+       nach freiem Scrollen springen also weiterhin von der zuletzt
+       tatsächlich sichtbaren Folie aus weiter, nicht von einem
+       veralteten Stand. */
 
     window.addEventListener("keydown", function (e) {
       if (e.target && /^(input|textarea|button|select)$/i.test(e.target.tagName)) return;
