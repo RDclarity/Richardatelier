@@ -992,6 +992,13 @@ body[data-theme="dark"] .ui-menu a {
   color: var(--paper);
 }
 body[data-theme="dark"] .ui-lang [aria-current="true"] { border-color: var(--paper); }
+/* Bislang übersehen: der Hamburger-Icon war nie theme-abhängig gefärbt
+   (immer var(--ink)) — auf dunklen Slides (inkl. dem neuen Foto-Hero)
+   damit praktisch unsichtbar. */
+body[data-theme="dark"] .nav-toggle-btn span,
+body[data-theme="sand"] .nav-toggle-btn span {
+  background: var(--paper);
+}
 body[data-theme="sand"] .ui-brand,
 body[data-theme="sand"] .ui-clocks,
 body[data-theme="sand"] .ui-lang a,
@@ -1180,6 +1187,18 @@ body.static-page {
 .legal-page li { margin-bottom: 0.4rem; }
 .legal-page a { color: var(--umber-deep); text-decoration: underline; text-underline-offset: 0.15em; }
 .legal-page a:hover { color: var(--ink); }
+
+/* Querverweis von einer Leistungs-Folie (Deck) zur passenden, ausführlicheren
+   Landingpage — z. B. Badrenovierung → /badezimmer/. Bewusst zurückhaltend,
+   damit es nicht wie ein zweiter CTA-Button wirkt. */
+.more-link {
+  display: inline-block;
+  margin-top: 0.6rem;
+  color: var(--umber-deep);
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+}
+.more-link:hover { color: var(--ink); }
 .legal-page .legal-meta {
   font-size: 0.8rem;
   color: var(--ink-soft);
@@ -1424,6 +1443,31 @@ body.static-page {
 .slide--feature .eyebrow { color: var(--paper); opacity: 0.8; }
 .slide--feature .display { color: var(--paper); max-width: 18ch; }
 .slide--feature .lede { color: var(--paper); opacity: 0.9; }
+
+/* Hero mit Hintergrundfoto (.slide--hero.slide--feature) — nutzt dieselbe
+   Bild+Verlauf-Mechanik wie die übrigen Feature-Folien (feature-media,
+   ::before-Verlauf), aber der Hero hat eigene, bisher fix dunkle
+   Textfarben (mark-line/mark-word/hero-claim/…), die das generische
+   .slide--feature-Cascading nicht erreicht (eigene color-Deklaration
+   schlägt Vererbung). Deshalb hier gezielt auf Hell umgestellt. */
+.slide--hero.slide--feature .mark-line { background: var(--paper); }
+.slide--hero.slide--feature .hero-mark .mark-word { color: var(--paper); }
+.slide--hero.slide--feature .hero-mark .mark-word:hover { color: var(--paper); }
+.slide--hero.slide--feature .mark-sub { color: rgba(247, 244, 238, 0.75); }
+.slide--hero.slide--feature .hero-claim { color: var(--paper); }
+.slide--hero.slide--feature .hero-desc { color: rgba(247, 244, 238, 0.85); }
+.slide--hero.slide--feature .hero-cities { color: rgba(247, 244, 238, 0.7); }
+.slide--hero.slide--feature .hero-phone { color: var(--paper); }
+.slide--hero.slide--feature .hero-phone:hover { color: var(--sand); }
+.slide--hero.slide--feature .hero-cta-secondary { color: rgba(247, 244, 238, 0.85); }
+.slide--hero.slide--feature .hero-cta-secondary:hover { color: var(--paper); }
+/* Etwas kräftigerer Verlauf als bei den übrigen Feature-Folien, da der
+   Hero-Text (dünne Laufweite, helle Untertitel) mehr Kontrast braucht
+   und ganz oben mit der fixen, ebenfalls hell gestalteten Kopfzeile
+   (Marke/Menü/Sprachumschalter) zusammenspielen muss. */
+.slide--hero.slide--feature::before {
+  background: linear-gradient(165deg, rgba(21, 19, 16, 0.78), rgba(21, 19, 16, 0.42) 55%, rgba(21, 19, 16, 0.72));
+}
 
 /* "Geänderte Details" — vorher/nachher als Liste */
 .change-list {
@@ -2067,6 +2111,58 @@ body.static-page {
 .lp-footer nav { display: flex; justify-content: center; gap: 1rem; margin-top: 0.6rem; flex-wrap: wrap; }
 .lp-footer a { color: inherit; text-decoration: none; border-bottom: 1px solid transparent; }
 .lp-footer a:hover { border-color: currentColor; }
+
+/* Sticky Mobil-Leiste (Anrufen/WhatsApp) — nur auf schmalen Screens, wo
+   das Hero-Formular meist schon aus dem Blick gescrollt ist. Reduziert
+   die Hürde auf den schnellsten Kontaktweg (ein Tap statt Formular),
+   ohne bestehenden Content zu verändern. Der Cookie-Banner (analytics.js,
+   z-index 9999, position:fixed bottom:0) legt sich anfangs bewusst
+   darüber — sobald er weggeklickt ist, bleibt die Leiste sichtbar. */
+.lp-sticky-cta {
+  display: none;
+}
+@media (max-width: 720px) {
+  .lp-sticky-cta {
+    display: flex;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 500;
+    background: var(--ink);
+    box-shadow: 0 -4px 20px rgba(0, 0, 0, 0.25);
+    padding: 0.7rem 0.9rem calc(0.7rem + env(safe-area-inset-bottom, 0px));
+    gap: 0.6rem;
+  }
+  .lp-sticky-cta a {
+    flex: 1 1 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.4rem;
+    padding: 0.75em 0.6em;
+    border-radius: 999px;
+    font-size: 0.78rem;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    text-decoration: none;
+    white-space: nowrap;
+  }
+  .lp-sticky-cta a.call {
+    background: var(--sand);
+    color: var(--ink);
+  }
+  .lp-sticky-cta a.whatsapp {
+    background: transparent;
+    color: var(--paper);
+    border: 1px solid rgba(247, 244, 238, 0.4);
+  }
+  /* Platz am Seitenende reservieren, damit die Leiste nichts verdeckt —
+     nur auf Seiten, die die Leiste tatsächlich einbinden (eigene Klasse,
+     nicht pauschal .static-page, sonst bekämen auch Impressum & Co.
+     unnötig Abstand). */
+  body.has-sticky-cta { padding-bottom: 4.2rem; }
+}
 
 /* Landingpage Badezimmer — zusätzliche Sektionen (Material, Über uns, FAQ) */
 .lp-about {
