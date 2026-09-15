@@ -199,6 +199,13 @@
     });
   }
 
+  // Nur diese /danke/-Typen sind echte Vertriebs-Leads (Kundenanfragen).
+  // Jobbewerbungen, Lieferantenanfragen und Stammdatenblätter landen zwar
+  // auch auf der Danke-Seite, sollen Meta aber NICHT als "Lead" gemeldet
+  // werden — sonst optimiert/berichtet das Werbekonto auf Basis von
+  // Bewerbern und Lieferanten statt echten Kundenanfragen.
+  var META_LEAD_TYPES = { "contact": true, "projektblatt-privatbereich": true, "projektblatt-gastronomie": true };
+
   // Conversion-Helfer, von den Danke-Seiten aufgerufen (erfolgreiche
   // Formular-Übermittlung = Lead). Kein Effekt ohne Consent und ohne
   // konfigurierte IDs — kann also schon jetzt überall aufgerufen
@@ -216,7 +223,9 @@
           });
         }
       }
-      if (window.fbq) window.fbq("track", "Lead");
+      if (window.fbq && META_LEAD_TYPES[label || "contact"]) {
+        window.fbq("track", "Lead", { content_category: label || "contact" });
+      }
     });
   };
 
