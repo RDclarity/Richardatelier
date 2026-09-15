@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Stundenerfassung — Richard Atelier</title>
+  <meta name="description" content="Mitarbeiter-Stundenerfassung Richard Atelier — Arbeitszeiten Tag für Tag mit Mittagspause erfassen, als Excel oder PDF exportieren.">
+  <link rel="icon" href="../assets/favicon-32.png?v=202609112" sizes="32x32">
+  <link rel="icon" href="../assets/favicon-512.png?v=202609112" sizes="512x512">
+  <link rel="apple-touch-icon" href="../assets/apple-touch-icon.png?v=202609112">
+  <meta property="og:site_name" content="Richard Atelier">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Stundenerfassung — Richard Atelier">
+  <meta property="og:description" content="Mitarbeiter-Stundenerfassung für Richard Atelier — Tag für Tag, inkl. Mittagspause, Export als Excel oder PDF.">
+  <meta property="og:image" content="https://richardatelier.com/assets/img/richard-atelier-01.jpg">
+  <meta property="og:url" content="https://richardatelier.com/stundenerfassung/">
+  <meta property="og:locale" content="de_AT">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Stundenerfassung — Richard Atelier">
+  <meta name="twitter:description" content="Mitarbeiter-Stundenerfassung für Richard Atelier — Tag für Tag, inkl. Mittagspause, Export als Excel oder PDF.">
+  <meta name="twitter:image" content="https://richardatelier.com/assets/img/richard-atelier-01.jpg">
+  <!-- Interne Mitarbeiterseite: nur per direktem Link, nicht indexieren -->
+  <meta name="robots" content="noindex, nofollow">
+  <link rel="stylesheet" href="../assets/styles.css?v=202609112">
+  <script src="../assets/analytics.js?v=202609112"></script>
+
+  <style>
+    /* ------------------------------------------------------------
+       Stundenerfassung — eigenständige Tabellen-Ansicht.
+       Nutzt die Grundvariablen aus styles.css (--paper, --ink,
+       --umber, --font …), definiert aber eigene Bausteine, weil es
+       die einzige Seite mit einer Tages-Tabelle ist.
+       ------------------------------------------------------------ */
+    .zeit-toolbar {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(11rem, 1fr));
+      gap: 1.1rem 1.4rem;
+      margin-bottom: 2.4rem;
+      padding: 1.4rem 1.5rem;
+      background: var(--paper-deep);
+      border-radius: 0.9rem;
+    }
+    .zeit-field { display: flex; flex-direction: column; gap: 0.4rem; }
+    .zeit-field label {
+      font-size: 0.68rem;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: var(--ink-soft);
+    }
+    .zeit-field input {
+      font: inherit;
+      font-size: 0.92rem;
+      color: var(--ink);
+      background: var(--paper);
+      border: 1px solid rgba(33, 24, 16, 0.18);
+      border-radius: 0.5rem;
+      padding: 0.55rem 0.7rem;
+    }
+    .zeit-field input:focus { outline: none; border-color: var(--umber); }
+
+    .zeit-actions-row {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: flex-end;
+      gap: 0.7rem;
+    }
+    .zeit-btn {
+      font: inherit;
+      font-size: 0.76rem;
+      font-weight: 500;
+      letter-spacing: 0.05em;
+      color: var(--ink);
+      background: var(--paper);
+      border: 1px solid rgba(33, 24, 16, 0.25);
+      border-radius: 0.5rem;
+      padding: 0.6rem 1rem;
+      cursor: pointer;
+      transition: border-color 180ms, color 180ms;
+    }
+    .zeit-btn:hover { border-color: var(--umber); color: var(--umber-deep); }
+
+    .zeit-table-wrap {
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+      border: 1px solid rgba(33, 24, 16, 0.12);
+      border-radius: 0.9rem;
+      margin-bottom: 1.4rem;
+    }
+    table.zeit-table {
+      width: 100%;
+      min-width: 46rem;
+      border-collapse: collapse;
+      font-size: 0.86rem;
+    }
+    .zeit-table th, .zeit-table td {
+      padding: 0.55rem 0.7rem;
+      text-align: left;
+      border-bottom: 1px solid rgba(33, 24, 16, 0.09);
+      white-space: nowrap;
+    }
+    .zeit-table thead th {
+      font-size: 0.66rem;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--ink-soft);
+      background: var(--paper-deep);
+      position: sticky;
+      top: 0;
+    }
+    .zeit-table tbody tr:last-child td { border-bottom: 0; }
+    .zeit-table tbody tr.is-weekend { background: rgba(181, 156, 122, 0.1); }
+    .zeit-table tbody tr.is-invalid { background: rgba(204, 148, 144, 0.18); }
+    .zeit-table input[type="time"],
+    .zeit-table input[type="number"],
+    .zeit-table input[type="text"] {
+      font: inherit;
+      font-size: 0.85rem;
+      color: var(--ink);
+      background: var(--paper);
+      border: 1px solid rgba(33, 24, 16, 0.18);
+      border-radius: 0.4rem;
+      padding: 0.35rem 0.45rem;
+      width: 100%;
+    }
+    .zeit-table input:focus { outline: none; border-color: var(--umber); }
+    .zeit-table td.zeit-col-date { white-space: nowrap; }
+    .zeit-table td.zeit-col-pause input { max-width: 4.6rem; }
+    .zeit-table td.zeit-col-time input { max-width: 6.4rem; }
+    .zeit-table td.zeit-col-note input { min-width: 9rem; }
+    .zeit-table td.zeit-col-hours {
+      font-weight: 500;
+      color: var(--umber-deep);
+      white-space: nowrap;
+    }
+    .zeit-weekday { color: var(--ink-soft); font-size: 0.76rem; margin-left: 0.35rem; }
+
+    .zeit-summary {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1.6rem;
+      align-items: baseline;
+      padding: 1.1rem 1.4rem;
+      background: var(--paper-deep);
+      border-radius: 0.9rem;
+      margin-bottom: 2.2rem;
+    }
+    .zeit-summary strong {
+      font-size: 1.3rem;
+      font-weight: 500;
+      color: var(--umber-deep);
+    }
+    .zeit-summary span { font-size: 0.78rem; color: var(--ink-soft); }
+
+    .zeit-export {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.9rem;
+      align-items: center;
+    }
+    .zeit-export button {
+      font: inherit;
+      font-size: 0.8rem;
+      font-weight: 500;
+      letter-spacing: 0.03em;
+      color: var(--paper);
+      background: var(--umber);
+      border: 0;
+      border-radius: 0.55rem;
+      padding: 0.85rem 1.5rem;
+      cursor: pointer;
+      transition: background 180ms;
+    }
+    .zeit-export button:hover { background: var(--umber-deep); }
+    .zeit-export button.zeit-btn--secondary {
+      color: var(--ink);
+      background: transparent;
+      border: 1px solid rgba(33, 24, 16, 0.25);
+    }
+    .zeit-export button.zeit-btn--secondary:hover { border-color: var(--umber); color: var(--umber-deep); }
+    .zeit-export-note {
+      flex-basis: 100%;
+      font-size: 0.74rem;
+      color: var(--ink-soft);
+      margin-top: 0.2rem;
+    }
+
+    @media (max-width: 640px) {
+      .zeit-toolbar { padding: 1.1rem 1.1rem; }
+      .zeit-summary { gap: 1.1rem; padding: 1rem 1.1rem; }
+    }
+  </style>
+</head>
+<body data-theme="light" class="static-page">
+
+  <a class="ui-brand" href="../" aria-label="Richard Atelier — zur Startseite">
+    <span class="brand-line" aria-hidden="true"></span>
+    <span class="brand-word">Richard</span>
+  </a>
+
+  <main class="qpage-main qpage-main--wide">
+    <div class="qpage-intro">
+      <p class="eyebrow">Mitarbeiter-Stundenerfassung</p>
+      <h1 class="display">Arbeitszeiten erfassen.</h1>
+      <p class="lede">
+        Monat wählen, für jeden Tag Beginn, Ende und Mittagspause eintragen — die
+        Stunden werden automatisch berechnet. Am Ende als Excel- oder PDF-Datei
+        exportieren. Ihre Eingaben bleiben in diesem Browser gespeichert, bis Sie
+        die Tabelle zurücksetzen.
+      </p>
+    </div>
+
+    <section class="zeit-toolbar" aria-label="Einstellungen">
+      <div class="zeit-field">
+        <label for="ra-name">Name</label>
+        <input type="text" id="ra-name" autocomplete="name" placeholder="Vor- und Nachname">
+      </div>
+      <div class="zeit-field">
+        <label for="ra-month">Monat</label>
+        <input type="month" id="ra-month">
+      </div>
+      <div class="zeit-field">
+        <label for="ra-default-pause">Standard-Mittagspause (Min.)</label>
+        <input type="number" id="ra-default-pause" min="0" step="5" value="30">
+      </div>
+      <div class="zeit-actions-row">
+        <button type="button" class="zeit-btn" id="ra-reset-pause">Pause auf allen Tagen setzen</button>
+        <button type="button" class="zeit-btn" id="ra-clear">Monat zurücksetzen</button>
+      </div>
+    </section>
+
+    <div class="zeit-table-wrap">
+      <table class="zeit-table">
+        <thead>
+          <tr>
+            <th>Datum</th>
+            <th>Beginn</th>
+            <th>Ende</th>
+            <th>Pause (Min.)</th>
+            <th>Stunden</th>
+            <th>Notiz</th>
+          </tr>
+        </thead>
+        <tbody id="ra-days-body"></tbody>
+      </table>
+    </div>
+
+    <section class="zeit-summary" aria-live="polite">
+      <div><strong id="ra-total-hours">0,00</strong> <span>Stunden gesamt</span></div>
+      <div><strong id="ra-total-days">0</strong> <span>Arbeitstage erfasst</span></div>
+    </section>
+
+    <section class="zeit-export">
+      <button type="button" id="ra-export-excel">Als Excel exportieren</button>
+      <button type="button" class="zeit-btn--secondary" id="ra-export-pdf">Als PDF exportieren</button>
+      <p class="zeit-export-note">Name und Monat werden in der Datei mit ausgegeben. Der Dateiname enthält automatisch Name und Monat.</p>
+    </section>
+
+    <datalist id="ra-note-suggestions">
+      <option value="Urlaub">
+      <option value="Krankenstand">
+      <option value="Feiertag">
+      <option value="Zeitausgleich">
+      <option value="Homeoffice">
+    </datalist>
+  </main>
+
+  <div class="static-footer">
+    Vienna<br><span class="footer-address">Royerstraße 7, 2482 Münchendorf</span><br>New York<br><a class="footer-contact" href="tel:+436603607188">+43 660 3607188</a><span class="footer-contact-sep">&middot;</span><a class="footer-contact" href="mailto:richard@richardsatelier.at">richard@richardsatelier.at</a><span class="footer-contact-sep">&middot;</span><a class="footer-contact" href="https://wa.me/436603607188" target="_blank" rel="noopener">WhatsApp</a>
+    <nav class="footer-links" aria-label="Weitere Seiten">
+      <a href="../impressum/">Impressum</a>
+      <a href="../datenschutz/">Datenschutz</a>
+      <a href="tel:+436603607188">Anrufen</a>
+    </nav>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/xlsx@0.18.5/dist/xlsx.full.min.js" defer></script>
+  <script src="https://cdn.jsdelivr.net/npm/jspdf@2.5.1/dist/jspdf.umd.min.js" defer></script>
+  <script src="https://cdn.jsdelivr.net/npm/jspdf-autotable@3.8.2/dist/jspdf.plugin.autotable.min.js" defer></script>
+  <script src="../assets/stundenerfassung.js?v=202609112" defer></script>
+</body>
+</html>
