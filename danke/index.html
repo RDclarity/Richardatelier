@@ -132,6 +132,13 @@
         }
       }
 
+      if (params.get("type") === "stammdaten") {
+        document.getElementById("thanks-headline").textContent = "Vielen Dank — Ihr Stammdatenblatt ist angekommen.";
+        document.getElementById("thanks-copy").textContent =
+          "Wir haben Ihre Angaben und Dokumente erhalten und legen sie sicher in Ihrer Personalakte ab. Falls noch etwas fehlt, melden wir uns persönlich bei Ihnen. Willkommen im Team!";
+        if (cta) cta.style.display = "none";
+      }
+
       if (params.get("type") === "bewerbung") {
         document.getElementById("thanks-headline").textContent = "Vielen Dank für Ihre Bewerbung.";
         document.getElementById("thanks-copy").textContent =

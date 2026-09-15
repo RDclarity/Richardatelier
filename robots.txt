@@ -33,6 +33,7 @@ Disallow: /karriere/bewerbung/
 Disallow: /en/careers/apply/
 Disallow: /it/carriera/candidatura/
 Disallow: /es/carrera/solicitud/
+Disallow: /stammdatenblatt/
 
 # KI-Crawler ausdrücklich erlaubt, damit Assistenten wie ChatGPT,
 # Claude, Perplexity & Co. die Seite korrekt zusammenfassen/zitieren

@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Stammdatenblatt — Richard Atelier</title>
+  <meta name="description" content="Mitarbeiter-Stammdatenblatt Richard Atelier — persönliche Daten, Bankverbindung, Notfallkontakt und Dokumente für die Personalakte.">
+  <link rel="icon" href="../assets/favicon-32.png?v=202609112" sizes="32x32">
+  <link rel="icon" href="../assets/favicon-512.png?v=202609112" sizes="512x512">
+  <link rel="apple-touch-icon" href="../assets/apple-touch-icon.png?v=202609112">
+  <meta property="og:site_name" content="Richard Atelier">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Stammdatenblatt — Richard Atelier">
+  <meta property="og:description" content="Mitarbeiter-Stammdatenblatt für die Personalakte bei Richard Atelier.">
+  <meta property="og:image" content="https://richardatelier.com/assets/img/richard-atelier-01.jpg">
+  <meta property="og:url" content="https://richardatelier.com/stammdatenblatt/">
+  <meta property="og:locale" content="de_AT">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Stammdatenblatt — Richard Atelier">
+  <meta name="twitter:description" content="Mitarbeiter-Stammdatenblatt für die Personalakte bei Richard Atelier.">
+  <meta name="twitter:image" content="https://richardatelier.com/assets/img/richard-atelier-01.jpg">
+  <!-- Interne Mitarbeiterseite: nur per direktem Link, nicht indexieren -->
+  <meta name="robots" content="noindex, nofollow">
+  <link rel="stylesheet" href="../assets/styles.css?v=202609112">
+  <script src="../assets/analytics.js?v=202609112"></script>
+</head>
+<body data-theme="light" class="static-page">
+
+  <a class="ui-brand" href="../" aria-label="Richard Atelier — zur Startseite">
+    <span class="brand-line" aria-hidden="true"></span>
+    <span class="brand-word">Richard</span>
+  </a>
+
+  <main class="qpage-main">
+    <div class="qpage-intro">
+      <p class="eyebrow">Mitarbeiter-Stammdatenblatt</p>
+      <h1 class="display">Willkommen im Team.</h1>
+      <p class="lede">
+        Damit wir Ihre Personalakte anlegen können, bitten wir um ein paar Angaben und
+        Dokumente. Kein Feld ist Pflicht — außer einer E-Mail-Adresse, damit wir Sie
+        erreichen. Dokumente können Sie direkt mit dem Handy fotografieren oder als Datei
+        hochladen. Alles Weitere klären wir persönlich.
+      </p>
+    </div>
+
+    <form class="questionnaire-form" novalidate
+          action="https://vkiwbxayraxgrachjaoc.supabase.co/functions/v1/richard-atelier-stammdaten-mail" method="post" enctype="multipart/form-data"
+          data-endpoint="https://vkiwbxayraxgrachjaoc.supabase.co/functions/v1/richard-atelier-stammdaten-mail"
+          data-success-url="../danke/"
+          data-success-type="stammdaten"
+          data-msg-sending="Wird gesendet … bei mehreren Fotos kann das einen Moment dauern."
+          data-msg-error="Senden fehlgeschlagen. Bitte später erneut versuchen."
+          data-msg-invalid="Bitte geben Sie eine gültige E-Mail-Adresse ein.">
+      <input type="hidden" name="lead_id" id="lead_id" value="">
+      <input type="hidden" name="lang" value="de">
+      <div class="hp-field" aria-hidden="true">
+        <label for="hp-company">Firma (bitte leer lassen)</label>
+        <input id="hp-company" type="text" name="company" tabindex="-1" autocomplete="off">
+      </div>
+
+      <!-- 01 · Persönliche Daten -->
+      <div class="section-title"><span class="section-num">01</span><h2>Persönliche Daten</h2></div>
+
+      <div class="qrow">
+        <label for="vorname">Vorname</label>
+        <input id="vorname" type="text" name="vorname" autocomplete="given-name">
+      </div>
+      <div class="qrow">
+        <label for="nachname">Nachname</label>
+        <input id="nachname" type="text" name="nachname" autocomplete="family-name">
+      </div>
+      <div class="qrow">
+        <label for="geburtsdatum">Geburtsdatum</label>
+        <input id="geburtsdatum" type="text" name="geburtsdatum" inputmode="numeric" placeholder="TT.MM.JJJJ" autocomplete="bday">
+      </div>
+      <div class="qrow">
+        <label for="geburtsort">Geburtsort</label>
+        <input id="geburtsort" type="text" name="geburtsort">
+      </div>
+      <div class="qrow">
+        <label for="adresse">Adresse (Straße, PLZ, Ort)</label>
+        <input id="adresse" type="text" name="adresse" autocomplete="street-address">
+      </div>
+      <div class="qrow">
+        <label for="staatsangehoerigkeit">Staatsangehörigkeit</label>
+        <input id="staatsangehoerigkeit" type="text" name="staatsangehoerigkeit">
+      </div>
+      <div class="qrow">
+        <label for="qemail">E-Mail privat</label>
+        <input id="qemail" type="email" name="email" autocomplete="email" required>
+      </div>
+      <div class="qrow">
+        <label for="email-beruflich">E-Mail beruflich (falls vorhanden)</label>
+        <input id="email-beruflich" type="email" name="email_beruflich">
+      </div>
+      <div class="qrow">
+        <label for="qphone">Telefon</label>
+        <input id="qphone" type="tel" name="phone" autocomplete="tel">
+      </div>
+      <div class="qrow">
+        <label for="svnr">Sozialversicherungsnummer</label>
+        <input id="svnr" type="text" name="sozialversicherungsnummer" inputmode="numeric">
+      </div>
+
+      <!-- 02 · Bankverbindung -->
+      <div class="section-title"><span class="section-num">02</span><h2>Bankverbindung</h2></div>
+
+      <div class="qrow">
+        <label for="bank-kontoinhaber">Kontoinhaber:in</label>
+        <input id="bank-kontoinhaber" type="text" name="bank_kontoinhaber">
+      </div>
+      <div class="qrow">
+        <label for="bank-institut">Bankinstitut</label>
+        <input id="bank-institut" type="text" name="bank_institut">
+      </div>
+      <div class="qrow">
+        <label for="iban">IBAN</label>
+        <input id="iban" type="text" name="iban" autocomplete="off" spellcheck="false">
+      </div>
+      <div class="qrow">
+        <label for="bic">BIC</label>
+        <input id="bic" type="text" name="bic" autocomplete="off" spellcheck="false">
+      </div>
+
+      <!-- 03 · Notfallkontakt -->
+      <div class="section-title"><span class="section-num">03</span><h2>Notfallkontakt</h2></div>
+
+      <div class="qrow">
+        <label for="notfall-name">Name</label>
+        <input id="notfall-name" type="text" name="notfall_name">
+      </div>
+      <div class="qrow">
+        <label for="notfall-beziehung">Beziehung (z. B. Partner:in, Elternteil)</label>
+        <input id="notfall-beziehung" type="text" name="notfall_beziehung">
+      </div>
+      <div class="qrow">
+        <label for="notfall-telefon">Telefon</label>
+        <input id="notfall-telefon" type="tel" name="notfall_telefon">
+      </div>
+
+      <!-- 04 · Beschäftigungsdaten -->
+      <div class="section-title"><span class="section-num">04</span><h2>Beschäftigungsdaten</h2></div>
+
+      <div class="qrow">
+        <label for="position">Position / Funktion</label>
+        <input id="position" type="text" name="position" autocomplete="organization-title">
+      </div>
+      <div class="qrow">
+        <label for="abteilung">Abteilung / Bereich</label>
+        <input id="abteilung" type="text" name="abteilung">
+      </div>
+      <div class="qrow">
+        <label for="eintrittsdatum">Eintrittsdatum</label>
+        <input id="eintrittsdatum" type="text" name="eintrittsdatum" inputmode="numeric" placeholder="TT.MM.JJJJ">
+      </div>
+
+      <fieldset class="qgroup">
+        <legend class="qgroup-label">Beschäftigungsart</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="Vollzeit">Vollzeit</button>
+          <button type="button" class="chip" data-value="Teilzeit">Teilzeit</button>
+          <button type="button" class="chip" data-value="Geringfügig">Geringfügig</button>
+          <button type="button" class="chip" data-value="Praktikum">Praktikum</button>
+          <button type="button" class="chip" data-value="Freier Dienstvertrag">Freier Dienstvertrag</button>
+        </div>
+        <input type="hidden" name="beschaeftigungsart">
+      </fieldset>
+
+      <fieldset class="qgroup">
+        <legend class="qgroup-label">Wie sind Sie auf Richard Atelier aufmerksam geworden?</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="Empfehlung">Empfehlung</button>
+          <button type="button" class="chip" data-value="Website">Website</button>
+          <button type="button" class="chip" data-value="Social Media">Social Media</button>
+          <button type="button" class="chip" data-value="Stellenanzeige">Stellenanzeige</button>
+          <button type="button" class="chip" data-value="Sonstiges">Sonstiges</button>
+        </div>
+        <input type="hidden" name="aufmerksam_durch">
+      </fieldset>
+
+      <fieldset class="qgroup" data-multi="true">
+        <legend class="qgroup-label">Benötigte Arbeitsmittel</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="Laptop">Laptop</button>
+          <button type="button" class="chip" data-value="Diensthandy">Diensthandy</button>
+          <button type="button" class="chip" data-value="Firmenwagen">Firmenwagen</button>
+          <button type="button" class="chip" data-value="Schlüssel / Zutritt">Schlüssel / Zutritt</button>
+          <button type="button" class="chip" data-value="Arbeitskleidung">Arbeitskleidung</button>
+          <button type="button" class="chip" data-value="Werkzeug">Werkzeug</button>
+        </div>
+        <input type="hidden" name="arbeitsmittel">
+      </fieldset>
+
+      <div class="qrow">
+        <label for="arbeitsmittel-sonstige">Sonstige Arbeitsmittel</label>
+        <input id="arbeitsmittel-sonstige" type="text" name="arbeitsmittel_sonstige">
+      </div>
+
+      <!-- 05 · Dokumente -->
+      <div class="section-title"><span class="section-num">05</span><h2>Dokumente</h2></div>
+      <p class="section-note">
+        Pro Dokument ein Foto oder eine Datei (Bild oder PDF). Am Handy können Sie direkt
+        die Kamera verwenden. Alle Dokumente werden sicher in Ihrer Personalakte abgelegt.
+      </p>
+
+      <div class="qrow">
+        <label for="doc-reisepass">Reisepass</label>
+        <div class="file-field">
+          <input id="doc-reisepass" type="file" name="doc_reisepass" accept="image/*,.pdf">
+          <span class="file-name">Keine Datei ausgewählt</span>
+        </div>
+      </div>
+      <div class="qrow">
+        <label for="doc-personalausweis">Personalausweis</label>
+        <div class="file-field">
+          <input id="doc-personalausweis" type="file" name="doc_personalausweis" accept="image/*,.pdf">
+          <span class="file-name">Keine Datei ausgewählt</span>
+        </div>
+      </div>
+      <div class="qrow">
+        <label for="doc-fuehrerschein">Führerschein</label>
+        <div class="file-field">
+          <input id="doc-fuehrerschein" type="file" name="doc_fuehrerschein" accept="image/*,.pdf">
+          <span class="file-name">Keine Datei ausgewählt</span>
+        </div>
+      </div>
+      <div class="qrow">
+        <label for="doc-meldezettel">Meldezettel</label>
+        <div class="file-field">
+          <input id="doc-meldezettel" type="file" name="doc_meldezettel" accept="image/*,.pdf">
+          <span class="file-name">Keine Datei ausgewählt</span>
+        </div>
+      </div>
+      <div class="qrow">
+        <label for="doc-bankomatkarte-vorne">Bankomatkarte — Vorderseite</label>
+        <div class="file-field">
+          <input id="doc-bankomatkarte-vorne" type="file" name="doc_bankomatkarte_vorne" accept="image/*,.pdf">
+          <span class="file-name">Keine Datei ausgewählt</span>
+        </div>
+      </div>
+      <div class="qrow">
+        <label for="doc-bankomatkarte-hinten">Bankomatkarte — Rückseite</label>
+        <div class="file-field">
+          <input id="doc-bankomatkarte-hinten" type="file" name="doc_bankomatkarte_hinten" accept="image/*,.pdf">
+          <span class="file-name">Keine Datei ausgewählt</span>
+        </div>
+      </div>
+      <div class="qrow">
+        <label for="doc-ecard">e-card</label>
+        <div class="file-field">
+          <input id="doc-ecard" type="file" name="doc_ecard" accept="image/*,.pdf">
+          <span class="file-name">Keine Datei ausgewählt</span>
+        </div>
+      </div>
+      <div class="qrow">
+        <label for="doc-sozialversicherungsauszug">Sozialversicherungsauszug</label>
+        <div class="file-field">
+          <input id="doc-sozialversicherungsauszug" type="file" name="doc_sozialversicherungsauszug" accept="image/*,.pdf">
+          <span class="file-name">Keine Datei ausgewählt</span>
+        </div>
+      </div>
+      <div class="qrow">
+        <label for="doc-leumundszeugnis">Leumundszeugnis / Strafregisterauszug</label>
+        <div class="file-field">
+          <input id="doc-leumundszeugnis" type="file" name="doc_leumundszeugnis" accept="image/*,.pdf">
+          <span class="file-name">Keine Datei ausgewählt</span>
+        </div>
+      </div>
+      <div class="qrow">
+        <label for="doc-sonstige">Weitere Dokumente (z. B. Zeugnisse, Nachweise — mehrere möglich)</label>
+        <div class="file-field">
+          <input id="doc-sonstige" type="file" name="doc_sonstige[]" accept="image/*,.pdf,.doc,.docx" multiple>
+          <span class="file-name">Keine Datei ausgewählt</span>
+        </div>
+      </div>
+
+      <!-- 06 · Zustimmungen -->
+      <div class="section-title"><span class="section-num">06</span><h2>Zustimmungen (optional)</h2></div>
+
+      <fieldset class="qgroup" data-multi="true">
+        <legend class="qgroup-label">Womit sind Sie einverstanden? Mehrfachauswahl möglich, jederzeit widerrufbar.</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="Fotos anonymisiert (ohne Namen) für Website & Social Media">Fotos anonymisiert (ohne Namen)</button>
+          <button type="button" class="chip" data-value="Fotos namentlich für Website & Social Media">Fotos namentlich</button>
+          <button type="button" class="chip" data-value="Kontaktaufnahme für interne Marketing-Zwecke">Kontakt für Marketing-Zwecke</button>
+        </div>
+        <input type="hidden" name="zustimmungen">
+      </fieldset>
+
+      <div class="qrow">
+        <label for="ergaenzungen">Gibt es etwas, das wir noch wissen sollten?</label>
+        <textarea id="ergaenzungen" name="ergaenzungen"></textarea>
+      </div>
+
+      <p class="section-note">
+        Datenschutzhinweis: Ihre Angaben und Dokumente werden ausschließlich zur Anlage und
+        Führung Ihrer Personalakte bei Richard Atelier verarbeitet, verschlüsselt übertragen
+        und nur berechtigten Personen zugänglich gemacht. Details in unserer
+        <a href="../datenschutz/">Datenschutzerklärung</a>.
+      </p>
+
+      <div class="qpage-submit">
+        <button type="submit">Stammdatenblatt absenden</button>
+        <p class="form-note" aria-live="polite"></p>
+      </div>
+    </form>
+  </main>
+
+  <div class="static-footer">
+    Vienna<br><span class="footer-address">Royerstraße 7, 2482 Münchendorf</span><br>New York<br><a class="footer-contact" href="tel:+436603607188">+43 660 3607188</a><span class="footer-contact-sep">&middot;</span><a class="footer-contact" href="mailto:richard@richardsatelier.at">richard@richardsatelier.at</a><span class="footer-contact-sep">&middot;</span><a class="footer-contact" href="https://wa.me/436603607188" target="_blank" rel="noopener">WhatsApp</a>
+    <nav class="footer-links" aria-label="Weitere Seiten">
+      <a href="../impressum/">Impressum</a>
+      <a href="../datenschutz/">Datenschutz</a>
+      <a href="tel:+436603607188">Anrufen</a>
+    </nav>
+  </div>
+
+  <script src="../assets/projektinfos.js?v=202609112"></script>
+</body>
+</html>
