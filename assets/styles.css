@@ -244,9 +244,9 @@ body[data-theme="sand"] .ui-menu { background: var(--ink); box-shadow: 0 16px 40
 .ui-menu a {
   text-decoration: none;
   color: var(--ink-soft);
-  font-size: 0.66rem;
+  font-size: 0.78rem;
   font-weight: 500;
-  letter-spacing: 0.2em;
+  letter-spacing: 0.15em;
   text-transform: uppercase;
   padding-bottom: 0.2em;
   border-bottom: 1px solid transparent;
@@ -433,8 +433,8 @@ body[data-theme="sand"] .ui-menu { background: var(--ink); box-shadow: 0 16px 40
 .display strong { font-weight: 500; }
 
 .lede {
-  font-size: clamp(0.95rem, 2.4vw, 1.15rem);
-  line-height: 1.7;
+  font-size: clamp(1.05rem, 2.6vw, 1.3rem);
+  line-height: 1.65;
   color: var(--ink-soft);
   max-width: 46ch;
 }
@@ -512,14 +512,14 @@ body[data-theme="sand"] .ui-menu { background: var(--ink); box-shadow: 0 16px 40
    Besucher, die über eine Werbeanzeige direkt im Hero landen und noch
    nichts über den Betrieb wissen. */
 .hero-desc {
-  font-size: clamp(0.85rem, 2.1vw, 1rem);
+  font-size: clamp(0.98rem, 2.2vw, 1.15rem);
   line-height: 1.6;
   color: var(--ink-soft);
   max-width: 42ch;
   margin-top: 0.3rem;
 }
 .hero-cities {
-  font-size: 0.66rem;
+  font-size: 0.72rem;
   letter-spacing: 0.4em;
   text-transform: uppercase;
   color: var(--umber);
@@ -571,11 +571,11 @@ body[data-theme="sand"] .ui-menu { background: var(--ink); box-shadow: 0 16px 40
   stroke-width: 1.4;
   stroke-linecap: round;
   stroke-linejoin: round;
-  opacity: 0.32;
+  opacity: 0.16;
   transition: stroke 600ms, opacity 600ms;
 }
 body[data-theme="sand"] .thread-path,
-body[data-theme="dark"] .thread-path { stroke: var(--paper); opacity: 0.45; }
+body[data-theme="dark"] .thread-path { stroke: var(--paper); opacity: 0.22; }
 
 /* Bilder & Textspalten liegen über dem Faden */
 .figure, .split-copy, .px-group { position: relative; z-index: 6; }
@@ -607,7 +607,7 @@ body[data-theme="dark"] .thread-path { stroke: var(--paper); opacity: 0.45; }
 }
 .figure-caption {
   margin-top: 0.6rem;
-  font-size: 0.6rem;
+  font-size: 0.68rem;
   letter-spacing: 0.26em;
   text-transform: uppercase;
   color: var(--umber);
@@ -617,7 +617,7 @@ body[data-theme="dark"] .thread-path { stroke: var(--paper); opacity: 0.45; }
 .ai-disclosure {
   position: absolute;
   z-index: 8;
-  font-size: 0.56rem;
+  font-size: 0.62rem;
   font-weight: 600;
   letter-spacing: 0.05em;
   text-transform: uppercase;
@@ -896,8 +896,8 @@ body[data-theme="dark"] .thread-path { stroke: var(--paper); opacity: 0.45; }
   bottom: clamp(1rem, 3vw, 1.8rem);
   right: clamp(2.4rem, 7vw, 4rem);
   text-align: right;
-  font-size: 0.62rem;
-  letter-spacing: 0.42em;
+  font-size: 0.7rem;
+  letter-spacing: 0.38em;
   text-transform: uppercase;
   color: rgba(247, 244, 238, 0.55);
   line-height: 2;
@@ -1140,8 +1140,8 @@ body.static-page {
   bottom: clamp(1rem, 3vw, 1.8rem);
   right: clamp(2.4rem, 7vw, 4rem);
   text-align: right;
-  font-size: 0.62rem;
-  letter-spacing: 0.42em;
+  font-size: 0.7rem;
+  letter-spacing: 0.38em;
   text-transform: uppercase;
   color: var(--ink-soft);
   line-height: 2;
@@ -1164,7 +1164,7 @@ body.static-page {
 .legal-page {
   max-width: 42rem;
   margin: 0 auto;
-  padding: clamp(6rem, 16vh, 8.5rem) clamp(1.6rem, 6vw, 2rem) 8rem;
+  padding: clamp(6rem, 16vh, 8.5rem) clamp(1.6rem, 6vw, 2rem) clamp(11rem, 26vh, 14rem);
 }
 .legal-page .display { max-width: none; margin-bottom: 0.6rem; }
 .legal-page .lede { max-width: none; margin-bottom: 3rem; }
@@ -1178,7 +1178,7 @@ body.static-page {
 }
 .legal-page h2:first-of-type { border-top: 0; padding-top: 0; margin-top: 0; }
 .legal-page p, .legal-page li {
-  font-size: 0.92rem;
+  font-size: 1.02rem;
   line-height: 1.7;
   color: var(--ink-soft);
 }
@@ -1217,7 +1217,7 @@ body.static-page {
 .qpage-main {
   max-width: 42rem;
   margin: 0 auto;
-  padding: clamp(6rem, 16vh, 8.5rem) clamp(1.6rem, 6vw, 2rem) 6rem;
+  padding: clamp(6rem, 16vh, 8.5rem) clamp(1.6rem, 6vw, 2rem) clamp(11rem, 26vh, 14rem);
 }
 .qpage-intro { margin-bottom: 3rem; display: flex; flex-direction: column; gap: 1rem; }
 .qpage-intro .lede { max-width: none; }
@@ -1245,7 +1245,7 @@ body.static-page {
   color: var(--ink);
 }
 .section-note {
-  font-size: 0.85rem;
+  font-size: 0.94rem;
   color: var(--ink-soft);
   line-height: 1.6;
   margin: -1rem 0 1.8rem;
@@ -1415,7 +1415,7 @@ body.static-page {
 }
 .team-card-bio {
   color: var(--ink-soft);
-  font-size: 0.92rem;
+  font-size: 1.02rem;
   line-height: 1.65;
 }
 
@@ -1477,7 +1477,7 @@ body.static-page {
   list-style: none;
   margin-top: 0.4rem;
 }
-.change-list li { font-size: 0.92rem; color: var(--ink-soft); line-height: 1.5; }
+.change-list li { font-size: 1rem; color: var(--ink-soft); line-height: 1.5; }
 .change-list li strong { color: var(--ink); font-weight: 500; }
 .change-list .arrow { color: var(--umber); margin: 0 0.5em; }
 
@@ -1496,7 +1496,7 @@ body.static-page {
   text-transform: uppercase;
   color: var(--umber-deep);
 }
-.fact-value { font-size: 0.92rem; color: var(--ink); }
+.fact-value { font-size: 0.98rem; color: var(--ink); }
 
 /* Dunkle Slides dürfen .display/.lede jetzt auch für Fließtext
    nutzen (bisher nur Formular-Elemente auf .slide--contact) */
@@ -1549,7 +1549,7 @@ body.static-page {
 .contact-footer .footer-contact,
 .lp-footer .footer-contact {
   display: inline-block;
-  font-size: 0.62rem;
+  font-size: 0.7rem;
   letter-spacing: 0.03em;
   text-transform: none;
   color: inherit;
@@ -1566,7 +1566,7 @@ body.static-page {
 .contact-footer .footer-address,
 .lp-footer .footer-address {
   display: inline-block;
-  font-size: 0.62rem;
+  font-size: 0.7rem;
   letter-spacing: 0.03em;
   text-transform: none;
   opacity: 0.85;
@@ -1661,7 +1661,7 @@ body.static-page {
   padding-left: 1.3rem;
   color: var(--ink);
   line-height: 1.55;
-  font-size: 0.92rem;
+  font-size: 1rem;
 }
 .job-requirements li::before {
   content: "";
@@ -1778,8 +1778,8 @@ body.static-page {
 }
 .lp-h1 strong { font-weight: 600; }
 .lp-lede {
-  font-size: clamp(1rem, 2.4vw, 1.15rem);
-  line-height: 1.65;
+  font-size: clamp(1.05rem, 2.6vw, 1.25rem);
+  line-height: 1.6;
   color: rgba(247, 244, 238, 0.86);
   max-width: 42ch;
   margin-bottom: 1.8rem;
@@ -1976,7 +1976,7 @@ body.static-page {
   justify-content: center;
 }
 .lp-step h3 { font-size: 1rem; font-weight: 600; color: var(--ink); margin-bottom: 0.5rem; }
-.lp-step p { font-size: 0.9rem; color: var(--ink-soft); line-height: 1.6; }
+.lp-step p { font-size: 0.98rem; color: var(--ink-soft); line-height: 1.6; }
 
 .lp-testimonials {
   display: grid;
@@ -1990,7 +1990,7 @@ body.static-page {
   padding: 1.6rem 1.5rem;
 }
 .lp-testimonial .lp-stars { display: block; margin-bottom: 0.8rem; font-size: 0.85rem; }
-.lp-testimonial p.quote { font-size: 0.92rem; color: var(--ink); line-height: 1.6; margin-bottom: 1rem; }
+.lp-testimonial p.quote { font-size: 1.02rem; color: var(--ink); line-height: 1.6; margin-bottom: 1rem; }
 .lp-testimonial .who { font-size: 0.72rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-soft); }
 
 .lp-cta-band {
@@ -2220,7 +2220,7 @@ body.static-page {
 .lp-faq details[open] summary::after { content: "–"; }
 .lp-faq p.answer {
   margin-top: 0.8rem;
-  font-size: 0.92rem;
+  font-size: 1.02rem;
   line-height: 1.65;
   color: var(--ink-soft);
 }
