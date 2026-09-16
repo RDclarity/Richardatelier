@@ -355,7 +355,13 @@ body[data-theme="sand"] .ui-menu { background: var(--ink); box-shadow: 0 16px 40
   line-height: 1;
   cursor: pointer;
   position: relative;
-  transition: transform 300ms var(--ease-out);
+  /* Die Subway-Farben sind bewusst kräftig (echte Linienfarben von
+     Wien/Madrid/Rom/NYC), passen so aber nicht zur sonst sehr zurück-
+     haltenden Farbwelt der Seite — hier gedämpft statt die Palette
+     selbst zu ändern. */
+  filter: saturate(55%);
+  opacity: 0.72;
+  transition: transform 300ms var(--ease-out), opacity 300ms var(--ease-out);
 }
 .ui-dots button::after {
   content: "";
@@ -369,6 +375,7 @@ body[data-theme="sand"] .ui-menu { background: var(--ink); box-shadow: 0 16px 40
 .ui-dots button:hover { transform: scale(1.18); }
 .ui-dots li[data-active="true"] button {
   transform: scale(1.22);
+  opacity: 0.92;
 }
 .ui-dots li[data-active="true"] button::after {
   box-shadow: 0 0 0 2px var(--paper), 0 0 0 3.5px var(--tip);
