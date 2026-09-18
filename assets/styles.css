@@ -1257,6 +1257,14 @@ body.static-page {
   line-height: 1.6;
   margin: -1rem 0 1.8rem;
 }
+.section-note a {
+  color: inherit;
+  text-decoration: none;
+  border-bottom: 1px solid currentColor;
+  opacity: 0.85;
+  transition: opacity 250ms;
+}
+.section-note a:hover { opacity: 1; }
 
 /* Kompakte Chip-Gruppen (Bestandsmatrix u.ä.) */
 .qgroup--compact { margin-bottom: 1.1rem; }
