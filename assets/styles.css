@@ -1165,6 +1165,19 @@ body.static-page {
   text-transform: none;
 }
 
+/* Lange Formulare & Rechtstexte (Stammdatenblatt, Projektblatt, Bewerbung,
+   Impressum, Datenschutz …): Anders als bei den einseitigen Decks/Hero-
+   Seiten reicht der Inhalt hier über die Viewport-Höhe hinaus. Als
+   position:absolute würde der Footer weiterhin relativ zum gesamten
+   Dokument stehen und auf schmalen Screens — wenn Adresse und Links
+   mehrzeilig umbrechen — den Absende-Button überlappen. Deshalb hier
+   normaler Dokumentfluss statt freier Positionierung. */
+.qpage-main + .static-footer,
+.legal-page + .static-footer {
+  position: static;
+  margin: 3.5rem clamp(2.4rem, 7vw, 4rem) clamp(2.4rem, 8vw, 3.5rem) clamp(1.6rem, 6vw, 2rem);
+}
+
 /* ------------------------------------------------------------
    Rechtstexte — Impressum, Datenschutzerklärung
    ------------------------------------------------------------ */
