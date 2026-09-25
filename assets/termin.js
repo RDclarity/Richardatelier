@@ -193,6 +193,15 @@
     });
   });
 
+  /* Privat / Gewerblich – steuert, welches Projektblatt der Kunde vorab bekommt */
+  var interesse = "wohnraum";
+  Array.prototype.slice.call(root.querySelectorAll("[data-interesse] .chip")).forEach(function (chip) {
+    chip.addEventListener("click", function () {
+      interesse = chip.getAttribute("data-value");
+      Array.prototype.slice.call(root.querySelectorAll("[data-interesse] .chip")).forEach(function (c) { c.setAttribute("aria-pressed", c === chip ? "true" : "false"); });
+    });
+  });
+
   /* ---------- Absenden ---------- */
   var form = $("form");
   var leadId = (window.crypto && window.crypto.randomUUID) ? window.crypto.randomUUID() : (Date.now().toString(36) + "-" + Math.random().toString(36).slice(2, 10));
@@ -219,6 +228,7 @@
         beginn: gewaehlterSlot.toISOString(),
         art: art,
         erreichbar_per: erreichbar,
+        interesse: interesse,
         vorname: v("vorname"), nachname: v("nachname"), email: v("email"), telefon: v("telefon"), wuensche: v("wuensche"),
         datenschutz: true,
         company: v("company"),
@@ -234,6 +244,11 @@
           $("[data-fertig-hinweis]").textContent = art === "video"
             ? "Den Teams-Link erhalten Sie in einer separaten Einladung per E-Mail — eine Bestätigung mit Kalenderdatei ist bereits unterwegs an " + v("email") + "."
             : "Wir rufen Sie zum vereinbarten Zeitpunkt unter " + v("telefon") + " an. Eine Bestätigung mit Kalenderdatei ist unterwegs an " + v("email") + ".";
+          var pb = $("[data-projektblatt]");
+          if (pb) {
+            var pbq = new URLSearchParams(); pbq.set("lead", leadId); pbq.set("email", v("email"));
+            pb.href = (interesse === "gastronomie" ? "../projektblatt-gastronomie/" : "../projektblatt-privatbereich/") + "?" + pbq.toString();
+          }
           var ics = $("[data-ics]");
           if (res.body.ics && ics) {
             ics.hidden = false;

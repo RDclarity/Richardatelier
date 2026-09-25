@@ -183,6 +183,14 @@
           </div>
         </fieldset>
 
+        <fieldset class="qgroup" data-interesse>
+          <legend class="qgroup-label">Worum geht es?</legend>
+          <div class="chip-row">
+            <button type="button" class="chip" data-value="wohnraum" aria-pressed="true">Privat — Wohnung, Haus, Bad, Küche</button>
+            <button type="button" class="chip" data-value="gastronomie" aria-pressed="false">Gewerblich — Gastronomie, Büro, Praxis</button>
+          </div>
+        </fieldset>
+
         <div class="qrow">
           <label for="t-wuensche">Ihre Wünsche (optional)</label>
           <textarea id="t-wuensche" name="wuensche" placeholder="z. B. Wohnung komplett neu gestalten, Bad renovieren, Einbauküche mit Kochinsel, Restaurant einrichten …"></textarea>
@@ -206,10 +214,16 @@
       <h2 class="display">Ihr Termin steht.</h2>
       <div class="termin-fertig-box" data-fertig-termin></div>
       <p class="lede" data-fertig-hinweis></p>
-      <p>
-        <button type="button" class="static-cta" data-ics hidden>Zum Kalender hinzufügen</button>
-        <a class="termin-sekundaer" href="../">Zur Startseite</a>
+      <p class="lede">
+        Damit wir das Gespräch optimal vorbereiten können, füllen Sie bitte vorab unser
+        Projektblatt aus — ein paar Angaben zu Ihrem Vorhaben, gerne mit Fotos und Grundriss.
+        Den Link haben wir Ihnen auch per E-Mail geschickt.
       </p>
+      <p>
+        <a class="static-cta" data-projektblatt href="../projektblatt-privatbereich/">Projektblatt jetzt ausfüllen</a>
+        <button type="button" class="termin-sekundaer" data-ics hidden>Zum Kalender hinzufügen</button>
+      </p>
+      <p><a class="termin-sekundaer" href="../">Zur Startseite</a></p>
     </section>
   </main>
 
