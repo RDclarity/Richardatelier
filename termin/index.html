@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Erstgespräch buchen — Richard Atelier</title>
+  <meta name="description" content="Kostenloses 15-Minuten-Erstgespräch mit Richard Atelier — telefonisch oder per Video. Wunschtermin Mo–Fr 8–20 Uhr direkt online buchen.">
+  <link rel="canonical" href="https://richardatelier.com/termin/">
+  <link rel="icon" href="../assets/favicon-32.png?v=202609112" sizes="32x32">
+  <link rel="icon" href="../assets/favicon-512.png?v=202609112" sizes="512x512">
+  <link rel="apple-touch-icon" href="../assets/apple-touch-icon.png?v=202609112">
+  <meta property="og:site_name" content="Richard Atelier">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Erstgespräch buchen — Richard Atelier">
+  <meta property="og:description" content="Kostenloses 15-Minuten-Erstgespräch — telefonisch oder per Video. Wunschtermin direkt online buchen.">
+  <meta property="og:image" content="https://richardatelier.com/assets/img/homepage-hero.jpg">
+  <meta property="og:url" content="https://richardatelier.com/termin/">
+  <meta property="og:locale" content="de_AT">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Erstgespräch buchen — Richard Atelier">
+  <meta name="twitter:description" content="Kostenloses 15-Minuten-Erstgespräch — telefonisch oder per Video. Wunschtermin direkt online buchen.">
+  <meta name="twitter:image" content="https://richardatelier.com/assets/img/homepage-hero.jpg">
+  <link rel="stylesheet" href="../assets/styles.css?v=202609112">
+  <style>
+    /* Seitenspezifisch (bewusst inline statt in styles.css – kein sitewide Cache-Bust nötig) */
+    .termin-steps { display: flex; gap: 1.4rem; margin: 0 0 2.2rem; padding: 0; list-style: none; font-size: 0.66rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft, #7a7268); }
+    .termin-steps li { display: flex; align-items: center; gap: 0.5rem; }
+    .termin-steps li::before { content: ""; width: 0.55rem; height: 0.55rem; border-radius: 999px; border: 1px solid currentColor; }
+    .termin-steps li[data-state="aktiv"] { color: var(--ink, #151310); }
+    .termin-steps li[data-state="aktiv"]::before, .termin-steps li[data-state="fertig"]::before { background: currentColor; }
+    .termin-hinweis { font-size: 0.86rem; color: var(--ink-soft, #7a7268); margin: 0.6rem 0 0; }
+    .termin-monat { display: flex; align-items: center; justify-content: space-between; margin: 1.6rem 0 0.8rem; }
+    .termin-monat b { font-weight: 500; font-size: 1.05rem; }
+    .termin-monat button { background: transparent; border: 1px solid var(--ink-soft, #7a7268); border-radius: 999px; width: 2.2rem; height: 2.2rem; cursor: pointer; color: var(--ink, #151310); font-size: 1rem; }
+    .termin-monat button:disabled { opacity: 0.3; cursor: default; }
+    .termin-kalender { display: grid; grid-template-columns: repeat(7, 1fr); gap: 0.35rem; max-width: 26rem; }
+    .termin-wt { font-size: 0.62rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--ink-soft, #7a7268); text-align: center; padding-bottom: 0.3rem; }
+    .termin-tag { aspect-ratio: 1; border: 1px solid transparent; border-radius: 999px; background: transparent; font: inherit; font-size: 0.9rem; color: var(--ink, #151310); cursor: pointer; }
+    .termin-tag:not(:disabled) { border-color: var(--ink-soft, #7a7268); }
+    .termin-tag:not(:disabled):hover { background: rgba(21, 19, 16, 0.06); }
+    .termin-tag:disabled { color: rgba(21, 19, 16, 0.28); cursor: default; }
+    .termin-tag[aria-pressed="true"] { background: var(--ink, #151310); color: var(--paper, #F7F4EE); border-color: var(--ink, #151310); }
+    .termin-tag.is-heute:not([aria-pressed="true"]) { text-decoration: underline; text-underline-offset: 0.2em; }
+    .termin-gruppe { font-size: 0.62rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft, #7a7268); margin: 1.2rem 0 0.5rem; }
+    .chip--slot { padding: 0.5rem 0.9rem; font-variant-numeric: tabular-nums; }
+    .termin-zusammenfassung { display: flex; flex-wrap: wrap; align-items: center; gap: 0.6rem 1.2rem; padding: 1rem 1.2rem; border: 1px solid var(--ink-soft, #7a7268); border-radius: 12px; margin-bottom: 1.8rem; font-size: 0.95rem; }
+    .termin-zusammenfassung button { background: transparent; border: 0; padding: 0; color: var(--ink-soft, #7a7268); text-decoration: underline; text-underline-offset: 0.2em; cursor: pointer; font: inherit; font-size: 0.82rem; }
+    .termin-check { display: flex; gap: 0.7rem; align-items: flex-start; font-size: 0.86rem; margin-top: 1.6rem; cursor: pointer; }
+    .termin-check input { width: 1.1rem; height: 1.1rem; margin-top: 0.15rem; accent-color: var(--ink, #151310); flex: 0 0 auto; }
+    .termin-fertig .display { margin-bottom: 1rem; }
+    .termin-fertig-box { padding: 1.2rem 1.4rem; border: 1px solid var(--ink-soft, #7a7268); border-radius: 12px; font-size: 1.05rem; margin: 1.4rem 0; }
+    .termin-fertig .static-cta { margin-right: 1rem; }
+    .termin-sekundaer { background: transparent; border: 0; padding: 0; color: var(--ink-soft, #7a7268); text-decoration: underline; text-underline-offset: 0.2em; cursor: pointer; font: inherit; font-size: 0.86rem; }
+  </style>
+  <script src="../assets/analytics.js?v=202609112"></script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "name": "Kostenloses Erstgespräch — Richard Atelier",
+    "serviceType": "Erstberatung Innenarchitektur",
+    "description": "Kostenloses 15-Minuten-Erstgespräch, telefonisch oder per Video, online buchbar Mo–Fr 8–20 Uhr.",
+    "url": "https://richardatelier.com/termin/",
+    "areaServed": ["Wien", "Niederösterreich", "Österreich"],
+    "isRelatedTo": "https://richardatelier.com/",
+    "offers": { "@type": "Offer", "price": "0", "priceCurrency": "EUR" },
+    "provider": {
+      "@type": "ProfessionalService",
+      "name": "Richard Atelier",
+      "url": "https://richardatelier.com/",
+      "telephone": "+43-660-3607188",
+      "email": "richard@richardsatelier.at",
+      "address": { "@type": "PostalAddress", "streetAddress": "Royerstraße 7", "postalCode": "2482", "addressLocality": "Münchendorf", "addressCountry": "AT" }
+    }
+  }
+  </script>
+</head>
+<body data-theme="light" class="static-page">
+
+  <a class="ui-brand" href="../" aria-label="Richard Atelier — zur Startseite">
+    <span class="brand-line" aria-hidden="true"></span>
+    <span class="brand-word">Richard</span>
+  </a>
+
+  <input type="checkbox" id="nav-toggle" class="nav-toggle-input">
+  <label for="nav-toggle" class="nav-toggle-btn" aria-label="Menü öffnen">
+    <span></span><span></span><span></span>
+  </label>
+
+  <nav class="ui-menu" aria-label="Hauptmenü">
+    <a href="../referenzen/">Referenzen</a>
+    <a href="../gastronomie/">Gewerblich</a>
+    <a href="../badrenovierung/" class="ui-menu-bad">Bad</a>
+    <a href="../einbaukuechen/">Küche</a>
+    <a href="../einbauschraenke/">Schrank</a>
+    <a href="../team/">Team</a>
+    <a href="./" class="ui-menu-termin" aria-current="page">Termin buchen</a>
+    <a href="../#kontakt" class="ui-menu-contact">Kontakt</a>
+  </nav>
+
+  <main class="qpage-main" data-termin>
+    <div class="qpage-intro">
+      <p class="eyebrow">Kostenloses Erstgespräch · 15 Minuten</p>
+      <h1 class="display">Sprechen wir über Ihr Projekt.</h1>
+      <p class="lede">
+        Erzählen Sie uns kurz von Ihrem Vorhaben — Wohnung, Haus, Bad, Küche oder ein
+        gewerblicher Raum. Sie bekommen eine ehrliche erste Einschätzung und wir
+        besprechen die nächsten Schritte. Telefonisch oder per Video, wann es Ihnen passt.
+      </p>
+    </div>
+
+    <ol class="termin-steps" aria-label="Schritte">
+      <li data-schritt-punkt="termin">Termin</li>
+      <li data-schritt-punkt="daten">Ihre Daten</li>
+      <li data-schritt-punkt="fertig">Bestätigt</li>
+    </ol>
+
+    <!-- Schritt 1: Gesprächsart, Tag, Uhrzeit -->
+    <section data-schritt="termin">
+      <fieldset class="qgroup" data-art>
+        <legend class="qgroup-label">Wie möchten Sie sprechen?</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="telefon" aria-pressed="true">Telefonat — wir rufen Sie an</button>
+          <button type="button" class="chip" data-value="video" aria-pressed="false">Video-Call (Microsoft Teams)</button>
+        </div>
+        <p class="termin-hinweis" data-art-hinweis>Wir rufen Sie zum vereinbarten Zeitpunkt unter Ihrer Nummer an.</p>
+      </fieldset>
+
+      <div class="section-title"><span class="section-num">01</span><h2>Tag wählen</h2></div>
+      <p class="termin-hinweis">Mo–Fr 8–20 Uhr, alle 15 Minuten. Alle Zeiten in österreichischer Zeit (Wien).</p>
+      <div class="termin-monat">
+        <button type="button" data-monat-zurueck aria-label="Vorheriger Monat">‹</button>
+        <b data-monat></b>
+        <button type="button" data-monat-vor aria-label="Nächster Monat">›</button>
+      </div>
+      <div class="termin-kalender" data-kalender aria-label="Kalender"></div>
+
+      <div class="section-title"><span class="section-num">02</span><h2 data-slots-titel>Bitte zuerst einen Tag wählen.</h2></div>
+      <div data-slots></div>
+
+      <div class="qpage-submit">
+        <button type="button" class="static-cta" data-weiter disabled>Weiter</button>
+      </div>
+    </section>
+
+    <!-- Schritt 2: Daten -->
+    <section data-schritt="daten" hidden>
+      <div class="termin-zusammenfassung">
+        <span data-zusammenfassung></span>
+        <button type="button" data-zurueck>Ändern</button>
+      </div>
+
+      <form class="questionnaire-form" novalidate>
+        <div class="hp-field" aria-hidden="true">
+          <label for="hp-company">Firma (bitte leer lassen)</label>
+          <input id="hp-company" type="text" name="company" tabindex="-1" autocomplete="off">
+        </div>
+
+        <div class="section-title"><span class="section-num">03</span><h2>Ihre Daten</h2></div>
+        <div class="qrow">
+          <label for="t-vorname">Vorname</label>
+          <input id="t-vorname" type="text" name="vorname" autocomplete="given-name" required>
+        </div>
+        <div class="qrow">
+          <label for="t-nachname">Nachname</label>
+          <input id="t-nachname" type="text" name="nachname" autocomplete="family-name" required>
+        </div>
+        <div class="qrow">
+          <label for="t-email">E-Mail-Adresse — hierhin schicken wir die Bestätigung</label>
+          <input id="t-email" type="email" name="email" autocomplete="email" inputmode="email" required>
+        </div>
+        <div class="qrow">
+          <label for="t-telefon">Telefonnummer</label>
+          <input id="t-telefon" type="tel" name="telefon" autocomplete="tel" inputmode="tel" required>
+        </div>
+
+        <fieldset class="qgroup" data-erreichbar>
+          <legend class="qgroup-label">Wie erreichen wir Sie am besten?</legend>
+          <div class="chip-row">
+            <button type="button" class="chip" data-value="telefon" aria-pressed="true">Telefon</button>
+            <button type="button" class="chip" data-value="email" aria-pressed="false">E-Mail</button>
+          </div>
+        </fieldset>
+
+        <div class="qrow">
+          <label for="t-wuensche">Ihre Wünsche (optional)</label>
+          <textarea id="t-wuensche" name="wuensche" placeholder="z. B. Wohnung komplett neu gestalten, Bad renovieren, Einbauküche mit Kochinsel, Restaurant einrichten …"></textarea>
+        </div>
+
+        <label class="termin-check">
+          <input type="checkbox" name="datenschutz" value="ja">
+          <span>Ich stimme zu, dass meine Angaben zur Terminvereinbarung verarbeitet werden. Details in der <a href="../datenschutz/">Datenschutzerklärung</a>.</span>
+        </label>
+
+        <div class="qpage-submit">
+          <button type="submit">Termin verbindlich buchen</button>
+          <p class="form-note" aria-live="polite"></p>
+        </div>
+      </form>
+    </section>
+
+    <!-- Schritt 3: Bestätigung -->
+    <section data-schritt="fertig" class="termin-fertig" hidden>
+      <p class="eyebrow">Bestätigt</p>
+      <h2 class="display">Ihr Termin steht.</h2>
+      <div class="termin-fertig-box" data-fertig-termin></div>
+      <p class="lede" data-fertig-hinweis></p>
+      <p>
+        <button type="button" class="static-cta" data-ics hidden>Zum Kalender hinzufügen</button>
+        <a class="termin-sekundaer" href="../">Zur Startseite</a>
+      </p>
+    </section>
+  </main>
+
+  <div class="static-footer">
+    Vienna<br><span class="footer-address">Royerstraße 7, 2482 Münchendorf</span><br>New York<br><a class="footer-contact" href="tel:+436603607188">+43 660 3607188</a><span class="footer-contact-sep">&middot;</span><a class="footer-contact" href="mailto:richard@richardsatelier.at">richard@richardsatelier.at</a><span class="footer-contact-sep">&middot;</span><a class="footer-contact" href="https://wa.me/436603607188" target="_blank" rel="noopener">WhatsApp</a>
+    <nav class="footer-links" aria-label="Weitere Seiten">
+      <a href="../impressum/">Impressum</a>
+      <a href="../datenschutz/">Datenschutz</a>
+      <a href="tel:+436603607188">Anrufen</a>
+    </nav>
+  </div>
+
+  <script src="../assets/termin.js?v=202609251"></script>
+</body>
+</html>

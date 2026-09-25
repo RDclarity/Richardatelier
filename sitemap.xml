@@ -725,4 +725,10 @@
     <xhtml:link rel="alternate" hreflang="es" href="https://richardatelier.com/es/team/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://richardatelier.com/en/team/"/>
   </url>
+  <url>
+    <loc>https://richardatelier.com/termin/</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
