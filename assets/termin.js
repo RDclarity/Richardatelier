@@ -1,6 +1,6 @@
 /* ============================================================
    RICHARD ATELIER — Erstgespräch buchen (/termin/)
-   Kostenloses 15-Minuten-Erstgespräch, telefonisch oder per Video.
+   Kostenloses 30-Minuten-Erstgespräch, telefonisch oder per Video, rund um die Uhr buchbar.
    Drei Schritte: Gesprächsart + Tag + Uhrzeit → Daten → Bestätigung.
    Kein Kalender-Anschluss: freie Slots = feste Zeitfenster minus bereits
    gebuchte Termine (GET auf die Edge Function). Vanilla JS.
@@ -15,10 +15,10 @@
 
   var ENDPOINT = "https://nbnpeoiqiakwnnkorxim.supabase.co/functions/v1/richard-atelier-termin";
   var ZEITZONE = "Europe/Vienna";
-  var DAUER = 15;            /* Minuten je Gespräch = Raster der Startzeiten */
+  var DAUER = 30;            /* Minuten je Gespräch = Raster der Startzeiten */
   var VORLAUF = 120;         /* frühestens so viele Minuten ab jetzt */
   var BUCHBAR_TAGE = 42;     /* so weit ist der Kalender offen */
-  var ZEITFENSTER = { 1: [["08:00", "20:00"]], 2: [["08:00", "20:00"]], 3: [["08:00", "20:00"]], 4: [["08:00", "20:00"]], 5: [["08:00", "20:00"]] };
+  var ZEITFENSTER = { 0: [["00:00", "24:00"]], 1: [["00:00", "24:00"]], 2: [["00:00", "24:00"]], 3: [["00:00", "24:00"]], 4: [["00:00", "24:00"]], 5: [["00:00", "24:00"]], 6: [["00:00", "24:00"]] };
   var MONATE = ["Jänner", "Februar", "März", "April", "Mai", "Juni", "Juli", "August", "September", "Oktober", "November", "Dezember"];
   var WOCHENTAGE = ["Mo", "Di", "Mi", "Do", "Fr", "Sa", "So"];
 
@@ -137,7 +137,7 @@
     var slots = freieSlots(gewaehlterTag);
     titel.textContent = WOCHENTAGE[(wochentag(gewaehlterTag) + 6) % 7] + ", " + gewaehlterTag.tag + ". " + MONATE[gewaehlterTag.monat - 1] + " — Uhrzeit wählen";
     if (!slots.length) { box.innerHTML = '<p class="section-note">An diesem Tag ist leider nichts mehr frei.</p>'; return; }
-    var gruppen = [["Vormittag", 8, 12], ["Nachmittag", 12, 17], ["Abend", 17, 20]];
+    var gruppen = [["Nacht / früh", 0, 8], ["Vormittag", 8, 12], ["Nachmittag", 12, 17], ["Abend", 17, 24]];
     gruppen.forEach(function (g) {
       var inGruppe = slots.filter(function (s) { var h = wienTeile(s).stunde; return h >= g[1] && h < g[2]; });
       if (!inGruppe.length) return;
