@@ -36,24 +36,30 @@
        synchron im <head>, damit kein DE-Blitz vor der Weiterleitung
        sichtbar wird. */
     (function () {
+      // Vor der Weiterleitung den echten Referrer (z. B. Facebook) sichern,
+      // sonst sähe die Besuchsstatistik auf /en/ nur "richardatelier.com".
+      function go(dir) {
+        try { sessionStorage.setItem("ra-ref", document.referrer || ""); } catch (e) {}
+        location.replace(dir + "/" + location.search + location.hash);
+      }
       var pref = null;
       try { pref = localStorage.getItem("ra-lang-pref"); } catch (e) {}
       if (pref === "de") return;
-      if (pref === "en") { location.replace("en/" + location.search + location.hash); return; }
-      if (pref === "it") { location.replace("it/" + location.search + location.hash); return; }
-      if (pref === "es") { location.replace("es/" + location.search + location.hash); return; }
+      if (pref === "en") { go("en"); return; }
+      if (pref === "it") { go("it"); return; }
+      if (pref === "es") { go("es"); return; }
 
       var langs = navigator.languages || [navigator.language || ""];
       var primary = (langs[0] || "").toLowerCase();
       if (primary.indexOf("de") === 0) return;
-      if (primary.indexOf("it") === 0) { location.replace("it/" + location.search + location.hash); return; }
-      if (primary.indexOf("es") === 0) { location.replace("es/" + location.search + location.hash); return; }
-      location.replace("en/" + location.search + location.hash);
+      if (primary.indexOf("it") === 0) { go("it"); return; }
+      if (primary.indexOf("es") === 0) { go("es"); return; }
+      go("en");
     })();
   </script>
 
   <link rel="stylesheet" href="assets/styles.css?v=202609253">
-  <script src="assets/analytics.js?v=202609253"></script>
+  <script src="assets/analytics.js?v=202610081"></script>
   <noscript><style>.intro{display:none}.reveal,.reveal-line{opacity:1!important;transform:none!important}.figure .reveal-img{clip-path:none!important}</style></noscript>
   <script type="application/ld+json">
 {

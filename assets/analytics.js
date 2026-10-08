@@ -37,27 +37,54 @@
   // Zählt Seitenaufrufe anonym in die eigene Richard-Atelier-Datenbank
   // (Edge Function ra-track). Bewusst datensparsam: kein Cookie, keine
   // IP, kein Fingerprint, nur Pfad/Referrer/Sprache und eine zufällige,
-  // rein anonyme Session-ID im sessionStorage (verfällt beim Schließen
-  // des Tabs). Weil keinerlei personenbezogene Daten verarbeitet werden,
-  // läuft diese reine Aggregat-Statistik unabhängig vom Consent-Banner.
+  // rein anonyme Sitzungs-ID. Die ID liegt im lokalen Speicher des
+  // Browsers und verfällt 30 Minuten nach dem letzten Seitenaufruf
+  // (übliche Sitzungs-Definition) — so zählt ein Besuch, der mehrere Tabs
+  // oder den In-App-Browser einer Social-App durchläuft, als eine Sitzung.
+  // Weil keinerlei personenbezogene Daten verarbeitet werden, läuft diese
+  // reine Aggregat-Statistik unabhängig vom Consent-Banner.
   var TRACK_ENDPOINT = "https://mlubcxdwwsrvcoufnkaf.supabase.co/functions/v1/ra-track";
+  var SESSION_TTL_MS = 30 * 60 * 1000;
+  function newAnonId() {
+    return (window.crypto && window.crypto.randomUUID)
+      ? window.crypto.randomUUID()
+      : (Date.now().toString(36) + Math.random().toString(36).slice(2, 10));
+  }
   function anonSessionId() {
+    var now = Date.now();
     try {
-      var sid = sessionStorage.getItem("ra-sid");
-      if (!sid) {
-        sid = (window.crypto && window.crypto.randomUUID)
-          ? window.crypto.randomUUID()
-          : (Date.now().toString(36) + Math.random().toString(36).slice(2, 10));
-        sessionStorage.setItem("ra-sid", sid);
-      }
+      var rec = null;
+      try { rec = JSON.parse(localStorage.getItem("ra-sid") || "null"); } catch (e) { rec = null; }
+      var sid = (rec && typeof rec.id === "string" && typeof rec.t === "number" && now - rec.t < SESSION_TTL_MS) ? rec.id : newAnonId();
+      localStorage.setItem("ra-sid", JSON.stringify({ id: sid, t: now }));
       return sid;
-    } catch (e) { return null; }
+    } catch (e) {
+      // Kein lokaler Speicher (z. B. privater Modus): auf den Tab-Speicher ausweichen.
+      try {
+        var s = sessionStorage.getItem("ra-sid");
+        if (!s) { s = newAnonId(); sessionStorage.setItem("ra-sid", s); }
+        return s;
+      } catch (e2) { return null; }
+    }
+  }
+  // Nach der Sprach-Weiterleitung der Startseite (location.replace im
+  // <head>, bevor dieses Skript läuft) wäre der Referrer "richardatelier.com"
+  // statt der echten Quelle. Die Startseite legt deshalb den ursprünglichen
+  // Referrer kurz in sessionStorage ("ra-ref"); hier wird er wieder benutzt.
+  function effectiveReferrer() {
+    var ref = document.referrer || null;
+    try {
+      var saved = sessionStorage.getItem("ra-ref");
+      sessionStorage.removeItem("ra-ref");
+      if (saved !== null && ref && ref.indexOf(location.origin) === 0) ref = saved || null;
+    } catch (e) { /* ohne Speicher bleibt der normale Referrer */ }
+    return ref;
   }
   function trackPageView() {
     try {
       var payload = JSON.stringify({
         path: location.pathname + location.search,
-        referrer: document.referrer || null,
+        referrer: effectiveReferrer(),
         lang: document.documentElement.lang || null,
         session_id: anonSessionId(),
       });
