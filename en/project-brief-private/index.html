@@ -209,8 +209,66 @@
         <textarea id="raumprogramm_anmerkung" name="raumprogramm_anmerkung"></textarea>
       </div>
 
-      <!-- 05 · Existing Inventory -->
-      <div class="section-title"><span class="section-num">05</span><h2>Existing Inventory — What Stays, What Goes</h2></div>
+      <!-- 05 · Bathroom -->
+      <div class="section-title"><span class="section-num">05</span><h2>Bathroom</h2></div>
+
+      <fieldset class="qgroup">
+        <legend class="qgroup-label">Number of bathrooms</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="1">1</button>
+          <button type="button" class="chip" data-value="2">2</button>
+          <button type="button" class="chip" data-value="3 or more">3 or more</button>
+        </div>
+        <input type="hidden" name="bad_anzahl">
+      </fieldset>
+
+      <div class="qrow">
+        <label for="bad_flaeche">Bathroom area (sqm) — if several: the main one</label>
+        <input id="bad_flaeche" type="text" name="bad_flaeche" inputmode="decimal">
+      </div>
+
+      <fieldset class="qgroup" data-multi="true">
+        <legend class="qgroup-label">Desired fittings</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="Shower">Shower</button>
+          <button type="button" class="chip" data-value="Bathtub">Bathtub</button>
+          <button type="button" class="chip" data-value="Double washbasin">Double washbasin</button>
+          <button type="button" class="chip" data-value="WC in bathroom">WC in bathroom</button>
+          <button type="button" class="chip" data-value="Separate WC">Separate WC</button>
+          <button type="button" class="chip" data-value="Bidet / shower toilet">Bidet / shower toilet</button>
+          <button type="button" class="chip" data-value="Sauna / wellness">Sauna / wellness</button>
+          <button type="button" class="chip" data-value="Underfloor heating">Underfloor heating</button>
+          <button type="button" class="chip" data-value="Washing machine in bathroom">Washing machine in bathroom</button>
+        </div>
+        <input type="hidden" name="bad_ausstattung">
+      </fieldset>
+
+      <fieldset class="qgroup">
+        <legend class="qgroup-label">Daylight</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="Window present">Window present</button>
+          <button type="button" class="chip" data-value="Interior room, no window">Interior room, no window</button>
+        </div>
+        <input type="hidden" name="bad_tageslicht">
+      </fieldset>
+
+      <fieldset class="qgroup">
+        <legend class="qgroup-label">Accessibility</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="yes, now">yes, now</button>
+          <button type="button" class="chip" data-value="prepare for later">prepare for later</button>
+          <button type="button" class="chip" data-value="not relevant">not relevant</button>
+        </div>
+        <input type="hidden" name="bad_barrierefrei">
+      </fieldset>
+
+      <div class="qrow">
+        <label for="bad_wuensche">Wishes &amp; notes on the bathroom — style, materials, what bothers you, what should stay</label>
+        <textarea id="bad_wuensche" name="bad_wuensche"></textarea>
+      </div>
+
+      <!-- 06 · Existing Inventory -->
+      <div class="section-title"><span class="section-num">06</span><h2>Existing Inventory — What Stays, What Goes</h2></div>
       <p class="section-note">Please choose an assessment for each item. This is the biggest lever for budget and construction time.</p>
 
       <fieldset class="qgroup qgroup--compact">
@@ -319,8 +377,8 @@
         <textarea id="wertvolle_stuecke" name="wertvolle_stuecke"></textarea>
       </div>
 
-      <!-- 06 · Technical & Requirements -->
-      <div class="section-title"><span class="section-num">06</span><h2>Technical &amp; Requirements</h2></div>
+      <!-- 07 · Technical & Requirements -->
+      <div class="section-title"><span class="section-num">07</span><h2>Technical &amp; Requirements</h2></div>
 
       <fieldset class="qgroup" data-multi="true">
         <legend class="qgroup-label">Planned interventions</legend>
@@ -351,8 +409,8 @@
         <input id="fachplaner" type="text" name="fachplaner">
       </div>
 
-      <!-- 07 · Design & Atmosphere -->
-      <div class="section-title"><span class="section-num">07</span><h2>Design &amp; Atmosphere</h2></div>
+      <!-- 08 · Design & Atmosphere -->
+      <div class="section-title"><span class="section-num">08</span><h2>Design &amp; Atmosphere</h2></div>
 
       <div class="qrow">
         <label for="stimmung">Desired mood — in three words</label>
@@ -375,8 +433,8 @@
         <input id="licht" type="text" name="licht">
       </div>
 
-      <!-- 08 · Investment Framework -->
-      <div class="section-title"><span class="section-num">08</span><h2>Investment Framework</h2></div>
+      <!-- 09 · Investment Framework -->
+      <div class="section-title"><span class="section-num">09</span><h2>Investment Framework</h2></div>
       <p class="section-note">We work with a budget from day one, not against it. An honest range helps more than a round number.</p>
 
       <fieldset class="qgroup">
@@ -401,8 +459,8 @@
         <input id="finanzierung" type="text" name="finanzierung">
       </div>
 
-      <!-- 09 · Timeframe -->
-      <div class="section-title"><span class="section-num">09</span><h2>Timeframe</h2></div>
+      <!-- 10 · Timeframe -->
+      <div class="section-title"><span class="section-num">10</span><h2>Timeframe</h2></div>
 
       <div class="qrow">
         <label for="baubeginn">Desired construction start / move-in — date / time window</label>
@@ -423,8 +481,8 @@
         <input type="hidden" name="wohnsituation_umbau">
       </fieldset>
 
-      <!-- 10 · Desired Scope of Services -->
-      <div class="section-title"><span class="section-num">10</span><h2>Desired Scope of Services</h2></div>
+      <!-- 11 · Desired Scope of Services -->
+      <div class="section-title"><span class="section-num">11</span><h2>Desired Scope of Services</h2></div>
 
       <fieldset class="qgroup" data-multi="true">
         <legend class="qgroup-label">Services</legend>
@@ -449,8 +507,8 @@
         Tischlerkultur — planning and execution from a single source.
       </p>
 
-      <!-- 11 · Additional Notes -->
-      <div class="section-title"><span class="section-num">11</span><h2>Additional Notes</h2></div>
+      <!-- 12 · Additional Notes -->
+      <div class="section-title"><span class="section-num">12</span><h2>Additional Notes</h2></div>
 
       <div class="qrow">
         <label for="ergaenzungen">What should we know about you, the location or the project that wasn't covered above?</label>

@@ -210,8 +210,66 @@
         <textarea id="raumprogramm_anmerkung" name="raumprogramm_anmerkung"></textarea>
       </div>
 
-      <!-- 05 · Bestand -->
-      <div class="section-title"><span class="section-num">05</span><h2>Bestand — was bleibt, was geht</h2></div>
+      <!-- 05 · Badezimmer -->
+      <div class="section-title"><span class="section-num">05</span><h2>Badezimmer</h2></div>
+
+      <fieldset class="qgroup">
+        <legend class="qgroup-label">Anzahl Bäder</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="1">1</button>
+          <button type="button" class="chip" data-value="2">2</button>
+          <button type="button" class="chip" data-value="3 oder mehr">3 oder mehr</button>
+        </div>
+        <input type="hidden" name="bad_anzahl">
+      </fieldset>
+
+      <div class="qrow">
+        <label for="bad_flaeche">Fläche des Bads (m²) — bei mehreren: das wichtigste</label>
+        <input id="bad_flaeche" type="text" name="bad_flaeche" inputmode="decimal">
+      </div>
+
+      <fieldset class="qgroup" data-multi="true">
+        <legend class="qgroup-label">Gewünschte Ausstattung</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="Dusche">Dusche</button>
+          <button type="button" class="chip" data-value="Badewanne">Badewanne</button>
+          <button type="button" class="chip" data-value="Doppelwaschtisch">Doppelwaschtisch</button>
+          <button type="button" class="chip" data-value="WC im Bad">WC im Bad</button>
+          <button type="button" class="chip" data-value="WC separat">WC separat</button>
+          <button type="button" class="chip" data-value="Bidet / Dusch-WC">Bidet / Dusch-WC</button>
+          <button type="button" class="chip" data-value="Sauna / Wellness">Sauna / Wellness</button>
+          <button type="button" class="chip" data-value="Fußbodenheizung">Fußbodenheizung</button>
+          <button type="button" class="chip" data-value="Waschmaschine im Bad">Waschmaschine im Bad</button>
+        </div>
+        <input type="hidden" name="bad_ausstattung">
+      </fieldset>
+
+      <fieldset class="qgroup">
+        <legend class="qgroup-label">Tageslicht</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="Fenster vorhanden">Fenster vorhanden</button>
+          <button type="button" class="chip" data-value="innenliegend">innenliegend</button>
+        </div>
+        <input type="hidden" name="bad_tageslicht">
+      </fieldset>
+
+      <fieldset class="qgroup">
+        <legend class="qgroup-label">Barrierefreiheit</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="ja, jetzt">ja, jetzt</button>
+          <button type="button" class="chip" data-value="für später vorbereiten">für später vorbereiten</button>
+          <button type="button" class="chip" data-value="nicht relevant">nicht relevant</button>
+        </div>
+        <input type="hidden" name="bad_barrierefrei">
+      </fieldset>
+
+      <div class="qrow">
+        <label for="bad_wuensche">Wünsche &amp; Anmerkungen zum Bad — Stil, Materialien, was Sie stört, was bleiben soll</label>
+        <textarea id="bad_wuensche" name="bad_wuensche"></textarea>
+      </div>
+
+      <!-- 06 · Bestand -->
+      <div class="section-title"><span class="section-num">06</span><h2>Bestand — was bleibt, was geht</h2></div>
       <p class="section-note">Bitte je Position eine Einschätzung wählen. Das ist der größte Hebel für Budget und Bauzeit.</p>
 
       <fieldset class="qgroup qgroup--compact">
@@ -320,8 +378,8 @@
         <textarea id="wertvolle_stuecke" name="wertvolle_stuecke"></textarea>
       </div>
 
-      <!-- 06 · Technik & Auflagen -->
-      <div class="section-title"><span class="section-num">06</span><h2>Technik &amp; Auflagen</h2></div>
+      <!-- 07 · Technik & Auflagen -->
+      <div class="section-title"><span class="section-num">07</span><h2>Technik &amp; Auflagen</h2></div>
 
       <fieldset class="qgroup" data-multi="true">
         <legend class="qgroup-label">Geplante Eingriffe</legend>
@@ -352,8 +410,8 @@
         <input id="fachplaner" type="text" name="fachplaner">
       </div>
 
-      <!-- 07 · Gestaltung & Atmosphäre -->
-      <div class="section-title"><span class="section-num">07</span><h2>Gestaltung &amp; Atmosphäre</h2></div>
+      <!-- 08 · Gestaltung & Atmosphäre -->
+      <div class="section-title"><span class="section-num">08</span><h2>Gestaltung &amp; Atmosphäre</h2></div>
 
       <div class="qrow">
         <label for="stimmung">Gewünschte Stimmung — in drei Worten</label>
@@ -376,8 +434,8 @@
         <input id="licht" type="text" name="licht">
       </div>
 
-      <!-- 08 · Investitionsrahmen -->
-      <div class="section-title"><span class="section-num">08</span><h2>Investitionsrahmen</h2></div>
+      <!-- 09 · Investitionsrahmen -->
+      <div class="section-title"><span class="section-num">09</span><h2>Investitionsrahmen</h2></div>
       <p class="section-note">Wir arbeiten von Beginn an gegen ein Budget — nicht dagegen. Eine ehrliche Bandbreite hilft mehr als eine runde Zahl.</p>
 
       <fieldset class="qgroup">
@@ -402,8 +460,8 @@
         <input id="finanzierung" type="text" name="finanzierung">
       </div>
 
-      <!-- 09 · Zeitrahmen -->
-      <div class="section-title"><span class="section-num">09</span><h2>Zeitrahmen</h2></div>
+      <!-- 10 · Zeitrahmen -->
+      <div class="section-title"><span class="section-num">10</span><h2>Zeitrahmen</h2></div>
 
       <div class="qrow">
         <label for="baubeginn">Gewünschter Baubeginn / Einzug — Datum / Zeitfenster</label>
@@ -424,8 +482,8 @@
         <input type="hidden" name="wohnsituation_umbau">
       </fieldset>
 
-      <!-- 10 · Gewünschter Leistungsumfang -->
-      <div class="section-title"><span class="section-num">10</span><h2>Gewünschter Leistungsumfang</h2></div>
+      <!-- 11 · Gewünschter Leistungsumfang -->
+      <div class="section-title"><span class="section-num">11</span><h2>Gewünschter Leistungsumfang</h2></div>
 
       <fieldset class="qgroup" data-multi="true">
         <legend class="qgroup-label">Leistungen</legend>
@@ -450,8 +508,8 @@
         Planung und Ausführung aus einer Hand.
       </p>
 
-      <!-- 11 · Ergänzungen -->
-      <div class="section-title"><span class="section-num">11</span><h2>Ergänzungen</h2></div>
+      <!-- 12 · Ergänzungen -->
+      <div class="section-title"><span class="section-num">12</span><h2>Ergänzungen</h2></div>
 
       <div class="qrow">
         <label for="ergaenzungen">Was sollten wir über Sie, den Ort oder das Vorhaben wissen, das oben nicht abgefragt wurde?</label>

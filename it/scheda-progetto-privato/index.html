@@ -209,8 +209,66 @@
         <textarea id="raumprogramm_anmerkung" name="raumprogramm_anmerkung"></textarea>
       </div>
 
-      <!-- 05 · Esistente -->
-      <div class="section-title"><span class="section-num">05</span><h2>Esistente — Cosa Resta, Cosa Va</h2></div>
+      <!-- 05 · Bagno -->
+      <div class="section-title"><span class="section-num">05</span><h2>Bagno</h2></div>
+
+      <fieldset class="qgroup">
+        <legend class="qgroup-label">Numero di bagni</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="1">1</button>
+          <button type="button" class="chip" data-value="2">2</button>
+          <button type="button" class="chip" data-value="3 o più">3 o più</button>
+        </div>
+        <input type="hidden" name="bad_anzahl">
+      </fieldset>
+
+      <div class="qrow">
+        <label for="bad_flaeche">Superficie del bagno (m²) — se più di uno: il principale</label>
+        <input id="bad_flaeche" type="text" name="bad_flaeche" inputmode="decimal">
+      </div>
+
+      <fieldset class="qgroup" data-multi="true">
+        <legend class="qgroup-label">Dotazione desiderata</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="Doccia">Doccia</button>
+          <button type="button" class="chip" data-value="Vasca">Vasca</button>
+          <button type="button" class="chip" data-value="Doppio lavabo">Doppio lavabo</button>
+          <button type="button" class="chip" data-value="WC nel bagno">WC nel bagno</button>
+          <button type="button" class="chip" data-value="WC separato">WC separato</button>
+          <button type="button" class="chip" data-value="Bidet / WC con doccetta">Bidet / WC con doccetta</button>
+          <button type="button" class="chip" data-value="Sauna / wellness">Sauna / wellness</button>
+          <button type="button" class="chip" data-value="Riscaldamento a pavimento">Riscaldamento a pavimento</button>
+          <button type="button" class="chip" data-value="Lavatrice nel bagno">Lavatrice nel bagno</button>
+        </div>
+        <input type="hidden" name="bad_ausstattung">
+      </fieldset>
+
+      <fieldset class="qgroup">
+        <legend class="qgroup-label">Luce naturale</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="Finestra presente">Finestra presente</button>
+          <button type="button" class="chip" data-value="Bagno cieco">Bagno cieco</button>
+        </div>
+        <input type="hidden" name="bad_tageslicht">
+      </fieldset>
+
+      <fieldset class="qgroup">
+        <legend class="qgroup-label">Accessibilità</legend>
+        <div class="chip-row">
+          <button type="button" class="chip" data-value="sì, subito">sì, subito</button>
+          <button type="button" class="chip" data-value="predisporre per il futuro">predisporre per il futuro</button>
+          <button type="button" class="chip" data-value="non rilevante">non rilevante</button>
+        </div>
+        <input type="hidden" name="bad_barrierefrei">
+      </fieldset>
+
+      <div class="qrow">
+        <label for="bad_wuensche">Desideri e note sul bagno — stile, materiali, cosa disturba, cosa deve restare</label>
+        <textarea id="bad_wuensche" name="bad_wuensche"></textarea>
+      </div>
+
+      <!-- 06 · Esistente -->
+      <div class="section-title"><span class="section-num">06</span><h2>Esistente — Cosa Resta, Cosa Va</h2></div>
       <p class="section-note">Scegli una valutazione per ogni voce. È la leva più importante per budget e tempi di cantiere.</p>
 
       <fieldset class="qgroup qgroup--compact">
@@ -319,8 +377,8 @@
         <textarea id="wertvolle_stuecke" name="wertvolle_stuecke"></textarea>
       </div>
 
-      <!-- 06 · Tecnica e Vincoli -->
-      <div class="section-title"><span class="section-num">06</span><h2>Tecnica e Vincoli</h2></div>
+      <!-- 07 · Tecnica e Vincoli -->
+      <div class="section-title"><span class="section-num">07</span><h2>Tecnica e Vincoli</h2></div>
 
       <fieldset class="qgroup" data-multi="true">
         <legend class="qgroup-label">Interventi previsti</legend>
@@ -351,8 +409,8 @@
         <input id="fachplaner" type="text" name="fachplaner">
       </div>
 
-      <!-- 07 · Design e Atmosfera -->
-      <div class="section-title"><span class="section-num">07</span><h2>Design e Atmosfera</h2></div>
+      <!-- 08 · Design e Atmosfera -->
+      <div class="section-title"><span class="section-num">08</span><h2>Design e Atmosfera</h2></div>
 
       <div class="qrow">
         <label for="stimmung">Atmosfera desiderata — in tre parole</label>
@@ -375,8 +433,8 @@
         <input id="licht" type="text" name="licht">
       </div>
 
-      <!-- 08 · Ambito di Investimento -->
-      <div class="section-title"><span class="section-num">08</span><h2>Ambito di Investimento</h2></div>
+      <!-- 09 · Ambito di Investimento -->
+      <div class="section-title"><span class="section-num">09</span><h2>Ambito di Investimento</h2></div>
       <p class="section-note">Lavoriamo fin dall'inizio con un budget, non contro di esso. Una fascia onesta aiuta più di una cifra tonda.</p>
 
       <fieldset class="qgroup">
@@ -401,8 +459,8 @@
         <input id="finanzierung" type="text" name="finanzierung">
       </div>
 
-      <!-- 09 · Tempistiche -->
-      <div class="section-title"><span class="section-num">09</span><h2>Tempistiche</h2></div>
+      <!-- 10 · Tempistiche -->
+      <div class="section-title"><span class="section-num">10</span><h2>Tempistiche</h2></div>
 
       <div class="qrow">
         <label for="baubeginn">Inizio lavori / trasloco desiderato — data / finestra temporale</label>
@@ -423,8 +481,8 @@
         <input type="hidden" name="wohnsituation_umbau">
       </fieldset>
 
-      <!-- 10 · Ambito di Servizi Desiderato -->
-      <div class="section-title"><span class="section-num">10</span><h2>Ambito di Servizi Desiderato</h2></div>
+      <!-- 11 · Ambito di Servizi Desiderato -->
+      <div class="section-title"><span class="section-num">11</span><h2>Ambito di Servizi Desiderato</h2></div>
 
       <fieldset class="qgroup" data-multi="true">
         <legend class="qgroup-label">Servizi</legend>
@@ -449,8 +507,8 @@
         Tischlerkultur — progettazione ed esecuzione da un'unica fonte.
       </p>
 
-      <!-- 11 · Note Aggiuntive -->
-      <div class="section-title"><span class="section-num">11</span><h2>Note Aggiuntive</h2></div>
+      <!-- 12 · Note Aggiuntive -->
+      <div class="section-title"><span class="section-num">12</span><h2>Note Aggiuntive</h2></div>
 
       <div class="qrow">
         <label for="ergaenzungen">Cosa dovremmo sapere su di te, sul luogo o sul progetto che non è stato chiesto sopra?</label>
