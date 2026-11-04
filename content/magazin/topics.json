@@ -1,0 +1,850 @@
+{
+ "categories": {
+  "gesamtkonzept": {
+   "de": "Gesamtkonzept",
+   "en": "Whole-Home Concept",
+   "it": "Progetto completo",
+   "es": "Proyecto integral"
+  },
+  "uebergaenge": {
+   "de": "Raumübergänge",
+   "en": "Room Transitions",
+   "it": "Passaggi tra ambienti",
+   "es": "Transiciones entre espacios"
+  },
+  "kueche": {
+   "de": "Küche",
+   "en": "Kitchen",
+   "it": "Cucina",
+   "es": "Cocina"
+  },
+  "bad": {
+   "de": "Bad & Wellness",
+   "en": "Bath & Wellness",
+   "it": "Bagno & benessere",
+   "es": "Baño & bienestar"
+  },
+  "wohnen": {
+   "de": "Wohnen & Schlafen",
+   "en": "Living & Sleeping",
+   "it": "Living & notte",
+   "es": "Estar & descanso"
+  },
+  "material": {
+   "de": "Materialien",
+   "en": "Materials",
+   "it": "Materiali",
+   "es": "Materiales"
+  },
+  "marken": {
+   "de": "Design & Handwerk",
+   "en": "Design & Craft",
+   "it": "Design & artigianato",
+   "es": "Diseño & oficio"
+  },
+  "licht-technik": {
+   "de": "Licht & Technik",
+   "en": "Light & Technology",
+   "it": "Luce & tecnologia",
+   "es": "Luz & tecnología"
+  },
+  "prozess": {
+   "de": "Ablauf, Kosten & Planung",
+   "en": "Process, Costs & Planning",
+   "it": "Processo, costi & pianificazione",
+   "es": "Proceso, costes & planificación"
+  },
+  "gewerbe": {
+   "de": "Gewerbe & Gastronomie",
+   "en": "Commercial & Hospitality",
+   "it": "Commerciale & ristorazione",
+   "es": "Comercial & hostelería"
+  }
+ },
+ "cta_variants": [
+  "gesamtkonzept",
+  "kueche",
+  "bad",
+  "uebergaenge",
+  "wohnen",
+  "gewerbe"
+ ],
+ "hero_pool": {
+  "gesamtkonzept": [
+   "homepage-hero.jpg",
+   "richard-atelier-01.jpg",
+   "richard-atelier-02.jpg",
+   "schrank-haltung.jpg"
+  ],
+  "uebergaenge": [
+   "kueche-haltung.jpg",
+   "kueche-referenz-01.jpg",
+   "homepage-hero.jpg",
+   "kueche-leistungen.jpg"
+  ],
+  "kueche": [
+   "kueche-hero.jpg",
+   "kueche-detail-01.jpg",
+   "kueche-detail-02.jpg",
+   "kueche-referenz-02.jpg",
+   "kueche-referenz-03.jpg",
+   "kueche-referenz-04.jpg",
+   "kueche-verarbeitung.jpg",
+   "kueche-leistungen.jpg"
+  ],
+  "bad": [
+   "badrenovierung-haltung.jpg",
+   "badrenovierung-detail-01.jpg",
+   "badrenovierung-detail-02.jpg",
+   "badrenovierung-keramik.jpg",
+   "badrenovierung-leistungen.jpg",
+   "badrenovierung-verarbeitung.jpg"
+  ],
+  "wohnen": [
+   "schrank-hero.jpg",
+   "schrank-detail-01.jpg",
+   "schrank-detail-02.jpg",
+   "schrank-leistungen.jpg",
+   "richard-atelier-01.jpg"
+  ],
+  "material": [
+   "kueche-dekton-textur.jpg",
+   "badrenovierung-keramik.jpg",
+   "schrank-verarbeitung.jpg",
+   "kueche-dekton-outdoor.jpg"
+  ],
+  "marken": [
+   "kueche-referenz-01.jpg",
+   "schrank-hero.jpg",
+   "badrenovierung-detail-01.jpg",
+   "kueche-detail-02.jpg"
+  ],
+  "licht-technik": [
+   "kueche-haltung.jpg",
+   "badrenovierung-detail-02.jpg",
+   "schrank-leistungen.jpg"
+  ],
+  "prozess": [
+   "richard-atelier-03.jpg",
+   "schrank-verarbeitung.jpg",
+   "kueche-verarbeitung.jpg",
+   "badrenovierung-verarbeitung.jpg"
+  ],
+  "gewerbe": [
+   "gastronomie-haltung.jpg",
+   "gastronomie-detail-01.jpg",
+   "gastronomie-detail-02.jpg",
+   "gastronomie-leistungen.jpg",
+   "gastronomie-verarbeitung.jpg"
+  ]
+ },
+ "topics": [
+  {
+   "slug": "gesamtkonzept-wohnung-was-bedeutet-das",
+   "cat": "gesamtkonzept",
+   "cta": "gesamtkonzept",
+   "title": "Gesamtkonzept für die Wohnung: Was das wirklich bedeutet und warum es günstiger ist als Stückwerk",
+   "kw": "Gesamtkonzept Wohnung, Innenarchitektur Gesamtkonzept Wien, Wohnung komplett neu gestalten"
+  },
+  {
+   "slug": "lebenskonzept-statt-einrichtung",
+   "cat": "gesamtkonzept",
+   "cta": "gesamtkonzept",
+   "title": "Lebenskonzept statt Einrichtung: Wie Räume aus Ihrem Alltag entstehen",
+   "kw": "Lebenskonzept Wohnen, Human-Centered Living Design, Wie möchten Sie leben"
+  },
+  {
+   "slug": "haus-komplett-neu-gestalten-ablauf",
+   "cat": "gesamtkonzept",
+   "cta": "gesamtkonzept",
+   "title": "Haus komplett neu gestalten: Der Ablauf von der ersten Frage bis zur Übergabe",
+   "kw": "Haus neu gestalten Ablauf, Komplettsanierung Innenarchitektur, Einfamilienhaus modernisieren"
+  },
+  {
+   "slug": "altbauwohnung-wien-sanieren-gesamtkonzept",
+   "cat": "gesamtkonzept",
+   "cta": "gesamtkonzept",
+   "title": "Altbauwohnung in Wien sanieren: Warum ein Gesamtkonzept den Charme rettet",
+   "kw": "Altbauwohnung sanieren Wien, Altbau Innenarchitektur, Generalsanierung Wohnung Wien"
+  },
+  {
+   "slug": "penthouse-einrichten-gesamtkonzept",
+   "cat": "gesamtkonzept",
+   "cta": "gesamtkonzept",
+   "title": "Penthouse einrichten: Ein Gesamtkonzept für Licht, Weite und Privatheit",
+   "kw": "Penthouse einrichten, Dachgeschoss Innenarchitektur Wien, Penthouse Interior Design"
+  },
+  {
+   "slug": "wohnung-zusammenlegen-zwei-werden-eine",
+   "cat": "gesamtkonzept",
+   "cta": "gesamtkonzept",
+   "title": "Zwei Wohnungen zusammenlegen: Wie aus zwei Grundrissen ein Zuhause wird",
+   "kw": "Wohnungen zusammenlegen Wien, Wohnungszusammenlegung Planung, Grundriss neu denken"
+  },
+  {
+   "slug": "neue-lebensphase-kinder-ausgezogen",
+   "cat": "gesamtkonzept",
+   "cta": "gesamtkonzept",
+   "title": "Die Kinder sind ausgezogen: Wie sich ein Haus für die nächste Lebensphase neu ordnet",
+   "kw": "Haus nach Auszug der Kinder, Wohnen 50 plus, Lebensphase Umbau"
+  },
+  {
+   "slug": "altersgerecht-wohnen-ohne-pflegeheim-optik",
+   "cat": "gesamtkonzept",
+   "cta": "gesamtkonzept",
+   "title": "Altersgerecht wohnen, ohne dass es danach aussieht: Barrierefrei und schön",
+   "kw": "altersgerecht wohnen Design, barrierefrei umbauen Wohnung, Wohnen im Alter Innenarchitektur"
+  },
+  {
+   "slug": "familie-waechst-wohnung-mitwachsen",
+   "cat": "gesamtkonzept",
+   "cta": "gesamtkonzept",
+   "title": "Wenn die Familie wächst: Ein Zuhause, das mitwächst statt zu eng zu werden",
+   "kw": "Familienwohnung planen, Wohnung für Familie einrichten, flexible Grundrisse"
+  },
+  {
+   "slug": "materialkonzept-roter-faden-durch-alle-raeume",
+   "cat": "gesamtkonzept",
+   "cta": "gesamtkonzept",
+   "title": "Das Materialkonzept: Der rote Faden, der alle Räume verbindet",
+   "kw": "Materialkonzept Wohnung, Materialien aufeinander abstimmen, durchgängiges Interior"
+  },
+  {
+   "slug": "farbkonzept-wohnung-ruhe-statt-trend",
+   "cat": "gesamtkonzept",
+   "cta": "gesamtkonzept",
+   "title": "Farbkonzept für die ganze Wohnung: Ruhe statt Trend",
+   "kw": "Farbkonzept Wohnung, Wandfarben abstimmen, Farbpalette Interior"
+  },
+  {
+   "slug": "stauraumkonzept-ganze-wohnung",
+   "cat": "gesamtkonzept",
+   "cta": "wohnen",
+   "title": "Stauraumkonzept für die ganze Wohnung: Ordnung, die man nicht sieht",
+   "kw": "Stauraum Wohnung planen, Einbauschränke nach Maß Wien, Stauraumkonzept"
+  },
+  {
+   "slug": "zweitwohnsitz-wien-new-york-einrichten",
+   "cat": "gesamtkonzept",
+   "cta": "gesamtkonzept",
+   "title": "Ein Zuhause in zwei Städten: Zweitwohnsitz einrichten zwischen Wien und New York",
+   "kw": "Zweitwohnsitz einrichten, Interior Design Wien New York, Pied-à-terre"
+  },
+  {
+   "slug": "vom-erstgespraech-zum-fertigen-zuhause-geschichte",
+   "cat": "gesamtkonzept",
+   "cta": "gesamtkonzept",
+   "title": "Vom ersten Strich bis zum Einzug: Eine Geschichte in sechs Kapiteln",
+   "kw": "Innenarchitektur Projektablauf, Wohnung einrichten lassen Erfahrung, Interior Design Prozess"
+  },
+  {
+   "slug": "offene-wohnkueche-wand-entfernen",
+   "cat": "uebergaenge",
+   "cta": "uebergaenge",
+   "title": "Offene Wohnküche: Wann die Wand fallen darf und wann nicht",
+   "kw": "offene Wohnküche, Wand entfernen Küche Wohnzimmer, Küche öffnen"
+  },
+  {
+   "slug": "raumuebergaenge-gestalten-grundlagen",
+   "cat": "uebergaenge",
+   "cta": "uebergaenge",
+   "title": "Raumübergänge gestalten: Warum die Schwelle wichtiger ist als der Raum",
+   "kw": "Raumübergänge gestalten, Übergang Küche Wohnzimmer, fließende Räume"
+  },
+  {
+   "slug": "halboffene-grundrisse-schiebetueren-glas",
+   "cat": "uebergaenge",
+   "cta": "uebergaenge",
+   "title": "Halboffen statt offen: Schiebetüren, Glaswände und die Kunst des Dazwischen",
+   "kw": "Schiebetür Glas Wohnzimmer, halboffener Grundriss, Raumteiler Glas"
+  },
+  {
+   "slug": "bodenbelag-durchgaengig-raeume-verbinden",
+   "cat": "uebergaenge",
+   "cta": "uebergaenge",
+   "title": "Ein Boden für alle Räume: Wie durchgängige Beläge Weite schaffen",
+   "kw": "durchgehender Bodenbelag, Boden ohne Schwelle, gleicher Boden alle Räume"
+  },
+  {
+   "slug": "kueche-essen-wohnen-zonen-statt-zimmer",
+   "cat": "uebergaenge",
+   "cta": "uebergaenge",
+   "title": "Küche, Essen, Wohnen: Zonen statt Zimmer",
+   "kw": "Küche Essen Wohnen Zonierung, offener Wohnbereich gliedern, Wohnküche Zonen"
+  },
+  {
+   "slug": "schlafzimmer-bad-ankleide-privater-bereich",
+   "cat": "uebergaenge",
+   "cta": "bad",
+   "title": "Schlafen, Ankleiden, Baden: Der private Bereich als eine Raumfolge",
+   "kw": "Schlafzimmer mit Bad und Ankleide, Masterbereich planen, en suite Bad"
+  },
+  {
+   "slug": "innen-aussen-uebergang-terrasse-garten",
+   "cat": "uebergaenge",
+   "cta": "uebergaenge",
+   "title": "Drinnen wird draußen: Der Übergang zu Terrasse und Garten",
+   "kw": "Übergang Wohnzimmer Terrasse, Innen Außen verbinden, Outdoor Wohnraum"
+  },
+  {
+   "slug": "eingangsbereich-ankommen-gestalten",
+   "cat": "uebergaenge",
+   "cta": "wohnen",
+   "title": "Ankommen: Warum der Eingangsbereich das ganze Zuhause prägt",
+   "kw": "Eingangsbereich gestalten, Vorzimmer einrichten, Garderobe nach Maß"
+  },
+  {
+   "slug": "licht-als-raumuebergang",
+   "cat": "uebergaenge",
+   "cta": "uebergaenge",
+   "title": "Licht als Übergang: Wie Beleuchtung Räume verbindet oder trennt",
+   "kw": "Lichtplanung offener Wohnbereich, Licht Raumzonen, Beleuchtung Übergang"
+  },
+  {
+   "slug": "tragende-wand-entfernen-wien-was-geht",
+   "cat": "uebergaenge",
+   "cta": "uebergaenge",
+   "title": "Tragende Wand entfernen in Wien: Was geht, was kostet es, wer entscheidet",
+   "kw": "tragende Wand entfernen Wien, Wanddurchbruch Kosten, Statiker Wohnung"
+  },
+  {
+   "slug": "neue-einbaukueche-planen-wien-leitfaden",
+   "cat": "kueche",
+   "cta": "kueche",
+   "title": "Neue Einbauküche planen in Wien: Der vollständige Leitfaden",
+   "kw": "Einbauküche planen Wien, neue Küche planen, Küchenplanung Leitfaden"
+  },
+  {
+   "slug": "kochinsel-planen-masse-abstaende",
+   "cat": "kueche",
+   "cta": "kueche",
+   "title": "Kochinsel planen: Maße, Abstände und die Fehler, die jeder zweite macht",
+   "kw": "Kochinsel planen Maße, Kücheninsel Abstand, Kochinsel Grundriss"
+  },
+  {
+   "slug": "kuechenformen-l-u-insel-einzeilig",
+   "cat": "kueche",
+   "cta": "kueche",
+   "title": "L, U, Insel oder einzeilig: Welche Küchenform zu Ihrem Alltag passt",
+   "kw": "Küchenformen Vergleich, L-Küche oder U-Küche, Küchengrundriss"
+  },
+  {
+   "slug": "grifflose-kueche-vor-nachteile",
+   "cat": "kueche",
+   "cta": "kueche",
+   "title": "Grifflose Küche: Vorteile, Nachteile und was im Alltag wirklich zählt",
+   "kw": "grifflose Küche Erfahrungen, Push to open Küche, grifflose Fronten"
+  },
+  {
+   "slug": "kuechenfronten-lack-furnier-massivholz",
+   "cat": "kueche",
+   "cta": "kueche",
+   "title": "Küchenfronten im Vergleich: Matt-Lack, Furnier, Massivholz, Keramik",
+   "kw": "Küchenfronten Vergleich, Mattlack oder Furnier, Küchenfront Material"
+  },
+  {
+   "slug": "arbeitsplatte-dekton-naturstein-quarz",
+   "cat": "kueche",
+   "cta": "kueche",
+   "title": "Arbeitsplatte: Dekton, Naturstein oder Quarzkomposit? Ein ehrlicher Vergleich",
+   "kw": "Arbeitsplatte Dekton Erfahrungen, Arbeitsplatte Naturstein oder Quarz, Küchenarbeitsplatte Vergleich"
+  },
+  {
+   "slug": "kochfeld-mit-integriertem-dunstabzug",
+   "cat": "kueche",
+   "cta": "kueche",
+   "title": "Kochfeld mit integriertem Dunstabzug: Für wen sich das lohnt",
+   "kw": "Kochfeldabzug Erfahrungen, Kochfeld mit Dunstabzug, Dunstabzug nach unten"
+  },
+  {
+   "slug": "elektrogeraete-kueche-richtig-auswaehlen",
+   "cat": "kueche",
+   "cta": "kueche",
+   "title": "Elektrogeräte für die Küche: Auswählen nach Alltag, nicht nach Datenblatt",
+   "kw": "Küchengeräte auswählen, Einbaugeräte Küche Beratung, Backofen Dampfgarer Planung"
+  },
+  {
+   "slug": "kueche-beleuchtung-drei-ebenen",
+   "cat": "kueche",
+   "cta": "kueche",
+   "title": "Küchenbeleuchtung in drei Ebenen: Arbeiten, Essen, Atmosphäre",
+   "kw": "Küchenbeleuchtung planen, Licht Kochinsel, Unterbauleuchten Küche"
+  },
+  {
+   "slug": "kleine-kueche-gross-denken",
+   "cat": "kueche",
+   "cta": "kueche",
+   "title": "Kleine Küche groß denken: Stauraum, Licht und Proportion auf wenig Fläche",
+   "kw": "kleine Küche planen, kleine Küche einrichten Ideen, Küche Altbau klein"
+  },
+  {
+   "slug": "kueche-stauraum-innenleben-auszuege",
+   "cat": "kueche",
+   "cta": "kueche",
+   "title": "Das Innenleben der Küche: Auszüge, Apothekerschränke und das Ende der Ecke",
+   "kw": "Küche Stauraum Ideen, Küchenauszüge Innenausstattung, Eckschrank Lösung"
+  },
+  {
+   "slug": "speisekammer-vorratsraum-planen",
+   "cat": "kueche",
+   "cta": "kueche",
+   "title": "Speisekammer und Vorratsraum: Das Comeback eines alten Luxus",
+   "kw": "Speisekammer planen, Vorratsraum Küche, begehbare Speis"
+  },
+  {
+   "slug": "kueche-aus-tischlerhand-vs-markenkueche",
+   "cat": "kueche",
+   "cta": "kueche",
+   "title": "Küche vom Tischler oder Markenküche? Was die Wahl wirklich entscheidet",
+   "kw": "Tischlerküche oder Markenküche, Küche vom Tischler Wien, Maßküche Vergleich"
+  },
+  {
+   "slug": "outdoor-kueche-terrasse-planen",
+   "cat": "kueche",
+   "cta": "kueche",
+   "title": "Outdoor-Küche auf der Terrasse: Planen für Wiener Sommer und Winter",
+   "kw": "Outdoorküche planen, Außenküche Terrasse, Outdoor Küche Dekton"
+  },
+  {
+   "slug": "kueche-fuer-gastgeber-planen",
+   "cat": "kueche",
+   "cta": "kueche",
+   "title": "Die Küche für Gastgeber: Wenn acht Personen am Tisch der Normalfall sind",
+   "kw": "Küche für Gäste planen, Wohnküche Gastgeber, große Küche planen"
+  },
+  {
+   "slug": "kueche-und-esszimmer-ein-raum",
+   "cat": "kueche",
+   "cta": "uebergaenge",
+   "title": "Küche und Esszimmer als ein Raum: Der Tisch als Mittelpunkt",
+   "kw": "Küche Esszimmer verbinden, Esstisch an Kochinsel, Essküche planen"
+  },
+  {
+   "slug": "kuechenplanung-fehler-vermeiden",
+   "cat": "kueche",
+   "cta": "kueche",
+   "title": "Zwölf Fehler bei der Küchenplanung, die man erst nach dem Einzug bemerkt",
+   "kw": "Küchenplanung Fehler, Küche planen Tipps, Küchenplanung Checkliste"
+  },
+  {
+   "slug": "badezimmer-renovieren-wien-leitfaden",
+   "cat": "bad",
+   "cta": "bad",
+   "title": "Badezimmer renovieren in Wien: Der Leitfaden von der Idee bis zur ersten Dusche",
+   "kw": "Badezimmer renovieren Wien, Badsanierung Ablauf, Bad renovieren Leitfaden"
+  },
+  {
+   "slug": "badewanne-raus-dusche-rein",
+   "cat": "bad",
+   "cta": "bad",
+   "title": "Badewanne raus, Dusche rein: Der häufigste Wunsch und wie man ihn richtig umsetzt",
+   "kw": "Badewanne gegen Dusche tauschen, Wanne zu Dusche Umbau, bodengleiche Dusche nachrüsten"
+  },
+  {
+   "slug": "bodengleiche-dusche-planen",
+   "cat": "bad",
+   "cta": "bad",
+   "title": "Bodengleiche Dusche planen: Gefälle, Abdichtung, Ablauf und die 2-cm-Frage",
+   "kw": "bodengleiche Dusche planen, ebenerdige Dusche Altbau, Dusche ohne Stufe"
+  },
+  {
+   "slug": "kleines-bad-gross-wirken-lassen",
+   "cat": "bad",
+   "cta": "bad",
+   "title": "Kleines Bad groß wirken lassen: Sechs Entscheidungen, die alles ändern",
+   "kw": "kleines Bad gestalten, kleines Badezimmer Ideen, Bad 4 qm planen"
+  },
+  {
+   "slug": "grossformatige-fliesen-bad-fugen",
+   "cat": "bad",
+   "cta": "bad",
+   "title": "Großformatige Keramik im Bad: Weniger Fugen, mehr Ruhe",
+   "kw": "großformatige Fliesen Bad, fugenloses Bad, Keramikplatten Bad"
+  },
+  {
+   "slug": "naturstein-im-bad-pflege-mythen",
+   "cat": "bad",
+   "cta": "bad",
+   "title": "Naturstein im Bad: Pflege, Mythen und welche Steine wirklich funktionieren",
+   "kw": "Naturstein Bad Pflege, Marmor Badezimmer, Naturstein Dusche"
+  },
+  {
+   "slug": "badbeleuchtung-spiegel-licht-planen",
+   "cat": "bad",
+   "cta": "bad",
+   "title": "Badbeleuchtung: Warum das Licht am Spiegel über alles entscheidet",
+   "kw": "Badbeleuchtung planen, Spiegelbeleuchtung Bad, Licht im Badezimmer"
+  },
+  {
+   "slug": "bad-lueftung-feuchtigkeit-schimmel",
+   "cat": "bad",
+   "cta": "bad",
+   "title": "Lüftung im Bad: Wie Feuchtigkeit entsteht und wie man Schimmel baulich ausschließt",
+   "kw": "Badlüftung ohne Fenster, Schimmel Bad vermeiden, Bad Lüftung planen"
+  },
+  {
+   "slug": "waschtisch-nach-mass-stauraum",
+   "cat": "bad",
+   "cta": "bad",
+   "title": "Waschtisch nach Maß: Stauraum, Höhe und zwei Becken, die wirklich Platz haben",
+   "kw": "Waschtisch nach Maß, Doppelwaschtisch planen, Waschtischunterschrank Tischler"
+  },
+  {
+   "slug": "freistehende-badewanne-voraussetzungen",
+   "cat": "bad",
+   "cta": "bad",
+   "title": "Freistehende Badewanne: Was der Raum, der Boden und die Leitungen können müssen",
+   "kw": "freistehende Badewanne Voraussetzungen, freistehende Wanne Altbau, Badewanne freistehend planen"
+  },
+  {
+   "slug": "wellness-bad-zuhause-sauna-dampf",
+   "cat": "bad",
+   "cta": "bad",
+   "title": "Wellness zu Hause: Sauna, Dampfdusche und das Bad als Rückzugsort",
+   "kw": "Wellnessbad zuhause, Sauna im Bad planen, Dampfdusche Wohnung"
+  },
+  {
+   "slug": "gaeste-wc-visitenkarte",
+   "cat": "bad",
+   "cta": "bad",
+   "title": "Das Gäste-WC: Der kleinste Raum mit der größten Wirkung",
+   "kw": "Gäste WC gestalten, Gästebad Ideen, kleines WC einrichten"
+  },
+  {
+   "slug": "bad-altersgerecht-barrierefrei-design",
+   "cat": "bad",
+   "cta": "bad",
+   "title": "Barrierefreies Bad mit Designanspruch: Haltegriffe, die niemand sieht",
+   "kw": "barrierefreies Bad Design, altersgerechtes Bad, Bad ohne Barrieren planen"
+  },
+  {
+   "slug": "armaturen-auswahl-messing-edelstahl",
+   "cat": "bad",
+   "cta": "bad",
+   "title": "Armaturen: Chrom, gebürstetes Messing oder Edelstahl? Was in zehn Jahren noch gut aussieht",
+   "kw": "Armaturen Bad Auswahl, Armaturen Messing gebürstet, hochwertige Badarmaturen"
+  },
+  {
+   "slug": "bad-im-altbau-leitungen-hoehen",
+   "cat": "bad",
+   "cta": "bad",
+   "title": "Bad im Wiener Altbau: Leitungen, Höhen, Steigstränge und was man vorher wissen muss",
+   "kw": "Bad Altbau sanieren Wien, Badezimmer Altbau Leitungen, Altbau Bad planen"
+  },
+  {
+   "slug": "badrenovierung-dauer-zeitplan",
+   "cat": "bad",
+   "cta": "bad",
+   "title": "Wie lange dauert eine Badrenovierung? Ein realistischer Zeitplan",
+   "kw": "Badrenovierung Dauer, Bad sanieren wie lange, Badumbau Zeitplan"
+  },
+  {
+   "slug": "wohnzimmer-einrichten-ohne-fernseherwand",
+   "cat": "wohnen",
+   "cta": "wohnen",
+   "title": "Wohnzimmer einrichten, ohne dass der Fernseher den Raum regiert",
+   "kw": "Wohnzimmer einrichten Ideen, Wohnzimmer ohne Fernseher Mittelpunkt, Wohnzimmer planen"
+  },
+  {
+   "slug": "schlafzimmer-ruhe-planen",
+   "cat": "wohnen",
+   "cta": "wohnen",
+   "title": "Das Schlafzimmer als Ruheraum: Licht, Material, Akustik und nichts Überflüssiges",
+   "kw": "Schlafzimmer einrichten Ruhe, Schlafzimmer planen, Schlafzimmer Innenarchitektur"
+  },
+  {
+   "slug": "begehbare-ankleide-planen-masse",
+   "cat": "wohnen",
+   "cta": "wohnen",
+   "title": "Begehbare Ankleide planen: Ab wie viel Quadratmetern sie sich lohnt",
+   "kw": "begehbare Ankleide planen, Ankleidezimmer Maße, begehbarer Kleiderschrank Wien"
+  },
+  {
+   "slug": "einbauschrank-nach-mass-vs-system",
+   "cat": "wohnen",
+   "cta": "wohnen",
+   "title": "Einbauschrank nach Maß oder Systemschrank? Eine Entscheidung für zwanzig Jahre",
+   "kw": "Einbauschrank nach Maß Wien, Einbauschrank oder Systemschrank, Schrank Tischler"
+  },
+  {
+   "slug": "homeoffice-wohnung-integrieren",
+   "cat": "wohnen",
+   "cta": "wohnen",
+   "title": "Homeoffice in der Wohnung: Arbeiten, ohne dass die Wohnung zum Büro wird",
+   "kw": "Homeoffice einrichten Wohnung, Arbeitsplatz Wohnzimmer integrieren, Homeoffice Innenarchitektur"
+  },
+  {
+   "slug": "kinderzimmer-mitwachsend-planen",
+   "cat": "wohnen",
+   "cta": "wohnen",
+   "title": "Kinderzimmer, das mitwächst: Von drei bis dreizehn ohne Neukauf",
+   "kw": "Kinderzimmer mitwachsend, Kinderzimmer planen, Jugendzimmer einrichten"
+  },
+  {
+   "slug": "esszimmer-tisch-als-mittelpunkt",
+   "cat": "wohnen",
+   "cta": "wohnen",
+   "title": "Das Esszimmer: Wie der Tisch zum Mittelpunkt des Hauses wird",
+   "kw": "Esszimmer einrichten, Esstisch Größe planen, Essbereich gestalten"
+  },
+  {
+   "slug": "bibliothek-lesezimmer-zuhause",
+   "cat": "wohnen",
+   "cta": "wohnen",
+   "title": "Die Hausbibliothek: Ein Raum für Bücher, Stille und einen guten Sessel",
+   "kw": "Bibliothek zuhause einrichten, Lesezimmer gestalten, Bücherwand nach Maß"
+  },
+  {
+   "slug": "dekton-was-ist-das",
+   "cat": "material",
+   "cta": "kueche",
+   "title": "Dekton erklärt: Was ultrakompakte Oberflächen können und was nicht",
+   "kw": "Dekton Erfahrungen, was ist Dekton, Dekton Vorteile Nachteile"
+  },
+  {
+   "slug": "echtholz-im-innenausbau-eiche-nuss",
+   "cat": "material",
+   "cta": "gesamtkonzept",
+   "title": "Echtholz im Innenausbau: Eiche, Nuss, Esche und wie Holz altert",
+   "kw": "Echtholz Innenausbau, Eiche oder Nussholz, Holz Möbel nach Maß"
+  },
+  {
+   "slug": "furnier-vs-massivholz-ehrlich",
+   "cat": "material",
+   "cta": "wohnen",
+   "title": "Furnier oder Massivholz? Die ehrliche Antwort eines Tischlerbetriebs",
+   "kw": "Furnier oder Massivholz, Furnier Qualität, Massivholz Möbel Vorteile"
+  },
+  {
+   "slug": "terrazzo-comeback-boden-waschtisch",
+   "cat": "material",
+   "cta": "bad",
+   "title": "Terrazzo: Das Comeback eines Wiener Klassikers für Boden und Waschtisch",
+   "kw": "Terrazzo Boden Wien, Terrazzo Waschtisch, Terrazzo Comeback"
+  },
+  {
+   "slug": "mikrozement-fugenlos-bad-wohnen",
+   "cat": "material",
+   "cta": "bad",
+   "title": "Fugenlos: Mikrozement, Spachteltechnik und ihre Grenzen",
+   "kw": "Mikrozement Bad Erfahrungen, fugenlose Wand Bad, Spachtelboden"
+  },
+  {
+   "slug": "bodenbelaege-vergleich-parkett-stein-keramik",
+   "cat": "material",
+   "cta": "gesamtkonzept",
+   "title": "Bodenbeläge im Vergleich: Parkett, Naturstein, Keramik und Terrazzo",
+   "kw": "Bodenbelag Vergleich, Parkett oder Fliesen, Bodenbelag Wohnung wählen"
+  },
+  {
+   "slug": "textilien-vorhaenge-akustik-wohnlichkeit",
+   "cat": "material",
+   "cta": "wohnen",
+   "title": "Textilien: Wie Vorhänge und Teppiche Akustik und Wohnlichkeit steuern",
+   "kw": "Vorhänge Akustik, Teppich Wohnzimmer Akustik, Textilien Interior"
+  },
+  {
+   "slug": "glas-und-metall-im-interior",
+   "cat": "material",
+   "cta": "uebergaenge",
+   "title": "Glas und Metall: Leichtigkeit und Präzision im Innenausbau",
+   "kw": "Glaswand Innenausbau, Metall Interior Design, Stahl Glas Trennwand"
+  },
+  {
+   "slug": "oberflaechen-pflegeleicht-ehrlich-bewertet",
+   "cat": "material",
+   "cta": "gesamtkonzept",
+   "title": "Pflegeleicht? Welche Oberflächen nach fünf Jahren wirklich noch gut aussehen",
+   "kw": "pflegeleichte Oberflächen Küche Bad, langlebige Materialien Wohnung, robuste Oberflächen"
+  },
+  {
+   "slug": "nachhaltige-materialien-langlebigkeit",
+   "cat": "material",
+   "cta": "gesamtkonzept",
+   "title": "Nachhaltig heißt langlebig: Materialien, die man nicht in zehn Jahren ersetzt",
+   "kw": "nachhaltige Materialien Innenausbau, langlebig einrichten, nachhaltiges Interior Design"
+  },
+  {
+   "slug": "schiebetueren-glassysteme-raeume-trennen",
+   "cat": "marken",
+   "cta": "uebergaenge",
+   "title": "Schiebetüren und Glassysteme: Räume trennen, ohne sie zu schließen",
+   "kw": "Schiebetüren Glas Wien, Glastrennwand Wohnung, Schiebetürsystem planen"
+  },
+  {
+   "slug": "sofa-planen-wohnraum-proportion",
+   "cat": "marken",
+   "cta": "wohnen",
+   "title": "Das Sofa planen: Warum es den Wohnraum bestimmt und nicht umgekehrt",
+   "kw": "Sofa planen Wohnzimmer, Sofa Größe Raum, Polstermöbel Wien"
+  },
+  {
+   "slug": "kueche-als-architektur",
+   "cat": "marken",
+   "cta": "kueche",
+   "title": "Die Küche als Architektur: Wenn sie zum Teil des Raums wird",
+   "kw": "Designküche Wien, Küche als Architektur, Küche im Wohnraum"
+  },
+  {
+   "slug": "designkueche-mit-budget-planen",
+   "cat": "marken",
+   "cta": "kueche",
+   "title": "Designküche mit Augenmaß: Wo sich das Budget lohnt und wo nicht",
+   "kw": "Designküche Budget, Küche sinnvoll sparen, Küche planen Prioritäten"
+  },
+  {
+   "slug": "kueche-zwischen-handwerk-und-industrie",
+   "cat": "marken",
+   "cta": "kueche",
+   "title": "Küche zwischen Handwerk und Industrie: Woran man Qualität erkennt",
+   "kw": "Küche Qualität erkennen, Küchenhersteller Qualität, Korpus Beschläge Küche"
+  },
+  {
+   "slug": "schranksysteme-ankleide-wie-architektur",
+   "cat": "marken",
+   "cta": "wohnen",
+   "title": "Schranksysteme und Ankleiden, die wie Architektur wirken",
+   "kw": "Schranksystem Ankleide, Schranksystem oder Tischler, Ankleide planen Wien"
+  },
+  {
+   "slug": "leuchten-auswaehlen-teil-der-lichtplanung",
+   "cat": "marken",
+   "cta": "wohnen",
+   "title": "Leuchten auswählen: Teil der Lichtplanung, nicht Dekoration",
+   "kw": "Designleuchten auswählen, Leuchten Lichtplanung, Pendelleuchte Esstisch"
+  },
+  {
+   "slug": "badkeramik-waschtisch-wc-auswaehlen",
+   "cat": "marken",
+   "cta": "bad",
+   "title": "Badkeramik auswählen: Waschtisch und WC mit feinen Linien",
+   "kw": "Badkeramik auswählen, dünnwandiger Waschtisch, hochwertige Badkeramik"
+  },
+  {
+   "slug": "italienisches-design-qualitaet-erkennen",
+   "cat": "marken",
+   "cta": "gesamtkonzept",
+   "title": "Italienisches Design: Woran man Qualität jenseits des Namens erkennt",
+   "kw": "italienisches Design Möbel, italienische Möbel Qualität, Designmöbel erkennen"
+  },
+  {
+   "slug": "lichtplanung-wohnung-grundlagen",
+   "cat": "licht-technik",
+   "cta": "gesamtkonzept",
+   "title": "Lichtplanung für die Wohnung: Die Grundlagen, die kein Leuchtenkatalog erklärt",
+   "kw": "Lichtplanung Wohnung, Lichtkonzept Innenarchitektur, Beleuchtung planen Wien"
+  },
+  {
+   "slug": "akustik-im-offenen-wohnraum",
+   "cat": "licht-technik",
+   "cta": "uebergaenge",
+   "title": "Akustik im offenen Wohnraum: Warum große Räume hallen und was dagegen hilft",
+   "kw": "Akustik offener Wohnraum, Raumakustik Wohnung verbessern, Hall Wohnzimmer"
+  },
+  {
+   "slug": "smart-home-sinnvoll-unsichtbar",
+   "cat": "licht-technik",
+   "cta": "gesamtkonzept",
+   "title": "Smart Home, das man nicht sieht: Was sinnvoll ist und was nur blinkt",
+   "kw": "Smart Home sinnvoll, Smart Home Innenarchitektur, Lichtsteuerung Wohnung"
+  },
+  {
+   "slug": "heizen-kuehlen-flaechensysteme-wohnkomfort",
+   "cat": "licht-technik",
+   "cta": "gesamtkonzept",
+   "title": "Heizen und Kühlen über Flächen: Komfort ohne sichtbare Technik",
+   "kw": "Fußbodenheizung Kühlung Wohnung, Deckenkühlung Altbau, Flächenheizung Sanierung"
+  },
+  {
+   "slug": "elektroplanung-steckdosen-vorher-denken",
+   "cat": "licht-technik",
+   "cta": "gesamtkonzept",
+   "title": "Elektroplanung: Warum die Steckdose vor dem Sofa geplant wird",
+   "kw": "Elektroplanung Wohnung, Steckdosen planen Küche Wohnzimmer, Elektroinstallation Sanierung"
+  },
+  {
+   "slug": "tageslicht-nutzen-fenster-spiegel-farbe",
+   "cat": "licht-technik",
+   "cta": "gesamtkonzept",
+   "title": "Tageslicht nutzen: Fenster, Spiegel, Farbe und die Richtung des Raums",
+   "kw": "Tageslicht Wohnung verbessern, dunkle Wohnung heller machen, Tageslichtplanung"
+  },
+  {
+   "slug": "innenarchitekt-ablauf-zusammenarbeit",
+   "cat": "prozess",
+   "cta": "gesamtkonzept",
+   "title": "Mit einem Innenarchitekten arbeiten: Wie die Zusammenarbeit konkret abläuft",
+   "kw": "Innenarchitekt Ablauf, Zusammenarbeit Innenarchitekt, Innenarchitekt Wien beauftragen"
+  },
+  {
+   "slug": "was-kostet-innenarchitektur-gesamtkonzept",
+   "cat": "prozess",
+   "cta": "gesamtkonzept",
+   "title": "Was kostet ein Gesamtkonzept? Budgetrahmen ehrlich erklärt",
+   "kw": "Innenarchitekt Kosten Wien, was kostet Innenarchitektur, Gesamtkonzept Kosten"
+  },
+  {
+   "slug": "was-kostet-eine-einbaukueche-wien",
+   "cat": "prozess",
+   "cta": "kueche",
+   "title": "Was kostet eine Einbauküche in Wien? Preisrahmen von solide bis Maßanfertigung",
+   "kw": "Einbauküche Kosten Wien, was kostet eine Küche, Küche Preis Maßanfertigung"
+  },
+  {
+   "slug": "was-kostet-eine-badrenovierung-wien",
+   "cat": "prozess",
+   "cta": "bad",
+   "title": "Was kostet eine Badrenovierung in Wien? Posten, Spannen und Einsparfallen",
+   "kw": "Badrenovierung Kosten Wien, Bad sanieren Kosten, Badumbau Preis"
+  },
+  {
+   "slug": "sanierung-zeitplan-realistisch",
+   "cat": "prozess",
+   "cta": "gesamtkonzept",
+   "title": "Der realistische Zeitplan einer Wohnungssanierung: Von der Idee bis zum Einzug",
+   "kw": "Wohnungssanierung Dauer, Sanierung Zeitplan, Umbau Wohnung wie lange"
+  },
+  {
+   "slug": "genehmigungen-altbau-wien-umbau",
+   "cat": "prozess",
+   "cta": "gesamtkonzept",
+   "title": "Umbau im Wiener Altbau: Welche Genehmigungen und Zustimmungen man braucht",
+   "kw": "Umbau Genehmigung Wien Wohnung, Altbau Umbau Hausverwaltung, Baubewilligung Wohnung"
+  },
+  {
+   "slug": "erstgespraech-vorbereiten-fragen",
+   "cat": "prozess",
+   "cta": "gesamtkonzept",
+   "title": "Das Erstgespräch vorbereiten: Welche Fragen wir stellen und was Sie mitbringen",
+   "kw": "Erstgespräch Innenarchitekt, Beratungsgespräch vorbereiten, Projektblatt Innenarchitektur"
+  },
+  {
+   "slug": "planung-und-ausfuehrung-aus-einer-hand",
+   "cat": "prozess",
+   "cta": "gesamtkonzept",
+   "title": "Planung und Ausführung aus einer Hand: Was sich für Sie dadurch ändert",
+   "kw": "Innenarchitektur aus einer Hand, Planung und Umsetzung ein Ansprechpartner, Generalunternehmer Innenausbau"
+  },
+  {
+   "slug": "gastronomie-einrichten-gaeste-bleiben-laenger",
+   "cat": "gewerbe",
+   "cta": "gewerbe",
+   "title": "Gastronomie einrichten: Warum Gäste in manchen Lokalen länger bleiben",
+   "kw": "Gastronomie einrichten Wien, Restaurant Innenarchitektur, Lokal einrichten"
+  },
+  {
+   "slug": "buero-praxis-einrichten-ruhe-vertrauen",
+   "cat": "gewerbe",
+   "cta": "gewerbe",
+   "title": "Büro und Praxis einrichten: Räume, die Ruhe und Vertrauen ausstrahlen",
+   "kw": "Praxis einrichten Innenarchitektur, Büro einrichten Wien, Ordination gestalten"
+  },
+  {
+   "slug": "boutique-hotel-zimmer-wie-zuhause",
+   "cat": "gewerbe",
+   "cta": "gewerbe",
+   "title": "Boutique-Hotel und Ferienwohnung: Zimmer, die sich wie ein Zuhause anfühlen",
+   "kw": "Boutique Hotel einrichten, Ferienwohnung Innenarchitektur, Hotelzimmer Design"
+  }
+ ]
+}
