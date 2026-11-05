@@ -77,7 +77,11 @@
             }
           });
         },
-        { root: deck, threshold: 0.55 }
+        /* Aktiv ist die Folie, die die Bildschirmmitte kreuzt. Unabhängig von
+           der Folienhöhe: ein fester Schwellwert (früher 0.55) würde bei
+           Folien, die auf kleinen Displays höher als der Bildschirm sind,
+           nie erreicht. */
+        { root: deck, rootMargin: "-50% 0px -50% 0px", threshold: 0 }
       );
       slides.forEach(function (s) { io.observe(s); });
 
@@ -570,10 +574,12 @@
   function buildTokens(w, h, n) {
     var tk = [["M", threadModel.bx[0] * w, 0]];
     for (var i = 0; i < n; i++) {
-      var yTop = i * h;
-      if (i === 2) bandQuestion(tk, i, yTop, w, h);
-      else if (i === n - 1) bandEnvelope(tk, i, yTop, w, h);
-      else bandWave(tk, i, yTop, w, h);
+      /* Echte Lage und Höhe jeder Folie: auf kleinen Displays wachsen
+         Folien mit ihrem Inhalt und sind nicht mehr alle gleich hoch. */
+      var yTop = slides[i].offsetTop, sh = slides[i].offsetHeight;
+      if (i === 2) bandQuestion(tk, i, yTop, w, sh);
+      else if (i === n - 1) bandEnvelope(tk, i, yTop, w, sh);
+      else bandWave(tk, i, yTop, w, sh);
     }
     return tk;
   }
@@ -602,7 +608,7 @@
   function layoutThread() {
     if (!threadPath || !threadSvg) return;
     var w = deck.clientWidth, h = deck.clientHeight, n = slides.length;
-    threadH = n * h; threadW = w;
+    threadH = slides[n - 1].offsetTop + slides[n - 1].offsetHeight; threadW = w;
     threadLayer.style.height = threadH + "px";
     threadSvg.setAttribute("viewBox", "0 0 " + w + " " + threadH);
     threadSvg.setAttribute("preserveAspectRatio", "none");
@@ -649,6 +655,9 @@
     }
   }, { passive: true });
   var threadScrollTicking = false;
+
+  /* Bilder ändern beim Laden noch Folienhöhen: Faden danach neu vermessen */
+  window.addEventListener("load", function () { layoutThread(); });
 
   var threadRz;
   window.addEventListener("resize", function () {

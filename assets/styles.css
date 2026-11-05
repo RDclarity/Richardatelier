@@ -2267,3 +2267,27 @@ body.static-page {
   line-height: 1.65;
   color: var(--ink-soft);
 }
+
+/* ------------------------------------------------------------
+   Kleine Displays: Folien wachsen mit ihrem Inhalt, statt ihn bei
+   fester Höhe abzuschneiden (sonst fehlt z. B. der Anfragen-Button
+   des Hero-Formulars). Sanftes statt erzwungenes Einrasten, damit
+   sich hohe Folien bis zum Ende scrollen lassen.
+   ------------------------------------------------------------ */
+@media (max-width: 720px), (max-height: 640px) {
+  .deck { scroll-snap-type: y proximity; }
+  .slide {
+    height: auto;
+    min-height: 100dvh;
+    scroll-snap-stop: normal;
+    padding-bottom: clamp(4.5rem, 10vh, 5.5rem);
+  }
+}
+/* Die fixen Uhren würden auf niedrigen Displays über dem Inhalt liegen */
+@media (max-height: 760px) {
+  .ui-clocks { display: none; }
+}
+/* Formular und Kontaktwege erscheinen ohne lange Wartezeit */
+.hero-contact.reveal,
+.hero-contact .reveal,
+.hero-actions.reveal { transition-delay: 150ms; }

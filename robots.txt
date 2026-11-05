@@ -9,7 +9,7 @@ Disallow: /admin/
 Disallow: /lokal-einrichten/
 
 # /badezimmer/ ist NICHT mehr ausgeschlossen: läuft seit dem Ausbau (mehr
-# Inhalt, Preis-Orientierung in der FAQ, FAQPage-Structured-Data) bewusst
+# Inhalt, FAQ, FAQPage-Structured-Data) bewusst
 # auch als organische Zielseite mit, nicht nur für Anzeigen-Traffic.
 
 # Danke- und Formular-/Fragebogen-Seiten sind bereits per
