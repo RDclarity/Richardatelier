@@ -136,6 +136,6 @@ Con campioni abbastanza grandi, valutati uno accanto all'altro nel proprio local
 
 Ricorda quella sera, il cappotto appeso e qualcosa che non Le dava pace? Quell'inquietudine ha quasi sempre un nome: materiali senza filo conduttore. E si può cambiare.
 
-Ci chiami oppure prenoti il colloquio iniziale. È gratuito, dura 30 minuti, è senza impegno e si svolge per telefono o in video. Ascoltiamo come desidera vivere e Le diamo una prima valutazione onesta: se un progetto dei materiali possa cambiare molto già con pochi interventi. Poi, da foto e planimetria, elaboriamo una prima scheda di progetto. Quando appenderà il cappotto, l'ingresso Le darà quello che oggi manca: pace.
+Ci chiami oppure prenoti il colloquio iniziale. È dura 30 minuti, è senza impegno e si svolge per telefono o in video. Ascoltiamo come desidera vivere e Le diamo una prima valutazione onesta: se un progetto dei materiali possa cambiare molto già con pochi interventi. Poi, da foto e planimetria, elaboriamo una prima scheda di progetto. Quando appenderà il cappotto, l'ingresso Le darà quello che oggi manca: pace.
 
 **Da leggere:** [Progetto dei colori per tutto l'appartamento](/magazin/farbkonzept-wohnung-ruhe-statt-trend/) · [Piano di lavoro: un confronto onesto](/magazin/arbeitsplatte-dekton-naturstein-quarz/) · [Rivestimenti per pavimenti a confronto](/magazin/bodenbelaege-vergleich-parkett-stein-keramik/) · [Ristrutturare un appartamento d'epoca a Vienna](/magazin/altbauwohnung-wien-sanieren-gesamtkonzept/)

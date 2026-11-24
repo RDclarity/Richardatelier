@@ -133,6 +133,6 @@ Como orientación, planificamos de 60 a 70 centímetros de ancho de mesa por per
 
 ## Cómo continuar
 
-Vuelva a esa noche, a los platos, a la cocina y al murmullo del comedor. Esta vez los lleva a la isla, alguien le acerca una copa y nadie queda aparte. Llámenos o reserve el primer encuentro en línea: son 30 minutos gratuitos y sin compromiso, por teléfono o por videollamada. Revisamos fotos y planos, hablamos de cómo vive usted y le damos una primera valoración sincera de si sus dos estancias pueden ser una. Después recibirá una ficha de proyecto con los siguientes pasos.
+Vuelva a esa noche, a los platos, a la cocina y al murmullo del comedor. Esta vez los lleva a la isla, alguien le acerca una copa y nadie queda aparte. Llámenos o reserve el primer encuentro en línea: son 30 minutos sin compromiso, por teléfono o por videollamada. Revisamos fotos y planos, hablamos de cómo vive usted y le damos una primera valoración sincera de si sus dos estancias pueden ser una. Después recibirá una ficha de proyecto con los siguientes pasos.
 
 **Lea también:** [Diseñar las transiciones entre espacios](/magazin/raumuebergaenge-gestalten-grundlagen/) · [La cocina para anfitriones](/magazin/kueche-fuer-gastgeber-planen/) · [La familia crece, la vivienda crece con ella](/magazin/familie-waechst-wohnung-mitwachsen/) · [Planificar una nueva cocina a medida en Viena](/magazin/neue-einbaukueche-planen-wien-leitfaden/)

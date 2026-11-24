@@ -136,7 +136,7 @@ Yes, a lot is possible with textiles, furniture, shelving and suspended elements
 
 ## What happens next
 
-Back to the Sunday table and the grandmother who could not understand a word. A few months from now the same lunch could run at an ordinary volume, with every voice clear and the room still open. If your open-plan living space looks beautiful but sounds tiring, a few well-chosen interventions can usually change that. Call us or book the initial conversation: 30 minutes by phone or video, free, without obligation. We discuss how you use the room and where the noise comes from.
+Back to the Sunday table and the grandmother who could not understand a word. A few months from now the same lunch could run at an ordinary volume, with every voice clear and the room still open. If your open-plan living space looks beautiful but sounds tiring, a few well-chosen interventions can usually change that. Call us or book the initial conversation: 30 minutes by phone or video, without obligation. We discuss how you use the room and where the noise comes from.
 
 Afterwards you receive a project sheet based on photos and a floor plan, and one person accompanies you from the first idea to the finished room. How we integrate kitchens into open spaces is shown on the page about [fitted kitchens](/einbaukuechen/), and for venues with the same questions there is our page on [hospitality](/gastronomie/).
 

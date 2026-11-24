@@ -89,7 +89,7 @@ The position of the risers determines where bathrooms and kitchen can sensibly g
 
 A combination proceeds in these steps:
 
-1. Free initial conversation (30 minutes, by phone or video, with an honest first assessment) about your wishes and the starting position of both apartments.
+1. initial conversation (30 minutes, by phone or video, with an honest first assessment) about your wishes and the starting position of both apartments.
 2. Survey with measuring and inspection of the dividing wall, pipes and cables, and heating.
 3. Clarification of the legal questions with the property management, notary and authority.
 4. Concept: layout, zones, role of the duplicate rooms, material palette.
@@ -131,7 +131,7 @@ From the first idea to moving in, you should allow a year or somewhat more. Lega
 
 ## What happens next
 
-Go back to the queue for the bathroom at half past seven. In a year it could be children's doors at the far end of a calm corridor, and a kitchen where everyone sits down together in the morning light. If you are thinking about buying the neighbouring apartment, or already own two, call us before you decide or build anything. The first conversation is free: 30 minutes by phone or video, no obligation, with an honest first assessment of what to clarify first.
+Go back to the queue for the bathroom at half past seven. In a year it could be children's doors at the far end of a calm corridor, and a kitchen where everyone sits down together in the morning light. If you are thinking about buying the neighbouring apartment, or already own two, call us before you decide or build anything. The first conversation is a good start: 30 minutes by phone or video, no obligation, with an honest first assessment of what to clarify first.
 
 Then you send us floor plans and photos of both apartments, we prepare your first project sheet and measure on site, and one person accompanies you from the first sketch to handover. Call us, or book your initial conversation online.
 

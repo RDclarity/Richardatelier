@@ -163,7 +163,7 @@ By a solid or real wood edge, a stable carrier, a balancing layer on the back an
 
 ## What happens next
 
-Go back to your hand on the wardrobe door, in ten years. Whether veneer, solid wood or both, the right construction follows from the task a piece of furniture has in your daily life. Call us, or book the free initial consultation: 30 minutes, by phone or video, without obligation. We look at your project and explain openly what we recommend at which point, with an honest first assessment.
+Go back to your hand on the wardrobe door, in ten years. Whether veneer, solid wood or both, the right construction follows from the task a piece of furniture has in your daily life. Call us, or book the initial consultation: 30 minutes, by phone or video, without obligation. We look at your project and explain openly what we recommend at which point, with an honest first assessment.
 
 Afterwards you receive a project sheet with first suggestions, and one contact stays with you from the first line on the plan to handover. If you would like to meet workshop and planning, you will find both under [Team](/team/). Call us, and let the next door you open be one that still closes as cleanly in ten years.
 

@@ -147,7 +147,7 @@ No. Thanks to its very low porosity, Dekton absorbs hardly any liquid and needs 
 
 ## What happens next
 
-Back to the hot pan and the glass of red wine. In your kitchen that moment could pass without a thought, and the surface could simply go on working. Whether Dekton is the right surface for your kitchen, bathroom or terrace depends on how you cook and live and on the materials around it. Call us or book the initial conversation: 30 minutes by phone or video, free, without obligation. We discuss your wishes and tell you honestly where Dekton fits and where an alternative would be more sensible.
+Back to the hot pan and the glass of red wine. In your kitchen that moment could pass without a thought, and the surface could simply go on working. Whether Dekton is the right surface for your kitchen, bathroom or terrace depends on how you cook and live and on the materials around it. Call us or book the initial conversation: 30 minutes by phone or video, without obligation. We discuss your wishes and tell you honestly where Dekton fits and where an alternative would be more sensible.
 
 Afterwards you receive a project sheet as a basis for further planning, and one person accompanies you from the first sketch to handover.
 

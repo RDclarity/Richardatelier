@@ -130,10 +130,10 @@ Soprattutto all'impianto elettrico, che nelle case più vecchie spesso non è di
 
 ### Posso riutilizzare gli apparecchi esistenti nella nuova cucina?
 
-È possibile, se gli apparecchi sono ancora in buone condizioni e le loro misure d'incasso si adattano al nuovo progetto. Rileviamo le misure e verifichiamo se le nicchie vanno bene. Per gli apparecchi più vecchi vale la pena di confrontare il consumo energetico dei modelli nuovi. Nel colloquio gratuito ne parliamo senza impegno.
+È possibile, se gli apparecchi sono ancora in buone condizioni e le loro misure d'incasso si adattano al nuovo progetto. Rileviamo le misure e verifichiamo se le nicchie vanno bene. Per gli apparecchi più vecchi vale la pena di confrontare il consumo energetico dei modelli nuovi. Nel colloquio ne parliamo senza impegno.
 
 ## Come si prosegue
 
-Torni a quel catalogo con i post-it. Fra qualche mese lo ha messo via, perché la cucina è finita e ogni apparecchio ha un compito: il forno all'altezza giusta, la lavastoviglie senza chinarsi, nulla che prenda polvere. Il primo passo è una telefonata. Ci chiami o prenoti il primo colloquio: è gratuito, dura 30 minuti, si svolge per telefono o in video e non La impegna in nulla. Ci racconta le Sue abitudini in cucina, e Le diamo una prima valutazione sincera su quali apparecchi e altezze di montaggio fanno al caso Suo. Come progettiamo le cucine lo vede sulla pagina delle nostre [cucine su misura](/einbaukuechen/) e nelle [referenze](/referenzen/).
+Torni a quel catalogo con i post-it. Fra qualche mese lo ha messo via, perché la cucina è finita e ogni apparecchio ha un compito: il forno all'altezza giusta, la lavastoviglie senza chinarsi, nulla che prenda polvere. Il primo passo è una telefonata. Ci chiami o prenoti il primo colloquio: dura 30 minuti, si svolge per telefono o in video e non La impegna in nulla. Ci racconta le Sue abitudini in cucina, e Le diamo una prima valutazione sincera su quali apparecchi e altezze di montaggio fanno al caso Suo. Come progettiamo le cucine lo vede sulla pagina delle nostre [cucine su misura](/einbaukuechen/) e nelle [referenze](/referenzen/).
 
 **Da leggere:** [Forme di cucina a confronto](/magazin/kuechenformen-l-u-insel-einzeilig/) · [L'interno della cucina](/magazin/kueche-stauraum-innenleben-auszuege/) · [Dodici errori nella progettazione della cucina](/magazin/kuechenplanung-fehler-vermeiden/) · [Quanto costa una cucina su misura a Vienna](/magazin/was-kostet-eine-einbaukueche-wien/)

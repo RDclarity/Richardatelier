@@ -2,7 +2,7 @@
 slug: forme-cucina-confronto-l-u-isola-lineare
 source_slug: kuechenformen-l-u-insel-einzeilig
 title: Forme di cucina a confronto: a L, a U, con isola o lineare? La scelta che cambia come cucina
-description: Forme di cucina a confronto: lineare, a due file, a L, a U o con isola? Misure minime e consigli per Altbau e case nuove a Vienna. Colloquio gratuito.
+description: Forme di cucina a confronto: lineare, a due file, a L, a U o con isola? Misure minime e consigli per Altbau e case nuove a Vienna. Colloquio.
 category: kueche
 cta: kueche
 keywords: forme di cucina confronto, cucina a L o a U, pianta cucina, cucina a due file, cucina con penisola
@@ -128,6 +128,6 @@ Una penisola è un blocco cucina collegato da un lato alla fila di mobili o a un
 
 ## Come si prosegue
 
-Torni a quella sera con le cipolle e il frigorifero. Fra qualche mese, nella Sua cucina, nessuno deve spostarsi per far passare l'altro. Quale forma lo renda possibile si vede di solito già da una pianta con le misure e qualche foto, e il primo passo è una telefonata. Ci chiami o prenoti il primo colloquio: è gratuito, dura 30 minuti, si svolge per telefono o in video e non La impegna in nulla. Esaminiamo insieme locale e abitudini e Le diamo una prima valutazione sincera. Poi riceve una scheda di progetto con le domande più importanti per la Sua nuova cucina. Esempi del nostro lavoro li trova alla pagina [Referenze](/referenzen/).
+Torni a quella sera con le cipolle e il frigorifero. Fra qualche mese, nella Sua cucina, nessuno deve spostarsi per far passare l'altro. Quale forma lo renda possibile si vede di solito già da una pianta con le misure e qualche foto, e il primo passo è una telefonata. Ci chiami o prenoti il primo colloquio: dura 30 minuti, si svolge per telefono o in video e non La impegna in nulla. Esaminiamo insieme locale e abitudini e Le diamo una prima valutazione sincera. Poi riceve una scheda di progetto con le domande più importanti per la Sua nuova cucina. Esempi del nostro lavoro li trova alla pagina [Referenze](/referenzen/).
 
 **Da leggere:** [Progettare l'isola cucina](/magazin/kochinsel-planen-masse-abstaende/) · [Progettare una cucina su misura a Vienna](/magazin/neue-einbaukueche-planen-wien-leitfaden/) · [L'interno della cucina](/magazin/kueche-stauraum-innenleben-auszuege/) · [La cucina per chi ospita](/magazin/kueche-fuer-gastgeber-planen/)

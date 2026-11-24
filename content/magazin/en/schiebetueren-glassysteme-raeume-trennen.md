@@ -140,7 +140,7 @@ They depend above all on system type, size, type of glass, profile and installat
 
 ## What happens next
 
-Back to nine o'clock and the video call with the coffee grinder next door. A few months from now the door could glide shut with a touch, the call could carry on in peace, and the light could keep flowing through the glass. Whether a sliding glass door is right for your floor plan depends on how you use your rooms. Call us or book the initial conversation: 30 minutes by phone or video, free, without obligation. We look together at your apartment and your wishes and tell you honestly what makes sense.
+Back to nine o'clock and the video call with the coffee grinder next door. A few months from now the door could glide shut with a touch, the call could carry on in peace, and the light could keep flowing through the glass. Whether a sliding glass door is right for your floor plan depends on how you use your rooms. Call us or book the initial conversation: 30 minutes by phone or video, without obligation. We look together at your apartment and your wishes and tell you honestly what makes sense.
 
 Afterwards you receive a project sheet with photos and floor plan as a basis for further planning, and one person accompanies you from the first sketch to handover. Examples of successful transitions can be seen in our [references](/referenzen/).
 

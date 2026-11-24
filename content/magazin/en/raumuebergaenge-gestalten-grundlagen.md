@@ -156,7 +156,7 @@ Floor-to-ceiling doors make transitions feel more generous because the lintel ab
 
 ## What happens next
 
-Think of the walk with the coffee tray. A few months from now it could be a few easy steps through one wide opening, with the garden in sight and no door to nudge open. Call us or book the initial conversation: 30 minutes by phone or video, free and without obligation. We go through your floor plan together and tell you honestly which thresholds cut your home into pieces and which hold it together.
+Think of the walk with the coffee tray. A few months from now it could be a few easy steps through one wide opening, with the garden in sight and no door to nudge open. Call us or book the initial conversation: 30 minutes by phone or video, without obligation. We go through your floor plan together and tell you honestly which thresholds cut your home into pieces and which hold it together.
 
 After the call you send us photos and the floor plan, and we prepare your project sheet. From there one person accompanies you from the first sketch to handover. You can see completed transitions in the [references](/referenzen/), and open kitchen solutions on the [fitted kitchens](/einbaukuechen/) page.
 

@@ -155,6 +155,6 @@ En un canto de madera maciza o genuina, un soporte estable, una contrachapa en l
 
 Vuelva a esa mañana de domingo. Esta vez la mano resbala por una puerta que cierra recta, en una pared de seis puertas que parece una sola pieza de madera. Esa construcción se decide al principio, con oficio.
 
-Llámenos o pida la primera consulta: 30 minutos gratuitos, sin compromiso, por teléfono o videollamada. Cuéntenos su proyecto, con un plano o unas fotos, y le explicamos con franqueza qué construcción recomendamos en cada punto. Después recibe una ficha de proyecto con las primeras propuestas. Quien quiera conocer el taller y a las personas que lo llevan encontrará ambos en la página del [equipo](/team/).
+Llámenos o pida la primera consulta: 30 minutos sin compromiso, por teléfono o videollamada. Cuéntenos su proyecto, con un plano o unas fotos, y le explicamos con franqueza qué construcción recomendamos en cada punto. Después recibe una ficha de proyecto con las primeras propuestas. Quien quiera conocer el taller y a las personas que lo llevan encontrará ambos en la página del [equipo](/team/).
 
 **Lea también:** [Madera natural en el interiorismo](/magazin/echtholz-im-innenausbau-eiche-nuss/) · [Sistemas de armarios y vestidores](/magazin/schranksysteme-ankleide-wie-architektur/) · [Concepto de almacenaje para toda la vivienda](/magazin/stauraumkonzept-ganze-wohnung/) · [¿Fáciles de cuidar? Qué superficies resisten](/magazin/oberflaechen-pflegeleicht-ehrlich-bewertet/)

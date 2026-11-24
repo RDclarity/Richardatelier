@@ -153,6 +153,6 @@ A menudo sí. Un parqué en espiga bien conservado se puede lijar, reparar y vol
 
 Regrese a ese pasillo de noche. Esta vez el pie avanza sin tropezar, el parqué está tibio y la casa se lee entera, de la entrada a la ventana. Es lo que logra un suelo continuo bien planificado.
 
-Coja el teléfono o reserve la primera conversación: media hora gratuita, sin compromiso, por teléfono o videollamada. Cuéntenos qué suelos tiene y cómo vive; le diremos con franqueza qué puede conservarse y dónde un suelo nuevo cambiaría la vivienda. Con sus fotos y su plano preparamos una ficha de proyecto, y usted decide si seguimos. Mostramos suelos y transiciones ya realizados en las [referencias](/referenzen/).
+Coja el teléfono o reserve la primera conversación: media hora sin compromiso, por teléfono o videollamada. Cuéntenos qué suelos tiene y cómo vive; le diremos con franqueza qué puede conservarse y dónde un suelo nuevo cambiaría la vivienda. Con sus fotos y su plano preparamos una ficha de proyecto, y usted decide si seguimos. Mostramos suelos y transiciones ya realizados en las [referencias](/referenzen/).
 
 **Lea también:** [Comparación de pavimentos](/magazin/bodenbelaege-vergleich-parkett-stein-keramik/) · [Diseñar las transiciones entre estancias](/magazin/raumuebergaenge-gestalten-grundlagen/) · [Reformar un piso de Altbau en Viena](/magazin/altbauwohnung-wien-sanieren-gesamtkonzept/) · [El microcemento y sus límites](/magazin/mikrozement-fugenlos-bad-wohnen/)

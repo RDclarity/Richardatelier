@@ -130,6 +130,6 @@ Das ist häufiger, als man denkt, und kein Problem. Wir erfassen beide Sichtweis
 
 Denken Sie noch einmal an diesen Dienstagabend auf dem Sofa, an das Klappern aus der Küche und die Suche nach dem richtigen Licht. Er könnte bald so aussehen: Sie sitzen beisammen, jeder an seinem Platz, und der Raum tut seine Arbeit, ohne dass jemand darüber nachdenkt.
 
-Der Weg dorthin beginnt klein, mit einem Anruf oder einem gebuchten Termin. Erzählen Sie uns in 30 kostenlosen, unverbindlichen Minuten am Telefon oder per Video, wie Sie heute leben und wie Sie leben möchten, und hören Sie unsere ehrliche erste Einschätzung dazu. Danach schicken Sie uns Fotos und Grundriss, und unsere ersten Gedanken landen in einem Projektblatt. Ob es weitergeht, entscheiden Sie in Ruhe. Rufen Sie uns an.
+Der Weg dorthin beginnt klein, mit einem Anruf oder einem gebuchten Termin. Erzählen Sie uns in 30 unverbindlichen Minuten am Telefon oder per Video, wie Sie heute leben und wie Sie leben möchten, und hören Sie unsere ehrliche erste Einschätzung dazu. Danach schicken Sie uns Fotos und Grundriss, und unsere ersten Gedanken landen in einem Projektblatt. Ob es weitergeht, entscheiden Sie in Ruhe. Rufen Sie uns an.
 
 **Weiterlesen:** [Gesamtkonzept für die Wohnung](/magazin/gesamtkonzept-wohnung-was-bedeutet-das/) · [Wohnzimmer ohne Fernseherwand](/magazin/wohnzimmer-einrichten-ohne-fernseherwand/) · [Homeoffice in der Wohnung](/magazin/homeoffice-wohnung-integrieren/) · [Das Schlafzimmer als Ruheraum](/magazin/schlafzimmer-ruhe-planen/)

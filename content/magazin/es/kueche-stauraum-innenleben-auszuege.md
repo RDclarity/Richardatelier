@@ -143,6 +143,6 @@ Cosas planas que no se necesitan a diario: bandejas de horno, bandejas de servic
 
 ## Cómo continuar
 
-Vuelva al aceite de oliva y al mueble bajo. Esta vez no hay rodillas en el suelo: abre el cajón, lo coge y sigue cocinando. Para que ese gesto sea suyo, llámenos o reserve el primer encuentro en línea: son 30 minutos gratuitos y sin compromiso, por teléfono o por videollamada. Aclaramos cómo cocina usted y qué necesita guardar, y le damos una primera valoración sincera de qué soluciones encajan. Después recibirá una ficha de proyecto, con la misma persona a su lado hasta la entrega. Ejemplos los encontrará en nuestras [referencias](/referenzen/).
+Vuelva al aceite de oliva y al mueble bajo. Esta vez no hay rodillas en el suelo: abre el cajón, lo coge y sigue cocinando. Para que ese gesto sea suyo, llámenos o reserve el primer encuentro en línea: son 30 minutos sin compromiso, por teléfono o por videollamada. Aclaramos cómo cocina usted y qué necesita guardar, y le damos una primera valoración sincera de qué soluciones encajan. Después recibirá una ficha de proyecto, con la misma persona a su lado hasta la entrega. Ejemplos los encontrará en nuestras [referencias](/referenzen/).
 
 **Lea también:** [Cocina pequeña, pensada en grande](/magazin/kleine-kueche-gross-denken/) · [Cocina sin tiradores](/magazin/grifflose-kueche-vor-nachteile/) · [Doce errores en la planificación de la cocina](/magazin/kuechenplanung-fehler-vermeiden/) · [Planificar una nueva cocina a medida en Viena](/magazin/neue-einbaukueche-planen-wien-leitfaden/)

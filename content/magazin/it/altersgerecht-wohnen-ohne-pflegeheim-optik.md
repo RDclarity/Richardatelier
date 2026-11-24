@@ -117,7 +117,7 @@ La norma centrale è la ÖNORM B 1600 per l'edilizia senza barriere. Descrive tr
 Con doccia a filo pavimento, pavimento continuo, una panca in muratura al posto del seggiolino ribaltabile e maniglioni che si abbinano alle rubinetterie. I rinforzi nelle pareti vengono posati in anticipo, così che i maniglioni si montino solo quando servono. Un mobile lavabo su misura con cassetti è ben utilizzabile in piedi e da seduti. Il risultato è un bagno che sembra pensato per Lei, non per un reparto.
 
 ### Quando conviene adattare un appartamento a misura d'età?
-Il meglio è in occasione di una ristrutturazione comunque prevista, prima che diventi urgente. Allora le misure senza barriere si integrano nel design e costano spesso poco di più. Sotto la pressione del tempo dopo una caduta o un'operazione resta di solito poco margine. Se vuole sapere da dove cominciare, il primo colloquio è gratuito e senza impegno.
+Il meglio è in occasione di una ristrutturazione comunque prevista, prima che diventi urgente. Allora le misure senza barriere si integrano nel design e costano spesso poco di più. Sotto la pressione del tempo dopo una caduta o un'operazione resta di solito poco margine. Se vuole sapere da dove cominciare, il primo colloquio senza impegno.
 
 ### Esistono incentivi per ristrutturazioni senza barriere a Vienna?
 A Vienna e in Bassa Austria esistono in parte incentivi per misure di eliminazione delle barriere. Le condizioni cambiano, perciò programmi attuali e requisiti andrebbero verificati presso gli enti competenti prima di affidare l'incarico. Teniamo volentieri conto dei requisiti nella progettazione.
@@ -127,6 +127,6 @@ Una doccia a filo pavimento ha bisogno di spazio per scarico e pendenza. In alcu
 
 ## Come si prosegue
 
-Torni all'ingresso, la sera, e a quella luce che non basta. Il giorno in cui è finito, le chiavi sono dove le Sue mani le cercano, una luce morbida si accende da sola e la strada verso il bagno non ha più un gradino. Per arrivarci, ci chiami o prenoti un primo colloquio: gratuito, 30 minuti, al telefono o in video, senza alcun obbligo. Ci spiega come desidera vivere e riceve una valutazione onesta di quali misure abbiano senso nella Sua casa, e in quale ordine. Da lì si procede solo se lo desidera.
+Torni all'ingresso, la sera, e a quella luce che non basta. Il giorno in cui è finito, le chiavi sono dove le Sue mani le cercano, una luce morbida si accende da sola e la strada verso il bagno non ha più un gradino. Per arrivarci, ci chiami o prenoti un primo colloquio: 30 minuti, al telefono o in video, senza alcun obbligo. Ci spiega come desidera vivere e riceve una valutazione onesta di quali misure abbiano senso nella Sua casa, e in quale ordine. Da lì si procede solo se lo desidera.
 
 **Da leggere:** [Bagno senza barriere con ambizioni di design](/magazin/bad-altersgerecht-barrierefrei-design/) · [Riorganizzare la casa dopo la partenza dei figli](/magazin/neue-lebensphase-kinder-ausgezogen/) · [Progetto complessivo per l'appartamento](/magazin/gesamtkonzept-wohnung-was-bedeutet-das/) · [Progettazione della luce per la casa](/magazin/lichtplanung-wohnung-grundlagen/)

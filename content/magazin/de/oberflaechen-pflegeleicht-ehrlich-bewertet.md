@@ -139,6 +139,6 @@ Daran, dass sie entweder sehr widerstandsfähig ist oder sich reparieren lässt.
 
 Der Blick auf den Boden, bevor der Hund überhaupt drin ist, der Topf, den Sie quer durch die Küche tragen: Beides dürfen Sie loswerden. Sie stellen ihn ab und denken ans Essen statt an die Platte.
 
-Klären wir, was zu Ihrem Alltag passt, ehe ein Muster bestellt ist. Rufen Sie uns an oder buchen Sie das Erstgespräch, eine halbe Stunde per Telefon oder Video, kostenlos und unverbindlich. Sie erzählen, was Sie heute stört, und hören unsere ehrliche Einschätzung. Danach erhalten Sie ein Projektblatt mit Fotos und Grundriss, auf dem wir gemeinsam weiterplanen.
+Klären wir, was zu Ihrem Alltag passt, ehe ein Muster bestellt ist. Rufen Sie uns an oder buchen Sie das Erstgespräch, eine halbe Stunde per Telefon oder Video, unverbindlich. Sie erzählen, was Sie heute stört, und hören unsere ehrliche Einschätzung. Danach erhalten Sie ein Projektblatt mit Fotos und Grundriss, auf dem wir gemeinsam weiterplanen.
 
 **Weiterlesen:** [Dekton erklärt](/magazin/dekton-was-ist-das/) · [Furnier oder Massivholz?](/magazin/furnier-vs-massivholz-ehrlich/) · [Küchenfronten im Vergleich](/magazin/kuechenfronten-lack-furnier-massivholz/) · [Nachhaltig heißt langlebig](/magazin/nachhaltige-materialien-langlebigkeit/)

@@ -2,7 +2,7 @@
 slug: progetto-di-vita-invece-di-arredamento
 source_slug: lebenskonzept-statt-einrichtung
 title: Progetto di vita invece di arredamento: la casa che nasce dal Suo quotidiano
-description: Progetto di vita per la casa: dal Suo quotidiano nascono planimetria, luce e arredi su misura. Scopra come vuole vivere. Primo colloquio gratuito.
+description: Progetto di vita per la casa: dal Suo quotidiano nascono planimetria, luce e arredi su misura. Scopra come vuole vivere. Primo colloquio.
 category: gesamtkonzept
 cta: gesamtkonzept
 keywords: progetto di vita abitare, Human-Centered Living Design, come desidera vivere, progettare la casa partendo dal quotidiano
@@ -113,7 +113,7 @@ Human-Centered Living Design è l'approccio progettuale di Richard Atelier. Mett
 Non necessariamente. A volte bastano nuovi arredi su misura, una diversa disposizione dei mobili e una luce migliore per cambiare sensibilmente la vita quotidiana. In altri casi il progetto di vita mostra che una parete andrebbe aperta o un bagno ampliato. Lo scoprirà prima di decidere qualsiasi cosa, senza impegno.
 
 ### Quanto tempo richiede elaborare un progetto di vita?
-La base nasce in uno o due colloqui approfonditi e in un appuntamento sul posto. Da qui si sviluppa una prima bozza di concept. Quanto tempo occorra poi fino alla realizzazione dipende dall'entità dei lavori. Il primo passo, il colloquio gratuito di 30 minuti, si fa invece subito.
+La base nasce in uno o due colloqui approfonditi e in un appuntamento sul posto. Da qui si sviluppa una prima bozza di concept. Quanto tempo occorra poi fino alla realizzazione dipende dall'entità dei lavori. Il primo passo, il colloquio di 30 minuti, si fa invece subito.
 
 ### Un progetto di vita ha senso anche per single o coppie?
 Sì. Anche una persona sola ha abitudini che uno spazio può sostenere o disturbare. Soprattutto negli appartamenti piccoli aiuta conoscere con precisione i propri gesti quotidiani, perché ogni metro quadrato deve assolvere più compiti. Più è piccola la casa, più vale la pena pensarla bene.
@@ -123,6 +123,6 @@ Sì. Anche una persona sola ha abitudini che uno spazio può sostenere o disturb
 
 ## Come si prosegue
 
-Pensi alla Sua mattina delle 6:40 e a quel lavabo conteso. Può restare così oppure può cambiare, e il primo passo è una telefonata. Il primo colloquio è gratuito, dura 30 minuti, non Le costa nessun impegno e si svolge per telefono o in video. Ci racconta come vive oggi e come desidera vivere, e Le diamo una prima valutazione sincera. Poi ci invia foto e planimetria, e noi fissiamo i primi pensieri in una scheda di progetto. Fra qualche mese, la stessa mattina: la chiave al suo posto, il caffè che aspetta, una casa che La lascia partire serena. Ci chiami oppure prenoti il Suo colloquio: Le basta una domanda per cominciare.
+Pensi alla Sua mattina delle 6:40 e a quel lavabo conteso. Può restare così oppure può cambiare, e il primo passo è una telefonata. Il primo colloquio dura 30 minuti, non Le costa nessun impegno e si svolge per telefono o in video. Ci racconta come vive oggi e come desidera vivere, e Le diamo una prima valutazione sincera. Poi ci invia foto e planimetria, e noi fissiamo i primi pensieri in una scheda di progetto. Fra qualche mese, la stessa mattina: la chiave al suo posto, il caffè che aspetta, una casa che La lascia partire serena. Ci chiami oppure prenoti il Suo colloquio: Le basta una domanda per cominciare.
 
 **Da leggere:** [Progetto complessivo per l'appartamento](/magazin/gesamtkonzept-wohnung-was-bedeutet-das/) · [Soggiorno senza parete TV](/magazin/wohnzimmer-einrichten-ohne-fernseherwand/) · [Home office in casa](/magazin/homeoffice-wohnung-integrieren/) · [La camera da letto come spazio di quiete](/magazin/schlafzimmer-ruhe-planen/)

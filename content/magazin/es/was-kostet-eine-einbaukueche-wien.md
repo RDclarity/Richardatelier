@@ -116,7 +116,7 @@ Imagine el jueves por la noche en esa cocina: la isla algo más corta de lo soñ
 
 ### ¿Cuánto cuesta una cocina empotrada a medida en Viena?
 
-El coste de una cocina empotrada a medida depende de forma notable de si es una cocina elaborada, con isla, placas de cerámica y un amplio equipamiento de electrodomésticos. El precio concreto depende del tamaño, los frentes, la encimera, los electrodomésticos y las soluciones especiales. Un valor fiable solo surge tras la medición y el proyecto; una estimación llega en la primera consulta. En la primera conversación gratuita le damos una orientación honesta.
+El coste de una cocina empotrada a medida depende de forma notable de si es una cocina elaborada, con isla, placas de cerámica y un amplio equipamiento de electrodomésticos. El precio concreto depende del tamaño, los frentes, la encimera, los electrodomésticos y las soluciones especiales. Un valor fiable solo surge tras la medición y el proyecto; una estimación llega en la primera consulta. En la primera conversación le damos una orientación honesta.
 
 ### ¿Por qué los presupuestos de cocina difieren tanto?
 
@@ -142,6 +142,6 @@ El proyecto, la elección de muestras y la aprobación llevan unas semanas. Desp
 
 Piense de nuevo en aquel martes por la noche. Esta vez los dos cocinan a la vez, sin estorbarse, en una cocina que usted sabe por qué ha costado lo que ha costado. Eso empieza con una conversación.
 
-Llámenos o reserve la primera conversación: 30 minutos gratuitos y sin compromiso, por teléfono o videollamada. Hablamos de lo que influye en el coste de su proyecto y le damos una valoración honesta. Después nos envía fotos y plano, y lo recogemos en una ficha de proyecto: la base para comparar con justicia cualquier presupuesto.
+Llámenos o reserve la primera conversación: 30 minutos sin compromiso, por teléfono o videollamada. Hablamos de lo que influye en el coste de su proyecto y le damos una valoración honesta. Después nos envía fotos y plano, y lo recogemos en una ficha de proyecto: la base para comparar con justicia cualquier presupuesto.
 
 **Lea también:** [Planificar una cocina empotrada nueva en Viena](/magazin/neue-einbaukueche-planen-wien-leitfaden/) · [Frentes de cocina: comparativa](/magazin/kuechenfronten-lack-furnier-massivholz/) · [Encimera: comparativa](/magazin/arbeitsplatte-dekton-naturstein-quarz/) · [¿Cuánto cuesta un proyecto integral?](/magazin/was-kostet-innenarchitektur-gesamtkonzept/)

@@ -125,7 +125,7 @@ Beginnen Sie mit dem Alltag: Wer kocht wie oft, was stört heute, was wird nie b
 
 ### Wovon hängen die Kosten einer Einbauküche ab?
 
-Vor allem von Größe und Form, von Fronten und Arbeitsplatte, vom Innenleben, von den Geräten und vom Anteil an Sonderanfertigungen. Dazu kommen Elektro, Installation, Abluft und Montage. Eine verbindliche Einschätzung ist erst möglich, wenn Raum und Wünsche bekannt sind. Eine ehrliche erste Einschätzung bekommen Sie aber schon im kostenlosen Erstgespräch.
+Vor allem von Größe und Form, von Fronten und Arbeitsplatte, vom Innenleben, von den Geräten und vom Anteil an Sonderanfertigungen. Dazu kommen Elektro, Installation, Abluft und Montage. Eine verbindliche Einschätzung ist erst möglich, wenn Raum und Wünsche bekannt sind. Eine ehrliche erste Einschätzung bekommen Sie aber schon im Erstgespräch.
 
 ### Lässt sich eine Küche später aufwerten?
 
@@ -135,6 +135,6 @@ Teilweise. Griffe, Ladeneinteilungen, Zubehör und einzelne Geräte lassen sich 
 
 Morgen um 7:10 Uhr klemmt die Lade wieder. Stellen Sie sich vor, sie läuft, die Kinder bedienen sich selbst, und Sie trinken Ihren Kaffee, bevor er kalt ist, in einer Küche, die aussieht, als hätte jemand lange über sie nachgedacht.
 
-Wie weit Ihr Budget trägt, lässt sich in einer halben Stunde ehrlich einordnen. Rufen Sie uns an oder buchen Sie das Erstgespräch, kostenlos und unverbindlich, am Telefon oder per Video. Sie erfahren, wo sich Ihr Geld lohnt. Danach halten wir alles in einem Projektblatt mit Fotos und Grundriss fest. Wie wir [Einbauküchen](/einbaukuechen/) planen und wie das Ergebnis aussehen kann, zeigen auch unsere [Referenzen](/referenzen/).
+Wie weit Ihr Budget trägt, lässt sich in einer halben Stunde ehrlich einordnen. Rufen Sie uns an oder buchen Sie das Erstgespräch, unverbindlich, am Telefon oder per Video. Sie erfahren, wo sich Ihr Geld lohnt. Danach halten wir alles in einem Projektblatt mit Fotos und Grundriss fest. Wie wir [Einbauküchen](/einbaukuechen/) planen und wie das Ergebnis aussehen kann, zeigen auch unsere [Referenzen](/referenzen/).
 
 **Weiterlesen:** [Was kostet eine Einbauküche in Wien?](/magazin/was-kostet-eine-einbaukueche-wien/) · [Neue Einbauküche planen](/magazin/neue-einbaukueche-planen-wien-leitfaden/) · [Kleine Küche groß denken](/magazin/kleine-kueche-gross-denken/) · [Wenn die Familie wächst](/magazin/familie-waechst-wohnung-mitwachsen/)

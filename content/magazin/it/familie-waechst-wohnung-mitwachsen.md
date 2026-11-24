@@ -108,7 +108,7 @@ Quali superfici dopo anni abbiano davvero ancora un bell'aspetto lo descrive l'a
 Dimensionando gli elementi fissi come pareti, impianti, bagni e arredi su misura per più fasi di vita e adattando gli elementi mobili come mobili e tessuti alla fase del momento. Ne fanno parte locali divisibili, impianto elettrico predisposto e arredi su misura con interni regolabili.
 
 ### Quanto dovrebbe essere grande un appartamento per una famiglia con due figli?
-Un numero generale non esiste, perché la planimetria conta più della superficie. Appartamenti ben progettati da 90 a 110 metri quadrati possono offrire molto spazio a una famiglia di quattro persone. Decisivi sono locali divisibili, sufficiente spazio contenitivo e un bagno che più persone possano usare contemporaneamente. Nel colloquio gratuito guardiamo la Sua pianta e Le diciamo con sincerità che cosa se ne può ricavare.
+Un numero generale non esiste, perché la planimetria conta più della superficie. Appartamenti ben progettati da 90 a 110 metri quadrati possono offrire molto spazio a una famiglia di quattro persone. Decisivi sono locali divisibili, sufficiente spazio contenitivo e un bagno che più persone possano usare contemporaneamente. Nel colloquio guardiamo la Sua pianta e Le diciamo con sincerità che cosa se ne può ricavare.
 
 ### Una cameretta grande si può dividere in seguito?
 Sì, se il locale è predisposto. Ha bisogno di due finestre, due porte o della possibilità di montare una seconda porta, nonché di interruttori e prese separati su entrambi i lati. Allora in seguito si può montare una parete divisoria con un impegno contenuto.
@@ -124,6 +124,6 @@ Con un posto fisso per ogni persona: un vano proprio per giacca, scarpe e borsa,
 
 ## Come si prosegue
 
-Torni a quella sera nell'ingresso: la porta si apre, la spesa trova il suo posto, il passeggino il suo vano e nessuno inciampa. In cucina i bambini disegnano all'isola mentre Lei cucina. È una casa che sapeva già che cosa sarebbe successo. Chiami Richard Atelier o prenoti il primo colloquio: è gratuito, dura 30 minuti, si fa al telefono o in videochiamata e non La impegna a nulla. Ci racconta come vive oggi e che cosa cambierà, e Le diamo una prima valutazione sincera. Poi, da foto e planimetria, elaboriamo una prima scheda di progetto. Un unico referente La accompagna dal primo tratto alla consegna.
+Torni a quella sera nell'ingresso: la porta si apre, la spesa trova il suo posto, il passeggino il suo vano e nessuno inciampa. In cucina i bambini disegnano all'isola mentre Lei cucina. È una casa che sapeva già che cosa sarebbe successo. Chiami Richard Atelier o prenoti il primo colloquio: dura 30 minuti, si fa al telefono o in videochiamata e non La impegna a nulla. Ci racconta come vive oggi e che cosa cambierà, e Le diamo una prima valutazione sincera. Poi, da foto e planimetria, elaboriamo una prima scheda di progetto. Un unico referente La accompagna dal primo tratto alla consegna.
 
 **Da leggere:** [Cameretta che cresce insieme](/magazin/kinderzimmer-mitwachsend-planen/) · [Progetto dello spazio contenitivo per l'intera casa](/magazin/stauraumkonzept-ganze-wohnung/) · [Progetto di vita invece di arredamento](/magazin/lebenskonzept-statt-einrichtung/) · [Cucina, pranzo, soggiorno: zone al posto delle stanze](/magazin/kueche-essen-wohnen-zonen-statt-zimmer/)

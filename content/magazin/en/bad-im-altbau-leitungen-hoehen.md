@@ -105,7 +105,7 @@ Once the technology is settled, the more enjoyable part begins. An Altbau bathro
 
 A bathroom is often part of a larger renovation. If you are renewing the whole apartment, you should not consider the bathroom in isolation. Why an overall concept preserves Altbau charm is described in [Renovating an Altbau apartment in Vienna](/magazin/altbauwohnung-wien-sanieren-gesamtkonzept/).
 
-As a guide to costs: in an Altbau, depending on the findings, items for floor repair, stack, electrics and logistics are added to the usual bathroom items. The actual costs depend on the project, and a reliable estimate comes in the free first conversation, without obligation. Which items typically arise is explained in [What does a bathroom renovation cost in Vienna?](/magazin/was-kostet-eine-badrenovierung-wien/). How we carry out bathrooms in existing buildings can be seen on our page on [bathroom renovation](/badrenovierung/).
+As a guide to costs: in an Altbau, depending on the findings, items for floor repair, stack, electrics and logistics are added to the usual bathroom items. The actual costs depend on the project, and a reliable estimate comes in the first conversation, without obligation. Which items typically arise is explained in [What does a bathroom renovation cost in Vienna?](/magazin/was-kostet-eine-badrenovierung-wien/). How we carry out bathrooms in existing buildings can be seen on our page on [bathroom renovation](/badrenovierung/).
 
 ## Frequently asked questions
 
@@ -135,7 +135,7 @@ For a renovation within the existing bathroom with no work on common parts, a bu
 
 ## What happens next
 
-Back to the tiler's tap on the wall and the pipe nobody drew. With a proper survey, that moment happens early, in a trial opening, in a phase where surprises cost only time. A bathroom in an Altbau begins with an honest look at what is there. Call us or book the initial conversation: 30 minutes by phone or video, free, without obligation. Send photographs and the floor plan, and we tell you which questions to settle first.
+Back to the tiler's tap on the wall and the pipe nobody drew. With a proper survey, that moment happens early, in a trial opening, in a phase where surprises cost only time. A bathroom in an Altbau begins with an honest look at what is there. Call us or book the initial conversation: 30 minutes by phone or video, without obligation. Send photographs and the floor plan, and we tell you which questions to settle first.
 
 Afterwards you receive a project sheet, and one person accompanies you from the survey to handover. You will find examples from Viennese Altbauten under [References](/referenzen/).
 

@@ -139,6 +139,6 @@ In most cases not, because the labour of several coats and drying times is high.
 
 ## What happens next
 
-Think back to the bare foot on the warm, jointless floor. Whether this is the right surface for your bathroom, we can tell you frankly in a first conversation: call us or book it online, 30 minutes, free, non-binding, by phone or video. Send photos and the floor plan, and you hear where the trowelled technique makes sense and where another surface would serve you better. A project sheet follows as a basis. How we plan and carry out bathrooms is shown on the pages about [bathroom renovation](/badrenovierung/) and [bathrooms](/badezimmer/).
+Think back to the bare foot on the warm, jointless floor. Whether this is the right surface for your bathroom, we can tell you frankly in a first conversation: call us or book it online, 30 minutes, non-binding, by phone or video. Send photos and the floor plan, and you hear where the trowelled technique makes sense and where another surface would serve you better. A project sheet follows as a basis. How we plan and carry out bathrooms is shown on the pages about [bathroom renovation](/badrenovierung/) and [bathrooms](/badezimmer/).
 
 **Read next:** [Large-format ceramic in the bathroom](/magazin/grossformatige-fliesen-bad-fugen/) · [The bathroom in a Viennese Altbau](/magazin/bad-im-altbau-leitungen-hoehen/) · [Bathtub out, shower in](/magazin/badewanne-raus-dusche-rein/) · [Terrazzo for floor and washbasin](/magazin/terrazzo-comeback-boden-waschtisch/)

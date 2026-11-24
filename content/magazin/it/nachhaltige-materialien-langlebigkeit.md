@@ -139,6 +139,6 @@ Sì, e grande. Pannelli a basse emissioni, vernici all'acqua, oli naturali e int
 
 Fra vent'anni, una sera d'inverno: il rovere ha preso la patina della Sua vita, la cucina funziona come il primo giorno e nessuno ha dovuto buttare niente. Tutto comincia da come vuole vivere, e da una telefonata.
 
-Ci chiami oppure prenoti il colloquio iniziale: è gratuito, dura 30 minuti, è senza impegno e si svolge per telefono o in video. Parliamo di ciò che nel Suo appartamento può restare e di quali materiali si adattino alla Sua vita quotidiana, e Le diamo una prima valutazione onesta. Poi fissiamo tutto in una scheda di progetto con foto e planimetria. Esempi di progetti con l'esistente e con l'artigianato li mostrano le nostre [referenze](/referenzen/).
+Ci chiami oppure prenoti il colloquio iniziale: dura 30 minuti, è senza impegno e si svolge per telefono o in video. Parliamo di ciò che nel Suo appartamento può restare e di quali materiali si adattino alla Sua vita quotidiana, e Le diamo una prima valutazione onesta. Poi fissiamo tutto in una scheda di progetto con foto e planimetria. Esempi di progetti con l'esistente e con l'artigianato li mostrano le nostre [referenze](/referenzen/).
 
 **Da leggere:** [Il legno massello negli interni](/magazin/echtholz-im-innenausbau-eiche-nuss/) · [Impiallacciato o massello?](/magazin/furnier-vs-massivholz-ehrlich/) · [Cucina del falegname o cucina di marca?](/magazin/kueche-aus-tischlerhand-vs-markenkueche/) · [Pavimenti a confronto](/magazin/bodenbelaege-vergleich-parkett-stein-keramik/)

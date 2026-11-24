@@ -148,6 +148,6 @@ Una luz de orientación tenue es muy recomendable. Permite encontrar el baño co
 
 Vuelva a las 6:15 de aquella mañana de enero. Esta vez la luz llega desde los dos lados del espejo, suave y pareja, y por la noche el baño se retira con una luz tenue a ras de suelo. Es un baño donde se vive, no solo se usa.
 
-Pida la primera consulta o llámenos: 30 minutos gratuitos, sin compromiso, por teléfono o videollamada. Repasamos con fotos y planta cómo es su mañana y su noche en el baño y le damos una valoración honesta de la luz que necesita. Después recibe una ficha de proyecto con los siguientes pasos.
+Pida la primera consulta o llámenos: 30 minutos sin compromiso, por teléfono o videollamada. Repasamos con fotos y planta cómo es su mañana y su noche en el baño y le damos una valoración honesta de la luz que necesita. Después recibe una ficha de proyecto con los siguientes pasos.
 
 **Lea también:** [Reformar el cuarto de baño en Viena](/magazin/badezimmer-renovieren-wien-leitfaden/) · [La luz como transición entre estancias](/magazin/licht-als-raumuebergang/) · [Aprovechar la luz del día](/magazin/tageslicht-nutzen-fenster-spiegel-farbe/) · [Ventilación del baño](/magazin/bad-lueftung-feuchtigkeit-schimmel/)

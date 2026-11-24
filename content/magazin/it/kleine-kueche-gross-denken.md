@@ -133,7 +133,7 @@ Toni chiari, caldi e opachi, intonati al colore delle pareti, fanno apparire pi�
 
 ### Vale la pena una realizzazione su misura per una cucina piccola?
 
-Proprio nelle cucine piccole spesso vale particolarmente la pena, perché le misure standard creano vuoti e pezzi di raccordo che costano spazio contenitivo. Una realizzazione su misura sfrutta ogni centimetro fino al soffitto e nelle nicchie. Se una cucina artigianale di falegnameria o una cucina di marca adattata, dipende dal progetto. Nel colloquio gratuito Le diciamo con sincerità quale via si adatta al Suo locale.
+Proprio nelle cucine piccole spesso vale particolarmente la pena, perché le misure standard creano vuoti e pezzi di raccordo che costano spazio contenitivo. Una realizzazione su misura sfrutta ogni centimetro fino al soffitto e nelle nicchie. Se una cucina artigianale di falegnameria o una cucina di marca adattata, dipende dal progetto. Nel colloquio Le diciamo con sincerità quale via si adatta al Suo locale.
 
 ### Posso sistemare una zona pranzo in una cucina piccola?
 
@@ -145,6 +145,6 @@ Gli apparecchi compatti alti 45 centimetri, come un forno combinato a vapore, po
 
 ## Come si prosegue
 
-Torni al piano di lavoro vuoto: la cipolla, il tagliere, il coltello, e nessuno spostamento. In fondo, sotto la finestra, il caffè del mattino sul bancone. Una cucina così nasce da una telefonata. Chiami Richard Atelier o prenoti il primo colloquio: è gratuito, dura 30 minuti, si svolge al telefono o in videochiamata e non La impegna a nulla. Guardiamo insieme foto e planimetria, Le mostriamo che cosa è possibile sui Suoi metri quadrati e Le diamo una prima valutazione sincera. In seguito riceverà una scheda di progetto con i passi successivi, e un unico referente La accompagnerà dal primo tratto alla consegna. Esempi di cucine piccole e grandi li trova nelle nostre [referenze](/referenzen/).
+Torni al piano di lavoro vuoto: la cipolla, il tagliere, il coltello, e nessuno spostamento. In fondo, sotto la finestra, il caffè del mattino sul bancone. Una cucina così nasce da una telefonata. Chiami Richard Atelier o prenoti il primo colloquio: dura 30 minuti, si svolge al telefono o in videochiamata e non La impegna a nulla. Guardiamo insieme foto e planimetria, Le mostriamo che cosa è possibile sui Suoi metri quadrati e Le diamo una prima valutazione sincera. In seguito riceverà una scheda di progetto con i passi successivi, e un unico referente La accompagnerà dal primo tratto alla consegna. Esempi di cucine piccole e grandi li trova nelle nostre [referenze](/referenzen/).
 
 **Da leggere:** [Progettare una nuova cucina su misura a Vienna](/magazin/neue-einbaukueche-planen-wien-leitfaden/) · [Dispensa e ripostiglio per le scorte](/magazin/speisekammer-vorratsraum-planen/) · [Ristrutturare un appartamento d'epoca a Vienna](/magazin/altbauwohnung-wien-sanieren-gesamtkonzept/) · [Dodici errori nella progettazione della cucina](/magazin/kuechenplanung-fehler-vermeiden/)

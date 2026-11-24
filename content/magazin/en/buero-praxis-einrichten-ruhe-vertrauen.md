@@ -128,6 +128,6 @@ That depends on the condition of the rooms, the scope of the conversion and the 
 
 ## What happens next
 
-The patient steps in, the client steps in, and the room says: you are in good hands. Start that room with a call, or book the first conversation, 30 minutes, free, without obligation, by phone or video. We talk about your workflows, your visitors and your rooms and give you an honest first assessment of what the space can become. Afterwards we record the starting point, requirements and next steps in a project sheet.
+The patient steps in, the client steps in, and the room says: you are in good hands. Start that room with a call, or book the first conversation, 30 minutes, without obligation, by phone or video. We talk about your workflows, your visitors and your rooms and give you an honest first assessment of what the space can become. Afterwards we record the starting point, requirements and next steps in a project sheet.
 
 **Read next:** [Designing a restaurant interior](/magazin/gastronomie-einrichten-gaeste-bleiben-laenger/), [Acoustics in open-plan living](/magazin/akustik-im-offenen-wohnraum/), [Glass and metal in interiors](/magazin/glas-und-metall-im-interior/), [Lighting design for the home](/magazin/lichtplanung-wohnung-grundlagen/)

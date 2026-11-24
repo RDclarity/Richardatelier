@@ -139,7 +139,7 @@ It needs room for the drain and the fall. In some existing flats that is tight, 
 
 ## What happens next
 
-Remember that dark hallway and the keys you could not find. A calm conversation now spares you a hurried one later. Call us, or book the free initial conversation: 30 minutes, by phone or video, without obligation, with an honest first assessment. You tell us how you want to live, and together we look at which measures make sense for you.
+Remember that dark hallway and the keys you could not find. A calm conversation now spares you a hurried one later. Call us, or book the initial conversation: 30 minutes, by phone or video, without obligation, with an honest first assessment. You tell us how you want to live, and together we look at which measures make sense for you.
 
 Afterwards we draw up a project sheet from your photos and floor plan. One contact accompanies you from the first sketch to handover, and our joinery workshop Tischlerkultur, a Viennese carpentry tradition since 1935, builds the pieces made to fit you. Then you come home in the evening, light comes on in the hallway, and the keys are exactly where your hand expects them. Call us, and let us make that evening a normal one.
 

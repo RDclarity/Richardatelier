@@ -127,6 +127,6 @@ En intervenciones pequeñas y por etapas, a menudo sí. Si se renuevan a la vez 
 
 ## Cómo continuar
 
-Piense en esa puerta cerrada del primer piso. Dentro de un año puede ser la habitación donde pasa sus mejores tardes. Llámenos o reserve su primera conversación: 30 minutos gratuitos, sin compromiso, por teléfono o por videollamada. Nos cuenta cómo quiere vivir los próximos años, y le damos una primera valoración sincera de lo que su casa puede hacer por usted. Si decide seguir, elaboramos a partir de fotos y plano una primera ficha del proyecto, y desde entonces le acompaña una sola persona hasta la entrega.
+Piense en esa puerta cerrada del primer piso. Dentro de un año puede ser la habitación donde pasa sus mejores tardes. Llámenos o reserve su primera conversación: 30 minutos sin compromiso, por teléfono o por videollamada. Nos cuenta cómo quiere vivir los próximos años, y le damos una primera valoración sincera de lo que su casa puede hacer por usted. Si decide seguir, elaboramos a partir de fotos y plano una primera ficha del proyecto, y desde entonces le acompaña una sola persona hasta la entrega.
 
 **Lea también:** [Vivir sin barreras sin aspecto de residencia](/magazin/altersgerecht-wohnen-ohne-pflegeheim-optik/) · [Proyecto integral para la vivienda](/magazin/gesamtkonzept-wohnung-was-bedeutet-das/) · [La biblioteca en casa](/magazin/bibliothek-lesezimmer-zuhause/) · [El proyecto de materiales como hilo conductor](/magazin/materialkonzept-roter-faden-durch-alle-raeume/)

@@ -121,7 +121,7 @@ Chi riorganizza l'intera casa non dovrebbe considerare l'armadio da solo. Un [pr
 
 ### Un armadio su misura costa sempre più di uno modulare?
 
-Nella maggior parte dei casi sì, perché progetto, produzione e montaggio sono individuali. I sistemi di design di alta gamma possono però collocarsi in una fascia simile. Contano materiale, altezza, ante e allestimento interno, non solo il tipo di costruzione. Il confronto sullo spazio concreto, nel primo colloquio gratuito, toglie ogni dubbio.
+Nella maggior parte dei casi sì, perché progetto, produzione e montaggio sono individuali. I sistemi di design di alta gamma possono però collocarsi in una fascia simile. Contano materiale, altezza, ante e allestimento interno, non solo il tipo di costruzione. Il confronto sullo spazio concreto, nel primo colloquio toglie ogni dubbio.
 
 ### Un armadio a muro si può portare con sé in caso di trasloco?
 
@@ -145,6 +145,6 @@ Sì, è una soluzione frequente e sensata. Il sistema fornisce interni e ante pr
 
 ## Come si prosegue
 
-Tra qualche mese le Sue mattine possono essere diverse: un'unica parete, la luce che si accende all'apertura, la camicia giusta a portata di mano e nessuno spazio morto sopra la testa. Il primo passo è una chiamata, non un preventivo. Il primo colloquio serve a capire, non a decidere: gratuito, 30 minuti, per telefono o in video. Ci chiami o lo prenoti. Guardiamo insieme foto e planimetria e Le diciamo apertamente quale soluzione riteniamo sensata, anche quando è un sistema modulare. Poi riceve una scheda di progetto come base per i passi successivi, e da lì un solo interlocutore, dal rilievo al montaggio. Chi vuole conoscere il team che sta dietro a progetto e laboratorio lo trova nella pagina [Team](/team/).
+Tra qualche mese le Sue mattine possono essere diverse: un'unica parete, la luce che si accende all'apertura, la camicia giusta a portata di mano e nessuno spazio morto sopra la testa. Il primo passo è una chiamata, non un preventivo. Il primo colloquio serve a capire, non a decidere: 30 minuti, per telefono o in video. Ci chiami o lo prenoti. Guardiamo insieme foto e planimetria e Le diciamo apertamente quale soluzione riteniamo sensata, anche quando è un sistema modulare. Poi riceve una scheda di progetto come base per i passi successivi, e da lì un solo interlocutore, dal rilievo al montaggio. Chi vuole conoscere il team che sta dietro a progetto e laboratorio lo trova nella pagina [Team](/team/).
 
 **Da leggere:** [Progettare una cabina armadio](/magazin/begehbare-ankleide-planen-masse/) · [Progetto dei contenitori per tutta la casa](/magazin/stauraumkonzept-ganze-wohnung/) · [La camera da letto come spazio di quiete](/magazin/schlafzimmer-ruhe-planen/) · [Il legno vero negli interni](/magazin/echtholz-im-innenausbau-eiche-nuss/)

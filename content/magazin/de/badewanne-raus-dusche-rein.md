@@ -140,6 +140,6 @@ Ja. Eine Dusche belastet Boden und Wände deutlich stärker als eine Wanne, desh
 
 Der nasse Fuß auf dem Email, die Hand am Waschbecken, der klebende Vorhang: Das alles kann eines Morgens einfach vorbei sein. Sie gehen ins Bad, ohne nachzudenken, und das warme Wasser ist schon da.
 
-Dieser Schritt ist leichter als der über den Wannenrand: Rufen Sie uns an oder buchen Sie Ihr Erstgespräch. 30 Minuten per Telefon oder Video, kostenlos und ohne Verpflichtung. Wir sprechen über Ihren Alltag, sehen uns Fotos und Grundriss an und sagen Ihnen ehrlich, was in Ihrem Bad möglich ist. Danach erhalten Sie ein Projektblatt mit den nächsten Schritten.
+Dieser Schritt ist leichter als der über den Wannenrand: Rufen Sie uns an oder buchen Sie Ihr Erstgespräch. 30 Minuten per Telefon oder Video, ohne Verpflichtung. Wir sprechen über Ihren Alltag, sehen uns Fotos und Grundriss an und sagen Ihnen ehrlich, was in Ihrem Bad möglich ist. Danach erhalten Sie ein Projektblatt mit den nächsten Schritten.
 
 **Weiterlesen:** [Badezimmer renovieren in Wien](/magazin/badezimmer-renovieren-wien-leitfaden/) · [Bodengleiche Dusche planen](/magazin/bodengleiche-dusche-planen/) · [Wie lange dauert eine Badrenovierung?](/magazin/badrenovierung-dauer-zeitplan/) · [Waschtisch nach Maß](/magazin/waschtisch-nach-mass-stauraum/)

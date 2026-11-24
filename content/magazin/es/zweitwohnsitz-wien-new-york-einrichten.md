@@ -139,7 +139,7 @@ Un pied-à-terre es un piso urbano más pequeño y bien equipado que se habita c
 
 ### ¿A qué hay que prestar atención primero al amueblar una segunda residencia?
 
-Primero, a la vida cotidiana durante las estancias: cuánto tiempo, con qué frecuencia, a solas o con visitas, con o sin trabajo. De ahí se derivan el dormitorio, la cocina, el puesto de trabajo y el almacenaje. El estilo y los muebles vienen después y entonces son mucho más fáciles de decidir. En la primera conversación, de 30 minutos y gratuita, repasamos juntos su semana tipo.
+Primero, a la vida cotidiana durante las estancias: cuánto tiempo, con qué frecuencia, a solas o con visitas, con o sin trabajo. De ahí se derivan el dormitorio, la cocina, el puesto de trabajo y el almacenaje. El estilo y los muebles vienen después y entonces son mucho más fáciles de decidir. En la primera conversación, de 30 minutos y repasamos juntos su semana tipo.
 
 ### ¿Se puede planificar y reformar un piso en Viena desde Nueva York?
 
@@ -161,6 +161,6 @@ Para el alquiler de corta duración rigen en Viena y en Nueva York normas estric
 
 Vuelva a esa mañana, a las nueve, con el vuelo nocturno a la espalda. Esta vez la puerta se abre a un piso que ya le espera: ropa limpia en el armario, el té a mano, la luz como la recuerda.
 
-Llámenos o reserve la primera conversación: 30 minutos, gratuitos y sin compromiso, por videollamada, esté usted en Viena, en Nueva York o entre ambas. Nos cuenta con qué frecuencia estará allí y para qué, y le damos una valoración honesta; después recibe una ficha del proyecto como base. Un solo interlocutor del primer trazo a la entrega, y detrás de cada pieza nuestra propia carpintería, fundada en Viena en 1935. Encontrará ejemplos en las [referencias](/referenzen/), y podrá reservar cita en la página de [citas](/termin/).
+Llámenos o reserve la primera conversación: 30 minutos y sin compromiso, por videollamada, esté usted en Viena, en Nueva York o entre ambas. Nos cuenta con qué frecuencia estará allí y para qué, y le damos una valoración honesta; después recibe una ficha del proyecto como base. Un solo interlocutor del primer trazo a la entrega, y detrás de cada pieza nuestra propia carpintería, fundada en Viena en 1935. Encontrará ejemplos en las [referencias](/referenzen/), y podrá reservar cita en la página de [citas](/termin/).
 
 **Lea también:** [Proyecto global para la vivienda](/magazin/gesamtkonzept-wohnung-was-bedeutet-das/) · [Trabajar con un interiorista](/magazin/innenarchitekt-ablauf-zusammenarbeit/) · [Reformar un piso de Altbau en Viena](/magazin/altbauwohnung-wien-sanieren-gesamtkonzept/) · [Habitaciones que se sienten como un hogar](/magazin/boutique-hotel-zimmer-wie-zuhause/)

@@ -2,7 +2,7 @@
 slug: casa-dopo-partenza-figli-nuova-fase-di-vita
 source_slug: neue-lebensphase-kinder-ausgezogen
 title: La casa dopo la partenza dei figli: viverla di nuovo, in due, come desidera
-description: La casa dopo la partenza dei figli: dalle stanze vuote nasce spazio per Lei. Idee per studio, ospiti e riposo, e come iniziare. Colloquio gratuito.
+description: La casa dopo la partenza dei figli: dalle stanze vuote nasce spazio per Lei. Idee per studio, ospiti e riposo, e come iniziare. Colloquio.
 category: gesamtkonzept
 cta: gesamtkonzept
 keywords: casa dopo partenza dei figli, abitare dopo i 50 anni, ristrutturare per una nuova fase di vita
@@ -118,13 +118,13 @@ Sì, ma in modo discreto. Docce a filo pavimento, rinforzi nelle pareti per futu
 Con locali flessibili. Uno studio con un buon divano letto e un armadio a muro per la biancheria serve per gran parte dell'anno come locale di lavoro e all'occorrenza come camera per gli ospiti. Anche un tavolo da pranzo allungabile si adatta al numero delle persone.
 
 ### Conviene ristrutturare più che trasferirsi in un appartamento più piccolo?
-Dipende da posizione, stato della casa e legami personali. Un trasloco comporta costi di acquisto, vendita e trasferimento. Chi è radicato in casa e dintorni trova spesso nella ristrutturazione la soluzione più adatta. Se è ancora incerta o incerto, nel colloquio gratuito mettiamo a confronto le strade con onestà.
+Dipende da posizione, stato della casa e legami personali. Un trasloco comporta costi di acquisto, vendita e trasferimento. Chi è radicato in casa e dintorni trova spesso nella ristrutturazione la soluzione più adatta. Se è ancora incerta o incerto, nel colloquio mettiamo a confronto le strade con onestà.
 
 ### Si può restare in casa mentre si ristruttura?
 Con interventi più piccoli e per tappe è spesso possibile. Se bagno e cucina vengono rinnovati insieme, per alcune settimane è di norma più comodo trasferirsi altrove. Lo chiariamo nella pianificazione dello svolgimento, così sa fin dall'inizio che cosa La aspetta.
 
 ## Come si prosegue
 
-Torni a quella porta chiusa al piano di sopra. Fra qualche mese la apre su una stanza che è Sua: la poltrona, la libreria su misura, la luce del pomeriggio. I figli tornano a Natale e trovano posto per dormire, il tavolo basta per tutti, e Lei vive in tutta la casa, non più in metà. Il primo passo è una telefonata. Ci chiami o prenoti il primo colloquio: è gratuito, dura 30 minuti, non La impegna in nulla e si svolge per telefono o in video. Ci racconta come desidera vivere i prossimi anni, e Le diamo una prima valutazione sincera. Poi, da foto e planimetria, elaboriamo una prima scheda di progetto. Un solo interlocutore La accompagna dal primo tratto alla consegna.
+Torni a quella porta chiusa al piano di sopra. Fra qualche mese la apre su una stanza che è Sua: la poltrona, la libreria su misura, la luce del pomeriggio. I figli tornano a Natale e trovano posto per dormire, il tavolo basta per tutti, e Lei vive in tutta la casa, non più in metà. Il primo passo è una telefonata. Ci chiami o prenoti il primo colloquio: dura 30 minuti, non La impegna in nulla e si svolge per telefono o in video. Ci racconta come desidera vivere i prossimi anni, e Le diamo una prima valutazione sincera. Poi, da foto e planimetria, elaboriamo una prima scheda di progetto. Un solo interlocutore La accompagna dal primo tratto alla consegna.
 
 **Da leggere:** [Abitare a misura d'età senza aspetto da casa di cura](/magazin/altersgerecht-wohnen-ohne-pflegeheim-optik/) · [Progetto complessivo per l'appartamento](/magazin/gesamtkonzept-wohnung-was-bedeutet-das/) · [La biblioteca di casa](/magazin/bibliothek-lesezimmer-zuhause/) · [Il progetto dei materiali come filo conduttore](/magazin/materialkonzept-roter-faden-durch-alle-raeume/)

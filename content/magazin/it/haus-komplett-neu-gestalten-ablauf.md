@@ -2,7 +2,7 @@
 slug: ristrutturare-casa-completa-fasi-consegna
 source_slug: haus-komplett-neu-gestalten-ablauf
 title: Ridisegnare una casa da cima a fondo: dalla prima idea alla casa che Le somiglia
-description: Ridisegnare una casa da cima a fondo senza perdere il filo: sei fasi, dal primo colloquio gratuito alla consegna, con un solo referente vicino a Vienna.
+description: Ridisegnare una casa da cima a fondo senza perdere il filo: sei fasi, dal primo colloquio alla consegna, con un solo referente vicino a Vienna.
 category: gesamtkonzept
 cta: gesamtkonzept
 keywords: ridisegnare casa fasi, ristrutturazione completa interior design, modernizzare casa unifamiliare
@@ -27,7 +27,7 @@ Per la nostra coppia di Klosterneuburg significa: la casa viene ripensata dall'i
 
 ## Fase 1: la prima domanda e il primo colloquio
 
-All'inizio non c'è uno schizzo, ma una conversazione. Nel primo colloquio gratuito di 30 minuti, per telefono o in video, poniamo la domanda che regge ogni nostro progetto: come desidera vivere?
+All'inizio non c'è uno schizzo, ma una conversazione. Nel primo colloquio di 30 minuti, per telefono o in video, poniamo la domanda che regge ogni nostro progetto: come desidera vivere?
 
 La coppia racconta dei figli, di sei e nove anni, del desiderio di una grande cucina affacciata sul giardino, di due giorni di home office alla settimana e dei nonni che vengono spesso a trovarli. Racconta anche che cosa dà fastidio: la ressa nell'unico bagno, la cucina buia, la mancanza di collegamento con la terrazza.
 
@@ -134,6 +134,6 @@ Dalla prima domanda al trasloco, per una casa unifamiliare passa di solito circa
 
 ## Come si prosegue
 
-Torni a quella mattina: un solo bagno, due bambini, una cucina senza sole. Un anno dopo la stessa famiglia fa colazione davanti al giardino, con la porta della terrazza aperta. Il primo passo è breve: telefoni, oppure prenoti il primo colloquio, 30 minuti per telefono o in video, gratuiti e senza impegno. Ci racconti come desidera vivere: da foto e planimetria nasce una prima scheda di progetto, con un giudizio franco su ciò che è realistico. Dopo, la scelta è Sua. Se prosegue, avrà un solo interlocutore dal primo tratto di matita alla consegna.
+Torni a quella mattina: un solo bagno, due bambini, una cucina senza sole. Un anno dopo la stessa famiglia fa colazione davanti al giardino, con la porta della terrazza aperta. Il primo passo è breve: telefoni, oppure prenoti il primo colloquio, 30 minuti per telefono o in video, senza impegno. Ci racconti come desidera vivere: da foto e planimetria nasce una prima scheda di progetto, con un giudizio franco su ciò che è realistico. Dopo, la scelta è Sua. Se prosegue, avrà un solo interlocutore dal primo tratto di matita alla consegna.
 
 **Da leggere:** [Lavorare con un architetto d'interni](/magazin/innenarchitekt-ablauf-zusammenarbeit/) · [Pianificare una nuova cucina su misura](/magazin/neue-einbaukueche-planen-wien-leitfaden/) · [Smart home che non si vede](/magazin/smart-home-sinnvoll-unsichtbar/) · [Progetto di vita invece di arredamento](/magazin/lebenskonzept-statt-einrichtung/)

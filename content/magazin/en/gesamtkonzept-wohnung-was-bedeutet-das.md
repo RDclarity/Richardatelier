@@ -85,7 +85,7 @@ Finally, purchasing. If you plan kitchen, wardrobes, lighting and upholstered fu
 
 The order is always the same; the duration of each phase depends on the size of the apartment and the scope of the work.
 
-1. **Initial conversation:** A free 30-minute call by phone or video. We listen, ask questions and clarify whether we are a good match.
+1. **Initial conversation:** A 30-minute call by phone or video. We listen, ask questions and clarify whether we are a good match.
 2. **Project sheet:** You send us photos, a floor plan and your wish list. From these we draw up a first assessment of scope and budget range.
 3. **On-site survey:** Measuring, inspection of pipes, cables and building fabric, with a structural engineer or master builder where needed.
 4. **Concept:** Layout, zones, lighting idea and material palette. This is where the question of how you want to live is answered.
@@ -119,7 +119,7 @@ The second is a change of life stage: a child arrives, the children move out, so
 
 The third is the wish for calm. Many people only realise after years that their apartment feels restless even though every single piece is beautiful. Usually this comes down to too many materials and too little storage. A well-thought-out [storage concept for the whole apartment](/magazin/stauraumkonzept-ganze-wohnung/) and a clear material palette change that fundamentally. Bespoke [fitted wardrobes](/einbauschraenke/) and a [fitted kitchen](/einbaukuechen/) that suit the rest of the apartment are the most important tools here.
 
-Whichever applies to you, the first step costs nothing: a free 30-minute call by phone or video, with an honest first assessment and no obligation.
+Whichever applies to you, the first step costs nothing: a 30-minute call by phone or video, with an honest first assessment and no obligation.
 
 ## Frequently asked questions
 
@@ -127,10 +127,10 @@ Whichever applies to you, the first step costs nothing: a free 30-minute call by
 A whole-home concept plans all the rooms of an apartment as one connected whole: layout, zones, lighting, materials, built-ins, furnishings and the coordination of the tradespeople. The starting point is the question of how the residents want to live. The result is a home in which all the parts are tuned to one another, with one contact from first sketch to handover.
 
 ### Is a whole-home concept only for large apartments?
-No. In smaller apartments in particular, every square metre is valuable and wrong decisions weigh more heavily. There, a whole-home concept helps above all with storage, light and proportions, and the scope adapts to the size of the apartment. Not sure yours qualifies? The free first call will tell you.
+No. In smaller apartments in particular, every square metre is valuable and wrong decisions weigh more heavily. There, a whole-home concept helps above all with storage, light and proportions, and the scope adapts to the size of the apartment. Not sure yours qualifies? The personal first call will tell you.
 
 ### How much does a whole-home concept cost for an apartment in Vienna?
-There is no fixed price, because floor area and depth of intervention vary widely. The construction cost itself depends on whether the work is furnishing only or renovation as well, and it is itemised transparently as the project progresses. An honest first estimate comes in the free 30-minute initial call, without obligation.
+There is no fixed price, because floor area and depth of intervention vary widely. The construction cost itself depends on whether the work is furnishing only or renovation as well, and it is itemised transparently as the project progresses. An honest first estimate comes in the 30-minute initial call, without obligation.
 
 ### Can I carry out a whole-home concept in stages?
 Yes, that is possible and sometimes sensible. What matters is that the plan for the whole is in place first and the stages build on it. For example, the pipework for a later kitchen can be laid at the same time as the bathroom renovation. That way, nothing you do now has to be undone later.
@@ -143,7 +143,7 @@ Furnishing advice usually selects furniture and colours for existing rooms. A wh
 
 ## What happens next
 
-Go back to the hallway and the post on the floor. A few months from now it could be a bowl by the door, a light that comes on when you want it, and an apartment that greets you as one calm whole. To get there, call us or book the initial conversation: 30 minutes by phone or video, free, without obligation, ending with an honest first assessment of whether a whole-home concept suits your apartment.
+Go back to the hallway and the post on the floor. A few months from now it could be a bowl by the door, a light that comes on when you want it, and an apartment that greets you as one calm whole. To get there, call us or book the initial conversation: 30 minutes by phone or video, without obligation, ending with an honest first assessment of whether a whole-home concept suits your apartment.
 
 After the call you send us photos and a floor plan, and we prepare your first project sheet. Then we measure on site, and one person guides you from the first line to the day we hand over the keys. Call us or book the conversation, and let us find out together how you want to live.
 

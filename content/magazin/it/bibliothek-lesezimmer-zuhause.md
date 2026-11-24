@@ -145,6 +145,6 @@ Gli scaffali pieni diffondono e assorbono il suono, perché i dorsi dei libri so
 
 Sono le nove di sera. Nel cerchio di luce calda c'è la Sua poltrona, accanto alla finestra, con i libri alle spalle e un'ora davanti che non ha fretta. Così può finire ogni Sua giornata, e comincia con una telefonata.
 
-Ci chiami oppure prenoti il colloquio iniziale: è gratuito, dura 30 minuti, è senza impegno e si svolge per telefono o in video. Parliamo dei Suoi libri, del Suo spazio e del posto in cui preferirebbe leggere, e Le diamo una prima valutazione onesta. Riceverà poi una scheda di progetto con le prime misure e idee. Chi vuole conoscere in anticipo progettisti e laboratorio li trova nella pagina [Team](/team/).
+Ci chiami oppure prenoti il colloquio iniziale: dura 30 minuti, è senza impegno e si svolge per telefono o in video. Parliamo dei Suoi libri, del Suo spazio e del posto in cui preferirebbe leggere, e Le diamo una prima valutazione onesta. Riceverà poi una scheda di progetto con le prime misure e idee. Chi vuole conoscere in anticipo progettisti e laboratorio li trova nella pagina [Team](/team/).
 
 **Da leggere:** [Arredare il soggiorno senza parete TV](/magazin/wohnzimmer-einrichten-ohne-fernseherwand/) · [Il legno vero negli interni](/magazin/echtholz-im-innenausbau-eiche-nuss/) · [Acustica nello spazio abitativo aperto](/magazin/akustik-im-offenen-wohnraum/) · [Progetto dei contenitori per tutta la casa](/magazin/stauraumkonzept-ganze-wohnung/)

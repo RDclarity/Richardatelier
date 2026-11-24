@@ -114,7 +114,7 @@ Sehr gut, wenn sie auf den Raum reagiert. Fugen und Hochschränke nehmen Fenster
 
 ### Wovon hängen die Kosten einer architektonischen Küche ab?
 
-Vor allem von Größe, Materialien, Geräten, Arbeitsplatte und dem Aufwand für Anpassungen am Raum. Hinzu kommen Leitungen, Abluft, Elektro, Boden und Licht, die nicht im Küchenpreis stecken. Eine ehrliche erste Einschätzung bekommen Sie kostenlos im Erstgespräch.
+Vor allem von Größe, Materialien, Geräten, Arbeitsplatte und dem Aufwand für Anpassungen am Raum. Hinzu kommen Leitungen, Abluft, Elektro, Boden und Licht, die nicht im Küchenpreis stecken. Eine ehrliche erste Einschätzung bekommen Sie im Erstgespräch.
 
 ### Kann man eine Systemküche mit Tischlerarbeiten kombinieren?
 
@@ -128,6 +128,6 @@ Von der ersten Planung bis zur Montage vergehen meist mehrere Monate. Planung, B
 
 Erinnern Sie sich an den Abend im Salon, an die Küche hinter der Tür? Stellen Sie sich den nächsten vor: Es duftet nach Rosmarin, die Fronten liegen dunkel und ruhig im Licht, und Sie stehen am Block, mitten unter Ihren Gästen. Beim letzten Glas sinkt die Küche ins Halbdunkel, und der Salon bleibt ein Salon.
 
-Rufen Sie uns an oder buchen Sie Ihr Erstgespräch: eine halbe Stunde, kostenlos und unverbindlich, ganz wie Sie möchten am Telefon oder per Video. Wir sprechen über Ihre Gewohnheiten beim Kochen und Wohnen und über die Rolle, die die Küche spielen soll, und sagen Ihnen offen, was wir sehen. Mit Fotos und Grundriss von Ihnen entsteht danach ein Projektblatt. Beispiele aus unserer Arbeit finden Sie unter [Referenzen](/referenzen/).
+Rufen Sie uns an oder buchen Sie Ihr Erstgespräch: eine halbe Stunde, unverbindlich, ganz wie Sie möchten am Telefon oder per Video. Wir sprechen über Ihre Gewohnheiten beim Kochen und Wohnen und über die Rolle, die die Küche spielen soll, und sagen Ihnen offen, was wir sehen. Mit Fotos und Grundriss von Ihnen entsteht danach ein Projektblatt. Beispiele aus unserer Arbeit finden Sie unter [Referenzen](/referenzen/).
 
 **Weiterlesen:** [Neue Einbauküche planen in Wien](/magazin/neue-einbaukueche-planen-wien-leitfaden/) · [Kochinsel planen](/magazin/kochinsel-planen-masse-abstaende/) · [Küche vom Tischler oder Markenküche?](/magazin/kueche-aus-tischlerhand-vs-markenkueche/) · [Fehler bei der Küchenplanung vermeiden](/magazin/kuechenplanung-fehler-vermeiden/)

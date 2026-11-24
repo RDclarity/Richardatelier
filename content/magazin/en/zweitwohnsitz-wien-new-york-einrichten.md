@@ -171,7 +171,7 @@ Strict rules apply to short-term letting in both Vienna and New York, and they h
 
 ## What happens next
 
-Go back to the taxi, the suitcase, the key in the lock. Now imagine that the door opens onto warm rooms and your own things in their places. Call us, or book the free initial consultation: 30 minutes by video or phone, without obligation, wherever you are, Vienna, New York or somewhere in between. You tell us about your rhythm and how you want to live, and we give you an honest first assessment.
+Go back to the taxi, the suitcase, the key in the lock. Now imagine that the door opens onto warm rooms and your own things in their places. Call us, or book the initial consultation: 30 minutes by video or phone, without obligation, wherever you are, Vienna, New York or somewhere in between. You tell us about your rhythm and how you want to live, and we give you an honest first assessment.
 
 Afterwards you receive a project sheet built from your photos and floor plan. One contact stays with you from the first stroke of the pencil to handover, so that your next flight ends in a home. You can find examples of our work in the [references](/referenzen/), and you can choose a time directly on the [appointment](/termin/) page. Call us, and let your next arrival be the first one that feels like coming home.
 

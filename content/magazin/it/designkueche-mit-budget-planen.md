@@ -132,7 +132,7 @@ Cominci dalla vita quotidiana: chi cucina, quanto spesso, che cosa disturba oggi
 
 ### Da che cosa dipendono i costi di una cucina su misura?
 
-Soprattutto da dimensioni e forma, ante e piano di lavoro, interno, elettrodomestici e quota di realizzazioni speciali. Si aggiungono impianto elettrico, installazione, aspirazione e montaggio. Una stima vincolante è possibile solo quando spazio e desideri sono noti. Nel primo colloquio gratuito ne ha un'idea realistica.
+Soprattutto da dimensioni e forma, ante e piano di lavoro, interno, elettrodomestici e quota di realizzazioni speciali. Si aggiungono impianto elettrico, installazione, aspirazione e montaggio. Una stima vincolante è possibile solo quando spazio e desideri sono noti. Nel primo colloquio ne ha un'idea realistica.
 
 ### Una cucina si può valorizzare in seguito?
 
@@ -140,6 +140,6 @@ In parte. Maniglie, suddivisioni dei cassetti, accessori e singoli elettrodomest
 
 ## Come si prosegue
 
-Torni alle 7:10: il portamerenda trova il suo posto, il cassetto scorre in silenzio, il caffè è pronto, e la cucina è quella che aveva immaginato. Ci si arriva decidendo bene, non spendendo di più. Chiami Richard Atelier o prenoti il primo colloquio: è gratuito, dura 30 minuti, si svolge al telefono o in video e non La impegna a nulla. Ascoltiamo come desidera vivere, guardiamo spazio e vita quotidiana e Le diamo una prima valutazione sincera su dove il Suo budget lavora meglio; una stima vincolante è possibile quando spazio e desideri sono noti. Lo fissiamo poi in una scheda di progetto con foto e planimetria, e un unico referente La accompagna dal primo tratto alla consegna. Come progettiamo le [cucine su misura](/einbaukuechen/) e come può apparire il risultato lo mostrano anche i nostri [progetti realizzati](/referenzen/).
+Torni alle 7:10: il portamerenda trova il suo posto, il cassetto scorre in silenzio, il caffè è pronto, e la cucina è quella che aveva immaginato. Ci si arriva decidendo bene, non spendendo di più. Chiami Richard Atelier o prenoti il primo colloquio: dura 30 minuti, si svolge al telefono o in video e non La impegna a nulla. Ascoltiamo come desidera vivere, guardiamo spazio e vita quotidiana e Le diamo una prima valutazione sincera su dove il Suo budget lavora meglio; una stima vincolante è possibile quando spazio e desideri sono noti. Lo fissiamo poi in una scheda di progetto con foto e planimetria, e un unico referente La accompagna dal primo tratto alla consegna. Come progettiamo le [cucine su misura](/einbaukuechen/) e come può apparire il risultato lo mostrano anche i nostri [progetti realizzati](/referenzen/).
 
 **Da leggere:** [Quanto costa una cucina su misura a Vienna?](/magazin/was-kostet-eine-einbaukueche-wien/) · [Progettare una nuova cucina su misura](/magazin/neue-einbaukueche-planen-wien-leitfaden/) · [Pensare in grande la cucina piccola](/magazin/kleine-kueche-gross-denken/) · [Quando la famiglia cresce](/magazin/familie-waechst-wohnung-mitwachsen/)

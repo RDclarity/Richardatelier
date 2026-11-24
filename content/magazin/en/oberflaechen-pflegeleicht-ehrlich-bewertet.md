@@ -140,6 +140,6 @@ By the fact that it is either very resistant or can be repaired. Surfaces that a
 
 Go back to the high-gloss front and the third wipe of the week. In five years your kitchen could look the way it did on day one, or better, with a patina you chose rather than a wear you suffered.
 
-Which surfaces suit your life is best clarified in your life. Phone us or book the initial consultation: it is free, lasts 30 minutes, commits you to nothing and is held by phone or video. We talk about your rooms, your habits and your experience with existing materials, and give you an honest first assessment. Afterwards you receive a project sheet with photos and a floor plan, on which we continue planning together.
+Which surfaces suit your life is best clarified in your life. Phone us or book the initial consultation: it lasts 30 minutes, commits you to nothing and is held by phone or video. We talk about your rooms, your habits and your experience with existing materials, and give you an honest first assessment. Afterwards you receive a project sheet with photos and a floor plan, on which we continue planning together.
 
 **Read next:** [Dekton explained](/magazin/dekton-was-ist-das/) · [Veneer or solid wood?](/magazin/furnier-vs-massivholz-ehrlich/) · [Kitchen fronts compared](/magazin/kuechenfronten-lack-furnier-massivholz/) · [Sustainable means long-lasting](/magazin/nachhaltige-materialien-langlebigkeit/)

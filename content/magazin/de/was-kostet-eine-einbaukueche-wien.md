@@ -115,7 +115,7 @@ Für Familie K. wäre am Ende nicht der Preis die wichtigste Erkenntnis, sondern
 
 ### Was kostet eine Einbauküche nach Maß in Wien?
 
-Eine Einbauküche nach Maß hat in Wien keinen Festpreis, aufwendige Küchen mit Insel, Keramikplatten und umfangreicher Geräteausstattung sind deutlich teurer als schlichte. Der konkrete Preis hängt von Größe, Fronten, Arbeitsplatte, Geräten und Sonderlösungen ab. Ein belastbarer Wert entsteht erst nach Aufmaß und Planung. Eine ehrliche erste Einschätzung bekommen Sie kostenlos im Erstgespräch.
+Eine Einbauküche nach Maß hat in Wien keinen Festpreis, aufwendige Küchen mit Insel, Keramikplatten und umfangreicher Geräteausstattung sind deutlich teurer als schlichte. Der konkrete Preis hängt von Größe, Fronten, Arbeitsplatte, Geräten und Sonderlösungen ab. Ein belastbarer Wert entsteht erst nach Aufmaß und Planung. Eine ehrliche erste Einschätzung bekommen Sie im Erstgespräch.
 
 ### Warum unterscheiden sich Küchenangebote so stark?
 

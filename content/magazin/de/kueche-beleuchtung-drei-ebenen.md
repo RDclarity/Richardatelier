@@ -137,6 +137,6 @@ So wenige wie möglich, so viele wie nötig. Bewährt haben sich drei bis vier L
 
 Der Schatten auf dem Schneidbrett, das Bürolicht beim Wein: Beides darf bald Geschichte sein. Stellen Sie sich den nächsten Donnerstag im November in Ihrer Küche vor. Sie kochen in klarem Licht, und wenn die Teller auf dem Tisch stehen, tippen Sie einmal auf den Taster und der Raum atmet aus.
 
-Licht wirkt am besten, wenn es gemeinsam mit Grundriss, Möbeln und Materialien geplant wird. Rufen Sie uns an oder buchen Sie Ihr Erstgespräch. Dafür reservieren wir 30 Minuten, telefonisch oder per Video, kostenlos und unverbindlich. Wir schauen uns Ihre Küche anhand von Fotos und Grundriss an und sagen Ihnen ehrlich, welche Lichtebenen Sie wirklich brauchen. Beispiele unserer Arbeit finden Sie in den [Referenzen](/referenzen/).
+Licht wirkt am besten, wenn es gemeinsam mit Grundriss, Möbeln und Materialien geplant wird. Rufen Sie uns an oder buchen Sie Ihr Erstgespräch. Dafür reservieren wir 30 Minuten, telefonisch oder per Video, unverbindlich. Wir schauen uns Ihre Küche anhand von Fotos und Grundriss an und sagen Ihnen ehrlich, welche Lichtebenen Sie wirklich brauchen. Beispiele unserer Arbeit finden Sie in den [Referenzen](/referenzen/).
 
 **Weiterlesen:** [Lichtplanung für die Wohnung](/magazin/lichtplanung-wohnung-grundlagen/) · [Kochinsel planen](/magazin/kochinsel-planen-masse-abstaende/) · [Küche und Esszimmer als ein Raum](/magazin/kueche-und-esszimmer-ein-raum/) · [Offene Wohnküche](/magazin/offene-wohnkueche-wand-entfernen/)

@@ -115,7 +115,7 @@ Auch Tempo ist ein Kostenfaktor. Ein realistischer Zeitplan mit genügend Vorlau
 
 ### Was kostet ein Innenarchitekt in Wien?
 
-Das Honorar hängt vom Planungsaufwand, der Eingriffstiefe und der Anzahl der Gewerke ab. Es wird vorab schriftlich vereinbart. Eine ehrliche erste Einschätzung bekommen Sie im kostenlosen Erstgespräch, ohne dass Sie sich damit zu etwas verpflichten.
+Das Honorar hängt vom Planungsaufwand, der Eingriffstiefe und der Anzahl der Gewerke ab. Es wird vorab schriftlich vereinbart. Eine ehrliche erste Einschätzung bekommen Sie im Erstgespräch, ohne dass Sie sich damit zu etwas verpflichten.
 
 ### Gibt es einen Preis pro Quadratmeter für ein Gesamtkonzept?
 
@@ -141,6 +141,6 @@ Eine erste Einschätzung ist nach der Bestandsaufnahme möglich. Belastbar wird 
 
 Der Zettel vom Esstisch ist ein guter Anfang, mehr brauchen Sie nicht. Eines Abends sitzen Sie vielleicht wieder dort, in einer Küche, die zum Bad passt, die Rechnung ist abgeschlossen und die Reserve nicht verbraucht. Und Sie erinnern sich kaum noch daran, was Sie damals ins Telefon getippt haben.
 
-Nehmen Sie den Zettel und rufen Sie uns an, oder buchen Sie einen Termin: 30 Minuten, kostenlos und unverbindlich, am Telefon oder per Video. Wir sprechen über Umfang, Prioritäten und eine realistische Größenordnung und sagen Ihnen ehrlich, ob Ihr Vorhaben zum Rahmen passt. Danach fassen wir alles in einem Projektblatt zusammen, auf dessen Basis Sie in Ruhe entscheiden.
+Nehmen Sie den Zettel und rufen Sie uns an, oder buchen Sie einen Termin: 30 Minuten, unverbindlich, am Telefon oder per Video. Wir sprechen über Umfang, Prioritäten und eine realistische Größenordnung und sagen Ihnen ehrlich, ob Ihr Vorhaben zum Rahmen passt. Danach fassen wir alles in einem Projektblatt zusammen, auf dessen Basis Sie in Ruhe entscheiden.
 
 **Weiterlesen:** [Gesamtkonzept für die Wohnung](/magazin/gesamtkonzept-wohnung-was-bedeutet-das/), [Was kostet eine Einbauküche in Wien?](/magazin/was-kostet-eine-einbaukueche-wien/), [Was kostet eine Badrenovierung in Wien?](/magazin/was-kostet-eine-badrenovierung-wien/), [Das Erstgespräch vorbereiten](/magazin/erstgespraech-vorbereiten-fragen/)

@@ -161,7 +161,7 @@ Often, yes. A well-preserved herringbone parquet can be sanded, repaired and re-
 
 ## What happens next
 
-Go back to the laundry basket and the brass strip in the doorway. Imagine carrying it across one calm floor, from bedroom to kitchen, without noticing a single edge. Call us, or book the free initial consultation: 30 minutes, by phone or video, without obligation, with an honest first assessment of what can stay in your apartment and where a new floor will change everything.
+Go back to the laundry basket and the brass strip in the doorway. Imagine carrying it across one calm floor, from bedroom to kitchen, without noticing a single edge. Call us, or book the initial consultation: 30 minutes, by phone or video, without obligation, with an honest first assessment of what can stay in your apartment and where a new floor will change everything.
 
 Afterwards you receive a project sheet with photos and floor plan, and one contact guides you from the first stroke of the pencil to handover. We show completed floors and transitions in the [references](/referenzen/). Call us, and let your next step be the one you do not notice.
 

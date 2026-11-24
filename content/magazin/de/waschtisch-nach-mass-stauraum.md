@@ -151,6 +151,6 @@ Eine Wandarmatur hält die Platte frei und erleichtert die Reinigung erheblich. 
 
 Viertel vor sieben, zwei Zahnbürsten, wie immer. Diesmal reden Sie beim Putzen miteinander, statt einander auszuweichen. Die Lade läuft leise, der Föhn liegt eingesteckt an seinem Platz, und die Eiche unter Ihren Fingern ist noch vom Vorabend trocken und warm. Der Tag hat gut angefangen, bevor er richtig begonnen hat.
 
-Erzählen Sie uns von Ihrem Morgen. Rufen Sie uns an, oder reservieren Sie sich online das Erstgespräch: 30 Minuten per Telefon oder Video, kostenlos, unverbindlich. Auf Basis von Fotos und Grundriss bekommen Sie eine ehrliche erste Einschätzung, was in Ihrem Raum möglich ist. Danach erhalten Sie ein Projektblatt mit den nächsten Schritten, und erst dann entscheiden Sie, ob wir weitermachen.
+Erzählen Sie uns von Ihrem Morgen. Rufen Sie uns an, oder reservieren Sie sich online das Erstgespräch: 30 Minuten per Telefon oder Video, unverbindlich. Auf Basis von Fotos und Grundriss bekommen Sie eine ehrliche erste Einschätzung, was in Ihrem Raum möglich ist. Danach erhalten Sie ein Projektblatt mit den nächsten Schritten, und erst dann entscheiden Sie, ob wir weitermachen.
 
 **Weiterlesen:** [Badezimmer renovieren in Wien](/magazin/badezimmer-renovieren-wien-leitfaden/) · [Echtholz im Innenausbau](/magazin/echtholz-im-innenausbau-eiche-nuss/) · [Dekton erklärt](/magazin/dekton-was-ist-das/) · [Großformatige Keramik im Bad](/magazin/grossformatige-fliesen-bad-fugen/)

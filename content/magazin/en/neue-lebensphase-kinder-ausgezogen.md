@@ -127,7 +127,7 @@ With smaller interventions and in stages, that is often possible. When bathroom 
 
 ## What happens next
 
-Remember Mrs K. at the door of the empty room. If your house, too, has rooms that nobody needs any more, call us or book the free initial call. It lasts 30 minutes, costs nothing, commits you to nothing and takes place by phone or video. You tell us how you want to live over the coming years, and we give you an honest first assessment of what your house can become.
+Remember Mrs K. at the door of the empty room. If your house, too, has rooms that nobody needs any more, call us or book the initial call. It lasts 30 minutes, costs nothing, commits you to nothing and takes place by phone or video. You tell us how you want to live over the coming years, and we give you an honest first assessment of what your house can become.
 
 Afterwards you send us photos and a floor plan, and we draw up a first project sheet. Soon the door you used to walk past can open onto a room that is yours.
 

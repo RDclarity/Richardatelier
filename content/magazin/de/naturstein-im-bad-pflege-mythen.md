@@ -143,6 +143,6 @@ Polierter Naturstein wird im nassen Zustand rutschig und eignet sich daher nicht
 
 Vergessen Sie das Bild aus dem Hotel nicht. Der helle Marmor, das schräge Licht, Ihre Hand auf der Äderung: Das kann Ihr Morgen sein, wenn der Stein richtig ausgesucht ist. Wie möchten Sie leben, mit welchem Stein unter den Füßen und mit wie viel Patina? Diese Antwort kennen nur Sie.
 
-Suchen Sie das Foto aus dem Hotel heraus, falls Sie eines haben, und rufen Sie an oder buchen Sie einen Termin. In 30 Minuten, kostenlos und unverbindlich, per Telefon oder Video, klären wir, welcher Stein für welche Fläche passt, und geben Ihnen eine ehrliche erste Einschätzung, auch wenn sie gegen den Marmor ausfällt. Was daraus folgt, lesen Sie danach in Ihrem Projektblatt.
+Suchen Sie das Foto aus dem Hotel heraus, falls Sie eines haben, und rufen Sie an oder buchen Sie einen Termin. In 30 Minuten, unverbindlich, per Telefon oder Video, klären wir, welcher Stein für welche Fläche passt, und geben Ihnen eine ehrliche erste Einschätzung, auch wenn sie gegen den Marmor ausfällt. Was daraus folgt, lesen Sie danach in Ihrem Projektblatt.
 
 **Weiterlesen:** [Badezimmer renovieren in Wien](/magazin/badezimmer-renovieren-wien-leitfaden/) · [Terrazzo für Boden und Waschtisch](/magazin/terrazzo-comeback-boden-waschtisch/) · [Echtholz im Innenausbau](/magazin/echtholz-im-innenausbau-eiche-nuss/) · [Nachhaltig heißt langlebig](/magazin/nachhaltige-materialien-langlebigkeit/)

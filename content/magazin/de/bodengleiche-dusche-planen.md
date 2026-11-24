@@ -136,6 +136,6 @@ Wasser dringt unbemerkt in Estrich, Wände oder Decke ein und zeigt sich oft ers
 
 Morgen früh hebt sich Ihr Fuß wieder über die Kante, die Falttür schrammt. Vielleicht ist das bald vorbei, und Sie gehen barfuß über einen Boden, der einfach weiterläuft. Ob das in Ihrem Bad geht, lässt sich mit Grundriss, Fotos und Bodenaufbau oft gut einschätzen.
 
-Rufen Sie an, bevor die Fliesen bestellt sind, oder buchen Sie das Erstgespräch: 30 kostenlose, unverbindliche Minuten am Telefon oder per Video, mit einer ehrlichen ersten Einschätzung. Danach wissen Sie, welche Schritte folgen, zuerst ein Projektblatt aus Ihren Fotos und Ihrem Grundriss. Mehr über unsere Arbeit finden Sie auf den Seiten [Badrenovierung](/badrenovierung/) und [Badezimmer](/badezimmer/).
+Rufen Sie an, bevor die Fliesen bestellt sind, oder buchen Sie das Erstgespräch: 30 unverbindliche Minuten am Telefon oder per Video, mit einer ehrlichen ersten Einschätzung. Danach wissen Sie, welche Schritte folgen, zuerst ein Projektblatt aus Ihren Fotos und Ihrem Grundriss. Mehr über unsere Arbeit finden Sie auf den Seiten [Badrenovierung](/badrenovierung/) und [Badezimmer](/badezimmer/).
 
 **Weiterlesen:** [Badewanne raus, Dusche rein](/magazin/badewanne-raus-dusche-rein/) · [Badezimmer renovieren in Wien](/magazin/badezimmer-renovieren-wien-leitfaden/) · [Barrierefreies Bad mit Designanspruch](/magazin/bad-altersgerecht-barrierefrei-design/) · [Altersgerecht wohnen ohne Pflegeheim-Optik](/magazin/altersgerecht-wohnen-ohne-pflegeheim-optik/)

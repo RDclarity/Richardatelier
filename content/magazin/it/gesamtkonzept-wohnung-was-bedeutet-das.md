@@ -81,7 +81,7 @@ Infine gli acquisti. Chi progetta insieme cucina, armadi, lampade e imbottiti ra
 
 Un progetto complessivo segue un percorso chiaro. La durata delle singole fasi dipende dalle dimensioni dell'appartamento e dall'entità dei lavori, ma la sequenza resta la stessa.
 
-1. **Primo colloquio:** una conversazione gratuita di 30 minuti, per telefono o in video. Ascoltiamo, facciamo domande e verifichiamo se siamo adatti l'uno all'altro.
+1. **Primo colloquio:** una conversazione di 30 minuti, per telefono o in video. Ascoltiamo, facciamo domande e verifichiamo se siamo adatti l'uno all'altro.
 2. **Scheda di progetto:** ci invia foto, planimetria e lista dei desideri. Da qui nasce una prima valutazione di portata dei lavori e budget di massima.
 3. **Sopralluogo e rilievo:** misure, verifica di impianti e struttura, se necessario con strutturista o impresa edile.
 4. **Concept:** planimetria, zone, idea di luce e tavolozza dei materiali. È qui che si risponde alla domanda su come desidera vivere.
@@ -122,7 +122,7 @@ Un progetto complessivo pianifica tutti gli ambienti di un appartamento come un 
 No. Proprio negli appartamenti piccoli ogni metro quadrato è prezioso e le scelte sbagliate pesano di più. Qui un progetto complessivo aiuta soprattutto con spazio contenitivo, luce e proporzioni. L'ampiezza della progettazione si adatta alle dimensioni dell'appartamento.
 
 ### Quanto costa un progetto complessivo per un appartamento a Vienna?
-Un prezzo fisso non esiste, perché superficie e profondità dell'intervento variano molto. Il compenso di interior design dipende da superficie, profondità dell'intervento e quota di arredi su misura, mentre l'importo dei lavori dal fatto che si tratti solo di arredare o anche di ristrutturare. Una stima affidabile arriva già nel primo colloquio gratuito di 30 minuti, e le voci vengono dettagliate in modo trasparente nel corso del progetto: non decide nulla a scatola chiusa.
+Un prezzo fisso non esiste, perché superficie e profondità dell'intervento variano molto. Il compenso di interior design dipende da superficie, profondità dell'intervento e quota di arredi su misura, mentre l'importo dei lavori dal fatto che si tratti solo di arredare o anche di ristrutturare. Una stima affidabile arriva già nel primo colloquio di 30 minuti, e le voci vengono dettagliate in modo trasparente nel corso del progetto: non decide nulla a scatola chiusa.
 
 ### Posso realizzare un progetto complessivo anche per tappe?
 Sì, è possibile e a volte sensato. L'essenziale è che il piano per l'insieme esista per primo e che le tappe si basino su di esso. In questo modo, per esempio, gli impianti per una cucina futura vengono posati già durante la ristrutturazione del bagno. Procede così al ritmo del Suo budget.
@@ -135,6 +135,6 @@ Una consulenza d'arredo sceglie per lo più mobili e colori per ambienti esisten
 
 ## Come si prosegue
 
-Sono le sei e quaranta, le chiavi sono dove le mani le cercano e il caffè profuma già in cucina: è la mattina che una casa pensata d'un fiato Le restituisce, giorno dopo giorno. Il primo passo è una telefonata. Ci chiami oppure prenoti il primo colloquio: 30 minuti gratuiti e senza impegno, per telefono o in video. Ascoltiamo come desidera vivere e Le diamo una prima valutazione onesta, anche quando la risposta è che un progetto complessivo non Le serve. Se vuole proseguire, ci invia foto e planimetria e ne ricaviamo la scheda di progetto con una prima idea di lavori e budget. Poi un solo interlocutore, dal primo tratto di matita alla consegna. Lasci che sia la casa a seguire la Sua vita, e non il contrario.
+Sono le sei e quaranta, le chiavi sono dove le mani le cercano e il caffè profuma già in cucina: è la mattina che una casa pensata d'un fiato Le restituisce, giorno dopo giorno. Il primo passo è una telefonata. Ci chiami oppure prenoti il primo colloquio: 30 minuti senza impegno, per telefono o in video. Ascoltiamo come desidera vivere e Le diamo una prima valutazione onesta, anche quando la risposta è che un progetto complessivo non Le serve. Se vuole proseguire, ci invia foto e planimetria e ne ricaviamo la scheda di progetto con una prima idea di lavori e budget. Poi un solo interlocutore, dal primo tratto di matita alla consegna. Lasci che sia la casa a seguire la Sua vita, e non il contrario.
 
 **Da leggere:** [Progetto di vita invece di arredamento](/magazin/lebenskonzept-statt-einrichtung/) · [Il progetto dei materiali come filo conduttore](/magazin/materialkonzept-roter-faden-durch-alle-raeume/) · [Lavorare con un architetto d'interni](/magazin/innenarchitekt-ablauf-zusammenarbeit/) · [Preparare il primo colloquio](/magazin/erstgespraech-vorbereiten-fragen/)

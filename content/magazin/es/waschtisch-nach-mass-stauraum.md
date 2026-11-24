@@ -150,6 +150,6 @@ Un grifo de pared deja libre la placa y facilita mucho la limpieza. Pero debe pl
 
 ## Cómo continuar
 
-Vuelva a las 6:50. Esta vez cada uno tiene su seno y su cajón, el secador está a un gesto y nadie se aparta. Esa mañana empieza con una llamada. Llámenos o reserve el primer encuentro en línea: son 30 minutos gratuitos y sin compromiso, por teléfono o por videollamada. Hablamos de su rutina de la mañana, de su espacio y de sus deseos, y a partir de fotos y de la planta le damos una primera valoración sincera de lo que es posible. Después recibirá una ficha de proyecto con los siguientes pasos.
+Vuelva a las 6:50. Esta vez cada uno tiene su seno y su cajón, el secador está a un gesto y nadie se aparta. Esa mañana empieza con una llamada. Llámenos o reserve el primer encuentro en línea: son 30 minutos sin compromiso, por teléfono o por videollamada. Hablamos de su rutina de la mañana, de su espacio y de sus deseos, y a partir de fotos y de la planta le damos una primera valoración sincera de lo que es posible. Después recibirá una ficha de proyecto con los siguientes pasos.
 
 **Lea también:** [Reformar el cuarto de baño en Viena](/magazin/badezimmer-renovieren-wien-leitfaden/) · [Madera maciza en el interiorismo](/magazin/echtholz-im-innenausbau-eiche-nuss/) · [Dekton explicado](/magazin/dekton-was-ist-das/) · [Cerámica de gran formato en el baño](/magazin/grossformatige-fliesen-bad-fugen/)

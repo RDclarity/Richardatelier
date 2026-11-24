@@ -25,7 +25,7 @@ Manufacturers have developed this principle considerably in recent years. There 
 
 > A hood hangs in the room. A downdraft extractor belongs to the worktop. That changes how an open kitchen feels.
 
-For the design, this means the airspace above the island is free. Pendant lights can hang where they are right for the lighting, not where the hood leaves room for them. For more on planning the light over an island in layers, read our article on [kitchen lighting on three levels](/magazin/kueche-beleuchtung-drei-ebenen/). But who really benefits from a downdraft extractor?
+For the design, this means the airspace above the island is without obligation. Pendant lights can hang where they are right for the lighting, not where the hood leaves room for them. For more on planning the light over an island in layers, read our article on [kitchen lighting on three levels](/magazin/kueche-beleuchtung-drei-ebenen/). But who really benefits from a downdraft extractor?
 
 Imagine it finished. The pendants hang low over the island, where the light is right. You cook in the middle of the room, guests opposite, the windows behind them, and the steam is gone before it reaches the room. No niche, no hood, just the worktop and the people around it.
 
@@ -137,7 +137,7 @@ With ducted extraction, yes, because the appliance must not create dangerous neg
 
 ## What happens next
 
-Back to the hob and the steel hood between you and your guests. In your own kitchen it could be an island with nothing above it, pendants hung exactly where the light is right, and conversation carrying across the worktop. Whether a hob with an integrated extractor suits you depends on your floor plan, your building services and how you cook. Call us or book the initial conversation: 30 minutes by phone or video, free, without obligation. Photographs and a floor plan are enough for an honest first assessment.
+Back to the hob and the steel hood between you and your guests. In your own kitchen it could be an island with nothing above it, pendants hung exactly where the light is right, and conversation carrying across the worktop. Whether a hob with an integrated extractor suits you depends on your floor plan, your building services and how you cook. Call us or book the initial conversation: 30 minutes by phone or video, without obligation. Photographs and a floor plan are enough for an honest first assessment.
 
 Afterwards you receive a project sheet with the next steps, and one person accompanies you from the first sketch to the day your kitchen is installed. You will find examples of our kitchens among our [references](/referenzen/).
 

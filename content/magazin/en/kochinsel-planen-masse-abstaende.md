@@ -141,7 +141,7 @@ As a guide, the lower edge hangs about 65 to 80 centimetres above the worktop. I
 
 ## What happens next
 
-Back to the dishwasher and the pan that had to wait. A few months from now you could stand at your own island with a glass in hand while two others pass behind you, and nobody has to move. Whether an island makes sense in your kitchen can usually be judged quickly from a floor plan and a few dimensions. Call us or book the initial conversation: 30 minutes by phone or video, free, without obligation, with an honest first assessment of your room, connections and habits.
+Back to the dishwasher and the pan that had to wait. A few months from now you could stand at your own island with a glass in hand while two others pass behind you, and nobody has to move. Whether an island makes sense in your kitchen can usually be judged quickly from a floor plan and a few dimensions. Call us or book the initial conversation: 30 minutes by phone or video, without obligation, with an honest first assessment of your room, connections and habits.
 
 After the call you send us a floor plan and dimensions, and we prepare your project sheet as the basis for further planning. One person accompanies you from the first line to handover. You will find examples of our work under [References](/referenzen/).
 

@@ -105,7 +105,7 @@ An orderly approach saves time and nerves. This sequence has proved its worth on
 5. **Prepare the documents.** Plans, description, structural engineer's statement and, if needed, submission documents for the building authority.
 6. **Bring the neighbours along.** A short notice or a personal conversation about duration and noisy phases often works wonders.
 
-At Richard Atelier this preparation is part of the planning. We talk to the property management, the structural engineer and, where necessary, the authority, and prepare documents so that they are easy to understand. How this coordination is embedded in the project sequence is described in the articles [Working with an interior designer](/magazin/innenarchitekt-ablauf-zusammenarbeit/) and [Planning and execution from a single source](/magazin/planung-und-ausfuehrung-aus-einer-hand/). The [Team](/team/) page shows who stands behind the planning. The Tischlerkultur joinery behind our planning has been family-run since 1935. The first conversation is free, lasts 30 minutes and takes place by phone or video, so you can find out where you stand before you spend anything.
+At Richard Atelier this preparation is part of the planning. We talk to the property management, the structural engineer and, where necessary, the authority, and prepare documents so that they are easy to understand. How this coordination is embedded in the project sequence is described in the articles [Working with an interior designer](/magazin/innenarchitekt-ablauf-zusammenarbeit/) and [Planning and execution from a single source](/magazin/planung-und-ausfuehrung-aus-einer-hand/). The [Team](/team/) page shows who stands behind the planning. The Tischlerkultur joinery behind our planning has been family-run since 1935. The first conversation lasts 30 minutes and takes place by phone or video, so you can find out where you stand before you spend anything.
 
 > Anyone who wins the property management over as an ally has already covered half the distance.
 
@@ -137,7 +137,7 @@ There is no legal duty to inform personally in every case, but it is wise and fa
 
 ## What happens next
 
-Back to the walk home from the owners' meeting and the feeling of having taken on too much. Soon it could be a clear list of who must agree, in what order, with the documents already prepared. If you are planning a conversion in an Altbau and are unsure which consents you will need, call us or book the initial conversation: 30 minutes by phone or video, free, without obligation. We listen to your project and tell you which questions to clarify first.
+Back to the walk home from the owners' meeting and the feeling of having taken on too much. Soon it could be a clear list of who must agree, in what order, with the documents already prepared. If you are planning a conversion in an Altbau and are unsure which consents you will need, call us or book the initial conversation: 30 minutes by phone or video, without obligation. We listen to your project and tell you which questions to clarify first.
 
 Afterwards we record the key points in a project sheet, and one person accompanies you through the clarifications with the property management, the structural engineer and the authority.
 

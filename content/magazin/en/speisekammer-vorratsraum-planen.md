@@ -84,7 +84,7 @@ For materials we recommend robust, easy-to-clean surfaces. Shelves of oiled or l
 
 ## Where a larder can find room
 
-The most common question at the first meeting is: where should it go? Surprisingly often a place turns up when you look at the floor plan with fresh eyes. If you are unsure whether your floor plan holds a larder, the first conversation is free: 30 minutes by phone or video, without obligation.
+The most common question at the first meeting is: where should it go? Surprisingly often a place turns up when you look at the floor plan with fresh eyes. If you are unsure whether your floor plan holds a larder, the first conversation is a good start: 30 minutes by phone or video, without obligation.
 
 Typical places for a larder:
 
@@ -134,7 +134,7 @@ A larder serves mainly to store provisions. A pantry additionally has a worktop 
 
 ## What happens next
 
-Back to the water crates in the hall. Soon they could have a home of their own behind a door that looks like part of the kitchen, and the worktop could stay empty after the weekly shop. Whether your flat or house has room for a larder often only shows with a fresh look at the floor plan. Call us or book the initial conversation: 30 minutes by phone or video, free, without obligation. Send photographs and plans, and we tell you honestly which form suits your daily life.
+Back to the water crates in the hall. Soon they could have a home of their own behind a door that looks like part of the kitchen, and the worktop could stay empty after the weekly shop. Whether your flat or house has room for a larder often only shows with a fresh look at the floor plan. Call us or book the initial conversation: 30 minutes by phone or video, without obligation. Send photographs and plans, and we tell you honestly which form suits your daily life.
 
 Afterwards you receive a project sheet with the next steps, and one person accompanies you from the first sketch to handover.
 

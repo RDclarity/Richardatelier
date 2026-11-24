@@ -98,7 +98,7 @@ If you are facing the choice, you can follow a simple sequence. It is the same o
 4. **Limit the number of floors.** Where do changes make sense, and where do continuous surfaces connect?
 5. **Sample on a large scale.** Do not decide from hand samples, but from sample tiles of at least half a square metre, in your own light.
 
-With an Altbau, it is worth establishing early on whether an existing parquet can be saved. Often there is a floor under a carpet or laminate that looks better after sanding than any new installation. Why the charm of an Altbau is better served by an overall concept than by piecemeal work is explained in our piece on the [Altbau apartment in Vienna](/magazin/altbauwohnung-wien-sanieren-gesamtkonzept/). If you are unsure whether your Altbau floor can be saved, the first conversation is free: 30 minutes by phone or video, without obligation. Whatever you choose, how will it age?
+With an Altbau, it is worth establishing early on whether an existing parquet can be saved. Often there is a floor under a carpet or laminate that looks better after sanding than any new installation. Why the charm of an Altbau is better served by an overall concept than by piecemeal work is explained in our piece on the [Altbau apartment in Vienna](/magazin/altbauwohnung-wien-sanieren-gesamtkonzept/). If you are unsure whether your Altbau floor can be saved, the first conversation is a good start: 30 minutes by phone or video, without obligation. Whatever you choose, how will it age?
 
 ## Care and ageing: what counts after ten years
 
@@ -144,7 +144,7 @@ Very often, yes. An old solid parquet can usually be sanded several times and re
 
 ## What happens next
 
-Back to seven in the morning and the first step out of bed. A few months from now the floor under your feet could be warm, quiet and right for every room that follows. Choosing the floor is rarely a decision taken alone; it is tied to the kitchen, bathroom, heating and lighting. Call us or book the initial conversation: 30 minutes by phone or video, free, without obligation. We look together at your rooms and your daily routine and tell you honestly which floors come into question.
+Back to seven in the morning and the first step out of bed. A few months from now the floor under your feet could be warm, quiet and right for every room that follows. Choosing the floor is rarely a decision taken alone; it is tied to the kitchen, bathroom, heating and lighting. Call us or book the initial conversation: 30 minutes by phone or video, without obligation. We look together at your rooms and your daily routine and tell you honestly which floors come into question.
 
 Afterwards we record everything in a project sheet with photos and a floor plan, and one person accompanies you from the first sample to handover.
 

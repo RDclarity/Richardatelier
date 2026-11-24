@@ -27,7 +27,7 @@ For our couple in Klosterneuburg this means the house is rethought from the insi
 
 ## Phase 1: the first question and the initial conversation
 
-It begins with a conversation, not a sketch. In the free 30-minute initial call, by phone or video and without obligation, we ask the question behind every one of our projects: how do you want to live?
+It begins with a conversation, not a sketch. In the 30-minute initial call, by phone or video and without obligation, we ask the question behind every one of our projects: how do you want to live?
 
 The couple talk about the children, aged six and nine, about the big kitchen they want to open onto the garden, about two home-office days a week and the grandparents who stay for weeks at a time. They also say what wears them down: the queue for the only bathroom, the dark kitchen, the missing link to the terrace.
 
@@ -140,7 +140,7 @@ From the first question to moving in, a detached house usually takes around a ye
 
 ## What happens next
 
-Go back to that hallway, keys in hand. Call us, or book the initial conversation: 30 minutes, free, without obligation, by phone or video. You tell us how you want to live, and we give you an honest first assessment of which phases will matter most for your house.
+Go back to that hallway, keys in hand. Call us, or book the initial conversation: 30 minutes, without obligation, by phone or video. You tell us how you want to live, and we give you an honest first assessment of which phases will matter most for your house.
 
 Afterwards we draw up a project sheet from your photos and floor plan, and you decide in peace whether to go further. One contact stays with you from that call to the day you carry the first box through a door that opens exactly where you wanted it.
 

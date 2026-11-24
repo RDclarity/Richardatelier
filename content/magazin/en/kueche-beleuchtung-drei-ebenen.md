@@ -55,7 +55,7 @@ Over the island and table, light has two jobs: to light the surface well and to 
 
 We plan pendants in steps:
 
-1. **Clarify the position of the island and hob**: Over a hob with a hood there is no room for pendants. With a hob with an integrated extractor the airspace is free. The article [Hob with integrated extractor](/magazin/kochfeld-mit-integriertem-dunstabzug/) explains what this means for planning.
+1. **Clarify the position of the island and hob**: Over a hob with a hood there is no room for pendants. With a hob with an integrated extractor the airspace is without obligation. The article [Hob with integrated extractor](/magazin/kochfeld-mit-integriertem-dunstabzug/) explains what this means for planning.
 2. **Fix the height**: As a guide, the lower edge of pendants over an island hangs about 65 to 75 centimetres above the worktop, and over a dining table about 60 to 70 centimetres above the tabletop. Someone working standing up must not look into the light source, and someone seated should still see the person opposite.
 3. **Determine number and spacing**: For an island 2.4 metres long, two or three lights are usual, spread evenly along the length and set back from the ends.
 4. **Check the light distribution**: Lights that shine only downwards create a concentrated pool of light. Lights that also radiate sideways or upwards brighten the room as well. Both have their place.
@@ -144,7 +144,7 @@ As few as possible, as many as necessary. Three or four lighting groups, operate
 
 ## What happens next
 
-Go back to the onion and your own shadow on the board. In your new kitchen the light comes from where you need it, and at 8.30 the same room glows softly around the island. Call us, or book the free initial consultation: 30 minutes, by phone or video, without obligation, happily on the basis of photographs and a floor plan. We tell you honestly which lighting layers you really need.
+Go back to the onion and your own shadow on the board. In your new kitchen the light comes from where you need it, and at 8.30 the same room glows softly around the island. Call us, or book the initial consultation: 30 minutes, by phone or video, without obligation, happily on the basis of photographs and a floor plan. We tell you honestly which lighting layers you really need.
 
 Afterwards you receive a project sheet and decide in peace. You will find examples of our work among our [references](/referenzen/). Call us, and let your next chopping board be a well-lit one.
 

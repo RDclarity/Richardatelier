@@ -87,7 +87,7 @@ With **water**, the central question is frost protection. Outdoor lines must eit
 
 With **power**, outdoor sockets and appliances must be suitable for outdoor use and protected by a residual current device. The cables are laid with protection, and the electrician specifies the exact requirements. Why sockets and connections are planned before the furniture is explained in the article on [electrical planning](/magazin/elektroplanung-steckdosen-vorher-denken/).
 
-With **light**, the outdoor kitchen needs several layers, like the indoor one: bright task light over grill and worktop, so you can see after sunset whether the meat is done, and a subdued light for atmosphere. Outdoor lights should be glare-free and not shine into the sky or towards the neighbour. The logic of the layers is in the article [Kitchen lighting in three layers](/magazin/kueche-beleuchtung-drei-ebenen/).
+With **light**, the outdoor kitchen needs several layers, like the indoor one: bright task light over grill and worktop, so you can see after sunset whether the meat is done, and a subdued light for atmosphere. Outdoor lights should be glare-not shine into the sky or towards the neighbour. The logic of the layers is in the article [Kitchen lighting in three layers](/magazin/kueche-beleuchtung-drei-ebenen/).
 
 **What doing nothing costs.** Carrying everything out and back for another season is not just tiring. It decides how often you actually eat outside. And a make-do grill corner with indoor furniture does not survive its first winter, so the second purchase is paid for twice.
 
@@ -148,7 +148,7 @@ A compact outdoor kitchen with grill, worktop and sink needs, as a guide, about 
 
 ## What happens next
 
-Back to that July evening and the fourth trip through the terrace door. This time the grill is lit at your own worktop, and the only walk to the table is three steps. Call us, or book the free initial consultation: 30 minutes, by phone or video, without obligation, with an honest first assessment of your terrace, from photographs and plans.
+Back to that July evening and the fourth trip through the terrace door. This time the grill is lit at your own worktop, and the only walk to the table is three steps. Call us, or book the initial consultation: 30 minutes, by phone or video, without obligation, with an honest first assessment of your terrace, from photographs and plans.
 
 Afterwards you receive a project sheet with the next steps and decide in your own time. Call us, and let the next summer begin outdoors.
 

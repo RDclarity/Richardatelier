@@ -131,6 +131,6 @@ Das hängt vom Zustand der Räume, vom Umfang der Umbauten und von den nötigen 
 
 Zurück in Ihren Wartebereich vom Morgen, mit denselben fremden Augen. Die Röhre summt nicht mehr, das Gespräch nebenan bleibt nebenan. Jemand sitzt auf der Bank am Fenster und liest. Noch bevor Sie ein Wort gesagt haben, hat Ihr Raum schon für Sie gesprochen, und zwar das, was Sie sagen wollten.
 
-Das beginnt mit einem Gespräch. Rufen Sie uns an oder buchen Sie Ihr Erstgespräch, ob es um eine Praxis, eine Kanzlei oder ein Büro geht: 30 Minuten am Telefon oder per Video, kostenlos und unverbindlich, gern auch zwischen zwei Terminen. Wir reden über Ihre Abläufe, Ihre Besucher und Ihre Räume, und Sie erhalten eine ehrliche erste Einschätzung. Danach halten wir Ausgangslage, Anforderungen und nächste Schritte in einem Projektblatt fest.
+Das beginnt mit einem Gespräch. Rufen Sie uns an oder buchen Sie Ihr Erstgespräch, ob es um eine Praxis, eine Kanzlei oder ein Büro geht: 30 Minuten am Telefon oder per Video, unverbindlich, gern auch zwischen zwei Terminen. Wir reden über Ihre Abläufe, Ihre Besucher und Ihre Räume, und Sie erhalten eine ehrliche erste Einschätzung. Danach halten wir Ausgangslage, Anforderungen und nächste Schritte in einem Projektblatt fest.
 
 **Weiterlesen:** [Gastronomie einrichten](/magazin/gastronomie-einrichten-gaeste-bleiben-laenger/), [Akustik im offenen Wohnraum](/magazin/akustik-im-offenen-wohnraum/), [Glas und Metall im Interior](/magazin/glas-und-metall-im-interior/), [Lichtplanung für die Wohnung](/magazin/lichtplanung-wohnung-grundlagen/)

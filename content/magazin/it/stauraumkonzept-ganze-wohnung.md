@@ -135,7 +135,7 @@ Dipende dal nucleo familiare, non dai metri quadrati. Per questo cominciamo con 
 
 ### Gli armadi a muro su misura valgono la pena in un appartamento in affitto?
 
-In un appartamento in affitto un armadio a muro è un investimento che, al momento del trasloco, per lo più non si può portare via. Con un affitto di lunga durata o in un appartamento di proprietà spesso conviene, perché sfrutta appieno altezze e nicchie. Per gli appartamenti in affitto progettiamo talvolta soluzioni che si possono smontare e rimontare con un impegno ragionevole. Nel colloquio gratuito Le diciamo con sincerità che cosa ha senso nel Suo caso.
+In un appartamento in affitto un armadio a muro è un investimento che, al momento del trasloco, per lo più non si può portare via. Con un affitto di lunga durata o in un appartamento di proprietà spesso conviene, perché sfrutta appieno altezze e nicchie. Per gli appartamenti in affitto progettiamo talvolta soluzioni che si possono smontare e rimontare con un impegno ragionevole. Nel colloquio Le diciamo con sincerità che cosa ha senso nel Suo caso.
 
 ### Quale profondità serve a un armadio nell'ingresso?
 
@@ -155,6 +155,6 @@ Sì, ed è spesso proprio l'obiettivo. Ante a tutta altezza e a filo, nel colore
 
 ## Come si prosegue
 
-Torni a quell'ingresso delle 7:15. Fra qualche mese lo attraversa senza cercare nulla: ogni cosa ha il suo posto, e la casa è quieta anche quando ci sono tutti. Un progetto degli spazi contenitivi dà il meglio solo se pensato per l'intera casa, non armadio per armadio, e il primo passo è una telefonata. Ci chiami o prenoti il primo colloquio: è gratuito, dura 30 minuti, non La impegna e si svolge per telefono o in video. Passiamo in rassegna i Suoi ambienti e la Sua vita quotidiana, e Le diciamo con onestà dove oggi si perde spazio. Poi riceve una scheda di progetto con foto e planimetria. Come da questi piani nascano arredi fissi finiti lo mostrano le pagine [Armadi a muro](/einbauschraenke/) e [Cucine su misura](/einbaukuechen/).
+Torni a quell'ingresso delle 7:15. Fra qualche mese lo attraversa senza cercare nulla: ogni cosa ha il suo posto, e la casa è quieta anche quando ci sono tutti. Un progetto degli spazi contenitivi dà il meglio solo se pensato per l'intera casa, non armadio per armadio, e il primo passo è una telefonata. Ci chiami o prenoti il primo colloquio: dura 30 minuti, non La impegna e si svolge per telefono o in video. Passiamo in rassegna i Suoi ambienti e la Sua vita quotidiana, e Le diciamo con onestà dove oggi si perde spazio. Poi riceve una scheda di progetto con foto e planimetria. Come da questi piani nascano arredi fissi finiti lo mostrano le pagine [Armadi a muro](/einbauschraenke/) e [Cucine su misura](/einbaukuechen/).
 
 **Da leggere:** [Armadio a muro su misura o di sistema](/magazin/einbauschrank-nach-mass-vs-system/) · [Progettare la cabina armadio](/magazin/begehbare-ankleide-planen-masse/) · [L'ingresso](/magazin/eingangsbereich-ankommen-gestalten/) · [La dotazione interna della cucina](/magazin/kueche-stauraum-innenleben-auszuege/)

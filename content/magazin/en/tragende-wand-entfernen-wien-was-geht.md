@@ -119,7 +119,7 @@ In many cases yes, but not without an engineer and the authority. In Vienna, int
 
 ### How do I know whether a wall is load-bearing?
 
-Pointers are its position, such as the spine wall parallel to the street in a Gründerzeit building, its thickness and the existing plans. A reliable statement, however, can only be made by a structural engineer after examining the plans and the building. In old houses, floors sometimes rest on walls that were originally not meant to bear load. A first assessment from your plans is part of our free first call.
+Pointers are its position, such as the spine wall parallel to the street in a Gründerzeit building, its thickness and the existing plans. A reliable statement, however, can only be made by a structural engineer after examining the plans and the building. In old houses, floors sometimes rest on walls that were originally not meant to bear load. A first assessment from your plans is part of our personal first call.
 
 ### What does it cost to remove a load-bearing wall?
 
@@ -141,6 +141,6 @@ Yes, and that is often a very good solution. If masonry piers stay at both ends,
 
 Return to that evening at the hob. Your eyes lift from the pan, and there are the windows, the table and the people you invited, with no wall in between. Whether that picture is possible in your flat can often be placed from the floor plan, photos and the position in the building.
 
-So call us, or book the initial consultation online. It is free, lasts 30 minutes, commits you to nothing and takes place by phone or video. You get an honest first assessment of your wall, and we explain the next steps with the engineer and the authority. Afterwards you receive a project sheet listing every open question. Who is responsible for planning with us you can find out on the [Team](/team/) page.
+So call us, or book the initial consultation online. It lasts 30 minutes, commits you to nothing and takes place by phone or video. You get an honest first assessment of your wall, and we explain the next steps with the engineer and the authority. Afterwards you receive a project sheet listing every open question. Who is responsible for planning with us you can find out on the [Team](/team/) page.
 
 **Read next:** [Open-plan living kitchen: when the wall can go](/magazin/offene-wohnkueche-wand-entfernen/) · [Permits for renovating a Viennese Altbau](/magazin/genehmigungen-altbau-wien-umbau/) · [Semi-open instead of open](/magazin/halboffene-grundrisse-schiebetueren-glas/) · [Combining two flats](/magazin/wohnung-zusammenlegen-zwei-werden-eine/)

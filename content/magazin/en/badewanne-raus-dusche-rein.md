@@ -147,7 +147,7 @@ Yes. A shower puts considerably more load on floor and walls than a bath, so a n
 
 ## What happens next
 
-Go back to seven in the morning: your hand on the basin, your foot over the rim. In a few weeks it can be a step you never think about. Call us, or book the free initial consultation: 30 minutes, by phone or video, without obligation. You send photos and the floor plan, and we give you an honest first assessment of what is possible in your bathroom.
+Go back to seven in the morning: your hand on the basin, your foot over the rim. In a few weeks it can be a step you never think about. Call us, or book the initial consultation: 30 minutes, by phone or video, without obligation. You send photos and the floor plan, and we give you an honest first assessment of what is possible in your bathroom.
 
 Afterwards you receive a project sheet with the next steps. You decide in peace, and one contact stays with you until the first shower in the new room. Call us, and let tomorrow's morning start without the hurdle.
 

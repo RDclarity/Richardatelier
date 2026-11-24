@@ -130,6 +130,6 @@ Depende mucho del estado del local, del alcance de los trabajos y de los procedi
 
 ## Cómo continuar
 
-El viernes con la sala a medias y la cuenta tras la primera copa no es una fatalidad. Imagine el local lleno de un murmullo cálido, la barra rodeada y una segunda copa que se pide sola. Llámenos o reserve su primera conversación en esta web: 30 minutos gratuitos y sin compromiso, por teléfono o por vídeo. Hablamos de su concepto, de sus clientes y de su espacio, y le damos una primera valoración sincera. Después resumimos la situación de partida, los requisitos y los siguientes pasos en una ficha del proyecto, y una sola persona coordina todo hasta la entrega del local.
+El viernes con la sala a medias y la cuenta tras la primera copa no es una fatalidad. Imagine el local lleno de un murmullo cálido, la barra rodeada y una segunda copa que se pide sola. Llámenos o reserve su primera conversación en esta web: 30 minutos sin compromiso, por teléfono o por vídeo. Hablamos de su concepto, de sus clientes y de su espacio, y le damos una primera valoración sincera. Después resumimos la situación de partida, los requisitos y los siguientes pasos en una ficha del proyecto, y una sola persona coordina todo hasta la entrega del local.
 
 **Lea también:** [Amueblar oficina y consulta](/magazin/buero-praxis-einrichten-ruhe-vertrauen/) · [Hotel boutique y apartamento vacacional](/magazin/boutique-hotel-zimmer-wie-zuhause/) · [Acústica en el espacio de estar abierto](/magazin/akustik-im-offenen-wohnraum/) · [Dekton explicado](/magazin/dekton-was-ist-das/)

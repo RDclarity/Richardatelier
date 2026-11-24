@@ -82,7 +82,7 @@ Schließlich der Einkauf. Wer Küche, Schränke, Leuchten und Polstermöbel geme
 
 Ein Gesamtkonzept folgt einem klaren Ablauf. Die Dauer der einzelnen Phasen hängt von der Größe der Wohnung und vom Umfang der Arbeiten ab, die Reihenfolge bleibt aber gleich.
 
-1. **Erstgespräch:** Kostenlos und unverbindlich, 30 Minuten per Telefon oder Video. Wir hören zu, stellen Fragen und sagen Ihnen ehrlich, wie wir Ihr Vorhaben einschätzen.
+1. **Erstgespräch:** Unverbindlich, 30 Minuten per Telefon oder Video. Wir hören zu, stellen Fragen und sagen Ihnen ehrlich, wie wir Ihr Vorhaben einschätzen.
 2. **Projektblatt:** Sie schicken uns Fotos, Grundriss und Ihre Wunschliste. Daraus entsteht eine erste Einschätzung zu Umfang und Budgetrahmen.
 3. **Bestandsaufnahme vor Ort:** Aufmaß, Prüfung von Leitungen und Bausubstanz, bei Bedarf mit Statiker oder Baumeister.
 4. **Konzept:** Grundriss, Zonen, Lichtidee und Materialpalette. Hier wird die Frage beantwortet, wie Sie leben möchten.
@@ -138,6 +138,6 @@ Eine Einrichtungsberatung wählt meist Möbel und Farben für bestehende Räume 
 
 Vielleicht liegt die Liste aus dem Vorzimmer noch auf Ihrem Handy. Streichen Sie sie in Gedanken durch: Sie sperren am Abend auf, das Licht empfängt Sie, Küche, Bad und Schlafzimmerschrank sprechen dieselbe Sprache, und Sie denken nicht mehr über die Wohnung nach. Sie leben in ihr.
 
-Der Weg dorthin beginnt mit einem Anruf. Im Erstgespräch, kostenlos, unverbindlich, 30 Minuten am Telefon oder per Video, hören wir uns an, wie Sie leben möchten, und sagen Ihnen ehrlich, ob ein Gesamtkonzept für Ihre Wohnung sinnvoll ist. Danach schicken Sie uns Fotos, Grundriss und Wunschliste, und wir erstellen daraus ein erstes Projektblatt mit Umfang und Budgetrahmen. Rufen Sie uns an oder buchen Sie Ihr Erstgespräch.
+Der Weg dorthin beginnt mit einem Anruf. Im Erstgespräch, unverbindlich, 30 Minuten am Telefon oder per Video, hören wir uns an, wie Sie leben möchten, und sagen Ihnen ehrlich, ob ein Gesamtkonzept für Ihre Wohnung sinnvoll ist. Danach schicken Sie uns Fotos, Grundriss und Wunschliste, und wir erstellen daraus ein erstes Projektblatt mit Umfang und Budgetrahmen. Rufen Sie uns an oder buchen Sie Ihr Erstgespräch.
 
 **Weiterlesen:** [Lebenskonzept statt Einrichtung](/magazin/lebenskonzept-statt-einrichtung/) · [Das Materialkonzept als roter Faden](/magazin/materialkonzept-roter-faden-durch-alle-raeume/) · [Mit einem Innenarchitekten arbeiten](/magazin/innenarchitekt-ablauf-zusammenarbeit/) · [Das Erstgespräch vorbereiten](/magazin/erstgespraech-vorbereiten-fragen/)

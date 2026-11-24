@@ -133,12 +133,12 @@ In Türen gehört Sicherheitsglas, das beim Bruch keine großen scharfen Scherbe
 
 ### Wovon hängen die Kosten eines Schiebetürsystems ab?
 
-Sie hängen vor allem von Systemtyp, Größe, Glasart, Profil und Einbausituation ab. Eine Wandtasche oder eine neue Deckenkonstruktion bedeutet mehr Aufwand als die Montage vor einer tragfähigen Wand. Hinzu kommen Elektro, Malerarbeiten und angrenzende Einbauten. Eine ehrliche erste Einschätzung bekommen Sie deshalb im kostenlosen Erstgespräch.
+Sie hängen vor allem von Systemtyp, Größe, Glasart, Profil und Einbausituation ab. Eine Wandtasche oder eine neue Deckenkonstruktion bedeutet mehr Aufwand als die Montage vor einer tragfähigen Wand. Hinzu kommen Elektro, Malerarbeiten und angrenzende Einbauten. Eine ehrliche erste Einschätzung bekommen Sie deshalb im Erstgespräch.
 
 ## Wie es weitergeht
 
 Bald ist neun Uhr wieder nur neun Uhr. Der Flügel gleitet, die Mühle verstummt fast, die Sonne bleibt. Am Abend schieben Sie alles beiseite und sitzen in einem einzigen großen Raum, als hätte es nie eine Grenze gegeben.
 
-Ob eine Glasschiebetür das Richtige für Ihren Grundriss ist, hängt davon ab, wie Sie Ihre Räume nutzen. Zeigen Sie uns die Wand, um die es geht: Rufen Sie uns an oder buchen Sie das Erstgespräch, kostenlos, unverbindlich, 30 Minuten, per Telefon oder Video. Wir schauen gemeinsam auf Ihre Wohnung und Ihre Wünsche und geben Ihnen eine ehrliche erste Einschätzung. Danach erhalten Sie ein Projektblatt mit Fotos und Grundriss als Grundlage für die weitere Planung. Wie gelungene Übergänge aussehen, zeigen die [Referenzen](/referenzen/).
+Ob eine Glasschiebetür das Richtige für Ihren Grundriss ist, hängt davon ab, wie Sie Ihre Räume nutzen. Zeigen Sie uns die Wand, um die es geht: Rufen Sie uns an oder buchen Sie das Erstgespräch, unverbindlich, 30 Minuten, per Telefon oder Video. Wir schauen gemeinsam auf Ihre Wohnung und Ihre Wünsche und geben Ihnen eine ehrliche erste Einschätzung. Danach erhalten Sie ein Projektblatt mit Fotos und Grundriss als Grundlage für die weitere Planung. Wie gelungene Übergänge aussehen, zeigen die [Referenzen](/referenzen/).
 
 **Weiterlesen:** [Halboffen statt offen](/magazin/halboffene-grundrisse-schiebetueren-glas/) · [Glas und Metall im Interior](/magazin/glas-und-metall-im-interior/) · [Schranksysteme und Ankleiden](/magazin/schranksysteme-ankleide-wie-architektur/) · [Elektroplanung vorher denken](/magazin/elektroplanung-steckdosen-vorher-denken/)

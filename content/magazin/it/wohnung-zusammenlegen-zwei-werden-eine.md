@@ -87,7 +87,7 @@ La posizione delle colonne montanti determina dove bagni e cucina possano ragion
 
 Un'unione procede in questi passi:
 
-1. Primo colloquio gratuito e senza impegno, 30 minuti, sui Suoi desideri e sulla situazione di partenza dei due appartamenti.
+1. Primo colloquio senza impegno, 30 minuti, sui Suoi desideri e sulla situazione di partenza dei due appartamenti.
 2. Rilievo con misure, verifica della parete divisoria, degli impianti e del riscaldamento.
 3. Chiarimento degli aspetti legali con amministrazione condominiale, notaio e autorità.
 4. Concept: planimetria, zone, ruolo dei locali doppi, tavolozza dei materiali.
@@ -111,7 +111,7 @@ A ciò si aggiungono porte, arredi su misura e colori. Se tutte le porte hanno l
 In linea di principio sì, purché siano soddisfatti i requisiti legali e costruttivi. Nella proprietà condominiale servono per lo più il consenso dei comproprietari, se sono interessate parti comuni, e una nuova perizia sul valore d'uso. Gli interventi su pareti portanti si chiariscono con strutturista e autorità edilizia.
 
 ### Quanto costa unire due appartamenti?
-Un prezzo fisso non esiste, perché apertura, impianti e dotazioni sono molto diversi. Ai costi edili si aggiungono quelli di strutturista, notaio, perizia sul valore d'uso e libro fondiario. Una stima seria è possibile solo dopo il rilievo; nel colloquio gratuito di 30 minuti Le diciamo già quali voci pesano di più.
+Un prezzo fisso non esiste, perché apertura, impianti e dotazioni sono molto diversi. Ai costi edili si aggiungono quelli di strutturista, notaio, perizia sul valore d'uso e libro fondiario. Una stima seria è possibile solo dopo il rilievo; nel colloquio di 30 minuti Le diciamo già quali voci pesano di più.
 
 ### Che cosa succede alla seconda cucina?
 Riceve un nuovo compito. Spesso diventa bagno, dispensa o locale di servizio, perché acqua e scarico sono già presenti. A volte resta come piccolo angolo cottura per una zona lavoro o ospiti.
@@ -127,6 +127,6 @@ Dalla prima idea al trasloco conviene calcolare un anno o poco più. Passi legal
 
 ## Come si prosegue
 
-Il sabato mattina davanti al bagno può diventare un ricordo: un solo grande tavolo in cucina, il sole del mattino dal parco, i bambini nelle loro stanze e nessuna traccia del muro di una volta. Tutto comincia con una chiamata. Ci chiami o prenoti il primo colloquio: 30 minuti gratuiti e senza impegno, per telefono o in video, con una prima valutazione onesta su che cosa sia possibile e che cosa vada chiarito per primo. Se vuole proseguire, ci invia planimetrie e foto e ne ricaviamo una prima scheda di progetto. Una sola persona seguirà il progetto dalla prima matita fino alla chiave, e la falegnameria Tischlerkultur, che a Vienna lavora il legno dal 1935, costruirà gli arredi su misura. Meglio parlarne prima di toccare la parete, non dopo.
+Il sabato mattina davanti al bagno può diventare un ricordo: un solo grande tavolo in cucina, il sole del mattino dal parco, i bambini nelle loro stanze e nessuna traccia del muro di una volta. Tutto comincia con una chiamata. Ci chiami o prenoti il primo colloquio: 30 minuti senza impegno, per telefono o in video, con una prima valutazione onesta su che cosa sia possibile e che cosa vada chiarito per primo. Se vuole proseguire, ci invia planimetrie e foto e ne ricaviamo una prima scheda di progetto. Una sola persona seguirà il progetto dalla prima matita fino alla chiave, e la falegnameria Tischlerkultur, che a Vienna lavora il legno dal 1935, costruirà gli arredi su misura. Meglio parlarne prima di toccare la parete, non dopo.
 
 **Da leggere:** [Progetto complessivo per l'appartamento](/magazin/gesamtkonzept-wohnung-was-bedeutet-das/) · [Quando la famiglia cresce](/magazin/familie-waechst-wohnung-mitwachsen/) · [Home office in casa](/magazin/homeoffice-wohnung-integrieren/) · [Semi-aperto invece che aperto](/magazin/halboffene-grundrisse-schiebetueren-glas/)

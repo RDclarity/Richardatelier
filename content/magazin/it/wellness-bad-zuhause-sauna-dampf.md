@@ -106,7 +106,7 @@ Poiché da noi progettazione ed esecuzione vengono da un'unica mano, questi pass
 
 Un bagno wellness è un ampliamento della ristrutturazione del bagno, non un prodotto a sé. Con sauna o doccia a vapore i progetti si collocano spesso nella parte più impegnativa di una ristrutturazione del bagno.
 
-A far salire i costi sono meno gli apparecchi che la preparazione: nuove linee elettriche, tecnica di ventilazione, impermeabilizzazione su tutta la superficie, vetro fino al soffitto e allestimenti per la sauna realizzati su misura. Come si compongono le voci di una ristrutturazione del bagno lo spiega [Quanto costa ristrutturare un bagno a Vienna?](/magazin/was-kostet-eine-badrenovierung-wien/). I costi effettivi dipendono sempre dallo stato di fatto e dal rituale desiderato, e una prima valutazione sincera la riceve nel colloquio gratuito.
+A far salire i costi sono meno gli apparecchi che la preparazione: nuove linee elettriche, tecnica di ventilazione, impermeabilizzazione su tutta la superficie, vetro fino al soffitto e allestimenti per la sauna realizzati su misura. Come si compongono le voci di una ristrutturazione del bagno lo spiega [Quanto costa ristrutturare un bagno a Vienna?](/magazin/was-kostet-eine-badrenovierung-wien/). I costi effettivi dipendono sempre dallo stato di fatto e dal rituale desiderato, e una prima valutazione sincera la riceve nel colloquio.
 
 ## Domande frequenti
 
@@ -136,6 +136,6 @@ Per le panche si usano essenze povere di resina che si scaldano poco, come piopp
 
 ## Come si prosegue
 
-Torni a quel venerdì sera. Tra qualche mese apre la porta e il calore è già lì: il legno, la luce bassa, il silenzio. Il primo passo è una telefonata. Ci chiami o prenoti il primo colloquio: è gratuito, dura 30 minuti, senza impegno, per telefono o in video. Ci racconta com'è la Sua serata ideale, chiariamo quale rituale fa per Lei e che cosa il Suo bagno offre dal punto di vista tecnico, e Le diamo una prima valutazione sincera. Poi riceve una scheda di progetto in cui foto e planimetria rendono visibili i passi successivi. Come progettiamo i bagni lo vede nelle nostre pagine dedicate ai [Bagni](/badezimmer/) e alla [Ristrutturazione del bagno](/badrenovierung/).
+Torni a quel venerdì sera. Tra qualche mese apre la porta e il calore è già lì: il legno, la luce bassa, il silenzio. Il primo passo è una telefonata. Ci chiami o prenoti il primo colloquio: dura 30 minuti, senza impegno, per telefono o in video. Ci racconta com'è la Sua serata ideale, chiariamo quale rituale fa per Lei e che cosa il Suo bagno offre dal punto di vista tecnico, e Le diamo una prima valutazione sincera. Poi riceve una scheda di progetto in cui foto e planimetria rendono visibili i passi successivi. Come progettiamo i bagni lo vede nelle nostre pagine dedicate ai [Bagni](/badezimmer/) e alla [Ristrutturazione del bagno](/badrenovierung/).
 
 **Da leggere:** [Ristrutturare il bagno a Vienna](/magazin/badezimmer-renovieren-wien-leitfaden/) · [Progettare la doccia a filo pavimento](/magazin/bodengleiche-dusche-planen/) · [Smart home che non si vede](/magazin/smart-home-sinnvoll-unsichtbar/) · [Quanto dura la ristrutturazione di un bagno?](/magazin/badrenovierung-dauer-zeitplan/)

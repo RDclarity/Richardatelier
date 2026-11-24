@@ -152,6 +152,6 @@ There is no single best time. A sensible building phase is one in which the fami
 
 Think back to that Monday morning and the queue at the door. A realistic timeline begins with a conversation about your daily life and your bathroom.
 
-Call us or book the free initial call. It takes 30 minutes by phone or video, costs nothing and commits you to nothing. We clarify which period suits you and which decisions have to be made when, and you receive an honest first assessment. Afterwards you receive a project sheet that makes the path to the first shower visible, and from the day of the call you have a clear next step instead of a question. Who is responsible for planning with us can be seen under [Team](/team/).
+Call us or book the initial call. It takes 30 minutes by phone or video, costs nothing and commits you to nothing. We clarify which period suits you and which decisions have to be made when, and you receive an honest first assessment. Afterwards you receive a project sheet that makes the path to the first shower visible, and from the day of the call you have a clear next step instead of a question. Who is responsible for planning with us can be seen under [Team](/team/).
 
 **Read next:** [Renovating a bathroom in Vienna](/magazin/badezimmer-renovieren-wien-leitfaden/) · [Bath out, shower in](/magazin/badewanne-raus-dusche-rein/) · [Large-format ceramic in the bathroom](/magazin/grossformatige-fliesen-bad-fugen/) · [An accessible bathroom with design](/magazin/bad-altersgerecht-barrierefrei-design/)

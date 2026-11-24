@@ -30,7 +30,7 @@ Für unser Paar in Klosterneuburg heißt das: Das Haus wird von innen neu gedach
 
 ## Phase 1: Die erste Frage und das Erstgespräch
 
-Am Anfang steht keine Skizze, sondern ein Gespräch. Im kostenlosen, unverbindlichen 30-Minuten-Erstgespräch per Telefon oder Video stellen wir die Frage, die jedes unserer Projekte trägt: Wie möchten Sie leben?
+Am Anfang steht keine Skizze, sondern ein Gespräch. Im unverbindlichen 30-Minuten-Erstgespräch per Telefon oder Video stellen wir die Frage, die jedes unserer Projekte trägt: Wie möchten Sie leben?
 
 Das Paar erzählt von den Kindern, sechs und neun Jahre alt, vom Wunsch nach einer großen Küche zum Garten hin, von zwei Homeoffice-Tagen pro Woche und von den Großeltern, die oft zu Besuch sind. Es erzählt auch, was nervt: das Gedränge im einzigen Bad, die dunkle Küche, die fehlende Verbindung zur Terrasse.
 
@@ -124,7 +124,7 @@ Das hängt vom Vertragsmodell ab. Bei Richard Atelier übernimmt das Studio die 
 Das hängt vom Eingriff ab. Arbeiten an tragenden Bauteilen, an der Fassade oder Änderungen der Nutzung können in Niederösterreich und Wien anzeige- oder bewilligungspflichtig sein. Das klären wir im Einzelfall mit Baumeister und Statiker, bevor die Arbeiten beginnen.
 
 ### Was kostet es, ein Haus komplett neu zu gestalten?
-Einen Festpreis gibt es nicht, weil Fläche, Zustand und Ausstattung sehr unterschiedlich sind. Seriöse Zahlen entstehen erst nach der Bestandsaufnahme und der Ausführungsplanung. Die Kosten hängen vor allem von Umfang, Ausstattung und Eingriffstiefe ab. Eine ehrliche erste Einschätzung bekommen Sie kostenlos im Erstgespräch, ohne dass Sie sich zu etwas verpflichten.
+Einen Festpreis gibt es nicht, weil Fläche, Zustand und Ausstattung sehr unterschiedlich sind. Seriöse Zahlen entstehen erst nach der Bestandsaufnahme und der Ausführungsplanung. Die Kosten hängen vor allem von Umfang, Ausstattung und Eingriffstiefe ab. Eine ehrliche erste Einschätzung bekommen Sie im Erstgespräch, ohne dass Sie sich zu etwas verpflichten.
 
 ### Wie lange dauert eine Komplettsanierung im Innenbereich?
 Von der ersten Frage bis zum Einzug vergeht bei einem Einfamilienhaus meist rund ein Jahr. Die reine Bauzeit liegt oft zwischen drei und sechs Monaten. Lieferzeiten für Küche und Möbel laufen parallel zur Planung.

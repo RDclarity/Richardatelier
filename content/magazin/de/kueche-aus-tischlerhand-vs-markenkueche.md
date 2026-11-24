@@ -138,6 +138,6 @@ Bei einer Tischlerküche fertigt die Werkstatt eine neue Front in passendem Mate
 
 Vielleicht liegen die Prospekte noch im Auto. Der Streit über die schönere Küche muss nicht bis zum nächsten Samstag dauern. Irgendwann stehen Sie mit einer Tasse in der Hand vor Ihrer fertigen Wand und denken nicht mehr darüber nach, wer sie gebaut hat. Sie passt einfach, bis zum letzten Zentimeter.
 
-Bringen Sie beide Prospekte mit: Rufen Sie an, oder buchen Sie das Erstgespräch direkt. In 30 kostenlosen, unverbindlichen Minuten am Telefon oder per Video sehen wir uns Ihren Grundriss und Ihre Wünsche an und sagen Ihnen ehrlich, welcher Weg zu Ihrem Raum passt, auch wenn das eine Markenküche ist. Die nächsten Schritte stehen danach in einem Projektblatt.
+Bringen Sie beide Prospekte mit: Rufen Sie an, oder buchen Sie das Erstgespräch direkt. In 30 unverbindlichen Minuten am Telefon oder per Video sehen wir uns Ihren Grundriss und Ihre Wünsche an und sagen Ihnen ehrlich, welcher Weg zu Ihrem Raum passt, auch wenn das eine Markenküche ist. Die nächsten Schritte stehen danach in einem Projektblatt.
 
 **Weiterlesen:** [Italienisches Design: Qualität erkennen](/magazin/italienisches-design-qualitaet-erkennen/) · [Einbauschrank nach Maß oder Systemschrank](/magazin/einbauschrank-nach-mass-vs-system/) · [Grifflose Küche](/magazin/grifflose-kueche-vor-nachteile/) · [Zwölf Fehler bei der Küchenplanung](/magazin/kuechenplanung-fehler-vermeiden/)

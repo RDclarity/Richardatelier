@@ -134,6 +134,6 @@ Sì, con misura. Un'essenza principale e una seconda per accenti o singoli ambie
 
 ## Come si prosegue
 
-Torni a quel piano di rovere sotto la mano. Tra qualche mese lo ha in casa, scelto per la Sua luce e la Sua vita, e sa già come invecchierà. Il primo passo è una telefonata. Ci chiami o prenoti il primo colloquio: è gratuito, dura 30 minuti, senza impegno, per telefono o in video. Parliamo dei Suoi spazi e dei Suoi desideri e Le diamo una prima valutazione sincera. Poi riceve una scheda di progetto con le prime raccomandazioni sui materiali. Chi vuole conoscere le persone dietro progetto e laboratorio le trova nella pagina [Team](/team/).
+Torni a quel piano di rovere sotto la mano. Tra qualche mese lo ha in casa, scelto per la Sua luce e la Sua vita, e sa già come invecchierà. Il primo passo è una telefonata. Ci chiami o prenoti il primo colloquio: dura 30 minuti, senza impegno, per telefono o in video. Parliamo dei Suoi spazi e dei Suoi desideri e Le diamo una prima valutazione sincera. Poi riceve una scheda di progetto con le prime raccomandazioni sui materiali. Chi vuole conoscere le persone dietro progetto e laboratorio le trova nella pagina [Team](/team/).
 
 **Da leggere:** [Impiallacciato o legno massello](/magazin/furnier-vs-massivholz-ehrlich/) · [Armadio su misura o armadio modulare](/magazin/einbauschrank-nach-mass-vs-system/) · [Facili da pulire? Quali superfici resistono](/magazin/oberflaechen-pflegeleicht-ehrlich-bewertet/) · [Un pavimento per tutti gli ambienti](/magazin/bodenbelag-durchgaengig-raeume-verbinden/)

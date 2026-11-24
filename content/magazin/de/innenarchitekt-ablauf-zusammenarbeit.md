@@ -1,7 +1,7 @@
 ---
 slug: innenarchitekt-ablauf-zusammenarbeit
 title: Mit einem Innenarchitekten arbeiten: So läuft es ab, und so wenig Stress macht es
-description: Mit einem Innenarchitekten arbeiten: Die sechs Phasen, Ihre Rolle und wie viel Zeit Sie wirklich brauchen, vom kostenlosen Erstgespräch bis zur Übergabe.
+description: Mit einem Innenarchitekten arbeiten: Die sechs Phasen, Ihre Rolle und wie viel Zeit Sie wirklich brauchen, vom Erstgespräch bis zur Übergabe.
 category: prozess
 cta: gesamtkonzept
 keywords: Innenarchitekt Ablauf, Zusammenarbeit Innenarchitekt, Innenarchitekt Wien beauftragen, Projektablauf Innenarchitektur
@@ -28,7 +28,7 @@ Für Anna und Markus bedeutet das: Niemand legt ihnen im ersten Termin einen Kat
 
 ## Phase 1: Erstgespräch und Projektblatt
 
-Der Einstieg ist bewusst niederschwellig: ein kostenloses, unverbindliches Erstgespräch von 30 Minuten, am Telefon oder per Video. In dieser halben Stunde klären wir, worum es geht, welche Räume betroffen sind, welcher Zeitrahmen realistisch ist und ob wir die richtigen Partner sind. Sie bekommen eine ehrliche erste Einschätzung und müssen danach nichts.
+Der Einstieg ist bewusst niederschwellig: ein unverbindliches Erstgespräch von 30 Minuten, am Telefon oder per Video. In dieser halben Stunde klären wir, worum es geht, welche Räume betroffen sind, welcher Zeitrahmen realistisch ist und ob wir die richtigen Partner sind. Sie bekommen eine ehrliche erste Einschätzung und müssen danach nichts.
 
 Möchten Sie weitermachen, schicken Sie uns Fotos der Räume und, falls vorhanden, einen Grundriss. Daraus entsteht ein Projektblatt: eine kompakte Zusammenfassung von Ausgangslage, Wünschen, offenen Fragen und nächsten Schritten. Es ist die gemeinsame Grundlage, auf die sich beide Seiten beziehen.
 
@@ -138,6 +138,6 @@ Der Sitz ist in Münchendorf bei Wien, die meisten Projekte liegen in Wien und N
 
 Der offene Laptop um 22 Uhr, die drei Tabellen, die Frage ohne Antwort: Stellen Sie sich vor, das liegt hinter Ihnen. Sie kommen heim, drehen den Schlüssel, und die Wohnung tut, was Sie sich an genau so einem Abend gewünscht haben. Und jemand anderer hat sich darum gekümmert, dass es so wurde.
 
-Der erste Schritt ist klein. Rufen Sie uns an oder buchen Sie das Erstgespräch: kostenlos, unverbindlich, 30 Minuten am Telefon oder per Video. Sie erzählen von Ihrem Vorhaben, wir stellen Fragen und sagen offen, ob und wie wir helfen können. Danach erhalten Sie ein Projektblatt als gemeinsame Grundlage, ganz ohne Verpflichtung, und erst dann entscheiden Sie über die Bestandsaufnahme vor Ort.
+Der erste Schritt ist klein. Rufen Sie uns an oder buchen Sie das Erstgespräch: unverbindlich, 30 Minuten am Telefon oder per Video. Sie erzählen von Ihrem Vorhaben, wir stellen Fragen und sagen offen, ob und wie wir helfen können. Danach erhalten Sie ein Projektblatt als gemeinsame Grundlage, ganz ohne Verpflichtung, und erst dann entscheiden Sie über die Bestandsaufnahme vor Ort.
 
 **Weiterlesen:** [Das Erstgespräch vorbereiten](/magazin/erstgespraech-vorbereiten-fragen/), [Was kostet ein Gesamtkonzept?](/magazin/was-kostet-innenarchitektur-gesamtkonzept/), [Der realistische Zeitplan einer Sanierung](/magazin/sanierung-zeitplan-realistisch/), [Planung und Ausführung aus einer Hand](/magazin/planung-und-ausfuehrung-aus-einer-hand/)

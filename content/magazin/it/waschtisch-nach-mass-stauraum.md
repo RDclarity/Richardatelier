@@ -154,6 +154,6 @@ Una rubinetteria a parete lascia libero il piano e facilita notevolmente la puli
 
 Sono le 7:05. Due persone sono davanti allo specchio, il piano tra le vasche è libero, nessuno si scansa. Nel cassetto superiore c'è tutto, al suo posto. Così può cominciare ogni Sua mattina, e si comincia con una telefonata.
 
-Ci chiami oppure prenoti il colloquio iniziale: è gratuito, dura 30 minuti, è senza impegno e si svolge per telefono o in video. Parliamo della Sua routine mattutina, del Suo locale e dei Suoi desideri. Sulla base di foto e planimetria Le diamo una prima valutazione onesta su ciò che è possibile. Poi riceverà una scheda di progetto con i passi successivi.
+Ci chiami oppure prenoti il colloquio iniziale: dura 30 minuti, è senza impegno e si svolge per telefono o in video. Parliamo della Sua routine mattutina, del Suo locale e dei Suoi desideri. Sulla base di foto e planimetria Le diamo una prima valutazione onesta su ciò che è possibile. Poi riceverà una scheda di progetto con i passi successivi.
 
 **Da leggere:** [Ristrutturare il bagno a Vienna](/magazin/badezimmer-renovieren-wien-leitfaden/) · [Legno massello negli interni](/magazin/echtholz-im-innenausbau-eiche-nuss/) · [Dekton spiegato](/magazin/dekton-was-ist-das/) · [Ceramica di grande formato in bagno](/magazin/grossformatige-fliesen-bad-fugen/)

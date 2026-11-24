@@ -142,6 +142,6 @@ Dipende dal locale. Le realizzazioni su misura sfruttano al meglio nicchie, fald
 
 Sono le sette del mattino. Entra in una stanza ordinata, la luce è calda, la camicia è dove l'ha lasciata, e nessuno si è svegliato. Così può cominciare il Suo giorno, e comincia con una telefonata.
 
-Ci chiami oppure prenoti il colloquio iniziale: è gratuito, dura 30 minuti, è senza impegno e si svolge per telefono o in video. Chiariamo quale forma sia adatta al Suo locale e di quanto spazio abbiano davvero bisogno i Suoi vestiti, e Le diamo una prima valutazione onesta. Esempi di cabine armadio e armadi a muro li trova alla pagina [Referenze](/referenzen/).
+Ci chiami oppure prenoti il colloquio iniziale: dura 30 minuti, è senza impegno e si svolge per telefono o in video. Chiariamo quale forma sia adatta al Suo locale e di quanto spazio abbiano davvero bisogno i Suoi vestiti, e Le diamo una prima valutazione onesta. Esempi di cabine armadio e armadi a muro li trova alla pagina [Referenze](/referenzen/).
 
 **Da leggere:** [Armadio su misura o armadio modulare?](/magazin/einbauschrank-nach-mass-vs-system/) · [Arrivare a casa: l'ingresso](/magazin/eingangsbereich-ankommen-gestalten/) · [La camera da letto come spazio di quiete](/magazin/schlafzimmer-ruhe-planen/) · [Arredare il soggiorno senza parete TV](/magazin/wohnzimmer-einrichten-ohne-fernseherwand/)

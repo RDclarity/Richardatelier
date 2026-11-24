@@ -89,7 +89,7 @@ Por último, las compras. Quien planifica conjuntamente cocina, armarios, lámpa
 
 Un proyecto integral sigue un desarrollo claro. La duración de cada fase depende del tamaño de la vivienda y del alcance de las obras, pero el orden siempre es el mismo.
 
-1. **Primera conversación:** una charla gratuita de 30 minutos por teléfono o videollamada, sin compromiso. Escuchamos, hacemos preguntas y le damos una primera valoración honesta.
+1. **Primera conversación:** una charla de 30 minutos por teléfono o videollamada, sin compromiso. Escuchamos, hacemos preguntas y le damos una primera valoración honesta.
 2. **Ficha del proyecto:** usted nos envía fotos, el plano y su lista de deseos. De ahí surge una primera valoración del alcance y del margen de presupuesto.
 3. **Inventario in situ:** toma de medidas, revisión de instalaciones y estado de la construcción, si hace falta con un ingeniero de estructuras o un maestro de obras.
 4. **Proyecto conceptual:** distribución, zonas, idea de iluminación y paleta de materiales. Aquí se responde a la pregunta de cómo quiere vivir.
@@ -130,7 +130,7 @@ Un proyecto integral planifica todas las estancias de una vivienda como un conju
 No. Precisamente en viviendas pequeñas cada metro cuadrado es valioso y los errores pesan más. Allí, un proyecto integral ayuda sobre todo con el almacenaje, la luz y las proporciones. El alcance de la planificación se adapta al tamaño de la vivienda.
 
 ### ¿Cuánto cuesta un proyecto integral para una vivienda en Viena?
-No hay un precio fijo, porque la superficie y la profundidad de la intervención varían mucho. Los honorarios de interiorismo dependen de la superficie y del alcance del encargo, y una estimación fiable llega en la primera consulta, que es gratuita y no le compromete a nada. El importe de la obra depende de si solo se amuebla o también se reforma, y se desglosa con transparencia a lo largo del proyecto.
+No hay un precio fijo, porque la superficie y la profundidad de la intervención varían mucho. Los honorarios de interiorismo dependen de la superficie y del alcance del encargo, y una estimación fiable llega en la primera consulta, que no le compromete a nada. El importe de la obra depende de si solo se amuebla o también se reforma, y se desglosa con transparencia a lo largo del proyecto.
 
 ### ¿Puedo llevar a cabo un proyecto integral por etapas?
 Sí, es posible y a veces tiene sentido. Lo decisivo es que primero exista el plan del conjunto y que las etapas se apoyen en él. Así, por ejemplo, las instalaciones de una futura cocina se tienden ya durante la reforma del baño. Puede avanzar a su ritmo sin cerrar ninguna puerta.
@@ -143,7 +143,7 @@ Una asesoría de decoración suele elegir muebles y colores para estancias exist
 
 ## Cómo continuar
 
-Piense otra vez en esa alargadera que cruza el salón. Dentro de un año puede ser un recuerdo: el sofá en su sitio, la lámpara de lectura encendida desde un enchufe que nadie vio porque estaba donde tenía que estar, y un piso que por fin suena a usted. El primer paso es una llamada de 30 minutos, gratuita y sin compromiso, por teléfono o por videollamada. Usted nos cuenta cómo vive y cómo querría vivir. Nosotros escuchamos, preguntamos y le damos una primera valoración honesta, incluso si la conclusión es que su piso no necesita un proyecto integral.
+Piense otra vez en esa alargadera que cruza el salón. Dentro de un año puede ser un recuerdo: el sofá en su sitio, la lámpara de lectura encendida desde un enchufe que nadie vio porque estaba donde tenía que estar, y un piso que por fin suena a usted. El primer paso es una llamada de 30 minutos y sin compromiso, por teléfono o por videollamada. Usted nos cuenta cómo vive y cómo querría vivir. Nosotros escuchamos, preguntamos y le damos una primera valoración honesta, incluso si la conclusión es que su piso no necesita un proyecto integral.
 
 Después de la llamada, usted nos envía fotos y plano, y con ellos preparamos una primera ficha del proyecto. Desde entonces tiene a una sola persona de contacto, desde el primer trazo hasta la entrega de llaves, y detrás una carpintería vienesa con tradición desde 1935. Llámenos, o reserve su primera conversación. Su piso ya sabe cómo quiere ser; solo falta que alguien lo escuche.
 

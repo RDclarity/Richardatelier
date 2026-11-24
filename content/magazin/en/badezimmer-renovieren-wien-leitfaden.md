@@ -142,7 +142,7 @@ Technically, the most important step is the waterproofing, because it is invisib
 
 ## What happens next
 
-Think back to the queue at the washbasin at 6:40. The path to the new bathroom begins with a free 30-minute initial call, by phone or video, that commits you to nothing. You tell us about your mornings, we look at your photos and floor plan together, and you receive an honest first assessment of the scope.
+Think back to the queue at the washbasin at 6:40. The path to the new bathroom begins with a 30-minute initial call, by phone or video, that commits you to nothing. You tell us about your mornings, we look at your photos and floor plan together, and you receive an honest first assessment of the scope.
 
 Call us or book your call. Afterwards you receive a project sheet with the next steps, and from there the way leads step by step to your first shower, with room for two at the mirror.
 

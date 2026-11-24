@@ -135,7 +135,7 @@ From the first planning to installation, several months usually pass. Planning, 
 
 ## What happens next
 
-Go back to the evening with friends on the sofa and you at the hob. Soon it can be the same evening, in a room where the kitchen belongs to the architecture. Call us, or book the free first meeting: 30 minutes, by phone or video, without obligation. We talk about your habits in cooking and living and about the role the kitchen is to play, and give you an honest first assessment.
+Go back to the evening with friends on the sofa and you at the hob. Soon it can be the same evening, in a room where the kitchen belongs to the architecture. Call us, or book the first meeting: 30 minutes, by phone or video, without obligation. We talk about your habits in cooking and living and about the role the kitchen is to play, and give you an honest first assessment.
 
 Afterwards you receive a project sheet with photos and floor plan, and one contact stays with you from the first line to the last joint. You will find examples of our work under [references](/referenzen/). Call us, and let the next time you cook be the first time the room cooks with you.
 

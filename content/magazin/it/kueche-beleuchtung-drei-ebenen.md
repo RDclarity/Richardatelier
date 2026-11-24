@@ -138,6 +138,6 @@ Il meno possibile, quanti ne servono. Si sono dimostrati validi da tre a quattro
 
 ## Come si prosegue
 
-Torni a quel giovedì sera, alle 20.30. Sull'isola un cerchio caldo, nella nicchia i libri che brillano piano, la cucina che si è fatta da parte. Il giorno dopo, alle 18.30, il tagliere è chiaro e senza ombre. Per avere entrambe le cose, ci telefoni o prenoti il primo colloquio: 30 minuti, gratuiti, senza impegno, per telefono o in video. Ci racconti la Sua cucina; con foto e planimetria Le offriamo una prima lettura onesta. Prosegue solo se lo desidera. Esempi del nostro lavoro li trova nelle [referenze](/referenzen/).
+Torni a quel giovedì sera, alle 20.30. Sull'isola un cerchio caldo, nella nicchia i libri che brillano piano, la cucina che si è fatta da parte. Il giorno dopo, alle 18.30, il tagliere è chiaro e senza ombre. Per avere entrambe le cose, ci telefoni o prenoti il primo colloquio: 30 minuti, senza impegno, per telefono o in video. Ci racconti la Sua cucina; con foto e planimetria Le offriamo una prima lettura onesta. Prosegue solo se lo desidera. Esempi del nostro lavoro li trova nelle [referenze](/referenzen/).
 
 **Da leggere:** [Progetto illuminotecnico della casa](/magazin/lichtplanung-wohnung-grundlagen/) · [Progettare l'isola cucina](/magazin/kochinsel-planen-masse-abstaende/) · [Cucina e sala da pranzo in un solo ambiente](/magazin/kueche-und-esszimmer-ein-raum/) · [Cucina abitabile a pianta aperta](/magazin/offene-wohnkueche-wand-entfernen/)

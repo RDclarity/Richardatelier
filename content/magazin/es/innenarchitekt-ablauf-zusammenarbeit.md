@@ -31,7 +31,7 @@ Para Anna y Markus esto significa algo muy concreto: nadie les pone un catálogo
 
 ## Fase 1: primera conversación y ficha de proyecto
 
-El comienzo es deliberadamente sencillo. En Richard Atelier consiste en una primera conversación gratuita de 30 minutos, por teléfono o por videollamada. En esa media hora aclaramos de qué se trata, qué estancias están afectadas, qué plazo es realista y si somos los socios adecuados para el proyecto.
+El comienzo es deliberadamente sencillo. En Richard Atelier consiste en una primera conversación de 30 minutos, por teléfono o por videollamada. En esa media hora aclaramos de qué se trata, qué estancias están afectadas, qué plazo es realista y si somos los socios adecuados para el proyecto.
 
 Después nos envía fotos de las estancias y, si lo tiene, un plano de la vivienda. Con ello se elabora una ficha de proyecto: un resumen compacto de la situación de partida, los deseos, las preguntas abiertas y los siguientes pasos. La ficha de proyecto es la base común a la que pueden remitirse ambas partes.
 
@@ -139,6 +139,6 @@ La sede está en Münchendorf, cerca de Viena, y la mayoría de los proyectos se
 
 ## Cómo continuar
 
-Las fotos de inspiración que duermen en el móvil a las diez de la noche pueden convertirse en un piso terminado, sin que usted dirija una obra. Imagine el sillón, la luz baja y ninguna lista de pendientes. El primer paso es una conversación: 30 minutos, gratuita y sin compromiso, por teléfono o por videollamada. Usted nos cuenta su proyecto, nosotros hacemos preguntas y le damos una primera valoración honesta de si podemos ayudarle y cómo. Después recibirá una ficha de proyecto como base común y un único interlocutor, del primer trazo a la entrega, con una carpintería vienesa de tradición desde 1935 detrás. Llámenos o reserve su primera conversación.
+Las fotos de inspiración que duermen en el móvil a las diez de la noche pueden convertirse en un piso terminado, sin que usted dirija una obra. Imagine el sillón, la luz baja y ninguna lista de pendientes. El primer paso es una conversación: 30 minutos y sin compromiso, por teléfono o por videollamada. Usted nos cuenta su proyecto, nosotros hacemos preguntas y le damos una primera valoración honesta de si podemos ayudarle y cómo. Después recibirá una ficha de proyecto como base común y un único interlocutor, del primer trazo a la entrega, con una carpintería vienesa de tradición desde 1935 detrás. Llámenos o reserve su primera conversación.
 
 **Lea también:** [Preparar la primera conversación](/magazin/erstgespraech-vorbereiten-fragen/) · [¿Cuánto cuesta un proyecto integral?](/magazin/was-kostet-innenarchitektur-gesamtkonzept/) · [El calendario realista de una reforma](/magazin/sanierung-zeitplan-realistisch/) · [Planificación y ejecución en una sola mano](/magazin/planung-und-ausfuehrung-aus-einer-hand/)

@@ -132,6 +132,6 @@ Bei den meisten Natursteinen wird eine Imprägnierung empfohlen, die das Eindrin
 
 Zurück zur heißen Pfanne vom Anfang. Sie stellen sie ab, wo gerade Platz ist, ohne hinzusehen, und reden weiter. Die Zitrone spritzt, und es ist Ihnen egal. Das ist die Platte, die zu Ihnen passt.
 
-Welche das ist, finden wir gemeinsam heraus. Buchen Sie Ihr Erstgespräch oder rufen Sie uns an. Kostenlos und unverbindlich, 30 Minuten, per Video oder am Telefon. Wir besprechen, wie Sie kochen und was Ihnen gefällt, und geben Ihnen eine ehrliche erste Einschätzung. Danach erhalten Sie ein Projektblatt, auf dessen Grundlage wir die Bemusterung vorbereiten, und einen Ansprechpartner vom ersten Strich bis zur Übergabe. Beispiele aus unserer Arbeit finden Sie unter [Referenzen](/referenzen/).
+Welche das ist, finden wir gemeinsam heraus. Buchen Sie Ihr Erstgespräch oder rufen Sie uns an. Unverbindlich, 30 Minuten, per Video oder am Telefon. Wir besprechen, wie Sie kochen und was Ihnen gefällt, und geben Ihnen eine ehrliche erste Einschätzung. Danach erhalten Sie ein Projektblatt, auf dessen Grundlage wir die Bemusterung vorbereiten, und einen Ansprechpartner vom ersten Strich bis zur Übergabe. Beispiele aus unserer Arbeit finden Sie unter [Referenzen](/referenzen/).
 
 **Weiterlesen:** [Dekton erklärt](/magazin/dekton-was-ist-das/) · [Küchenfronten im Vergleich](/magazin/kuechenfronten-lack-furnier-massivholz/) · [Kochinsel planen](/magazin/kochinsel-planen-masse-abstaende/) · [Nachhaltig heißt langlebig](/magazin/nachhaltige-materialien-langlebigkeit/)

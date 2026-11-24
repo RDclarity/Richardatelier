@@ -127,7 +127,7 @@ That is common, and it is not a problem. In conversation both views are recorded
 
 ## What happens next
 
-Think back to that morning at the washbasin. In the free 30-minute initial call, by phone or by video, you tell us how your mornings, your evenings and your guests look today, and how you would like them to look. We give you an honest first assessment, and it commits you to nothing. Afterwards you send us a few photos and a floor plan, and we set down our first thoughts in a project sheet.
+Think back to that morning at the washbasin. In the 30-minute initial call, by phone or by video, you tell us how your mornings, your evenings and your guests look today, and how you would like them to look. We give you an honest first assessment, and it commits you to nothing. Afterwards you send us a few photos and a floor plan, and we set down our first thoughts in a project sheet.
 
 Call us or book your initial call, and let us ask the first question: how do you want to live?
 

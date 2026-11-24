@@ -123,6 +123,6 @@ Mit einem festen Ort für jede Person: ein eigenes Fach für Jacke, Schuhe und T
 
 Erinnern Sie sich an den Kinderwagen im Vorzimmer? Stellen Sie sich vor, er steht auf seinem Platz, und Sie gehen mit beiden Händen voller Einkäufe bis in die Küche, ohne über irgendetwas zu steigen. Und Jahre später geht in derselben Wohnung eine Teenagertür zu, und alle haben ihren Raum.
 
-Fangen Sie mit einem Anruf an. Eine halbe Stunde, kostenlos und unverbindlich, per Telefon oder Video: Sie erzählen, wie Sie heute leben und was sich verändern wird, und hören von uns ehrlich, ob Ihre Wohnung mitwachsen kann. Aus Ihren Fotos und dem Grundriss wird danach ein erstes Projektblatt. Rufen Sie uns an, oder buchen Sie den Termin gleich selbst.
+Fangen Sie mit einem Anruf an. Eine halbe Stunde, unverbindlich, per Telefon oder Video: Sie erzählen, wie Sie heute leben und was sich verändern wird, und hören von uns ehrlich, ob Ihre Wohnung mitwachsen kann. Aus Ihren Fotos und dem Grundriss wird danach ein erstes Projektblatt. Rufen Sie uns an, oder buchen Sie den Termin gleich selbst.
 
 **Weiterlesen:** [Kinderzimmer, das mitwächst](/magazin/kinderzimmer-mitwachsend-planen/) · [Stauraumkonzept für die ganze Wohnung](/magazin/stauraumkonzept-ganze-wohnung/) · [Lebenskonzept statt Einrichtung](/magazin/lebenskonzept-statt-einrichtung/) · [Küche, Essen, Wohnen: Zonen statt Zimmer](/magazin/kueche-essen-wohnen-zonen-statt-zimmer/)

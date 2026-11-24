@@ -135,6 +135,6 @@ En una cocina de carpintero, el taller fabrica un frente nuevo en un material a 
 
 ## Cómo continuar
 
-Vuelva a esa salida de la sala de exposición, con la duda en la mano. Dentro de unos meses puede tener la respuesta en la encimera. Llámenos o reserve su primera conversación: 30 minutos gratuitos, sin compromiso, por teléfono o por videollamada. Revisamos su planta y sus deseos y le damos una primera opinión honesta sobre qué camino encaja con usted, sea carpintero, marca o una combinación. Si decide seguir, recibirá una ficha de proyecto con los siguientes pasos, y la misma persona le acompaña hasta la entrega.
+Vuelva a esa salida de la sala de exposición, con la duda en la mano. Dentro de unos meses puede tener la respuesta en la encimera. Llámenos o reserve su primera conversación: 30 minutos sin compromiso, por teléfono o por videollamada. Revisamos su planta y sus deseos y le damos una primera opinión honesta sobre qué camino encaja con usted, sea carpintero, marca o una combinación. Si decide seguir, recibirá una ficha de proyecto con los siguientes pasos, y la misma persona le acompaña hasta la entrega.
 
 **Lea también:** [Fabricantes italianos: por qué trabajamos con ellos](/magazin/italienisches-design-qualitaet-erkennen/) · [Armario empotrado a medida o armario de sistema](/magazin/einbauschrank-nach-mass-vs-system/) · [Cocina sin tiradores](/magazin/grifflose-kueche-vor-nachteile/) · [Doce errores en la planificación de la cocina](/magazin/kuechenplanung-fehler-vermeiden/)

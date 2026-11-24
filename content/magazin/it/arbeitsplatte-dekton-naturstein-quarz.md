@@ -131,6 +131,6 @@ Per la maggior parte delle pietre naturali si raccomanda un'impregnazione, che r
 
 Ha appena tolto la padella dal fuoco. Questa volta la appoggia, senza esitare, e il piano resta com'era. Questo è ciò che un piano giusto Le restituisce: serenità a ogni pasto. Per trovarlo, il primo passo è una telefonata.
 
-Ci chiami oppure prenoti il colloquio iniziale: è gratuito, dura 30 minuti, è senza impegno e si svolge per telefono o in video. Parliamo delle Sue abitudini e dei Suoi desideri e Le diamo una prima valutazione onesta su quale piano faccia per Lei. Poi riceverà una scheda di progetto, sulla base della quale prepariamo la campionatura. Esempi del nostro lavoro li trova alla pagina [Referenze](/referenzen/).
+Ci chiami oppure prenoti il colloquio iniziale: dura 30 minuti, è senza impegno e si svolge per telefono o in video. Parliamo delle Sue abitudini e dei Suoi desideri e Le diamo una prima valutazione onesta su quale piano faccia per Lei. Poi riceverà una scheda di progetto, sulla base della quale prepariamo la campionatura. Esempi del nostro lavoro li trova alla pagina [Referenze](/referenzen/).
 
 **Da leggere:** [Dekton spiegato](/magazin/dekton-was-ist-das/) · [Ante di cucina a confronto](/magazin/kuechenfronten-lack-furnier-massivholz/) · [Progettare l'isola cucina](/magazin/kochinsel-planen-masse-abstaende/) · [Sostenibile significa durevole](/magazin/nachhaltige-materialien-langlebigkeit/)

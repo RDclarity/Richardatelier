@@ -156,7 +156,7 @@ A faint orientation light is highly recommended. It lets you find your way to th
 
 ## What happens next
 
-Go back to 6.15 on that January morning, the dark window, the mirror. Soon it can be a minute lit exactly as you need it. Call us, or book the free initial consultation: 30 minutes, by phone or video, without obligation. We talk about your routines in the morning and in the evening, and on the basis of photos and the floor plan we give you an honest first assessment of which lighting solutions make sense in your bathroom.
+Go back to 6.15 on that January morning, the dark window, the mirror. Soon it can be a minute lit exactly as you need it. Call us, or book the initial consultation: 30 minutes, by phone or video, without obligation. We talk about your routines in the morning and in the evening, and on the basis of photos and the floor plan we give you an honest first assessment of which lighting solutions make sense in your bathroom.
 
 Afterwards you receive a project sheet with the next steps. One contact stays with you from the first plan to the day the mirror light is switched on, and our joinery workshop Tischlerkultur, a Viennese carpentry tradition since 1935, builds the vanity unit with the light already in it. Call us, and let the next morning begin with a clear face in a clear light.
 

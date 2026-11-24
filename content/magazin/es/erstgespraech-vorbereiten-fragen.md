@@ -2,7 +2,7 @@
 slug: preparar-primera-conversacion-interiorista
 source_slug: erstgespraech-vorbereiten-fragen
 title: Primera conversación con el interiorista: preguntas y buena preparación
-description: Primera conversación con el interiorista en Viena: qué preguntas le haremos, qué llevar y cómo salir con las ideas claras, gratis y sin compromiso.
+description: Primera conversación con el interiorista en Viena: qué preguntas le haremos, qué llevar y cómo salir con las ideas claras, sin compromiso.
 category: prozess
 cta: gesamtkonzept
 keywords: primera conversación interiorista, preparar reunión interiorista, ficha de proyecto interiorismo, preguntas al interiorista
@@ -13,7 +13,7 @@ date: 2026-11-05
 ---
 # Primera conversación con el interiorista: preguntas y buena preparación
 
-**En resumen:** La primera conversación con un interiorista sirve para entender su proyecto, aclarar el marco y comprobar si la colaboración encaja. En Richard Atelier dura 30 minutos, es gratuita y se realiza por teléfono o por videollamada. La mejor preparación es una lista breve de lo que no funciona en su día a día, algunas fotos, un plano y una idea sincera del presupuesto y del plazo. Con eso, saldrá de la llamada con las ideas más claras que al empezar y con un primer paso concreto.
+**En resumen:** La primera conversación con un interiorista sirve para entender su proyecto, aclarar el marco y comprobar si la colaboración encaja. En Richard Atelier dura 30 minutos, se realiza por teléfono o por videollamada. La mejor preparación es una lista breve de lo que no funciona en su día a día, algunas fotos, un plano y una idea sincera del presupuesto y del plazo. Con eso, saldrá de la llamada con las ideas más claras que al empezar y con un primer paso concreto.
 
 Es la víspera de la cita y usted está sentado ante una hoja en blanco, sin saber por dónde empezar. ¿Qué se le preguntará? ¿Y si ni siquiera sabe lo que quiere? Ahora imagine colgar el teléfono, treinta minutos después, con la sensación de que alguien por fin ha entendido cómo vive usted, y con un primer paso claro en la mano.
 
@@ -23,7 +23,7 @@ Llamémosles la familia H. Una casa en Perchtoldsdorf, construida en 1974, habit
 
 Una primera conversación es el primer encuentro estructurado entre los propietarios y el interiorista. Aclara de qué se trata, qué estancias están afectadas, qué marco es realista y si ambas partes encajan. No es una charla comercial ni un proyecto, sino un inventario conjunto de la situación de partida.
 
-En Richard Atelier, la primera conversación dura 30 minutos. Es gratuita y se realiza por teléfono o por videollamada, según lo que usted prefiera. La videollamada tiene la ventaja de que puede mostrarnos brevemente una estancia. El teléfono tiene la ventaja de que puede recorrer la vivienda mientras habla, sin tener que estar pendiente de una pantalla.
+En Richard Atelier, la primera conversación dura 30 minutos. Se realiza por teléfono o por videollamada, según lo que usted prefiera. La videollamada tiene la ventaja de que puede mostrarnos brevemente una estancia. El teléfono tiene la ventaja de que puede recorrer la vivienda mientras habla, sin tener que estar pendiente de una pantalla.
 
 El desarrollo es sencillo. En los primeros minutos usted cuenta qué tiene previsto y por qué. Luego hacemos preguntas que ayudan a situar el proyecto. Al final comentamos los siguientes pasos. Cómo encaja esta primera cita en el conjunto del proceso lo describe el artículo [Trabajar con un interiorista](/magazin/innenarchitekt-ablauf-zusammenarbeit/).
 
@@ -115,7 +115,7 @@ Si una casa como la de la familia H. debe repensarse tras la marcha de los hijos
 
 ### ¿Cuánto dura la primera conversación y cuánto cuesta?
 
-En Richard Atelier, la primera conversación dura 30 minutos y es gratuita. Se realiza por teléfono o por videollamada. Después recibirá, a partir de sus fotos y del plano, una ficha de proyecto con la situación de partida y los siguientes pasos. Es un rato de conversación, no un compromiso.
+En Richard Atelier, la primera conversación dura 30 minutos. Se realiza por teléfono o por videollamada. Después recibirá, a partir de sus fotos y del plano, una ficha de proyecto con la situación de partida y los siguientes pasos. Es un rato de conversación, no un compromiso.
 
 ### ¿Tengo que saber ya con exactitud lo que quiero?
 
@@ -139,6 +139,6 @@ No. La primera conversación y la ficha de proyecto no le obligan a nada. Despu�
 
 ## Cómo continuar
 
-Vuelva a esa hoja en blanco de la víspera. No tiene por qué llenarla sola. Llámenos o reserve su primera conversación: 30 minutos gratuitos, sin compromiso, por teléfono o por videollamada. Usted cuenta cómo vive, nosotros preguntamos, y al final le damos una primera valoración sincera de su proyecto, aunque todavía sea vago. Si decide seguir, lo recogemos todo en una ficha de proyecto, y una sola persona le acompaña desde el primer trazo hasta la entrega. Así sabrá en poco tiempo dónde está y cuál es el siguiente paso con sentido.
+Vuelva a esa hoja en blanco de la víspera. No tiene por qué llenarla sola. Llámenos o reserve su primera conversación: 30 minutos sin compromiso, por teléfono o por videollamada. Usted cuenta cómo vive, nosotros preguntamos, y al final le damos una primera valoración sincera de su proyecto, aunque todavía sea vago. Si decide seguir, lo recogemos todo en una ficha de proyecto, y una sola persona le acompaña desde el primer trazo hasta la entrega. Así sabrá en poco tiempo dónde está y cuál es el siguiente paso con sentido.
 
 **Lea también:** [Trabajar con un interiorista](/magazin/innenarchitekt-ablauf-zusammenarbeit/) · [Un concepto de vida en lugar de una decoración](/magazin/lebenskonzept-statt-einrichtung/) · [¿Cuánto cuesta un proyecto integral?](/magazin/was-kostet-innenarchitektur-gesamtkonzept/) · [Del primer trazo a la mudanza](/magazin/vom-erstgespraech-zum-fertigen-zuhause-geschichte/)

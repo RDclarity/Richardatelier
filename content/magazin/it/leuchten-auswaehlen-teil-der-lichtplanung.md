@@ -2,7 +2,7 @@
 slug: scegliere-lampade-progetto-illuminotecnico
 source_slug: leuchten-auswaehlen-teil-der-lichtplanung
 title: Scegliere le lampade: la luce giusta per le Sue sere, prima del disegno della lampada
-description: Scegliere lampade di design a Vienna: quale compito ha una lampada e come contano posizione, altezza, colore e abbagliamento. Colloquio gratuito.
+description: Scegliere lampade di design a Vienna: quale compito ha una lampada e come contano posizione, altezza, colore e abbagliamento. Colloquio.
 category: marken
 cta: wohnen
 keywords: scegliere lampade di design, lampade progetto della luce, sospensione sopra il tavolo
@@ -133,6 +133,6 @@ Non necessariamente, perché i LED integrati permettono forme molto sottili e, s
 
 ## Come si prosegue
 
-Torni a quella sera sul divano con la luce dalla parte sbagliata. Tra qualche mese si siede, e la lampada è lì: morbida sulla pagina, senza abbagliare, con una stanza calda tutt'intorno. Il primo passo è una telefonata. Ci chiami o prenoti il primo colloquio: è gratuito, dura 30 minuti, senza impegno, per telefono o in video. Parliamo di come usa i Suoi spazi e di dove manca la luce, e Le diamo una prima valutazione sincera. Poi riceve una scheda di progetto. Come luce e arredo interagiscano negli ambienti finiti lo vede nei nostri [progetti realizzati](/referenzen/).
+Torni a quella sera sul divano con la luce dalla parte sbagliata. Tra qualche mese si siede, e la lampada è lì: morbida sulla pagina, senza abbagliare, con una stanza calda tutt'intorno. Il primo passo è una telefonata. Ci chiami o prenoti il primo colloquio: dura 30 minuti, senza impegno, per telefono o in video. Parliamo di come usa i Suoi spazi e di dove manca la luce, e Le diamo una prima valutazione sincera. Poi riceve una scheda di progetto. Come luce e arredo interagiscano negli ambienti finiti lo vede nei nostri [progetti realizzati](/referenzen/).
 
 **Da leggere:** [Progettazione della luce per la casa](/magazin/lichtplanung-wohnung-grundlagen/) · [Illuminazione della cucina su tre livelli](/magazin/kueche-beleuchtung-drei-ebenen/) · [Pianificare l'impianto elettrico in anticipo](/magazin/elektroplanung-steckdosen-vorher-denken/) · [Progettare il tavolo come centro della sala da pranzo](/magazin/esszimmer-tisch-als-mittelpunkt/)

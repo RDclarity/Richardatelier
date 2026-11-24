@@ -140,7 +140,7 @@ No, but the shade and the design language should match. Different whites are qui
 
 ## What happens next
 
-Go back to 6:40 in the morning and the door that almost hits the basin. Soon it can be a minute you do not even notice. Whether a slim basin changes your bathroom can often be seen from a floor plan and a few photos. Call us, or book the free first meeting: 30 minutes, by phone or video, without obligation. We discuss how you use your bathroom and where centimetres are missing, and give you an honest first assessment.
+Go back to 6:40 in the morning and the door that almost hits the basin. Soon it can be a minute you do not even notice. Whether a slim basin changes your bathroom can often be seen from a floor plan and a few photos. Call us, or book the first meeting: 30 minutes, by phone or video, without obligation. We discuss how you use your bathroom and where centimetres are missing, and give you an honest first assessment.
 
 Afterwards you receive a project sheet, and one contact stays with you from the first line to the last fitting. You will find more about our work on the pages on [bathroom renovation](/badrenovierung/) and the [bathroom](/badezimmer/). Call us, and let the next morning have the room it deserves.
 

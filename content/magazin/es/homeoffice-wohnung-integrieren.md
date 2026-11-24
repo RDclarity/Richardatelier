@@ -136,6 +136,6 @@ No necesariamente, pero suelen ser útiles enchufes adicionales a la altura de l
 
 ## Cómo continuar
 
-Piense en esa media hora de las seis, con el portátil en una mano y los platos por poner. Llámenos o reserve su primera conversación: 30 minutos gratuitos, sin compromiso, por teléfono o por videollamada. Hablamos de cómo trabaja usted, buscamos en su vivienda el lugar adecuado y le damos una primera valoración honesta. Si decide seguir, recibirá una ficha de proyecto con las primeras ideas, y una sola persona le acompaña hasta la entrega. Encontrará ejemplos de obras integradas también en [Referencias](/referenzen/).
+Piense en esa media hora de las seis, con el portátil en una mano y los platos por poner. Llámenos o reserve su primera conversación: 30 minutos sin compromiso, por teléfono o por videollamada. Hablamos de cómo trabaja usted, buscamos en su vivienda el lugar adecuado y le damos una primera valoración honesta. Si decide seguir, recibirá una ficha de proyecto con las primeras ideas, y una sola persona le acompaña hasta la entrega. Encontrará ejemplos de obras integradas también en [Referencias](/referenzen/).
 
 **Lea también:** [Armario empotrado a medida o armario modular](/magazin/einbauschrank-nach-mass-vs-system/) · [La biblioteca en casa](/magazin/bibliothek-lesezimmer-zuhause/) · [Proyecto eléctrico](/magazin/elektroplanung-steckdosen-vorher-denken/) · [Amueblar el salón sin pared de televisión](/magazin/wohnzimmer-einrichten-ohne-fernseherwand/)

@@ -150,6 +150,6 @@ No hay un único mejor momento. Resulta razonable una fase de obra en la que la 
 
 ## Cómo continuar
 
-Vuelva a esa cola de la ducha, con la mirada en las juntas oscuras. Puede ser la última vez. Llámenos o reserve su primera conversación: 30 minutos gratuitos, sin compromiso, por teléfono o por videollamada. Hablamos de su día a día y de su baño, aclaramos qué plazo le conviene y qué decisiones hay que tomar y cuándo, y le damos una primera valoración honesta. Si decide seguir, recibirá una ficha del proyecto que hace visible el camino hasta la primera ducha. Quién responde de la planificación en nuestro estudio lo verá en [Equipo](/team/).
+Vuelva a esa cola de la ducha, con la mirada en las juntas oscuras. Puede ser la última vez. Llámenos o reserve su primera conversación: 30 minutos sin compromiso, por teléfono o por videollamada. Hablamos de su día a día y de su baño, aclaramos qué plazo le conviene y qué decisiones hay que tomar y cuándo, y le damos una primera valoración honesta. Si decide seguir, recibirá una ficha del proyecto que hace visible el camino hasta la primera ducha. Quién responde de la planificación en nuestro estudio lo verá en [Equipo](/team/).
 
 **Lea también:** [Reformar el cuarto de baño en Viena](/magazin/badezimmer-renovieren-wien-leitfaden/) · [Fuera la bañera, dentro la ducha](/magazin/badewanne-raus-dusche-rein/) · [Cerámica de gran formato en el baño](/magazin/grossformatige-fliesen-bad-fugen/) · [Baño accesible con diseño](/magazin/bad-altersgerecht-barrierefrei-design/)

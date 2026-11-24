@@ -148,6 +148,6 @@ Glas lässt sich mit einem weichen Tuch und klarem Wasser oder mildem Glasreinig
 
 Beim nächsten Call brauchen Sie vielleicht kein „Moment, ich mute mich kurz“ mehr. Sie schieben die Tür zu, es wird still genug, und durch das Glas sehen Sie, wie drüben gekocht wird. Nach dem letzten Termin geht sie wieder auf, und der Raum ist einfach wieder einer.
 
-Rufen Sie uns an, gern in der nächsten Mittagspause, oder buchen Sie ein Erstgespräch: 30 Minuten, kostenlos und unverbindlich, am Telefon oder per Video. Wir klären, wo Sie Verbindung brauchen und wo Trennung, und Sie bekommen eine ehrliche erste Einschätzung. Aus Fotos und Grundriss wird danach ein Projektblatt. Beispiele aus unserer Arbeit finden Sie in den [Referenzen](/referenzen/), Ihr Gespräch vereinbaren Sie unter [Termin](/termin/).
+Rufen Sie uns an, gern in der nächsten Mittagspause, oder buchen Sie ein Erstgespräch: 30 Minuten, unverbindlich, am Telefon oder per Video. Wir klären, wo Sie Verbindung brauchen und wo Trennung, und Sie bekommen eine ehrliche erste Einschätzung. Aus Fotos und Grundriss wird danach ein Projektblatt. Beispiele aus unserer Arbeit finden Sie in den [Referenzen](/referenzen/), Ihr Gespräch vereinbaren Sie unter [Termin](/termin/).
 
 **Weiterlesen:** [Raumübergänge gestalten](/magazin/raumuebergaenge-gestalten-grundlagen/) · [Schiebetüren und Systeme](/magazin/schiebetueren-glassysteme-raeume-trennen/) · [Begehbare Ankleide planen](/magazin/begehbare-ankleide-planen-masse/) · [Tageslicht nutzen](/magazin/tageslicht-nutzen-fenster-spiegel-farbe/)

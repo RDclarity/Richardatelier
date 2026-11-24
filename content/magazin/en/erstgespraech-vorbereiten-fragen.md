@@ -2,7 +2,7 @@
 slug: preparing-initial-consultation-interior-designer
 source_slug: erstgespraech-vorbereiten-fragen
 title: The Initial Consultation with an Interior Designer: How to Prepare and What We Ask
-description: Prepare for a free initial consultation with an interior designer in Vienna: the questions we ask, what to bring and what goes into your project sheet.
+description: Prepare for a initial consultation with an interior designer in Vienna: the questions we ask, what to bring and what goes into your project sheet.
 category: prozess
 cta: gesamtkonzept
 keywords: initial consultation interior designer, preparing a design consultation, interior design project sheet, first meeting interior designer, questions for an interior designer
@@ -13,7 +13,7 @@ date: 2026-11-05
 ---
 # The Initial Consultation with an Interior Designer: How to Prepare and What We Ask
 
-**In short:** The initial consultation with an interior designer serves to understand your project, clarify the frame and check whether the collaboration is a good fit. At Richard Atelier it lasts 30 minutes, is free of charge, commits you to nothing and takes place by phone or video. You are best prepared with a short list of what does not work in daily life, a few photos, a floor plan and an honest idea of budget and timeframe. You do not need to know what you want, only how you live.
+**In short:** The initial consultation with an interior designer serves to understand your project, clarify the frame and check whether the collaboration is a good fit. At Richard Atelier it lasts 30 minutes, is commits you to nothing and takes place by phone or video. You are best prepared with a short list of what does not work in daily life, a few photos, a floor plan and an honest idea of budget and timeframe. You do not need to know what you want, only how you live.
 
 It is the evening before the call. You sit at the dining table with a blank sheet of paper and a pen that does not move, because you do not know where to begin. Now imagine the call a day later: you talk about your mornings, someone listens, and the blank sheet fills with exactly the points you were worried about forgetting.
 
@@ -23,7 +23,7 @@ Let us call them the H. family. A house in Perchtoldsdorf, built in 1974, lived 
 
 An initial consultation is the first structured conversation between client and interior designer. It clarifies what the project is about, which rooms are affected, which frame is realistic and whether both sides suit one another. It is neither a sales pitch nor planning, but a joint stocktake of the starting point.
 
-At Richard Atelier the initial consultation lasts 30 minutes. It is free and takes place by phone or video, whichever you prefer. Video has the advantage that you can briefly show us a room. The phone has the advantage that you can walk through the flat while talking, without having to watch a screen.
+At Richard Atelier the initial consultation lasts 30 minutes. It takes place by phone or video, whichever you prefer. Video has the advantage that you can briefly show us a room. The phone has the advantage that you can walk through the flat while talking, without having to watch a screen.
 
 The sequence is simple. In the first few minutes you tell us what you are planning and why. Then we ask questions that help place the project. At the end we discuss the next steps, and you leave with an honest first assessment. How this first appointment fits into the overall project sequence is described in the article [Working with an interior designer](/magazin/innenarchitekt-ablauf-zusammenarbeit/).
 
@@ -115,7 +115,7 @@ If a house like the H. family's is to be rethought after the children have moved
 
 ### How long does the initial consultation take and what does it cost?
 
-At Richard Atelier the initial consultation lasts 30 minutes and is free of charge. It takes place by phone or video. Afterwards, on the basis of your photos and the floor plan, you receive a project sheet with the starting point and next steps.
+At Richard Atelier the initial consultation lasts 30 minutes. It takes place by phone or video. Afterwards, on the basis of your photos and the floor plan, you receive a project sheet with the starting point and next steps.
 
 ### Do I have to know exactly what I want?
 
@@ -139,7 +139,7 @@ No. The initial consultation and the project sheet commit you to nothing. Afterw
 
 ## What happens next
 
-Come back to the blank sheet on the dining table. If you have a project in mind, even a vague one, the free 30-minute initial consultation is the simplest way to sort it out.
+Come back to the blank sheet on the dining table. If you have a project in mind, even a vague one, the 30-minute initial consultation is the simplest way to sort it out.
 
 Call us or book the call. You tell us how you live, we ask questions, and you receive an honest first assessment, by phone or video, with no obligation. Afterwards you send us a few photos and a floor plan, and we record everything in a project sheet. Within days you will know where you stand and what makes sense next, and the sheet that stayed blank has become the first page of your plan.
 

@@ -124,7 +124,7 @@ Para nuestra pareja de la Josefstadt pasaron al final cuatro meses entre la prim
 La obra propiamente dicha de un baño típico suele durar entre tres y seis semanas. Con la planificación, la selección de muestras y los plazos de entrega conviene prever en total de tres a seis meses. En el Altbau, hallazgos inesperados tras las paredes pueden costar tiempo adicional.
 
 ### ¿Cuánto cuesta una reforma de baño en Viena?
-El precio real depende del tamaño, del estado de las conducciones, de los materiales y del equipamiento. Una estimación fiable la recibe en la primera consulta, tras una visita y un primer proyecto. La primera conversación es gratuita y no le compromete a nada.
+El precio real depende del tamaño, del estado de las conducciones, de los materiales y del equipamiento. Una estimación fiable la recibe en la primera consulta, tras una visita y un primer proyecto. La primera conversación no le compromete a nada.
 
 ### ¿Necesito un permiso para reformar el baño?
 La renovación del baño dentro del espacio existente no requiere licencia en muchos casos. Si se tocan elementos portantes, conductos o partes comunes del edificio, hacen falta autorizaciones de la administración de la finca, de los propietarios o de la autoridad. Lo aclaramos caso por caso antes de empezar la obra.
@@ -140,6 +140,6 @@ Técnicamente, el paso más importante es la impermeabilización, porque es invi
 
 ## Cómo continuar
 
-Vuelva a esas 6:40, con la cortina en una mano y el champú en la otra. Llámenos o reserve su primera conversación: 30 minutos gratuitos, sin compromiso, por teléfono o por videollamada. Hablamos de su día a día, miramos las fotos y la planta y le damos una primera valoración honesta del alcance. Si decide seguir, recibirá una ficha de proyecto con los siguientes pasos, y la misma persona le acompaña hasta su primera ducha en el baño nuevo.
+Vuelva a esas 6:40, con la cortina en una mano y el champú en la otra. Llámenos o reserve su primera conversación: 30 minutos sin compromiso, por teléfono o por videollamada. Hablamos de su día a día, miramos las fotos y la planta y le damos una primera valoración honesta del alcance. Si decide seguir, recibirá una ficha de proyecto con los siguientes pasos, y la misma persona le acompaña hasta su primera ducha en el baño nuevo.
 
 **Lea también:** [Piedra natural en el baño](/magazin/naturstein-im-bad-pflege-mythen/) · [Cerámica de gran formato en el baño](/magazin/grossformatige-fliesen-bad-fugen/) · [Cómo elegir bien la grifería](/magazin/armaturen-auswahl-messing-edelstahl/) · [Baño accesible con vocación de diseño](/magazin/bad-altersgerecht-barrierefrei-design/)

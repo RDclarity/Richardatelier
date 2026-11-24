@@ -151,7 +151,7 @@ A little, because the profile takes a few centimetres of height from the drawers
 
 ## What happens next
 
-Return to the sofa after dinner, to the quiet wall of oak and black. Whether handleless, with a rail or with classic handles, the decision is best made with your daily life and your fronts in view. Call us, or book the free initial consultation: 30 minutes, by phone or video, without obligation, with an honest first assessment of which system suits you.
+Return to the sofa after dinner, to the quiet wall of oak and black. Whether handleless, with a rail or with classic handles, the decision is best made with your daily life and your fronts in view. Call us, or book the initial consultation: 30 minutes, by phone or video, without obligation, with an honest first assessment of which system suits you.
 
 Afterwards you receive a project sheet with the most important questions for your new kitchen, and you decide in your own time. You will find examples of our work under [References](/referenzen/). Call us, and let the first drawer you open be one you have already tried in your mind.
 

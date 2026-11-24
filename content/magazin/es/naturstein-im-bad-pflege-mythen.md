@@ -142,6 +142,6 @@ La piedra natural pulida resbala cuando está mojada y, por tanto, no es apta pa
 
 ## Cómo continuar
 
-Vuelva a esa muestra sobre el mostrador. No tiene por qué dejarla allí. Llámenos o reserve su primera conversación: 30 minutos gratuitos, sin compromiso, por teléfono o por videollamada. Hablamos de su día a día y de lo que espera de la piedra, y le damos una primera valoración honesta de qué piedra conviene a cada superficie. Si decide seguir, recibirá una ficha de proyecto con los siguientes pasos, y la misma persona le acompaña hasta la entrega.
+Vuelva a esa muestra sobre el mostrador. No tiene por qué dejarla allí. Llámenos o reserve su primera conversación: 30 minutos sin compromiso, por teléfono o por videollamada. Hablamos de su día a día y de lo que espera de la piedra, y le damos una primera valoración honesta de qué piedra conviene a cada superficie. Si decide seguir, recibirá una ficha de proyecto con los siguientes pasos, y la misma persona le acompaña hasta la entrega.
 
 **Lea también:** [Reformar el cuarto de baño en Viena](/magazin/badezimmer-renovieren-wien-leitfaden/) · [Terrazo para suelo y lavabo](/magazin/terrazzo-comeback-boden-waschtisch/) · [Madera maciza en el interiorismo](/magazin/echtholz-im-innenausbau-eiche-nuss/) · [Sostenible significa duradero](/magazin/nachhaltige-materialien-langlebigkeit/)

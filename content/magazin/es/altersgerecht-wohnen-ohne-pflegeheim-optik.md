@@ -103,7 +103,7 @@ Nadie anota lo que cuesta esperar, pero se paga cada día: la bañera que se sub
 
 Para una transición sin umbrales entre estancias es ideal un suelo continuo, como se describe en el artículo sobre los [revestimientos de suelo continuos](/magazin/bodenbelag-durchgaengig-raeume-verbinden/). En la logia de nuestro matrimonio, una solución a un mismo nivel no es posible sin más a causa de la impermeabilización. Aquí el umbral se reduce hasta donde es técnicamente aceptable y se marca con luz mediante un escalón plano y continuo.
 
-Para las reformas accesibles existen en Viena y Baja Austria ayudas en parte. Cuáles están vigentes actualmente y qué requisitos hay que cumplir conviene comprobarlo con los organismos competentes antes de encargar la obra; con gusto tenemos esos requisitos en cuenta en la planificación. Sobre los costes: dependen del proyecto y del estado real de la vivienda, y en la primera conversación gratuita le damos una primera idea honesta. Otros ejemplos los encontrará en nuestra página [Baños](/badezimmer/).
+Para las reformas accesibles existen en Viena y Baja Austria ayudas en parte. Cuáles están vigentes actualmente y qué requisitos hay que cumplir conviene comprobarlo con los organismos competentes antes de encargar la obra; con gusto tenemos esos requisitos en cuenta en la planificación. Sobre los costes: dependen del proyecto y del estado real de la vivienda, y en la primera conversación le damos una primera idea honesta. Otros ejemplos los encontrará en nuestra página [Baños](/badezimmer/).
 
 ## Preguntas frecuentes
 
@@ -114,7 +114,7 @@ Vivir de forma adaptada a la edad significa que una vivienda sigue siendo segura
 La norma central es la ÖNORM B 1600 para la construcción accesible. Describe, entre otras cosas, superficies de maniobra, anchos de puerta y requisitos para estancias sanitarias. En reformas privadas sirve de orientación, aunque no todos los valores puedan alcanzarse en cada vivienda existente. No tiene que memorizar valores: nosotros los revisamos con usted en su vivienda.
 
 ### ¿Cómo es un baño accesible que no parezca clínico?
-Con ducha a ras de suelo, suelo continuo, un banco de obra en lugar de un asiento abatible y barras de apoyo que combinan con la grifería. Los refuerzos de pared se colocan de antemano, de modo que las barras solo se montan cuando hacen falta. Un lavabo a medida con cajones se usa bien de pie y sentado. Si quiere ver cómo quedaría en su baño, empezamos con una conversación de 30 minutos, gratuita.
+Con ducha a ras de suelo, suelo continuo, un banco de obra en lugar de un asiento abatible y barras de apoyo que combinan con la grifería. Los refuerzos de pared se colocan de antemano, de modo que las barras solo se montan cuando hacen falta. Un lavabo a medida con cajones se usa bien de pie y sentado. Si quiere ver cómo quedaría en su baño, empezamos con una conversación de 30 minutos.
 
 ### ¿Cuándo conviene reformar una vivienda para adaptarla a la edad?
 Lo mejor es hacerlo en una reforma ya prevista, antes de que sea urgente. Así las medidas de accesibilidad pueden integrarse en el diseño y a menudo cuestan apenas más. Bajo presión de tiempo, tras una caída o una operación, queda para ello poco margen. Cuanto antes se hable, más libertad hay para elegir.
@@ -129,6 +129,6 @@ Una ducha a ras de suelo necesita espacio para el desagüe y la pendiente. En al
 
 Vuelva a esa noche, a las tres de la madrugada. Imagine que se levanta, una luz suave marca el camino hasta el baño, el suelo es continuo y no hay un solo escalón con el que tropezar. Vuelve a la cama tranquilo, y por la mañana desayuna en la logia, en su casa, tal y como la quiso.
 
-Llámenos o reserve la primera conversación: 30 minutos, gratuitos, sin compromiso, por teléfono o videollamada. Escuchamos cómo quiere vivir, le damos una valoración honesta de las medidas que tienen sentido en su caso y preparamos con sus fotos y su plano una primera ficha del proyecto. Un solo interlocutor, del primer trazo a la entrega, y detrás de cada pieza un taller que va por su tercera generación.
+Llámenos o reserve la primera conversación: 30 minutos, sin compromiso, por teléfono o videollamada. Escuchamos cómo quiere vivir, le damos una valoración honesta de las medidas que tienen sentido en su caso y preparamos con sus fotos y su plano una primera ficha del proyecto. Un solo interlocutor, del primer trazo a la entrega, y detrás de cada pieza un taller que va por su tercera generación.
 
 **Lea también:** [Baño accesible con vocación de diseño](/magazin/bad-altersgerecht-barrierefrei-design/) · [Reorganizar la casa tras la marcha de los hijos](/magazin/neue-lebensphase-kinder-ausgezogen/) · [Proyecto integral para la vivienda](/magazin/gesamtkonzept-wohnung-was-bedeutet-das/) · [Planificación de la luz para la vivienda](/magazin/lichtplanung-wohnung-grundlagen/)

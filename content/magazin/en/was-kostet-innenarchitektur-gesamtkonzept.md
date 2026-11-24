@@ -142,6 +142,6 @@ A first assessment is possible after the site survey. The cost statement becomes
 
 Go back to that evening at the dining table with the quotes. Whether your project fits your budget is best clarified in conversation, and you do not need a number in your head before you call.
 
-Call us or book the free initial call. It takes 30 minutes by phone or video, costs nothing and commits you to nothing. We talk about scope, priorities and a realistic order of magnitude, and you receive an honest first assessment. Afterwards we summarise everything in a project sheet, on the basis of which you can decide at your leisure, and the question that kept you awake becomes a plan.
+Call us or book the initial call. It takes 30 minutes by phone or video, costs nothing and commits you to nothing. We talk about scope, priorities and a realistic order of magnitude, and you receive an honest first assessment. Afterwards we summarise everything in a project sheet, on the basis of which you can decide at your leisure, and the question that kept you awake becomes a plan.
 
 **Read next:** [A complete concept for the home](/magazin/gesamtkonzept-wohnung-was-bedeutet-das/), [What does a fitted kitchen cost in Vienna?](/magazin/was-kostet-eine-einbaukueche-wien/), [What does a bathroom renovation cost in Vienna?](/magazin/was-kostet-eine-badrenovierung-wien/), [Preparing for the initial consultation](/magazin/erstgespraech-vorbereiten-fragen/)

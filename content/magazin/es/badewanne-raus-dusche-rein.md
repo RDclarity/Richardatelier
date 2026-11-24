@@ -141,6 +141,6 @@ Sí. Una ducha somete al suelo y a las paredes a mucha más carga que una bañer
 
 Retroceda a esas siete de la mañana. Esta vez no hay borde ni mano apoyada en el lavabo: solo agua caliente, un suelo continuo y un baño que no necesita cuidados. Es el cambio que su mujer quiso hacer a tiempo.
 
-Descuelgue el teléfono o reserve la primera consulta: 30 minutos gratuitos, sin compromiso, por teléfono o videollamada. Con fotos y planta de su baño le decimos con sinceridad si su ducha puede quedar a ras de suelo y qué haría falta. Después recibe una ficha de proyecto con los siguientes pasos, y la decisión es suya.
+Descuelgue el teléfono o reserve la primera consulta: 30 minutos sin compromiso, por teléfono o videollamada. Con fotos y planta de su baño le decimos con sinceridad si su ducha puede quedar a ras de suelo y qué haría falta. Después recibe una ficha de proyecto con los siguientes pasos, y la decisión es suya.
 
 **Lea también:** [Reformar el cuarto de baño en Viena](/magazin/badezimmer-renovieren-wien-leitfaden/) · [Planificar una ducha a ras de suelo](/magazin/bodengleiche-dusche-planen/) · [¿Cuánto dura la reforma de un baño?](/magazin/badrenovierung-dauer-zeitplan/) · [Lavabo a medida](/magazin/waschtisch-nach-mass-stauraum/)

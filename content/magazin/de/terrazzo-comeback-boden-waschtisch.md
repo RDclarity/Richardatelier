@@ -147,6 +147,6 @@ Zementgebundener Ortterrazzo bringt erhebliches Gewicht und Aufbauhöhe mit. Bei
 
 Denken Sie an das Stiegenhaus, über das Sie täglich gehen. Stellen Sie sich vor, dieselbe Handwerkskunst wartet oben bei Ihnen, am Waschtisch oder gleich hinter der Wohnungstür, und Gäste bleiben stehen, um mit der Hand darüberzufahren.
 
-Ob Sie einen alten Terrazzo retten oder einen neuen planen: Rufen Sie uns an oder buchen Sie das Erstgespräch. 30 Minuten per Telefon oder Video, kostenlos und unverbindlich. Wir schauen auf Fotos und Grundriss und sagen Ihnen ehrlich, wo er passt und wo eine Alternative sinnvoller ist. Danach erhalten Sie ein Projektblatt als Grundlage. Wie wir Bäder von der Planung bis zur Übergabe begleiten, zeigt die Seite [Badrenovierung](/badrenovierung/).
+Ob Sie einen alten Terrazzo retten oder einen neuen planen: Rufen Sie uns an oder buchen Sie das Erstgespräch. 30 Minuten per Telefon oder Video, unverbindlich. Wir schauen auf Fotos und Grundriss und sagen Ihnen ehrlich, wo er passt und wo eine Alternative sinnvoller ist. Danach erhalten Sie ein Projektblatt als Grundlage. Wie wir Bäder von der Planung bis zur Übergabe begleiten, zeigt die Seite [Badrenovierung](/badrenovierung/).
 
 **Weiterlesen:** [Bodenbeläge im Vergleich](/magazin/bodenbelaege-vergleich-parkett-stein-keramik/) · [Waschtisch nach Maß](/magazin/waschtisch-nach-mass-stauraum/) · [Ankommen: Der Eingangsbereich](/magazin/eingangsbereich-ankommen-gestalten/) · [Heizen und Kühlen über Flächen](/magazin/heizen-kuehlen-flaechensysteme-wohnkomfort/)

@@ -139,6 +139,6 @@ A contingency of around ten per cent is a sensible rule of thumb, more in an Alt
 
 Think back to the 6:40 corridor. A year from now two people could stand at two basins, drawers closing softly, the shower bright and open, and nobody waiting for anyone.
 
-If you would like to renovate your bathroom and want a realistic assessment, call us or book the initial consultation online. It is free, takes 30 minutes, commits you to nothing and is held by phone or video. You get an honest first assessment, then send us photos and, if you have one, a floor plan, and we summarise the starting point and your wishes in a project sheet. That way you know early on what matters in your bathroom. Call us, and let the first cost question have a real answer.
+If you would like to renovate your bathroom and want a realistic assessment, call us or book the initial consultation online. It takes 30 minutes, commits you to nothing and is held by phone or video. You get an honest first assessment, then send us photos and, if you have one, a floor plan, and we summarise the starting point and your wishes in a project sheet. That way you know early on what matters in your bathroom. Call us, and let the first cost question have a real answer.
 
 **Read next:** [Renovating a bathroom in Vienna](/magazin/badezimmer-renovieren-wien-leitfaden/), [Planning a level-access shower](/magazin/bodengleiche-dusche-planen/), [How long does a bathroom renovation take?](/magazin/badrenovierung-dauer-zeitplan/), [Making a small bathroom feel large](/magazin/kleines-bad-gross-wirken-lassen/)

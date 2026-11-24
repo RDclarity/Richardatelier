@@ -119,7 +119,7 @@ Before you compare quotes, a short, honest preparation is worthwhile. We use the
 5. **Compare variants:** pure made-to-measure, hybrid, high-quality system. Costs depend heavily on material, height and interior fittings, so a direct comparison on the actual room is worthwhile.
 6. **Fit it into the schedule:** A built-in needs a site survey after plastering and before or after the flooring, depending on the detail. We coordinate this with the other trades.
 
-If you are reorganising the whole apartment, do not consider the wardrobe in isolation. A [storage concept for the whole apartment](/magazin/stauraumkonzept-ganze-wohnung/) distributes things to where they are needed and often makes individual wardrobes smaller. If you would like a second opinion before committing to either route, the first conversation is free, lasts 30 minutes and takes place by phone or video.
+If you are reorganising the whole apartment, do not consider the wardrobe in isolation. A [storage concept for the whole apartment](/magazin/stauraumkonzept-ganze-wohnung/) distributes things to where they are needed and often makes individual wardrobes smaller. If you would like a second opinion before committing to either route, the first conversation lasts 30 minutes and takes place by phone or video.
 
 ## Frequently asked questions
 
@@ -149,7 +149,7 @@ Yes, this is a common and sensible solution. The system supplies the interior an
 
 ## What happens next
 
-Back to the two documents on Anna and Thomas's kitchen table. A few months from now there could be one wall instead, flush with the ceiling, with a light that comes on as you reach for the door and a morning in which nothing slides off the shelf above. Whether made-to-measure, modular or hybrid, the right answer comes from your room and from what you keep in it. Call us or book the initial conversation: 30 minutes by phone or video, free, without obligation. We look at photos and the floor plan together and tell you frankly which solution we consider sensible, even when it is the modular one.
+Back to the two documents on Anna and Thomas's kitchen table. A few months from now there could be one wall instead, flush with the ceiling, with a light that comes on as you reach for the door and a morning in which nothing slides off the shelf above. Whether made-to-measure, modular or hybrid, the right answer comes from your room and from what you keep in it. Call us or book the initial conversation: 30 minutes by phone or video, without obligation. We look at photos and the floor plan together and tell you frankly which solution we consider sensible, even when it is the modular one.
 
 Afterwards you receive a project sheet as a basis for the next steps, and one person accompanies you from the site survey to installation. If you would like to meet the team behind planning and workshop, you will find them on the [Team](/team/) page.
 

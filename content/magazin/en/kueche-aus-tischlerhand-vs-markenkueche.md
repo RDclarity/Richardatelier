@@ -137,6 +137,6 @@ With a joinery kitchen the workshop makes a new front in matching material, thou
 
 Picture the Sunday morning in your kitchen again: the light, the surfaces, the drawer that glides to a stop. Whether it comes from a joinery, a brand or both is best seen in your actual room.
 
-Call us or book the free initial call. It lasts 30 minutes, takes place by phone or video, costs nothing and commits you to nothing. We look at your floor plan and your wishes and give you an honest first assessment of which route suits you. Afterwards you receive a project sheet with the next steps, and your kitchen begins to take shape on paper.
+Call us or book the initial call. It lasts 30 minutes, takes place by phone or video, costs nothing and commits you to nothing. We look at your floor plan and your wishes and give you an honest first assessment of which route suits you. Afterwards you receive a project sheet with the next steps, and your kitchen begins to take shape on paper.
 
 **Read next:** [Italian design: how to recognise quality](/magazin/italienisches-design-qualitaet-erkennen/) · [Made-to-measure fitted wardrobe or system wardrobe](/magazin/einbauschrank-nach-mass-vs-system/) · [The handleless kitchen](/magazin/grifflose-kueche-vor-nachteile/) · [Twelve mistakes in kitchen planning](/magazin/kuechenplanung-fehler-vermeiden/)

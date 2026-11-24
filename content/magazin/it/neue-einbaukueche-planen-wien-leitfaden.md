@@ -158,6 +158,6 @@ Non in piena libertà, perché scarico, espulsione dell'aria ed elettricità con
 
 È martedì sera. Ha in mano un coltello, ma stavolta il tagliere è sotto la mano, il bambino fa i compiti a due passi e la cena prende forma senza fretta. La Sua nuova cucina comincia con una telefonata, non con un'offerta.
 
-Ci chiami oppure prenoti il colloquio iniziale: è gratuito, dura 30 minuti, è senza impegno e si svolge per telefono o in video. Esaminiamo insieme locale, desideri e quadro del budget e Le diamo una prima valutazione onesta. Poi riceverà una scheda di progetto con foto, pianta e le domande più importanti per la Sua nuova cucina. Esempi del nostro lavoro li trova alla pagina [Referenze](/referenzen/).
+Ci chiami oppure prenoti il colloquio iniziale: dura 30 minuti, è senza impegno e si svolge per telefono o in video. Esaminiamo insieme locale, desideri e quadro del budget e Le diamo una prima valutazione onesta. Poi riceverà una scheda di progetto con foto, pianta e le domande più importanti per la Sua nuova cucina. Esempi del nostro lavoro li trova alla pagina [Referenze](/referenzen/).
 
 **Da leggere:** [Forme di cucina a confronto](/magazin/kuechenformen-l-u-insel-einzeilig/) · [Progettare l'isola cucina](/magazin/kochinsel-planen-masse-abstaende/) · [Quanto costa una cucina su misura a Vienna](/magazin/was-kostet-eine-einbaukueche-wien/) · [Dodici errori nella progettazione della cucina](/magazin/kuechenplanung-fehler-vermeiden/)

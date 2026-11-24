@@ -145,6 +145,6 @@ Nella maggior parte dei casi no, perché l'impegno di lavoro per più strati e t
 
 Quel bagno d'albergo che ha ancora negli occhi può essere il Suo, un mattino qualsiasi: pareti color sabbia, doccia a filo, la mano che sfiora una parete calda. Il primo passo è una telefonata.
 
-Ci chiami oppure prenoti il colloquio iniziale: è gratuito, dura 30 minuti, è senza impegno e si svolge per telefono o in video. Guardiamo foto e planimetria e Le diamo una prima valutazione onesta: dove la tecnica a spatola ha senso e dove sarebbe meglio un'alternativa. Riceverà poi una scheda di progetto come base. Come progettiamo e realizziamo i bagni lo mostrano le pagine sulla [ristrutturazione del bagno](/badrenovierung/) e sui [bagni](/badezimmer/).
+Ci chiami oppure prenoti il colloquio iniziale: dura 30 minuti, è senza impegno e si svolge per telefono o in video. Guardiamo foto e planimetria e Le diamo una prima valutazione onesta: dove la tecnica a spatola ha senso e dove sarebbe meglio un'alternativa. Riceverà poi una scheda di progetto come base. Come progettiamo e realizziamo i bagni lo mostrano le pagine sulla [ristrutturazione del bagno](/badrenovierung/) e sui [bagni](/badezimmer/).
 
 **Da leggere:** [Ceramica di grande formato in bagno](/magazin/grossformatige-fliesen-bad-fugen/) · [Il bagno nell'Altbau viennese](/magazin/bad-im-altbau-leitungen-hoehen/) · [Via la vasca, dentro la doccia](/magazin/badewanne-raus-dusche-rein/) · [Terrazzo per pavimento e lavabo](/magazin/terrazzo-comeback-boden-waschtisch/)

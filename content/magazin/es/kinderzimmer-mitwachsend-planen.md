@@ -140,6 +140,6 @@ Para niños de entre unos seis y diez años a menudo sí; después suelen gustar
 
 Retome ese domingo por la mañana. Esta vez el armario cierra, el suelo está libre para los bloques y usted sabe que la habitación estará lista para el próximo cambio sin tener que volver a comprarlo todo. Eso se decide hoy.
 
-Llame o reserve la primera consulta: 30 minutos gratuitos, sin compromiso, por teléfono o videollamada. Hablamos de su habitación, de su familia y de los próximos años, y le decimos con franqueza qué conviene fijar hoy y qué dejar abierto. De ahí sale una ficha de proyecto. Quien quiera ver antes cómo integramos las obras empotradas en las estancias habitables encontrará ejemplos en [Referencias](/referenzen/).
+Llame o reserve la primera consulta: 30 minutos sin compromiso, por teléfono o videollamada. Hablamos de su habitación, de su familia y de los próximos años, y le decimos con franqueza qué conviene fijar hoy y qué dejar abierto. De ahí sale una ficha de proyecto. Quien quiera ver antes cómo integramos las obras empotradas en las estancias habitables encontrará ejemplos en [Referencias](/referenzen/).
 
 **Lea también:** [Cuando la familia crece](/magazin/familie-waechst-wohnung-mitwachsen/) · [Concepto de almacenaje para toda la vivienda](/magazin/stauraumkonzept-ganze-wohnung/) · [Textiles, acústica y calidez del hogar](/magazin/textilien-vorhaenge-akustik-wohnlichkeit/) · [El dormitorio como espacio de descanso](/magazin/schlafzimmer-ruhe-planen/)

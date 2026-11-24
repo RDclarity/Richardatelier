@@ -133,6 +133,6 @@ Yes, in a lived-in room that is often even more natural than a uniform set. For 
 
 Take out your phone and look at those forty photos again. Next spring, perhaps eight of them could stand in your rooms, each chosen because it suits your light, your walls and your days.
 
-Simply bring the photos along. Call us or book the first meeting online: it is free, lasts 30 minutes, commits you to nothing and is held by phone or video. Together we sort what suits your house and your daily life, you get an honest first assessment, and afterwards you receive a project sheet. What this looks like in finished rooms is shown in our [references](/referenzen/). Call us, and turn forty photos into one home.
+Simply bring the photos along. Call us or book the first meeting online: it lasts 30 minutes, commits you to nothing and is held by phone or video. Together we sort what suits your house and your daily life, you get an honest first assessment, and afterwards you receive a project sheet. What this looks like in finished rooms is shown in our [references](/referenzen/). Call us, and turn forty photos into one home.
 
 **Read next:** [A whole-home concept for the apartment](/magazin/gesamtkonzept-wohnung-was-bedeutet-das/) · [Joiner-made kitchen or branded kitchen](/magazin/kueche-aus-tischlerhand-vs-markenkueche/) · [Material concept as a common thread](/magazin/materialkonzept-roter-faden-durch-alle-raeume/) · [Sustainable materials](/magazin/nachhaltige-materialien-langlebigkeit/)

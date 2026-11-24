@@ -107,7 +107,7 @@ Zu den Kosten: Einen Festpreis gibt es nicht, weil der Zustand der Bausubstanz s
 ## Häufige Fragen
 
 ### Was kostet es, eine Altbauwohnung in Wien zu sanieren?
-Das hängt stark vom Zustand der Wohnung und vom Umfang der Arbeiten ab, einen Festpreis gibt es nicht. Leitungen, Bad, Küche und Böden sind die großen Posten. Eine seriöse Zahl entsteht erst nach der Bestandsaufnahme und der Ausführungsplanung. Eine ehrliche erste Einordnung für Ihre Wohnung bekommen Sie aber schon im kostenlosen Erstgespräch.
+Das hängt stark vom Zustand der Wohnung und vom Umfang der Arbeiten ab, einen Festpreis gibt es nicht. Leitungen, Bad, Küche und Böden sind die großen Posten. Eine seriöse Zahl entsteht erst nach der Bestandsaufnahme und der Ausführungsplanung. Eine ehrliche erste Einordnung für Ihre Wohnung bekommen Sie aber schon im Erstgespräch.
 
 ### Kann man das alte Parkett im Altbau erhalten?
 Oft ja. Fischgrät- und Tafelparkett lässt sich in vielen Fällen abschleifen, ausbessern und neu ölen oder versiegeln. Fehlstellen werden mit Altholz ergänzt. Ob der Boden noch genug Nutzschicht hat, prüft ein Bodenleger vor Ort. Dieses Stück Geschichte ist also meist zu retten.
@@ -128,6 +128,6 @@ Die reine Bauzeit liegt bei einer Generalsanierung meist zwischen drei und sechs
 
 Der Samstagmorgen im leeren Salon muss keine Erinnerung bleiben: dasselbe Licht auf demselben Fischgrät, nur dass Sie jetzt barfuß in ein Bad gehen, das zu diesen Räumen passt.
 
-Der erste Schritt ist klein: 30 Minuten Erstgespräch, kostenlos und unverbindlich, am Telefon oder per Video. Wir fragen, wie Sie leben möchten, und sagen Ihnen ehrlich, worauf es bei Ihrem Altbau ankommt. Danach schicken Sie uns Fotos und Grundriss, wir erstellen daraus ein erstes Projektblatt, und Sie entscheiden, ob es weitergeht. Rufen Sie uns an oder buchen Sie Ihr Erstgespräch, am besten bevor die erste Wand aufgeht.
+Der erste Schritt ist klein: 30 Minuten Erstgespräch, unverbindlich, am Telefon oder per Video. Wir fragen, wie Sie leben möchten, und sagen Ihnen ehrlich, worauf es bei Ihrem Altbau ankommt. Danach schicken Sie uns Fotos und Grundriss, wir erstellen daraus ein erstes Projektblatt, und Sie entscheiden, ob es weitergeht. Rufen Sie uns an oder buchen Sie Ihr Erstgespräch, am besten bevor die erste Wand aufgeht.
 
 **Weiterlesen:** [Bad im Wiener Altbau](/magazin/bad-im-altbau-leitungen-hoehen/) · [Genehmigungen im Altbau](/magazin/genehmigungen-altbau-wien-umbau/) · [Der realistische Zeitplan einer Sanierung](/magazin/sanierung-zeitplan-realistisch/) · [Das Materialkonzept als roter Faden](/magazin/materialkonzept-roter-faden-durch-alle-raeume/)

@@ -127,6 +127,6 @@ En la mayoría de las piedras naturales se recomienda una impregnación que rale
 
 ## Cómo continuar
 
-Vuelva a la sartén caliente y al limón derramado. Esta vez no hay duda ni trapo apresurado: cocina como quiere. Llámenos o reserve el primer encuentro en línea: son 30 minutos gratuitos y sin compromiso, por teléfono o por videollamada. Usted nos cuenta cómo cocina y nosotros le damos una primera valoración sincera de qué material le conviene. Después recibirá una ficha de proyecto sobre cuya base prepararemos la selección de muestras, y la misma persona le acompaña hasta la entrega. Ejemplos de nuestro trabajo los encontrará en [Referencias](/referenzen/).
+Vuelva a la sartén caliente y al limón derramado. Esta vez no hay duda ni trapo apresurado: cocina como quiere. Llámenos o reserve el primer encuentro en línea: son 30 minutos sin compromiso, por teléfono o por videollamada. Usted nos cuenta cómo cocina y nosotros le damos una primera valoración sincera de qué material le conviene. Después recibirá una ficha de proyecto sobre cuya base prepararemos la selección de muestras, y la misma persona le acompaña hasta la entrega. Ejemplos de nuestro trabajo los encontrará en [Referencias](/referenzen/).
 
 **Lea también:** [Dekton explicado](/magazin/dekton-was-ist-das/) · [Frentes de cocina comparados](/magazin/kuechenfronten-lack-furnier-massivholz/) · [Planificar la isla de cocina](/magazin/kochinsel-planen-masse-abstaende/) · [Sostenible significa duradero](/magazin/nachhaltige-materialien-langlebigkeit/)

@@ -136,6 +136,6 @@ Entonces se examina la situación, en su caso con un ingeniero de estructuras, y
 
 ## Cómo continuar
 
-Vuelva a febrero, a las cuentas sobre un papel y a septiembre en el horizonte. Imagine que el primer día de colegio llega con todo terminado. Si tiene una fecha de mudanza en mente, llámenos o reserve el primer encuentro en línea: son 30 minutos gratuitos y sin compromiso, por teléfono o por videollamada. Aclaramos qué marco es realista para su proyecto y qué decisiones hay que tomar primero, y le damos una primera valoración sincera. Después recibirá una ficha de proyecto que recoge los siguientes pasos.
+Vuelva a febrero, a las cuentas sobre un papel y a septiembre en el horizonte. Imagine que el primer día de colegio llega con todo terminado. Si tiene una fecha de mudanza en mente, llámenos o reserve el primer encuentro en línea: son 30 minutos sin compromiso, por teléfono o por videollamada. Aclaramos qué marco es realista para su proyecto y qué decisiones hay que tomar primero, y le damos una primera valoración sincera. Después recibirá una ficha de proyecto que recoge los siguientes pasos.
 
 **Lea también:** [Reformas en el Altbau vienés: permisos](/magazin/genehmigungen-altbau-wien-umbau/) · [¿Cuánto dura una reforma de baño?](/magazin/badrenovierung-dauer-zeitplan/) · [Rediseñar una casa por completo](/magazin/haus-komplett-neu-gestalten-ablauf/) · [Trabajar con un interiorista](/magazin/innenarchitekt-ablauf-zusammenarbeit/)

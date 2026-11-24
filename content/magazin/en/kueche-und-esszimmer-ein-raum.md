@@ -133,6 +133,6 @@ As a guide, we plan 60 to 70 centimetres of table width per person. For four peo
 
 ## What happens next
 
-Dinner is over, and nobody leaves the table. You carry the plates three steps to the island, you stay inside the story, and the candles keep burning. Take the first step by phone or online: a conversation of 30 minutes, free and without obligation, held by phone or video. Send photos and plans if you have them. We give you an honest first assessment of which arrangement suits your floor plan, your structure and the way you live, and then a project sheet with the next steps.
+Dinner is over, and nobody leaves the table. You carry the plates three steps to the island, you stay inside the story, and the candles keep burning. Take the first step by phone or online: a conversation of 30 minutes, without obligation, held by phone or video. Send photos and plans if you have them. We give you an honest first assessment of which arrangement suits your floor plan, your structure and the way you live, and then a project sheet with the next steps.
 
 **Read next:** [Designing room transitions](/magazin/raumuebergaenge-gestalten-grundlagen/) · [The kitchen for hosts](/magazin/kueche-fuer-gastgeber-planen/) · [As the family grows, the home grows with it](/magazin/familie-waechst-wohnung-mitwachsen/) · [Planning a new fitted kitchen in Vienna](/magazin/neue-einbaukueche-planen-wien-leitfaden/)

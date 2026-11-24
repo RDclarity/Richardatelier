@@ -165,6 +165,6 @@ La demolizione vera e propria di una parete non portante dura di solito pochi gi
 
 Torni alla sera in cui sta mescolando il sugo e sente ridere dall'altra parte del muro. Tra qualche mese Lei potrebbe alzare lo sguardo, incrociare quello degli ospiti e restare dentro la conversazione. Il primo passo è una telefonata.
 
-Ci chiami oppure prenoti il colloquio iniziale: è gratuito, dura 30 minuti, è senza impegno e si svolge per telefono o in video. Parliamo della Sua vita quotidiana, guardiamo la planimetria e Le diamo una prima valutazione onesta: quale forma di apertura fa per Lei, e se la parete possa davvero cadere. Poi riceverà una scheda di progetto con foto e planimetria come base. Esempi di cucine aperte li trova nelle [referenze](/referenzen/).
+Ci chiami oppure prenoti il colloquio iniziale: dura 30 minuti, è senza impegno e si svolge per telefono o in video. Parliamo della Sua vita quotidiana, guardiamo la planimetria e Le diamo una prima valutazione onesta: quale forma di apertura fa per Lei, e se la parete possa davvero cadere. Poi riceverà una scheda di progetto con foto e planimetria come base. Esempi di cucine aperte li trova nelle [referenze](/referenzen/).
 
 **Da leggere:** [Rimuovere una parete portante a Vienna](/magazin/tragende-wand-entfernen-wien-was-geht/) · [Progettare le transizioni tra gli ambienti](/magazin/raumuebergaenge-gestalten-grundlagen/) · [Acustica nella zona giorno aperta](/magazin/akustik-im-offenen-wohnraum/) · [Semiaperto invece di aperto](/magazin/halboffene-grundrisse-schiebetueren-glas/)

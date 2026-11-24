@@ -118,6 +118,6 @@ Grundsätzlich ja, aber Statik, Abdichtung, Wasser- und Stromanschluss müssen g
 
 Erinnern Sie sich an den Juliabend vom Anfang, die Hand vor den Augen, das heiße Sofa? So kann es enden: Die Beschattung hat längst gearbeitet, die Schiebetür steht offen, der Tisch ist für zehn gedeckt. Über Wien wird es rosa, und Sie sind angekommen.
 
-Rufen Sie uns an, notfalls vom Rohbau aus, oder buchen Sie online: Das Erstgespräch dauert 30 Minuten, per Telefon oder Video, kostenlos und unverbindlich. Sie erzählen, wie Sie dort oben leben möchten. Wir geben Ihnen eine ehrliche erste Einschätzung und sagen, welche Entscheidungen jetzt anstehen. Danach erstellen wir aus Plänen und Fotos ein erstes Projektblatt.
+Rufen Sie uns an, notfalls vom Rohbau aus, oder buchen Sie online: Das Erstgespräch dauert 30 Minuten, per Telefon oder Video, unverbindlich. Sie erzählen, wie Sie dort oben leben möchten. Wir geben Ihnen eine ehrliche erste Einschätzung und sagen, welche Entscheidungen jetzt anstehen. Danach erstellen wir aus Plänen und Fotos ein erstes Projektblatt.
 
 **Weiterlesen:** [Akustik im offenen Wohnraum](/magazin/akustik-im-offenen-wohnraum/) · [Lichtplanung für die Wohnung](/magazin/lichtplanung-wohnung-grundlagen/) · [Was kostet ein Gesamtkonzept?](/magazin/was-kostet-innenarchitektur-gesamtkonzept/) · [Zweitwohnsitz zwischen Wien und New York](/magazin/zweitwohnsitz-wien-new-york-einrichten/)

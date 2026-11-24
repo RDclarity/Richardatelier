@@ -150,7 +150,7 @@ Planning, sampling and sign-off take a few weeks. After that come production and
 
 ## What happens next
 
-Go back to the three quotes on the table. Soon they can be three quotes you understand. Call us, or book the free initial consultation: 30 minutes, by phone or video, without obligation. We place your project in the range and give you an honest first assessment.
+Go back to the three quotes on the table. Soon they can be three quotes you understand. Call us, or book the initial consultation: 30 minutes, by phone or video, without obligation. We place your project in the range and give you an honest first assessment.
 
 Afterwards you send us photos and a floor plan, and we record the key points in a project sheet. This creates a basis against which any quote can be compared fairly, and one contact stays with you from the first sketch to the last drawer. Call us, and let your next quote be one you can read.
 

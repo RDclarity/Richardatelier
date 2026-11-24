@@ -136,6 +136,6 @@ Por que sea o muy resistente o reparable. Las superficies que no son ni resisten
 
 ## Cómo continuar
 
-Pase la mano por el frente: ¿sigue gustándole a contraluz? Dentro de unos meses puede darle igual la luz, el perro y los niños. Pida su primera conversación llamándonos o desde esta web: 30 minutos gratuitos, sin compromiso, por teléfono o por vídeo. Hablamos de sus estancias, de sus hábitos y de su experiencia con los materiales actuales, y le damos una primera valoración sincera. Después recibe una ficha del proyecto con fotos y plano, sobre la que seguimos planificando juntos. Elegir bien una superficie lleva una conversación; vivir con ella, muchos años.
+Pase la mano por el frente: ¿sigue gustándole a contraluz? Dentro de unos meses puede darle igual la luz, el perro y los niños. Pida su primera conversación llamándonos o desde esta web: 30 minutos sin compromiso, por teléfono o por vídeo. Hablamos de sus estancias, de sus hábitos y de su experiencia con los materiales actuales, y le damos una primera valoración sincera. Después recibe una ficha del proyecto con fotos y plano, sobre la que seguimos planificando juntos. Elegir bien una superficie lleva una conversación; vivir con ella, muchos años.
 
 **Lea también:** [Dekton explicado](/magazin/dekton-was-ist-das/) · [¿Chapa de madera o madera maciza?](/magazin/furnier-vs-massivholz-ehrlich/) · [Frentes de cocina en comparación](/magazin/kuechenfronten-lack-furnier-massivholz/) · [Sostenible significa duradero](/magazin/nachhaltige-materialien-langlebigkeit/)

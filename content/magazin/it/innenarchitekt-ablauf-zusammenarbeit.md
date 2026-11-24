@@ -29,7 +29,7 @@ Che cosa costa, invece, coordinare tutto da soli? Sere intere a confrontare offe
 
 ## Fase 1: primo colloquio e scheda di progetto
 
-L'ingresso è volutamente senza barriere. Da Richard Atelier si tratta di un primo colloquio gratuito di 30 minuti, per telefono o in videochiamata. In questa mezz'ora chiariamo di che cosa si tratta, quali ambienti sono coinvolti, quali tempi siano realistici e se siamo i partner giusti per il Suo progetto.
+L'ingresso è volutamente senza barriere. Da Richard Atelier si tratta di un primo colloquio di 30 minuti, per telefono o in videochiamata. In questa mezz'ora chiariamo di che cosa si tratta, quali ambienti sono coinvolti, quali tempi siano realistici e se siamo i partner giusti per il Suo progetto.
 
 Subito dopo Lei ci invia le fotografie degli ambienti e, se disponibile, una planimetria. Ne nasce una scheda di progetto: una sintesi compatta di situazione di partenza, desideri, questioni aperte e prossimi passi. La scheda di progetto è la base comune a cui entrambe le parti possono fare riferimento.
 
@@ -135,6 +135,6 @@ La sede è a Münchendorf, vicino a Vienna, e la maggior parte dei progetti si t
 
 ## Come si prosegue
 
-Torni a quel fine settimana pieno di pensieri: tra qualche mese potrebbe essere il primo sabato nella casa finita, con la chiave che gira e il caffè sull'isola. Il primo passo è alzare il telefono. Ci chiami oppure prenoti un colloquio di 30 minuti, gratuito e senza impegno, per telefono o in video. Lei ci racconta il Suo progetto, noi poniamo domande e Le diciamo con franchezza se e come possiamo aiutarLa. Subito dopo riceve una scheda di progetto come base comune. Da lì ha un solo referente dal primo tratto di matita alla consegna, e la falegnameria di famiglia, fondata a Vienna nel 1935, costruisce ciò che è stato disegnato.
+Torni a quel fine settimana pieno di pensieri: tra qualche mese potrebbe essere il primo sabato nella casa finita, con la chiave che gira e il caffè sull'isola. Il primo passo è alzare il telefono. Ci chiami oppure prenoti un colloquio di 30 minuti, senza impegno, per telefono o in video. Lei ci racconta il Suo progetto, noi poniamo domande e Le diciamo con franchezza se e come possiamo aiutarLa. Subito dopo riceve una scheda di progetto come base comune. Da lì ha un solo referente dal primo tratto di matita alla consegna, e la falegnameria di famiglia, fondata a Vienna nel 1935, costruisce ciò che è stato disegnato.
 
 **Da leggere:** [Preparare il primo colloquio](/magazin/erstgespraech-vorbereiten-fragen/) · [Quanto costa un progetto complessivo?](/magazin/was-kostet-innenarchitektur-gesamtkonzept/) · [Il cronoprogramma realistico di una ristrutturazione](/magazin/sanierung-zeitplan-realistisch/) · [Progettazione ed esecuzione da un'unica mano](/magazin/planung-und-ausfuehrung-aus-einer-hand/)

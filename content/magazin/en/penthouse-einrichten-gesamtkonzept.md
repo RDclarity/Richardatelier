@@ -2,7 +2,7 @@
 slug: furnishing-penthouse-vienna-design-concept
 source_slug: penthouse-einrichten-gesamtkonzept
 title: Furnishing a Penthouse: One Concept for Light, Space and Privacy
-description: Furnishing a penthouse in Vienna: how one whole-home concept tames the sun, shapes open space, opens the terrace and protects privacy. Free first call.
+description: Furnishing a penthouse in Vienna: how one whole-home concept tames the sun, shapes open space, opens the terrace and protects privacy. Personal first call.
 category: gesamtkonzept
 cta: gesamtkonzept
 keywords: furnishing a penthouse, attic apartment interior design Vienna, penthouse interior design
@@ -129,6 +129,6 @@ In principle yes, but structure, waterproofing, and water and power supply must 
 
 ## What happens next
 
-Six o'clock on a July evening, a year from now. The blinds have lowered themselves, the glass front stands open, and the city glows below your terrace. To get there, pick up the phone or book the first conversation. It is free, takes 30 minutes, binds you to nothing and happens by phone or video, as you prefer. Tell us how you would like to live up there, and you will hear an honest first assessment and which decisions are due now. Then we draw up a first project sheet from your plans and photos, and the same person at Richard Atelier stays with you until the handover.
+Six o'clock on a July evening, a year from now. The blinds have lowered themselves, the glass front stands open, and the city glows below your terrace. To get there, pick up the phone or book the first conversation. It takes 30 minutes, binds you to nothing and happens by phone or video, as you prefer. Tell us how you would like to live up there, and you will hear an honest first assessment and which decisions are due now. Then we draw up a first project sheet from your plans and photos, and the same person at Richard Atelier stays with you until the handover.
 
 **Read next:** [Acoustics in the open living space](/magazin/akustik-im-offenen-wohnraum/) · [Lighting design for the home](/magazin/lichtplanung-wohnung-grundlagen/) · [What does a whole-home concept cost?](/magazin/was-kostet-innenarchitektur-gesamtkonzept/) · [A second home between Vienna and New York](/magazin/zweitwohnsitz-wien-new-york-einrichten/)

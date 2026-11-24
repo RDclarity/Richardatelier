@@ -139,7 +139,7 @@ There is a practical effect as well: textiles improve the acoustics and make roo
 
 It is Sunday evening. The heavy linen curtain is drawn, a lamp at 2,700 kelvin warms the base tone, and the room swallows the noise of the street. You sit with a book, the wool rug under your feet, and nothing in the room asks anything of you.
 
-Our couple's sage green, incidentally, has not disappeared. It now lives in a large wool rug in the living room and in an armchair by the window. There it is an accent and no longer a wall. The apartment feels calmer as a result, and the green looks lovelier than before. If you would like a second pair of eyes on your palette before you paint anything, the first conversation is free, lasts 30 minutes and takes place by phone or video.
+Our couple's sage green, incidentally, has not disappeared. It now lives in a large wool rug in the living room and in an armchair by the window. There it is an accent and no longer a wall. The apartment feels calmer as a result, and the green looks lovelier than before. If you would like a second pair of eyes on your palette before you paint anything, the first conversation lasts 30 minutes and takes place by phone or video.
 
 ## Frequently asked questions
 
@@ -169,7 +169,7 @@ Give it a specific place: an accent room such as the library or the guest WC, a 
 
 ## What happens next
 
-Think back to the hallway with its open doors and four different colours. Soon it could be one calm view, from the front door through three rooms, that you stop noticing and would miss the moment it was gone. A colour scheme is strongest as part of an [overall concept for your home](/magazin/gesamtkonzept-wohnung-was-bedeutet-das/), developed together with light, materials and built-ins. So call us or book the initial conversation: 30 minutes by phone or video, free, without obligation, with an honest first assessment of your rooms, the direction of your light and your fixed materials.
+Think back to the hallway with its open doors and four different colours. Soon it could be one calm view, from the front door through three rooms, that you stop noticing and would miss the moment it was gone. A colour scheme is strongest as part of an [overall concept for your home](/magazin/gesamtkonzept-wohnung-was-bedeutet-das/), developed together with light, materials and built-ins. So call us or book the initial conversation: 30 minutes by phone or video, without obligation, with an honest first assessment of your rooms, the direction of your light and your fixed materials.
 
 After the call you send us photos and a floor plan, and we prepare your project sheet. One person guides you from the first sample patch to handover. You can see completed projects in our [references](/referenzen/), and you can choose a time directly on the [appointment](/termin/) page.
 

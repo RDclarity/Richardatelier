@@ -121,7 +121,7 @@ Para las estancias de vida se ha acreditado un intervalo de aproximadamente 2.70
 
 ### ¿Cómo se separan zonas con luz en un espacio abierto?
 
-Sobre todo mediante diferencias de luminosidad: una zona claramente más luminosa que su entorno se percibe como un lugar propio. También ayuda la altura de la luz, pues la luz baja resulta acogedora y la luz desde arriba funcional. Las líneas de luz, las estanterías iluminadas o una iluminación de zócalo pueden marcar además el límite. Cómo se aplica a su espacio lo definimos en la primera conversación gratuita.
+Sobre todo mediante diferencias de luminosidad: una zona claramente más luminosa que su entorno se percibe como un lugar propio. También ayuda la altura de la luz, pues la luz baja resulta acogedora y la luz desde arriba funcional. Las líneas de luz, las estanterías iluminadas o una iluminación de zócalo pueden marcar además el límite. Cómo se aplica a su espacio lo definimos en la primera conversación.
 
 ### ¿A qué altura debe colgar una lámpara sobre la mesa del comedor?
 
@@ -143,6 +143,6 @@ La luz no sustituye a una pared en sentido acústico ni espacial, pero puede asu
 
 Retome aquella noche de las diez. Esta vez, una pulsación, y la cocina se apaga en suave penumbra; la mesa brilla cálida, el sofá tiene su rincón y nadie vuelve a mirar el techo. Eso se planifica, y se planifica bien.
 
-Pida hoy su primera conversación o llámenos: son 30 minutos gratuitos y sin compromiso, por teléfono o videollamada. Envíenos un plano y unas fotos nocturnas del salón; le contamos con sinceridad si necesita una luz nueva o solo repartirla mejor. Después recibe una ficha de proyecto con los puntos esenciales de su iluminación. Ejemplos de nuestro trabajo los encontrará en [Referencias](/referenzen/).
+Pida hoy su primera conversación o llámenos: son 30 minutos sin compromiso, por teléfono o videollamada. Envíenos un plano y unas fotos nocturnas del salón; le contamos con sinceridad si necesita una luz nueva o solo repartirla mejor. Después recibe una ficha de proyecto con los puntos esenciales de su iluminación. Ejemplos de nuestro trabajo los encontrará en [Referencias](/referenzen/).
 
 **Lea también:** [Planificación de la iluminación en la vivienda](/magazin/lichtplanung-wohnung-grundlagen/) · [Iluminación de cocina en tres niveles](/magazin/kueche-beleuchtung-drei-ebenen/) · [Cocina, comedor, salón: zonas en lugar de habitaciones](/magazin/kueche-essen-wohnen-zonen-statt-zimmer/) · [Acústica en el salón abierto](/magazin/akustik-im-offenen-wohnraum/)

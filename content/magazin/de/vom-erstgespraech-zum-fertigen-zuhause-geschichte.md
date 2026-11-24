@@ -20,7 +20,7 @@ Den Weg dorthin erzählt ein Szenario, zusammengesetzt aus typischen Verläufen.
 
 ## Kapitel eins: Das Erstgespräch
 
-Das erste Gespräch findet an einem Dienstagabend statt, per Video, dreißig Minuten, kostenlos und unverbindlich. Anna sitzt am Laptop, Thomas daneben, im Hintergrund die leere Wohnung mit nackten Glühbirnen an der Decke.
+Das erste Gespräch findet an einem Dienstagabend statt, per Video, dreißig Minuten, unverbindlich. Anna sitzt am Laptop, Thomas daneben, im Hintergrund die leere Wohnung mit nackten Glühbirnen an der Decke.
 
 Wir fragen nicht zuerst nach Stil oder Budget. Wir fragen: Wie möchten Sie leben? Wie sieht ein Wochentag aus, wie ein Sonntag? Wer kocht, wer arbeitet zu Hause, wann kommen Gäste? Die beiden erzählen von langen Abendessen mit Freunden, von Thomas, der zweimal pro Woche im Homeoffice ist, von der Tochter, die sich ein Zimmer wünscht, das nicht neben dem Wohnzimmer liegt.
 
@@ -141,6 +141,6 @@ Eine gemeinsame Begehung aller Räume, eine Liste kleiner Mängel mit Termin fü
 
 Schließen Sie für einen Moment die elf Tabs am Küchentisch. Die Frage „Wen ruft man zuerst an?“ können Sie heute erledigen. Am Ende steht ein Abend wie der von Anna und Thomas: Es riecht nach Zwiebeln, und Sie sehen vom Herd bis zum Fenster.
 
-Ihr erstes Kapitel dauert 30 Minuten. Das Erstgespräch ist kostenlos und unverbindlich, per Telefon oder Video, mit einer ehrlichen ersten Einschätzung. Danach schicken Sie uns Fotos und Grundriss, und wir erstellen daraus Ihr Projektblatt. Umgesetzte Räume sehen Sie in den [Referenzen](/referenzen/). Rufen Sie uns an oder buchen Sie Ihr Erstgespräch unter [Termin](/termin/).
+Ihr erstes Kapitel dauert 30 Minuten. Das Erstgespräch ist unverbindlich, per Telefon oder Video, mit einer ehrlichen ersten Einschätzung. Danach schicken Sie uns Fotos und Grundriss, und wir erstellen daraus Ihr Projektblatt. Umgesetzte Räume sehen Sie in den [Referenzen](/referenzen/). Rufen Sie uns an oder buchen Sie Ihr Erstgespräch unter [Termin](/termin/).
 
 **Weiterlesen:** [Das Erstgespräch vorbereiten](/magazin/erstgespraech-vorbereiten-fragen/) · [Was kostet ein Gesamtkonzept](/magazin/was-kostet-innenarchitektur-gesamtkonzept/) · [Der realistische Zeitplan](/magazin/sanierung-zeitplan-realistisch/) · [Genehmigungen im Wiener Altbau](/magazin/genehmigungen-altbau-wien-umbau/)

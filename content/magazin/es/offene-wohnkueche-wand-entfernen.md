@@ -159,6 +159,6 @@ El derribo propiamente dicho de una pared que no es de carga suele durar pocos d
 
 ## Cómo continuar
 
-Vuelva a los fogones, a la sartén y al murmullo del salón a su espalda. Imagine que se da la vuelta y los ve a todos. Llámenos o reserve el primer encuentro en línea: son 30 minutos gratuitos y sin compromiso, por teléfono o por videollamada, en los que le damos una primera valoración sincera de si su pared puede caer y qué forma de apertura le encaja. Después recibirá una ficha de proyecto con fotos y planos como base, y la misma persona le acompaña hasta la entrega. Encontrará ejemplos de cocinas abiertas en las [referencias](/referenzen/).
+Vuelva a los fogones, a la sartén y al murmullo del salón a su espalda. Imagine que se da la vuelta y los ve a todos. Llámenos o reserve el primer encuentro en línea: son 30 minutos sin compromiso, por teléfono o por videollamada, en los que le damos una primera valoración sincera de si su pared puede caer y qué forma de apertura le encaja. Después recibirá una ficha de proyecto con fotos y planos como base, y la misma persona le acompaña hasta la entrega. Encontrará ejemplos de cocinas abiertas en las [referencias](/referenzen/).
 
 **Lea también:** [Eliminar una pared de carga en Viena](/magazin/tragende-wand-entfernen-wien-was-geht/) · [Diseñar las transiciones entre estancias](/magazin/raumuebergaenge-gestalten-grundlagen/) · [Acústica en el espacio de estar abierto](/magazin/akustik-im-offenen-wohnraum/) · [Semiabierto en lugar de abierto](/magazin/halboffene-grundrisse-schiebetueren-glas/)

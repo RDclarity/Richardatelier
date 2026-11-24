@@ -29,7 +29,7 @@ Going without such a partner has a cost that is easy to miss. You become the coo
 
 ## Phase 1: Initial consultation and project sheet
 
-The entry point is deliberately low-threshold. At Richard Atelier it is a free 30-minute initial consultation, by phone or video. In that half hour we clarify what the project is about, which rooms are affected, which timeframe is realistic and whether we are the right partners for the job.
+The entry point is deliberately low-threshold. At Richard Atelier it is a 30-minute initial consultation, by phone or video. In that half hour we clarify what the project is about, which rooms are affected, which timeframe is realistic and whether we are the right partners for the job.
 
 Afterwards you send us photos of the rooms and, if you have one, a floor plan. From these we prepare a project sheet: a compact summary of the starting point, your wishes, open questions and the next steps. The project sheet is the shared basis both sides can refer back to.
 
@@ -139,7 +139,7 @@ The studio is based in Münchendorf near Vienna, and most projects are in Vienna
 
 ## What happens next
 
-Back to the question Anna and Markus started with: how does this actually work, and how much of our time will it take? The answer fits into half an hour. A few months from now you could be turning the key in your own door, with the bicycle in its place and a day on which nobody had to phone you. If you are thinking about working with an interior designer, call us or book the initial conversation: 30 minutes by phone or video, free, without obligation. You tell us about your project, we ask questions and say openly whether and how we can help.
+Back to the question Anna and Markus started with: how does this actually work, and how much of our time will it take? The answer fits into half an hour. A few months from now you could be turning the key in your own door, with the bicycle in its place and a day on which nobody had to phone you. If you are thinking about working with an interior designer, call us or book the initial conversation: 30 minutes by phone or video, without obligation. You tell us about your project, we ask questions and say openly whether and how we can help.
 
 Afterwards you receive a project sheet as a shared basis. From there one person accompanies you through every phase, from the first sketch to handover.
 

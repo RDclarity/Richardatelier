@@ -150,6 +150,6 @@ A wall-mounted tap keeps the top free and makes cleaning considerably easier. It
 
 ## What happens next
 
-It is 6:50, and each of you has a basin, a drawer and elbow room. The minute passes without a collision. Start by phone or online: the first conversation is free, lasts half an hour, carries no obligation and can be held by phone or video. Tell us about your morning routine, your room and your wishes, and we give you an honest first assessment from your photos and floor plan. A project sheet with the next steps follows.
+It is 6:50, and each of you has a basin, a drawer and elbow room. The minute passes without a collision. Start by phone or online: the first conversation lasts half an hour, carries no obligation and can be held by phone or video. Tell us about your morning routine, your room and your wishes, and we give you an honest first assessment from your photos and floor plan. A project sheet with the next steps follows.
 
 **Read next:** [Renovating a bathroom in Vienna](/magazin/badezimmer-renovieren-wien-leitfaden/) · [Solid wood in interior fit-out](/magazin/echtholz-im-innenausbau-eiche-nuss/) · [Dekton explained](/magazin/dekton-was-ist-das/) · [Large-format ceramic in the bathroom](/magazin/grossformatige-fliesen-bad-fugen/)

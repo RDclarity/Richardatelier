@@ -144,6 +144,6 @@ Polished natural stone becomes slippery when wet and is therefore unsuitable for
 
 Think of your hand on that cool slab again. If you are planning natural stone in your bathroom, a conversation about your daily life and your expectations of the material is the best start.
 
-Call us or book the free initial call. It takes 30 minutes by phone or video, costs nothing and commits you to nothing. We clarify which stone suits which surface and give you an honest first assessment. Afterwards you receive a project sheet with the next steps, and soon the stone you imagined can be seen on a sample board, in the light of your own bathroom.
+Call us or book the initial call. It takes 30 minutes by phone or video, costs nothing and commits you to nothing. We clarify which stone suits which surface and give you an honest first assessment. Afterwards you receive a project sheet with the next steps, and soon the stone you imagined can be seen on a sample board, in the light of your own bathroom.
 
 **Read next:** [Renovating a bathroom in Vienna](/magazin/badezimmer-renovieren-wien-leitfaden/) · [Terrazzo for floor and vanity unit](/magazin/terrazzo-comeback-boden-waschtisch/) · [Solid wood in interior fit-out](/magazin/echtholz-im-innenausbau-eiche-nuss/) · [Sustainable means long-lasting](/magazin/nachhaltige-materialien-langlebigkeit/)

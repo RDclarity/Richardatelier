@@ -140,6 +140,6 @@ Kompaktgeräte mit 45 Zentimetern Höhe, etwa ein Kombi-Dampfbackofen, können m
 
 Morgen Abend stehen Toaster und Obstschale wieder im Weg. Oder Sie kommen eines Tages nach Hause, die Platte ist frei, das Schneidbrett liegt schon da, und auf dem Hocker am Fenster sitzt Besuch, der einfach bleiben will.
 
-Der Weg dorthin beginnt mit einem Anruf oder einem gebuchten Erstgespräch, 30 Minuten per Telefon oder Video, kostenlos und unverbindlich. Sie zeigen uns Fotos und Grundriss, wir sagen Ihnen ehrlich, was auf Ihren Quadratmetern möglich ist. Rufen Sie uns an. Danach erhalten Sie ein Projektblatt mit den nächsten Schritten. Beispiele kleiner und großer Küchen finden Sie in unseren [Referenzen](/referenzen/).
+Der Weg dorthin beginnt mit einem Anruf oder einem gebuchten Erstgespräch, 30 Minuten per Telefon oder Video, unverbindlich. Sie zeigen uns Fotos und Grundriss, wir sagen Ihnen ehrlich, was auf Ihren Quadratmetern möglich ist. Rufen Sie uns an. Danach erhalten Sie ein Projektblatt mit den nächsten Schritten. Beispiele kleiner und großer Küchen finden Sie in unseren [Referenzen](/referenzen/).
 
 **Weiterlesen:** [Neue Einbauküche planen in Wien](/magazin/neue-einbaukueche-planen-wien-leitfaden/) · [Speisekammer und Vorratsraum](/magazin/speisekammer-vorratsraum-planen/) · [Altbauwohnung in Wien sanieren](/magazin/altbauwohnung-wien-sanieren-gesamtkonzept/) · [Zwölf Fehler bei der Küchenplanung](/magazin/kuechenplanung-fehler-vermeiden/)

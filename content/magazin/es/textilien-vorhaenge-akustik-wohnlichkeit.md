@@ -140,6 +140,6 @@ Precisamente ahí, porque los niños y los animales hacen ruido. Existen mezclas
 
 ## Cómo continuar
 
-Vuelva a esa cena en la que repitió cada frase. La próxima puede transcurrir a media voz. Llámenos o reserve su primera conversación: 30 minutos gratuitos, sin compromiso, por teléfono o por videollamada. Escuchamos cómo utiliza usted sus espacios, le damos una primera valoración honesta de dónde aportan más los textiles, los muebles empotrados o las medidas constructivas y, si decide seguir, recibirá una ficha de proyecto con fotos y plano. Cómo son las estancias en las que tejido, madera y luz funcionan en conjunto lo muestran nuestras [referencias](/referenzen/).
+Vuelva a esa cena en la que repitió cada frase. La próxima puede transcurrir a media voz. Llámenos o reserve su primera conversación: 30 minutos sin compromiso, por teléfono o por videollamada. Escuchamos cómo utiliza usted sus espacios, le damos una primera valoración honesta de dónde aportan más los textiles, los muebles empotrados o las medidas constructivas y, si decide seguir, recibirá una ficha de proyecto con fotos y plano. Cómo son las estancias en las que tejido, madera y luz funcionan en conjunto lo muestran nuestras [referencias](/referenzen/).
 
 **Lea también:** [Acústica en el espacio abierto](/magazin/akustik-im-offenen-wohnraum/) · [El dormitorio como espacio de descanso](/magazin/schlafzimmer-ruhe-planen/) · [Amueblar el salón sin pared para el televisor](/magazin/wohnzimmer-einrichten-ohne-fernseherwand/) · [Amueblar un ático](/magazin/penthouse-einrichten-gesamtkonzept/)

@@ -128,6 +128,6 @@ Großformatige Keramik ist sehr robust, pflegeleicht und in vielen Oberflächen 
 
 Die Bürste vom Samstag können Sie sich dann sparen. Stellen Sie sich den Sonntag vor: Sie stehen unter der Dusche, das Licht streift über eine einzige ruhige Wand, das Wasser läuft zur Rinne, und danach wischen Sie einmal mit dem Abzieher drüber. Fertig.
 
-Wie groß dürfen die Platten bei Ihnen werden? Rufen Sie uns an oder buchen Sie Ihr Erstgespräch, 30 Minuten am Telefon oder per Video, kostenlos und unverbindlich. Wir klären, welche Formate in Ihrem Bad sinnvoll sind, was Untergrund und Zugangswege hergeben, und Sie bekommen unsere ehrliche Meinung dazu. Danach schicken Sie uns Fotos und Grundriss, und Sie erhalten ein Projektblatt mit allen wichtigen Punkten.
+Wie groß dürfen die Platten bei Ihnen werden? Rufen Sie uns an oder buchen Sie Ihr Erstgespräch, 30 Minuten am Telefon oder per Video, unverbindlich. Wir klären, welche Formate in Ihrem Bad sinnvoll sind, was Untergrund und Zugangswege hergeben, und Sie bekommen unsere ehrliche Meinung dazu. Danach schicken Sie uns Fotos und Grundriss, und Sie erhalten ein Projektblatt mit allen wichtigen Punkten.
 
 **Weiterlesen:** [Badezimmer renovieren in Wien](/magazin/badezimmer-renovieren-wien-leitfaden/) · [Bodenbeläge im Vergleich](/magazin/bodenbelaege-vergleich-parkett-stein-keramik/) · [Pflegeleichte Oberflächen ehrlich bewertet](/magazin/oberflaechen-pflegeleicht-ehrlich-bewertet/) · [Ein Boden für alle Räume](/magazin/bodenbelag-durchgaengig-raeume-verbinden/)

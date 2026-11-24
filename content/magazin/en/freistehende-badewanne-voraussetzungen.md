@@ -124,7 +124,7 @@ Of these, delivery is often the most underestimated. Getting a 180-centimetre mi
 
 The tub itself is often the smaller part. A good acrylic tub is the accessible entry point, mineral composite tubs usually cost more, and natural stone tubs considerably more. On top come the tap, drainage fittings, any structural measures, floor build-up and waterproofing.
 
-Across the whole bathroom, a freestanding tub often pushes a renovation towards the upper end of the scale, because the floor, pipework and materials are more demanding. The actual costs depend on the project, and a reliable estimate comes in the free first conversation. Which items make up a bathroom renovation is shown in [What does a bathroom renovation cost in Vienna?](/magazin/was-kostet-eine-badrenovierung-wien/). How we approach bathrooms in general can be seen on our page on [bathroom renovation](/badrenovierung/), and examples of complete bathrooms are under [Bathrooms](/badezimmer/).
+Across the whole bathroom, a freestanding tub often pushes a renovation towards the upper end of the scale, because the floor, pipework and materials are more demanding. The actual costs depend on the project, and a reliable estimate comes in the first conversation. Which items make up a bathroom renovation is shown in [What does a bathroom renovation cost in Vienna?](/magazin/was-kostet-eine-badrenovierung-wien/). How we approach bathrooms in general can be seen on our page on [bathroom renovation](/badrenovierung/), and examples of complete bathrooms are under [Bathrooms](/badezimmer/).
 
 ## Frequently asked questions
 
@@ -154,7 +154,7 @@ Not with sufficient clearance from the wall. It becomes a problem when the tub s
 
 ## What happens next
 
-Back to the Sunday evening and the tub under the window. A few months from now it could stand free in the room, the courtyard framed in the glass, and you in the water with nothing left to organise. Whether a freestanding bathtub fits your bathroom can be judged well from a floor plan, a few photographs and a look at the floor and the stack. Call us or book the initial conversation: 30 minutes by phone or video, free, without obligation. We go through exactly these points with you.
+Back to the Sunday evening and the tub under the window. A few months from now it could stand free in the room, the courtyard framed in the glass, and you in the water with nothing left to organise. Whether a freestanding bathtub fits your bathroom can be judged well from a floor plan, a few photographs and a look at the floor and the stack. Call us or book the initial conversation: 30 minutes by phone or video, without obligation. We go through exactly these points with you.
 
 Afterwards you will know which tub is possible and what has to be prepared for it. You receive a project sheet, and one person accompanies you from the first sketch to handover.
 

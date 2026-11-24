@@ -110,7 +110,7 @@ On costs: a complete renovation of an Altbau has no fixed price, because the con
 ## Frequently asked questions
 
 ### What does it cost to renovate an Altbau apartment in Vienna?
-That depends heavily on the condition of the apartment and the scope of the work; there is no fixed price. Pipes and cables, bathroom, kitchen and floors are the big items. A reliable figure emerges only after the survey and the detailed design, but the free first call already gives you an honest first assessment.
+That depends heavily on the condition of the apartment and the scope of the work; there is no fixed price. Pipes and cables, bathroom, kitchen and floors are the big items. A reliable figure emerges only after the survey and the detailed design, but the personal first call already gives you an honest first assessment.
 
 ### Can the old parquet in an Altbau be kept?
 Often, yes. Herringbone and panel parquet can in many cases be sanded, repaired and re-oiled or resealed. Whether the floor still has enough wearing layer is checked on site by a floor layer before you decide.
@@ -131,6 +131,6 @@ The building time alone for a complete renovation is usually between three and s
 
 Go back to that empty middle room with the afternoon sun on the parquet. A year from now you could stand in it again, kitchen humming behind you, double doors open, friends on their way up the stairs.
 
-The first step is a call. Phone us or book the initial consultation online: it is free, takes 30 minutes, commits you to nothing and is held by phone or video. You tell us how you want to live, and we give you an honest first assessment of your Altbau. Afterwards we draw up a first project sheet from your photos and floor plan, and you decide in peace. Call us while every option is still open.
+The first step is a call. Phone us or book the initial consultation online: it takes 30 minutes, commits you to nothing and is held by phone or video. You tell us how you want to live, and we give you an honest first assessment of your Altbau. Afterwards we draw up a first project sheet from your photos and floor plan, and you decide in peace. Call us while every option is still open.
 
 **Read next:** [The bathroom in the Viennese Altbau](/magazin/bad-im-altbau-leitungen-hoehen/) · [Permits in the Altbau](/magazin/genehmigungen-altbau-wien-umbau/) · [The realistic schedule for a renovation](/magazin/sanierung-zeitplan-realistisch/) · [The material concept as a common thread](/magazin/materialkonzept-roter-faden-durch-alle-raeume/)

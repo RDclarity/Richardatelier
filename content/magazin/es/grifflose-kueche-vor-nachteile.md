@@ -133,7 +133,7 @@ Sí, con la combinación adecuada. Los perfiles de agarre resultan menos tentado
 
 ### ¿Cuesta más una cocina sin tiradores?
 
-Los perfiles de agarre y los huecos fresados se ofrecen en muchos programas de cocinas sin grandes sobrecostes, porque los tiradores desaparecen. Los sistemas de apertura eléctricos, en cambio, suponen un sobrecoste notable y necesitan tomas de corriente en los muebles. El presupuesto total depende más de los frentes, la encimera y los electrodomésticos que del sistema de apertura. Le damos una valoración honesta en la primera conversación gratuita.
+Los perfiles de agarre y los huecos fresados se ofrecen en muchos programas de cocinas sin grandes sobrecostes, porque los tiradores desaparecen. Los sistemas de apertura eléctricos, en cambio, suponen un sobrecoste notable y necesitan tomas de corriente en los muebles. El presupuesto total depende más de los frentes, la encimera y los electrodomésticos que del sistema de apertura. Le damos una valoración honesta en la primera conversación.
 
 ### ¿Funciona el push-to-open también en el lavavajillas y el frigorífico?
 
@@ -147,6 +147,6 @@ Un poco, porque el perfil ocupa algunos centímetros de altura que les faltan a 
 
 Piense de nuevo en aquel martes por la noche, en el sofá. Esta vez la cocina es una pared serena, sin un solo tirador que interrumpa la vista, y cada cajón se abre justo como esperaba. Eso empieza con una conversación.
 
-Reserve la primera conversación o llámenos: 30 minutos gratuitos, sin compromiso, por teléfono o videollamada. Repasamos sus costumbres en la cocina, el espacio y los frentes que le gustan, y le decimos con sinceridad qué sistema encaja con usted. De ahí sale una ficha de proyecto con las preguntas clave de su cocina nueva. Ejemplos de nuestro trabajo, en [Referencias](/referenzen/).
+Reserve la primera conversación o llámenos: 30 minutos sin compromiso, por teléfono o videollamada. Repasamos sus costumbres en la cocina, el espacio y los frentes que le gustan, y le decimos con sinceridad qué sistema encaja con usted. De ahí sale una ficha de proyecto con las preguntas clave de su cocina nueva. Ejemplos de nuestro trabajo, en [Referencias](/referenzen/).
 
 **Lea también:** [Frentes de cocina comparados](/magazin/kuechenfronten-lack-furnier-massivholz/) · [El interior de la cocina](/magazin/kueche-stauraum-innenleben-auszuege/) · [Doce errores en la planificación de la cocina](/magazin/kuechenplanung-fehler-vermeiden/) · [Planificar una cocina a medida en Viena](/magazin/neue-einbaukueche-planen-wien-leitfaden/)

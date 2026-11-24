@@ -147,6 +147,6 @@ Ein schwaches Orientierungslicht ist sehr empfehlenswert. Sie finden damit nacht
 
 Noch einmal 6:15, im Jänner, draußen dunkel. Diesmal tippen Sie auf den Schalter am Spiegel, weiches Licht kommt von beiden Seiten, und das Gesicht, das Sie anschaut, ist ausgeschlafen genug für den Tag. Abends dimmen Sie, und derselbe Raum wird still.
 
-Rufen Sie uns an oder buchen Sie Ihr Erstgespräch. Es ist kostenlos, dauert 30 Minuten und verpflichtet Sie zu nichts, egal ob am Telefon oder per Video. Wir sprechen über Ihre Morgen und Abende. Auf Basis von Fotos und Grundriss sagen wir Ihnen ehrlich, welche Lichtlösungen in Ihrem Bad sinnvoll sind, und Sie erhalten ein Projektblatt mit den nächsten Schritten.
+Rufen Sie uns an oder buchen Sie Ihr Erstgespräch. Es ist unverbindlich, dauert 30 Minuten und verpflichtet Sie zu nichts, egal ob am Telefon oder per Video. Wir sprechen über Ihre Morgen und Abende. Auf Basis von Fotos und Grundriss sagen wir Ihnen ehrlich, welche Lichtlösungen in Ihrem Bad sinnvoll sind, und Sie erhalten ein Projektblatt mit den nächsten Schritten.
 
 **Weiterlesen:** [Badezimmer renovieren in Wien](/magazin/badezimmer-renovieren-wien-leitfaden/) · [Licht als Raumübergang](/magazin/licht-als-raumuebergang/) · [Tageslicht nutzen](/magazin/tageslicht-nutzen-fenster-spiegel-farbe/) · [Lüftung im Bad](/magazin/bad-lueftung-feuchtigkeit-schimmel/)

@@ -2,7 +2,7 @@
 slug: bedroom-bathroom-dressing-room-private-suite
 source_slug: schlafzimmer-bad-ankleide-privater-bereich
 title: Bedroom with Bathroom and Dressing Room: The Private Suite as a Sequence of Rooms
-description: Bedroom with bathroom and dressing room as one calm master suite: sequence, dimensions, ventilation and light for homes in Vienna. Free first call.
+description: Bedroom with bathroom and dressing room as one calm master suite: sequence, dimensions, ventilation and light for homes in Vienna. Personal first call.
 category: uebergaenge
 cta: bad
 keywords: bedroom with bathroom and dressing room, master suite planning, en suite bathroom, walk-in wardrobe
@@ -152,6 +152,6 @@ With sound-insulated waste pipes, a separate WC with a door of its own and a dre
 
 ## What happens next
 
-It is 6:10 again, but this time the corridor stays cold without you. You slide through a quiet door into a warm dressing room, and the bedroom sleeps on. Make the call that gets you there: half an hour, free, non-binding, by phone or video, whichever you like. Describe your mornings, and we give you an honest first assessment of which sequence of rooms your floor plan allows. You receive a project sheet built from your photos and plan, and one contact person accompanies you from the first line to the handover. How we renovate bathrooms is shown on the [bathroom renovation](/badrenovierung/) page.
+It is 6:10 again, but this time the corridor stays cold without you. You slide through a quiet door into a warm dressing room, and the bedroom sleeps on. Make the call that gets you there: half an hour, non-binding, by phone or video, whichever you like. Describe your mornings, and we give you an honest first assessment of which sequence of rooms your floor plan allows. You receive a project sheet built from your photos and plan, and one contact person accompanies you from the first line to the handover. How we renovate bathrooms is shown on the [bathroom renovation](/badrenovierung/) page.
 
 **Read next:** [Planning a walk-in dressing room](/magazin/begehbare-ankleide-planen-masse/) · [Wellness at home](/magazin/wellness-bad-zuhause-sauna-dampf/) · [Semi-open instead of open](/magazin/halboffene-grundrisse-schiebetueren-glas/) · [The bedroom as a place of rest](/magazin/schlafzimmer-ruhe-planen/)

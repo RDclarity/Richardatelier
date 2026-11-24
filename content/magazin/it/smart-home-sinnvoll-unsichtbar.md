@@ -125,7 +125,7 @@ Sì, se semplifica la vita quotidiana, per esempio con scenari di luce, schermat
 Sì, con sistemi via radio è possibile senza grandi opere di scasso. Pareti e solai spessi richiedono però un'attenta progettazione dei collegamenti radio. Con un risanamento generale vale la pena una base cablata. Valutiamo sul posto quale strada Le convenga.
 
 ### Quanto costa una smart home?
-I costi dipendono molto da portata, sistema ed esistente e si possono indicare con serietà solo dopo un progetto. Un semplice controllo della luce con scenari costa molto meno di una casa completamente connessa. Ha senso cominciare dalle funzioni che si usano ogni giorno. Una prima valutazione sincera la riceve già nel colloquio gratuito.
+I costi dipendono molto da portata, sistema ed esistente e si possono indicare con serietà solo dopo un progetto. Un semplice controllo della luce con scenari costa molto meno di una casa completamente connessa. Ha senso cominciare dalle funzioni che si usano ogni giorno. Una prima valutazione sincera la riceve già nel colloquio.
 
 ### La luce funziona ancora se cade Internet?
 Con un sistema ben progettato sì. Pulsanti e funzioni di base lavorano in locale, senza connessione a Internet. Solo l'accesso remoto e il comando vocale ne dipendono. La luce, insomma, non Le manca mai.
@@ -138,6 +138,6 @@ Dipende da configurazione e manutenzione. Una rete dedicata per gli impianti del
 
 ## Come si prosegue
 
-Torni a quel rientro al buio. Tra qualche mese preme un pulsante e la casa La accoglie: luce morbida, calore giusto, nessuna app da aprire. Il primo passo è una telefonata. Ci chiami o prenoti il primo colloquio: è gratuito, dura 30 minuti, senza impegno, per telefono o in video. Chiariamo insieme quali gesti Le costano tempo e nervi e quali funzioni abbiano senso per Lei, e Le diamo una prima valutazione sincera. Poi riceve una scheda di progetto sulla base di foto e pianta. Come appaia la tecnologia invisibile negli spazi finiti lo mostrano le nostre [referenze](/referenzen/), e alla pagina [team](/team/) conoscerà i Suoi interlocutori.
+Torni a quel rientro al buio. Tra qualche mese preme un pulsante e la casa La accoglie: luce morbida, calore giusto, nessuna app da aprire. Il primo passo è una telefonata. Ci chiami o prenoti il primo colloquio: dura 30 minuti, senza impegno, per telefono o in video. Chiariamo insieme quali gesti Le costano tempo e nervi e quali funzioni abbiano senso per Lei, e Le diamo una prima valutazione sincera. Poi riceve una scheda di progetto sulla base di foto e pianta. Come appaia la tecnologia invisibile negli spazi finiti lo mostrano le nostre [referenze](/referenzen/), e alla pagina [team](/team/) conoscerà i Suoi interlocutori.
 
 **Da leggere:** [Ridisegnare una casa da cima a fondo: lo svolgimento](/magazin/haus-komplett-neu-gestalten-ablauf/) · [Progetto ed esecuzione da un'unica mano](/magazin/planung-und-ausfuehrung-aus-einer-hand/) · [Arrivare a casa: l'ingresso](/magazin/eingangsbereich-ankommen-gestalten/) · [Acustica nello spazio abitativo aperto](/magazin/akustik-im-offenen-wohnraum/)

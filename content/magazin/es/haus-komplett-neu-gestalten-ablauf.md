@@ -31,7 +31,7 @@ Hay también una cuenta que casi nadie hace: lo que cuesta no decidir. Cada mañ
 
 ## Fase 1: la primera pregunta y la primera conversación
 
-Al principio no hay un boceto, sino una conversación. En la primera charla, gratuita, de 30 minutos y sin compromiso, por teléfono o por videollamada, formulamos la pregunta que sostiene cada uno de nuestros proyectos: ¿cómo quiere vivir?
+Al principio no hay un boceto, sino una conversación. En la primera charla, de 30 minutos y sin compromiso, por teléfono o por videollamada, formulamos la pregunta que sostiene cada uno de nuestros proyectos: ¿cómo quiere vivir?
 
 La pareja habla de los niños, de seis y nueve años, de una cocina grande abierta al jardín, de dos días de teletrabajo por semana y de los abuelos, que los visitan a menudo. Y también de lo que les molesta: el barullo en el único baño, la cocina oscura, la falta de conexión con la terraza.
 
@@ -113,7 +113,7 @@ Estos valores son orientativos, no una promesa. Quien empieza a planificar en pr
 ## Preguntas frecuentes
 
 ### ¿En qué orden se reforma una casa por completo?
-Primero se aclara cómo quiere vivir; después se revisa el estado actual. A continuación vienen el proyecto conceptual, el proyecto de ejecución con costes, la ejecución con un orden fijo de los oficios y, por último, la entrega. Quien respeta este orden evita cambios costosos durante la obra. Si duda por dónde empezar, la primera conversación gratuita le da ese orden en 30 minutos.
+Primero se aclara cómo quiere vivir; después se revisa el estado actual. A continuación vienen el proyecto conceptual, el proyecto de ejecución con costes, la ejecución con un orden fijo de los oficios y, por último, la entrega. Quien respeta este orden evita cambios costosos durante la obra. Si duda por dónde empezar, la primera conversación le da ese orden en 30 minutos.
 
 ### ¿Se puede vivir en la casa durante una reforma integral?
 En una reforma que abarca instalaciones, suelos y baños, apenas es razonable: polvo, ruido y falta de agua dificultan la vida diaria, sobre todo con niños. A veces se puede trabajar por tramos, aunque eso alarga la obra. Lo mejor es hablarlo al principio, y le propondremos la solución que menos le altere la rutina.
@@ -125,7 +125,7 @@ Depende del modelo de contrato. En Richard Atelier, el estudio asume la coordina
 Depende de la intervención. Los trabajos en elementos portantes, en la fachada o los cambios de uso pueden requerir comunicación previa o licencia en Baja Austria y en Viena. No tiene que averiguarlo usted: lo aclaramos caso por caso con el maestro de obras y el ingeniero de estructuras antes de que empiecen los trabajos.
 
 ### ¿Cuánto cuesta reformar una casa por completo?
-No hay precio fijo, porque la superficie, el estado y el equipamiento son muy distintos. Las cifras serias solo surgen tras el inventario y el proyecto de ejecución. En la primera conversación gratuita le damos una valoración honesta del marco en el que se mueve su casa, sin compromiso.
+No hay precio fijo, porque la superficie, el estado y el equipamiento son muy distintos. Las cifras serias solo surgen tras el inventario y el proyecto de ejecución. En la primera conversación le damos una valoración honesta del marco en el que se mueve su casa, sin compromiso.
 
 ### ¿Cuánto dura una reforma integral del interior?
 Desde la primera pregunta hasta la mudanza pasa, en una casa unifamiliar, por lo general en torno a un año. El plazo de obra propiamente dicho suele estar entre tres y seis meses. Los plazos de entrega de la cocina y de los muebles corren en paralelo a la planificación, por lo que conviene empezar pronto: cuanto antes arranque, antes llega el primer desayuno en la casa nueva.
@@ -134,6 +134,6 @@ Desde la primera pregunta hasta la mudanza pasa, en una casa unifamiliar, por lo
 
 Vuelva un momento a ese sábado por la mañana: la cola ante el baño, la cocina a oscuras. Ahora véase en la casa terminada, con la puerta de la terraza abierta, el café en la mesa larga y la casa en silencio porque cada cosa tiene su sitio. Ese es el punto de llegada, y se alcanza paso a paso.
 
-El primer paso dura 30 minutos. Llámenos o reserve la primera conversación: es gratuita, sin compromiso, por teléfono o videollamada. Usted nos cuenta cómo quiere vivir; nosotros le damos una primera valoración honesta de su casa. Después le pedimos fotos, el plano y su lista de deseos, y en pocos días recibe una ficha del proyecto con las fases que serán decisivas en su caso. Un solo interlocutor, del primer trazo a la entrega, y una carpintería vienesa con tradición desde 1935 detrás de cada pieza.
+El primer paso dura 30 minutos. Llámenos o reserve la primera conversación: es sin compromiso, por teléfono o videollamada. Usted nos cuenta cómo quiere vivir; nosotros le damos una primera valoración honesta de su casa. Después le pedimos fotos, el plano y su lista de deseos, y en pocos días recibe una ficha del proyecto con las fases que serán decisivas en su caso. Un solo interlocutor, del primer trazo a la entrega, y una carpintería vienesa con tradición desde 1935 detrás de cada pieza.
 
 **Lea también:** [Trabajar con un interiorista](/magazin/innenarchitekt-ablauf-zusammenarbeit/) · [Planificar una cocina empotrada nueva](/magazin/neue-einbaukueche-planen-wien-leitfaden/) · [Domótica que no se ve](/magazin/smart-home-sinnvoll-unsichtbar/) · [Proyecto de vida en lugar de decoración](/magazin/lebenskonzept-statt-einrichtung/)

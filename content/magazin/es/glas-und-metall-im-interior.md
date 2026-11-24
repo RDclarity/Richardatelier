@@ -115,7 +115,7 @@ Los metales se comportan de manera distinta. El acero lacado en polvo y el alumi
 
 ### ¿Cuánto cuesta una mampara de vidrio en una vivienda?
 
-Depende mucho del tamaño, del perfil, del tipo de vidrio y del sistema de puerta. Un acristalamiento fijo sencillo queda claramente por debajo de una pared de acero y vidrio hasta el techo con puerta corredera y vidrio especial. Una orientación seria solo es posible tras la medición y la aclaración de los encuentros, porque estos suelen suponer más trabajo que el propio vidrio. En la primera conversación gratuita le damos una primera idea honesta.
+Depende mucho del tamaño, del perfil, del tipo de vidrio y del sistema de puerta. Un acristalamiento fijo sencillo queda claramente por debajo de una pared de acero y vidrio hasta el techo con puerta corredera y vidrio especial. Una orientación seria solo es posible tras la medición y la aclaración de los encuentros, porque estos suelen suponer más trabajo que el propio vidrio. En la primera conversación le damos una primera idea honesta.
 
 ### ¿Hace falta autorización para una pared de vidrio en un Altbau?
 
@@ -141,6 +141,6 @@ Sí, si el perfil encaja con la arquitectura. En obra nueva, los perfiles muy es
 
 Regrese al pasillo de aquel mediodía. Esta vez la luz natural llega hasta el fondo, la cocina se ve desde el salón y el olor se queda donde debe. Esa vivienda empieza con una pared que usted casi no nota.
 
-Un paseo por su pasillo basta para empezar. Llámenos o reserve la primera consulta: 30 minutos gratuitos y sin compromiso, por teléfono o videollamada. Vemos juntos dónde falta luz y dónde deben separarse los espacios, y le damos una valoración honesta. Después lo reunimos en una ficha de proyecto con fotos y plano. Encontrará ejemplos de nuestros proyectos en [Referencias](/referenzen/).
+Un paseo por su pasillo basta para empezar. Llámenos o reserve la primera consulta: 30 minutos sin compromiso, por teléfono o videollamada. Vemos juntos dónde falta luz y dónde deben separarse los espacios, y le damos una valoración honesta. Después lo reunimos en una ficha de proyecto con fotos y plano. Encontrará ejemplos de nuestros proyectos en [Referencias](/referenzen/).
 
 **Lea también:** [Semiabierto en lugar de abierto](/magazin/halboffene-grundrisse-schiebetueren-glas/) · [Puertas correderas y sistemas de vidrio](/magazin/schiebetueren-glassysteme-raeume-trennen/) · [La luz como transición](/magazin/licht-als-raumuebergang/) · [Reformas en el Altbau vienés](/magazin/genehmigungen-altbau-wien-umbau/)

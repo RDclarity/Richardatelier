@@ -138,6 +138,6 @@ Depende de la estancia. Las soluciones a medida aprovechan de forma óptima nich
 
 ## Cómo continuar
 
-Vuelva al cinturón que no aparece y a la pila de jerséis en el sillón. Imagine que esta mañana abre una puerta corredera, la luz se enciende y todo está en su sitio. Ese cambio empieza con una llamada. Llámenos o reserve el primer encuentro en línea: son 30 minutos gratuitos y sin compromiso, por teléfono o por videollamada. Aclaramos qué forma encaja en su estancia y cuánto espacio necesita realmente su ropa, y le damos una primera valoración sincera. Encontrará ejemplos de vestidores y armarios empotrados en [Referencias](/referenzen/).
+Vuelva al cinturón que no aparece y a la pila de jerséis en el sillón. Imagine que esta mañana abre una puerta corredera, la luz se enciende y todo está en su sitio. Ese cambio empieza con una llamada. Llámenos o reserve el primer encuentro en línea: son 30 minutos sin compromiso, por teléfono o por videollamada. Aclaramos qué forma encaja en su estancia y cuánto espacio necesita realmente su ropa, y le damos una primera valoración sincera. Encontrará ejemplos de vestidores y armarios empotrados en [Referencias](/referenzen/).
 
 **Lea también:** [¿Armario empotrado a medida o armario modular?](/magazin/einbauschrank-nach-mass-vs-system/) · [Llegar a casa: la entrada](/magazin/eingangsbereich-ankommen-gestalten/) · [El dormitorio como espacio de calma](/magazin/schlafzimmer-ruhe-planen/) · [Amueblar el salón sin pared de televisor](/magazin/wohnzimmer-einrichten-ohne-fernseherwand/)

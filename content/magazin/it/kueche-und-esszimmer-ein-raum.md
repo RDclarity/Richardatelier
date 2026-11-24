@@ -137,6 +137,6 @@ Come orientamento progettiamo per persona 60-70 centimetri di larghezza di tavol
 
 La cena è finita, i bambini ridono ancora, e Lei sparecchia senza lasciare la tavola. Gli altri sono a un metro, la conversazione continua. Tra pochi mesi può essere così, e comincia con una telefonata.
 
-Ci chiami oppure prenoti il colloquio iniziale: è gratuito, dura 30 minuti, è senza impegno e si svolge per telefono o in video. Guardiamo foto e piante e Le diamo una prima valutazione onesta: se cucina e sala da pranzo possano diventare un solo ambiente e quale disposizione faccia al caso Suo. In seguito riceverà una scheda di progetto con i passi successivi.
+Ci chiami oppure prenoti il colloquio iniziale: dura 30 minuti, è senza impegno e si svolge per telefono o in video. Guardiamo foto e piante e Le diamo una prima valutazione onesta: se cucina e sala da pranzo possano diventare un solo ambiente e quale disposizione faccia al caso Suo. In seguito riceverà una scheda di progetto con i passi successivi.
 
 **Da leggere:** [Progettare i passaggi tra gli spazi](/magazin/raumuebergaenge-gestalten-grundlagen/) · [La cucina per chi ospita](/magazin/kueche-fuer-gastgeber-planen/) · [La famiglia cresce, la casa cresce con lei](/magazin/familie-waechst-wohnung-mitwachsen/) · [Progettare una nuova cucina su misura a Vienna](/magazin/neue-einbaukueche-planen-wien-leitfaden/)

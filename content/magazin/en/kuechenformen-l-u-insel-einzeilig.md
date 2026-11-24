@@ -132,6 +132,6 @@ A peninsula is a kitchen block attached at one side to the run or a wall and pro
 
 Think back to the moment at the fridge and the hob. Which layout works for your room can usually be seen from a floor plan with dimensions and a few photos, so you do not need to know the answer before you call.
 
-Call us or book the free initial call. It takes 30 minutes by phone or video, costs nothing and commits you to nothing, and you get an honest first assessment of your room and your habits. Afterwards you send us the floor plan and photos, and we send you a project sheet with the most important questions for your new kitchen. Soon two people can cook in the room and keep talking. You will find examples of our work under [References](/referenzen/).
+Call us or book the initial call. It takes 30 minutes by phone or video, costs nothing and commits you to nothing, and you get an honest first assessment of your room and your habits. Afterwards you send us the floor plan and photos, and we send you a project sheet with the most important questions for your new kitchen. Soon two people can cook in the room and keep talking. You will find examples of our work under [References](/referenzen/).
 
 **Read next:** [Planning a kitchen island](/magazin/kochinsel-planen-masse-abstaende/) · [Planning a fitted kitchen in Vienna](/magazin/neue-einbaukueche-planen-wien-leitfaden/) · [The interior of the kitchen](/magazin/kueche-stauraum-innenleben-auszuege/) · [The kitchen for hosts](/magazin/kueche-fuer-gastgeber-planen/)

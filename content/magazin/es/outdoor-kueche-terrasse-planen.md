@@ -112,7 +112,7 @@ También los costes se pueden planificar mejor si se piensa conjuntamente en el 
 
 ### ¿Qué encimera es adecuada para una cocina de exterior?
 
-Son muy adecuados los materiales ultracompactos como Cosentino Dekton, la cerámica resistente a las heladas o ciertas piedras naturales. Soportan la radiación UV, las heladas y el calor. El compuesto de cuarzo no suele ser adecuado para el exterior, porque las resinas pueden amarillear con el sol. Le proponemos el material concreto en la primera conversación gratuita.
+Son muy adecuados los materiales ultracompactos como Cosentino Dekton, la cerámica resistente a las heladas o ciertas piedras naturales. Soportan la radiación UV, las heladas y el calor. El compuesto de cuarzo no suele ser adecuado para el exterior, porque las resinas pueden amarillear con el sol. Le proponemos el material concreto en la primera conversación.
 
 ### ¿Puede una cocina de exterior quedarse fuera en invierno?
 
@@ -138,6 +138,6 @@ Una cocina de exterior compacta con parrilla, superficie de trabajo y fregadero 
 
 Regrese a la noche de julio en la terraza. Esta vez no hay procesión hasta la puerta: la tabla, la parrilla y el vaso están a su alcance, y los invitados están a su lado. Y en febrero todo sigue en su sitio, intacto.
 
-Dé el primer paso con una llamada o reservando la primera conversación: 30 minutos gratuitos, sin compromiso, por teléfono o videollamada. Con fotos y planos de su terraza hablamos de ubicación, material y técnica, y le damos una valoración honesta. Después recibe una ficha de proyecto con los siguientes pasos, con un solo interlocutor del primer trazo a la entrega.
+Dé el primer paso con una llamada o reservando la primera conversación: 30 minutos sin compromiso, por teléfono o videollamada. Con fotos y planos de su terraza hablamos de ubicación, material y técnica, y le damos una valoración honesta. Después recibe una ficha de proyecto con los siguientes pasos, con un solo interlocutor del primer trazo a la entrega.
 
 **Lea también:** [Cuando el interior sale fuera](/magazin/innen-aussen-uebergang-terrasse-garten/) · [Dekton explicado](/magazin/dekton-was-ist-das/) · [Planificar la isla de cocina](/magazin/kochinsel-planen-masse-abstaende/) · [Sostenible significa duradero](/magazin/nachhaltige-materialien-langlebigkeit/)

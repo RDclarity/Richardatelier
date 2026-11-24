@@ -153,7 +153,7 @@ Light does not replace a wall in the acoustic or spatial sense, but it can take 
 
 ## What happens next
 
-Back to ten o'clock at night: the dishes done, the kitchen dimmed, the sofa glowing. Whether your room needs new lighting or just a better layout can often be seen from a floor plan with the fittings marked and a few evening photos. Call us, or book the free initial consultation: 30 minutes, by phone or video, without obligation, with an honest first assessment of what your room can become.
+Back to ten o'clock at night: the dishes done, the kitchen dimmed, the sofa glowing. Whether your room needs new lighting or just a better layout can often be seen from a floor plan with the fittings marked and a few evening photos. Call us, or book the initial consultation: 30 minutes, by phone or video, without obligation, with an honest first assessment of what your room can become.
 
 Afterwards you receive a project sheet with the most important points for your lighting design, and one contact stays with you from the first sketch to the day the scenes are programmed. You will find examples of our work under [References](/referenzen/). Call us, and let your next evening be the one you planned.
 

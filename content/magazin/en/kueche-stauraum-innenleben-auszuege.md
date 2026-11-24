@@ -145,6 +145,6 @@ Flat items you do not need every day: baking trays, trays, place mats, cleaning 
 
 ## What happens next
 
-Reach for the olive oil once more. It is in the drawer by the hob, the salt beside it, the worktop clear, and your hand knew exactly where to go. Make that your next step: call us or book the first conversation, 30 minutes, free, non-binding, by phone or video. Tell us how you cook and what has to fit, and photos of your cupboards are welcome. You get an honest first assessment of which solutions suit you, then a project sheet. You will find examples in our [references](/referenzen/).
+Reach for the olive oil once more. It is in the drawer by the hob, the salt beside it, the worktop clear, and your hand knew exactly where to go. Make that your next step: call us or book the first conversation, 30 minutes, non-binding, by phone or video. Tell us how you cook and what has to fit, and photos of your cupboards are welcome. You get an honest first assessment of which solutions suit you, then a project sheet. You will find examples in our [references](/referenzen/).
 
 **Read next:** [Think big in a small kitchen](/magazin/kleine-kueche-gross-denken/) · [The handleless kitchen](/magazin/grifflose-kueche-vor-nachteile/) · [Twelve mistakes in kitchen planning](/magazin/kuechenplanung-fehler-vermeiden/) · [Planning a new fitted kitchen in Vienna](/magazin/neue-einbaukueche-planen-wien-leitfaden/)

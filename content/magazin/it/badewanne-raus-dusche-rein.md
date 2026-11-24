@@ -139,6 +139,6 @@ Sì. Una doccia sollecita pavimento e pareti molto più di una vasca, perciò se
 
 ## Come si prosegue
 
-Torni a quella mattina: il piede sul bordo alto, lo smalto bagnato, la mano al lavabo. Poi la immagini diversa: si entra dritti, l'acqua scende dal soffione, il pavimento corre fino al vetro senza un solo bordo. Il primo passo è una telefonata, oppure la prenotazione del colloquio iniziale: 30 minuti, gratuito, senza impegno, per telefono o in video. Guardiamo foto e planimetria e Le diciamo schiettamente che cosa è possibile nel Suo bagno. Sta poi a Lei decidere. Se continua, dal primo tratto di matita alla consegna parla sempre con la stessa persona.
+Torni a quella mattina: il piede sul bordo alto, lo smalto bagnato, la mano al lavabo. Poi la immagini diversa: si entra dritti, l'acqua scende dal soffione, il pavimento corre fino al vetro senza un solo bordo. Il primo passo è una telefonata, oppure la prenotazione del colloquio iniziale: 30 minuti, senza impegno, per telefono o in video. Guardiamo foto e planimetria e Le diciamo schiettamente che cosa è possibile nel Suo bagno. Sta poi a Lei decidere. Se continua, dal primo tratto di matita alla consegna parla sempre con la stessa persona.
 
 **Da leggere:** [Ristrutturare il bagno a Vienna](/magazin/badezimmer-renovieren-wien-leitfaden/) · [Progettare la doccia a filo pavimento](/magazin/bodengleiche-dusche-planen/) · [Quanto dura la ristrutturazione di un bagno?](/magazin/badrenovierung-dauer-zeitplan/) · [Lavabo su misura](/magazin/waschtisch-nach-mass-stauraum/)

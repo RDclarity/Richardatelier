@@ -116,7 +116,7 @@ Anche il tempo è un fattore di costo. Un cronoprogramma realistico, con un anti
 
 ### Quanto costa un interior designer a Vienna?
 
-L'onorario dell'interior design dipende dall'impegno di progettazione, dalla profondità dell'intervento e dal numero delle lavorazioni. Una stima affidabile arriva nel primo colloquio e si precisa dopo il rilievo dello stato di fatto. Il colloquio è gratuito e senza impegno.
+L'onorario dell'interior design dipende dall'impegno di progettazione, dalla profondità dell'intervento e dal numero delle lavorazioni. Una stima affidabile arriva nel primo colloquio e si precisa dopo il rilievo dello stato di fatto. Il colloquio senza impegno.
 
 ### Esiste un prezzo al metro quadro per un progetto complessivo?
 
@@ -140,6 +140,6 @@ Una prima valutazione è possibile dopo il rilievo. Il preventivo diventa affida
 
 ## Come si prosegue
 
-Torni a quella sera con il bicchiere di vino e la domanda senza risposta. Tra poco ha una risposta: un ordine di grandezza realistico, un quadro chiaro delle priorità e la sicurezza di decidere con calma. Il primo passo è una telefonata. Ci chiami o prenoti il primo colloquio: è gratuito, dura 30 minuti, senza impegno, per telefono o in video. Parliamo di ampiezza, priorità e di un ordine di grandezza realistico, e Le diamo una prima valutazione sincera. Poi riassumiamo tutto in una scheda di progetto, sulla cui base Lei potrà decidere con calma.
+Torni a quella sera con il bicchiere di vino e la domanda senza risposta. Tra poco ha una risposta: un ordine di grandezza realistico, un quadro chiaro delle priorità e la sicurezza di decidere con calma. Il primo passo è una telefonata. Ci chiami o prenoti il primo colloquio: dura 30 minuti, senza impegno, per telefono o in video. Parliamo di ampiezza, priorità e di un ordine di grandezza realistico, e Le diamo una prima valutazione sincera. Poi riassumiamo tutto in una scheda di progetto, sulla cui base Lei potrà decidere con calma.
 
 **Da leggere:** [Progetto complessivo per l'appartamento](/magazin/gesamtkonzept-wohnung-was-bedeutet-das/) · [Quanto costa una cucina su misura a Vienna?](/magazin/was-kostet-eine-einbaukueche-wien/) · [Quanto costa la ristrutturazione di un bagno a Vienna?](/magazin/was-kostet-eine-badrenovierung-wien/) · [Preparare il primo colloquio](/magazin/erstgespraech-vorbereiten-fragen/)

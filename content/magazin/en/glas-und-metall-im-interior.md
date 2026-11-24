@@ -149,7 +149,7 @@ Yes, if the profile suits the architecture. In new-builds, very slim profiles wi
 
 ## What happens next
 
-Back to the corridor at noon, light on, and the kitchen you cannot see out of. Whether a glass wall, a fanlight or a sliding door is the right solution depends on your floor plan and your daily life. Call us, or book the free initial consultation: 30 minutes, by phone or video, without obligation. Together we look at where light is missing and where rooms should be separated, and you get an honest first assessment.
+Back to the corridor at noon, light on, and the kitchen you cannot see out of. Whether a glass wall, a fanlight or a sliding door is the right solution depends on your floor plan and your daily life. Call us, or book the initial consultation: 30 minutes, by phone or video, without obligation. Together we look at where light is missing and where rooms should be separated, and you get an honest first assessment.
 
 Afterwards we summarise everything in a project sheet with photos and a floor plan. You will find examples from our projects under [references](/referenzen/). Call us, and let the next time you cook, you cook in daylight.
 

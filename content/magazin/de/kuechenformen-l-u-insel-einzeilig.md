@@ -129,6 +129,6 @@ Eine Halbinsel ist ein Küchenblock, der an einer Seite mit der Zeile oder einer
 
 „Darf ich kurz?“ hören Sie am Herd vielleicht auch heute wieder. Bald könnte der Satz einfach verschwinden, weil jeder seinen Platz hat und niemand mehr ausweichen muss. Sie kochen zu zweit, und die Küche fühlt sich größer an, obwohl keine Wand gewandert ist.
 
-Nehmen Sie das Maßband zur Hand: Ein Grundriss mit Maßen und ein paar Fotos genügen. Dann rufen Sie uns an oder buchen das Erstgespräch. In den 30 Minuten, kostenlos und unverbindlich, am Telefon oder per Video, gehen wir Raum und Gewohnheiten durch und sagen Ihnen ehrlich, welche Form wir sehen. Danach erhalten Sie ein Projektblatt mit den wichtigsten Fragen für Ihre neue Küche. Beispiele aus unserer Arbeit finden Sie unter [Referenzen](/referenzen/).
+Nehmen Sie das Maßband zur Hand: Ein Grundriss mit Maßen und ein paar Fotos genügen. Dann rufen Sie uns an oder buchen das Erstgespräch. In den 30 Minuten, unverbindlich, am Telefon oder per Video, gehen wir Raum und Gewohnheiten durch und sagen Ihnen ehrlich, welche Form wir sehen. Danach erhalten Sie ein Projektblatt mit den wichtigsten Fragen für Ihre neue Küche. Beispiele aus unserer Arbeit finden Sie unter [Referenzen](/referenzen/).
 
 **Weiterlesen:** [Kochinsel planen](/magazin/kochinsel-planen-masse-abstaende/) · [Einbauküche planen in Wien](/magazin/neue-einbaukueche-planen-wien-leitfaden/) · [Das Innenleben der Küche](/magazin/kueche-stauraum-innenleben-auszuege/) · [Die Küche für Gastgeber](/magazin/kueche-fuer-gastgeber-planen/)

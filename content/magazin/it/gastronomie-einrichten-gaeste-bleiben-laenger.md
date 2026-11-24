@@ -110,7 +110,7 @@ Lena e David, durante la prova di esercizio, si accorgono che la postazione di s
 
 ### Che cosa è più importante nell'arredare un locale?
 
-Il più importante è che i clienti si sentano bene e che il team possa lavorare in modo efficiente. A tal fine sono decisivi acustica, luce, comfort dei posti a sedere, una suddivisione in zone ben pensata e materiali robusti. Questi fattori vanno pianificati insieme ai flussi operativi, non l'uno dopo l'altro. Nel colloquio gratuito partiamo proprio da qui.
+Il più importante è che i clienti si sentano bene e che il team possa lavorare in modo efficiente. A tal fine sono decisivi acustica, luce, comfort dei posti a sedere, una suddivisione in zone ben pensata e materiali robusti. Questi fattori vanno pianificati insieme ai flussi operativi, non l'uno dopo l'altro. Nel colloquio partiamo proprio da qui.
 
 ### Come si migliora l'acustica in un ristorante?
 
@@ -134,6 +134,6 @@ Dipende molto dallo stato dello spazio, dall'entità dei lavori e dalle procedur
 
 ## Come si prosegue
 
-Torni a quel venerdì sera, alle 21:30: la sala è piena, ma si parla a voce bassa, la luce è gentile con i volti e al tavolo in fondo qualcuno ordina il terzo bicchiere. Quel locale comincia con una telefonata. Chiami Richard Atelier o prenoti il primo colloquio: è gratuito, dura 30 minuti, si svolge al telefono o in videochiamata e non La impegna a nulla. Parliamo del Suo concept, dei Suoi clienti e del Suo spazio, e Le diamo una prima valutazione sincera. Poi riassumiamo situazione di partenza, requisiti e prossimi passi in una scheda di progetto, e un unico referente La accompagna dal primo tratto all'apertura.
+Torni a quel venerdì sera, alle 21:30: la sala è piena, ma si parla a voce bassa, la luce è gentile con i volti e al tavolo in fondo qualcuno ordina il terzo bicchiere. Quel locale comincia con una telefonata. Chiami Richard Atelier o prenoti il primo colloquio: dura 30 minuti, si svolge al telefono o in videochiamata e non La impegna a nulla. Parliamo del Suo concept, dei Suoi clienti e del Suo spazio, e Le diamo una prima valutazione sincera. Poi riassumiamo situazione di partenza, requisiti e prossimi passi in una scheda di progetto, e un unico referente La accompagna dal primo tratto all'apertura.
 
 **Da leggere:** [Arredare ufficio e studio medico](/magazin/buero-praxis-einrichten-ruhe-vertrauen/) · [Boutique hotel e casa vacanze](/magazin/boutique-hotel-zimmer-wie-zuhause/) · [Acustica nello spazio abitativo aperto](/magazin/akustik-im-offenen-wohnraum/) · [Dekton spiegato](/magazin/dekton-was-ist-das/)

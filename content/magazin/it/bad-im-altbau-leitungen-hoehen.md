@@ -107,7 +107,7 @@ Per i costi: nell'Altbau si aggiungono, a seconda dei riscontri, voci per il ris
 
 ### Che cosa bisogna chiarire prima di ristrutturare un bagno nell'Altbau?
 
-Prima della progettazione estetica dovrebbero essere chiarite posizione e stato della colonna di scarico, l'altezza di stratigrafia disponibile nel pavimento, il tipo di solaio, l'eventuale via di ventilazione e i consensi necessari. Le aperture di prova nel pavimento danno risposte affidabili. Solo dopo vale la pena definire planimetria e materiali. Il primo colloquio gratuito serve a stabilire l'ordine.
+Prima della progettazione estetica dovrebbero essere chiarite posizione e stato della colonna di scarico, l'altezza di stratigrafia disponibile nel pavimento, il tipo di solaio, l'eventuale via di ventilazione e i consensi necessari. Le aperture di prova nel pavimento danno risposte affidabili. Solo dopo vale la pena definire planimetria e materiali. Il primo colloquio serve a stabilire l'ordine.
 
 ### Si può realizzare una doccia a filo pavimento in un Altbau?
 

@@ -109,7 +109,7 @@ Da Richard Atelier questa preparazione fa parte della progettazione. Parliamo co
 
 ### Mi serve un permesso per ristrutturare il bagno in un Altbau?
 
-Se il bagno viene rinnovato nello stesso punto e si sostituiscono solo finiture e sanitari, di regola è possibile senza coinvolgere l'autorità. Per lavori su tubazioni comuni come la colonna montante va coinvolta l'amministrazione condominiale. Se il bagno viene spostato o si interviene sul solaio, servono ulteriori accertamenti. Maggiori dettagli sulla realizzazione li trova nella pagina [Ristrutturazione del bagno](/badrenovierung/). Nel primo colloquio gratuito Le diciamo che cosa vale per il Suo caso.
+Se il bagno viene rinnovato nello stesso punto e si sostituiscono solo finiture e sanitari, di regola è possibile senza coinvolgere l'autorità. Per lavori su tubazioni comuni come la colonna montante va coinvolta l'amministrazione condominiale. Se il bagno viene spostato o si interviene sul solaio, servono ulteriori accertamenti. Maggiori dettagli sulla realizzazione li trova nella pagina [Ristrutturazione del bagno](/badrenovierung/). Nel primo colloquio Le diciamo che cosa vale per il Suo caso.
 
 ### Posso eliminare una parete nel mio appartamento di proprietà?
 
@@ -133,6 +133,6 @@ Un obbligo di legge di informare personalmente non sussiste in ogni caso, ma è 
 
 ## Come si prosegue
 
-Torni a quell'assemblea condominiale: questa volta Lei arriva con un disegno, il parere dello strutturista e una sequenza chiara, e le parole consenso e statica non spaventano più nessuno. Per mettere in ordine le carte si comincia con una chiamata. Prenoti il primo colloquio: 30 minuti per telefono o in video, gratuiti e non vincolanti. Oppure ci chiami direttamente. Ascoltiamo il Suo progetto e Le diciamo con onestà quali questioni vadano chiarite per prime; poi fissiamo i punti essenziali in una scheda di progetto. Da lì un unico referente parla per Lei con amministrazione e strutturista, e per ciò che va costruito c'è la nostra falegnameria viennese Tischlerkultur, attiva dal 1935.
+Torni a quell'assemblea condominiale: questa volta Lei arriva con un disegno, il parere dello strutturista e una sequenza chiara, e le parole consenso e statica non spaventano più nessuno. Per mettere in ordine le carte si comincia con una chiamata. Prenoti il primo colloquio: 30 minuti per telefono o in video, non vincolanti. Oppure ci chiami direttamente. Ascoltiamo il Suo progetto e Le diciamo con onestà quali questioni vadano chiarite per prime; poi fissiamo i punti essenziali in una scheda di progetto. Da lì un unico referente parla per Lei con amministrazione e strutturista, e per ciò che va costruito c'è la nostra falegnameria viennese Tischlerkultur, attiva dal 1935.
 
 **Da leggere:** [Eliminare una parete portante a Vienna](/magazin/tragende-wand-entfernen-wien-was-geht/) · [Ristrutturare un appartamento d'epoca a Vienna](/magazin/altbauwohnung-wien-sanieren-gesamtkonzept/) · [Il bagno nell'Altbau viennese](/magazin/bad-im-altbau-leitungen-hoehen/) · [Il cronoprogramma realistico di una ristrutturazione](/magazin/sanierung-zeitplan-realistisch/)

@@ -128,10 +128,10 @@ Sì, il legno cambia colore sotto la luce. Il rovere diventa di solito un po' pi
 
 ### Si possono combinare materiali diversi per le ante in una cucina?
 
-Sì, ed è spesso sensato. Si è dimostrato valido impiegare i materiali robusti dove la sollecitazione è alta e quelli più caldi dove si vedono. Non dovrebbero però essere più di due o tre materiali, perché la cucina resti calma. Nel colloquio gratuito Le mostriamo come distribuirli sulla Sua cucina.
+Sì, ed è spesso sensato. Si è dimostrato valido impiegare i materiali robusti dove la sollecitazione è alta e quelli più caldi dove si vedono. Non dovrebbero però essere più di due o tre materiali, perché la cucina resti calma. Nel colloquio Le mostriamo come distribuirli sulla Sua cucina.
 
 ## Come si prosegue
 
-Torni a quella domenica mattina, alla mano che scorre sull'anta mentre sale il caffè. Con il materiale giusto sarà un piacere per anni. Chiami Richard Atelier o prenoti il primo colloquio: è gratuito, dura 30 minuti, si svolge al telefono o in videochiamata e non La impegna a nulla. Parliamo delle Sue abitudini e di come desidera vivere la cucina, Le diamo una prima valutazione sincera e riceverà una scheda di progetto, sulla base della quale prepariamo una campionatura mirata. Un unico referente La accompagna dal primo tratto alla consegna. Esempi del nostro lavoro li trova alla pagina [Referenze](/referenzen/).
+Torni a quella domenica mattina, alla mano che scorre sull'anta mentre sale il caffè. Con il materiale giusto sarà un piacere per anni. Chiami Richard Atelier o prenoti il primo colloquio: dura 30 minuti, si svolge al telefono o in videochiamata e non La impegna a nulla. Parliamo delle Sue abitudini e di come desidera vivere la cucina, Le diamo una prima valutazione sincera e riceverà una scheda di progetto, sulla base della quale prepariamo una campionatura mirata. Un unico referente La accompagna dal primo tratto alla consegna. Esempi del nostro lavoro li trova alla pagina [Referenze](/referenzen/).
 
 **Da leggere:** [Impiallacciatura o massello](/magazin/furnier-vs-massivholz-ehrlich/) · [Cucina senza maniglie](/magazin/grifflose-kueche-vor-nachteile/) · [Piano di lavoro a confronto](/magazin/arbeitsplatte-dekton-naturstein-quarz/) · [Cucina del falegname o cucina di marca](/magazin/kueche-aus-tischlerhand-vs-markenkueche/)

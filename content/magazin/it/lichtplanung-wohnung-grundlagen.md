@@ -151,6 +151,6 @@ Spesso sì, ma non ovunque. Soffitti in stucco, vecchie strutture di soffitto e 
 
 È sera. Accende una luce, poi un'altra, e la casa si accoglie intorno a Lei: il cerchio caldo sul tavolo, la parete che brilla piano, la poltrona nel suo angolo. Così può finire ogni Sua giornata, e si comincia con una telefonata.
 
-Ci chiami oppure prenoti il colloquio iniziale: è gratuito, dura 30 minuti, è senza impegno e si svolge per telefono o in video. Guardiamo come usa i Suoi spazi la sera e Le diamo una prima valutazione onesta. Poi riceverà una scheda di progetto sulla base di foto e pianta. Come la luce si progetti in cucine e bagni insieme agli arredi su misura lo mostrano le pagine sulle [cucine su misura](/einbaukuechen/) e sul [bagno](/badezimmer/).
+Ci chiami oppure prenoti il colloquio iniziale: dura 30 minuti, è senza impegno e si svolge per telefono o in video. Guardiamo come usa i Suoi spazi la sera e Le diamo una prima valutazione onesta. Poi riceverà una scheda di progetto sulla base di foto e pianta. Come la luce si progetti in cucine e bagni insieme agli arredi su misura lo mostrano le pagine sulle [cucine su misura](/einbaukuechen/) e sul [bagno](/badezimmer/).
 
 **Da leggere:** [Acustica nello spazio abitativo aperto](/magazin/akustik-im-offenen-wohnraum/) · [Riscaldare e raffrescare a superficie](/magazin/heizen-kuehlen-flaechensysteme-wohnkomfort/) · [Cucina, pranzo, soggiorno: zone invece di stanze](/magazin/kueche-essen-wohnen-zonen-statt-zimmer/) · [Progetto complessivo per la casa](/magazin/gesamtkonzept-wohnung-was-bedeutet-das/)

@@ -147,6 +147,6 @@ Oggetti piatti che non servono ogni giorno: teglie, vassoi, tovagliette, prodott
 
 È sera, ha le mani occupate e allunga una mano: la pentola giusta è lì, al primo cassetto, senza coperchi da spostare né ginocchia a terra. Questo è ciò che un interno ben pensato Le restituisce, ogni giorno. E si comincia con una telefonata.
 
-Ci chiami oppure prenoti il colloquio iniziale: è gratuito, dura 30 minuti, è senza impegno e si svolge per telefono o in video. Chiariamo come cucina e che cosa dovrebbe sistemare, e Le diamo una prima valutazione onesta su quali soluzioni fanno al caso Suo. Esempi li trova nelle nostre [referenze](/referenzen/).
+Ci chiami oppure prenoti il colloquio iniziale: dura 30 minuti, è senza impegno e si svolge per telefono o in video. Chiariamo come cucina e che cosa dovrebbe sistemare, e Le diamo una prima valutazione onesta su quali soluzioni fanno al caso Suo. Esempi li trova nelle nostre [referenze](/referenzen/).
 
 **Da leggere:** [Pensare in grande la cucina piccola](/magazin/kleine-kueche-gross-denken/) · [Cucina senza maniglie](/magazin/grifflose-kueche-vor-nachteile/) · [Dodici errori nella progettazione della cucina](/magazin/kuechenplanung-fehler-vermeiden/) · [Progettare una nuova cucina su misura a Vienna](/magazin/neue-einbaukueche-planen-wien-leitfaden/)

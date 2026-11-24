@@ -117,7 +117,7 @@ A serious range can be given only once survey, zones and specification are settl
 
 Cutting back on the interior fittings is usually the wrong place, because that is where comfort in daily life is decided. On the number of glass fronts or special functions, by contrast, little is lost. Here too a look at the whole floor plan helps: how storage is distributed across the apartment is shown by the [storage concept for the whole apartment](/magazin/stauraumkonzept-ganze-wohnung/).
 
-As for time, depending on the specification you should allow for several weeks of lead time, in some cases more. The installation itself takes a few days for a typical dressing room. If the wardrobe wall is part of a larger conversion, it should be placed in the schedule so that painters and electricians have finished beforehand. If you would like an honest range for your own wardrobe wall, the first conversation is free: 30 minutes, by phone or video, without obligation.
+As for time, depending on the specification you should allow for several weeks of lead time, in some cases more. The installation itself takes a few days for a typical dressing room. If the wardrobe wall is part of a larger conversion, it should be placed in the schedule so that painters and electricians have finished beforehand. If you would like an honest range for your own wardrobe wall, the first conversation is a good start: 30 minutes, by phone or video, without obligation.
 
 For the K. family, the morning after would be short. A soft light comes on as the door glides open, he sees his shirts at a glance, she sees a calm wall, and the teenager inherits the old wardrobes. Nothing is searched for, and nothing stands around.
 
@@ -149,7 +149,7 @@ Yes, practically always. Light directly on the fronts or in the carcass shows co
 
 ## What happens next
 
-Back to the morning of searching. A few months from now it could begin with a soft light and a wall that opens onto exactly what you need. Whether a system, the joinery or both suit your room is best settled on the floor plan. Call us or book the initial conversation: 30 minutes by phone or video, free, without obligation. We tell you honestly which route we would take in your room.
+Back to the morning of searching. A few months from now it could begin with a soft light and a wall that opens onto exactly what you need. Whether a system, the joinery or both suit your room is best settled on the floor plan. Call us or book the initial conversation: 30 minutes by phone or video, without obligation. We tell you honestly which route we would take in your room.
 
 Afterwards we record everything in a project sheet with photos and floor plan, and one person accompanies you from the survey to installation. Examples of our work are shown in the [references](/referenzen/).
 

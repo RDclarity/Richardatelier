@@ -147,6 +147,6 @@ Justo en la puerta se han acreditado los pavimentos duros e insensibles a la hum
 
 ## Cómo continuar
 
-Piense otra vez en esas 7:35. Anote en un papel qué deja usted cada día junto a la puerta y llámenos, o reserve su primera conversación: 30 minutos gratuitos, sin compromiso, por teléfono o por videollamada. Con esa lista, un plano y unas cuantas fotos le damos una primera valoración sincera y esbozamos cómo podrían disponerse las zonas en su entrada. Si decide seguir, recibirá una ficha de proyecto, y la misma persona le acompaña desde el primer trazo hasta la entrega. Ejemplos de nuestro trabajo los encontrará en [Referencias](/referenzen/).
+Piense otra vez en esas 7:35. Anote en un papel qué deja usted cada día junto a la puerta y llámenos, o reserve su primera conversación: 30 minutos sin compromiso, por teléfono o por videollamada. Con esa lista, un plano y unas cuantas fotos le damos una primera valoración sincera y esbozamos cómo podrían disponerse las zonas en su entrada. Si decide seguir, recibirá una ficha de proyecto, y la misma persona le acompaña desde el primer trazo hasta la entrega. Ejemplos de nuestro trabajo los encontrará en [Referencias](/referenzen/).
 
 **Lea también:** [Concepto de almacenaje para toda la vivienda](/magazin/stauraumkonzept-ganze-wohnung/) · [Armario empotrado a medida o armario de sistema](/magazin/einbauschrank-nach-mass-vs-system/) · [Planificar un vestidor](/magazin/begehbare-ankleide-planen-masse/) · [La luz como transición](/magazin/licht-als-raumuebergang/)

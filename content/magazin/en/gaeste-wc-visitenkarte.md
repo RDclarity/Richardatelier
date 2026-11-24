@@ -155,7 +155,7 @@ The work on site usually takes one to two weeks, depending on scope and drying t
 
 ## What happens next
 
-Return to the moment your guest closes the door. Soon it can be the minute they remember. A guest WC is a small project with a big impact, and most questions can be settled from photographs and a few measurements. Call us, or book the free initial consultation: 30 minutes, by phone or video, without obligation, with an honest first assessment of what your room can become.
+Return to the moment your guest closes the door. Soon it can be the minute they remember. A guest WC is a small project with a big impact, and most questions can be settled from photographs and a few measurements. Call us, or book the initial consultation: 30 minutes, by phone or video, without obligation, with an honest first assessment of what your room can become.
 
 Often this becomes the start of a larger thought about hall and bathroom, as our page on [bathrooms](/badezimmer/) shows. You receive a project sheet, you decide in peace, and one contact stays with you to the day the first guest uses the room. Call us, and let your smallest room leave the biggest impression.
 

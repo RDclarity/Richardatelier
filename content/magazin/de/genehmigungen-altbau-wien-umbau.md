@@ -134,6 +134,6 @@ Eine gesetzliche Pflicht zur persönlichen Information besteht nicht in jedem Fa
 
 Die Versammlung, die fremden Wörter, der unsichere Heimweg: Das muss nicht so bleiben. Stellen Sie sich den Moment vor, in dem der letzte Stempel und die letzte Unterschrift da sind und Sie zum ersten Mal durch die neue Öffnung gehen, ohne sich noch eine Frage zu stellen.
 
-Der Weg dorthin beginnt einfach. Sprechen Sie mit uns vor der nächsten Versammlung: Rufen Sie an oder buchen Sie das Erstgespräch, 30 Minuten, kostenlos und unverbindlich, am Telefon oder per Video. Wir hören uns Ihr Vorhaben an und geben Ihnen eine ehrliche Reihenfolge: was zuerst geklärt werden sollte, was warten kann. Danach halten wir die Eckpunkte in einem Projektblatt fest.
+Der Weg dorthin beginnt einfach. Sprechen Sie mit uns vor der nächsten Versammlung: Rufen Sie an oder buchen Sie das Erstgespräch, 30 Minuten, unverbindlich, am Telefon oder per Video. Wir hören uns Ihr Vorhaben an und geben Ihnen eine ehrliche Reihenfolge: was zuerst geklärt werden sollte, was warten kann. Danach halten wir die Eckpunkte in einem Projektblatt fest.
 
 **Weiterlesen:** [Tragende Wand entfernen in Wien](/magazin/tragende-wand-entfernen-wien-was-geht/), [Altbauwohnung in Wien sanieren](/magazin/altbauwohnung-wien-sanieren-gesamtkonzept/), [Bad im Wiener Altbau](/magazin/bad-im-altbau-leitungen-hoehen/), [Der realistische Zeitplan einer Sanierung](/magazin/sanierung-zeitplan-realistisch/)

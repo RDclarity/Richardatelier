@@ -124,7 +124,7 @@ Como orientación, el borde inferior queda a unos 65 a 75 centímetros sobre la 
 
 ### ¿Necesito luces bajo los muebles altos si tengo focos de techo?
 
-Los focos de techo por sí solos suelen proyectar sobre la encimera, en la línea de pared, la sombra del propio cuerpo. Las luces bajo mueble o las líneas de luz bajo las baldas iluminan desde delante y desde arriba y lo evitan. Donde no hay muebles altos, unos focos orientados con precisión pueden ser una alternativa. La primera conversación gratuita basta para saber qué opción le conviene.
+Los focos de techo por sí solos suelen proyectar sobre la encimera, en la línea de pared, la sombra del propio cuerpo. Las luces bajo mueble o las líneas de luz bajo las baldas iluminan desde delante y desde arriba y lo evitan. Donde no hay muebles altos, unos focos orientados con precisión pueden ser una alternativa. La primera conversación basta para saber qué opción le conviene.
 
 ### ¿Puedo mejorar la iluminación de la cocina a posteriori?
 
@@ -138,6 +138,6 @@ Los menos posibles y tantos como hagan falta. Han funcionado bien tres o cuatro 
 
 Vuelva a esa tarde de noviembre. Esta vez la luz cae sobre la encimera sin una sola sombra y, a las ocho, una pulsación convierte la cocina en un salón. Eso se planifica antes de que se cierre el techo.
 
-Llámenos o reserve su primera conversación. Dura 30 minutos, es gratuita y sin compromiso, y se hace por teléfono o videollamada con fotos y plano en mano. Vemos qué niveles de luz necesita su cocina y qué habría que cambiar; después recibe una ficha de proyecto con lo esencial. Encontrará ejemplos en las [referencias](/referenzen/).
+Llámenos o reserve su primera conversación. Dura 30 minutos, sin compromiso, y se hace por teléfono o videollamada con fotos y plano en mano. Vemos qué niveles de luz necesita su cocina y qué habría que cambiar; después recibe una ficha de proyecto con lo esencial. Encontrará ejemplos en las [referencias](/referenzen/).
 
 **Lea también:** [Proyecto de iluminación para la vivienda](/magazin/lichtplanung-wohnung-grundlagen/) · [Planificar la isla de cocina](/magazin/kochinsel-planen-masse-abstaende/) · [Cocina y comedor como un solo espacio](/magazin/kueche-und-esszimmer-ein-raum/) · [Cocina abierta al salón](/magazin/offene-wohnkueche-wand-entfernen/)

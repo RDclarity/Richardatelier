@@ -167,6 +167,6 @@ Viele Fehler lassen sich nachträglich beheben, etwa durch zusätzliche Unterbau
 
 Noch einmal 18:30. Nur diesmal steht der Topf schon auf dem Feld, das Gemüse liegt auf einer breiten Fläche im warmen Licht, der Mixer läuft an einer Steckdose, die genau dort sitzt, wo Sie sie brauchen, und niemand muss warten. So fühlt sich eine Küche an, die jemand für Ihren Dienstag geplant hat.
 
-Bevor Sie einen Plan freigeben, sprechen Sie mit uns. Rufen Sie an oder buchen Sie das Erstgespräch: kostenlos, unverbindlich, 30 Minuten am Telefon oder per Video. Wir sprechen darüber, wie Sie kochen und leben, schauen auf Grundriss und Fotos, auch auf einen Plan, den Sie schon haben, und geben Ihnen eine ehrliche erste Einschätzung. Danach erhalten Sie ein Projektblatt, das die nächsten Schritte zusammenfasst.
+Bevor Sie einen Plan freigeben, sprechen Sie mit uns. Rufen Sie an oder buchen Sie das Erstgespräch: unverbindlich, 30 Minuten am Telefon oder per Video. Wir sprechen darüber, wie Sie kochen und leben, schauen auf Grundriss und Fotos, auch auf einen Plan, den Sie schon haben, und geben Ihnen eine ehrliche erste Einschätzung. Danach erhalten Sie ein Projektblatt, das die nächsten Schritte zusammenfasst.
 
 **Weiterlesen:** [Neue Einbauküche planen in Wien](/magazin/neue-einbaukueche-planen-wien-leitfaden/) · [Grifflose Küche: Vor- und Nachteile](/magazin/grifflose-kueche-vor-nachteile/) · [Speisekammer und Vorratsraum planen](/magazin/speisekammer-vorratsraum-planen/) · [Küche vom Tischler oder Markenküche](/magazin/kueche-aus-tischlerhand-vs-markenkueche/)

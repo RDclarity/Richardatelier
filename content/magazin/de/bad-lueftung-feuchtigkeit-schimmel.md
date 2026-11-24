@@ -138,6 +138,6 @@ Eine Fußbodenheizung trocknet den Boden nach dem Duschen schneller und hält di
 
 Die grauen Punkte in der Ecke, der Griff zum Reiniger: Das muss kein Ritual bleiben. Stellen Sie sich vor, Sie schauen nach dem Duschen nach oben, und da ist nur Weiß.
 
-Rufen Sie uns an, bevor Sie die nächste Flasche Reiniger kaufen, oder buchen Sie das Erstgespräch: 30 Minuten am Telefon oder per Video, kostenlos und unverbindlich. Sie erzählen uns, wo es feucht wird, wir geben Ihnen eine ehrliche erste Einschätzung zu Lüftung und Bestand. Danach erhalten Sie aus Ihren Fotos und Ihrem Grundriss ein Projektblatt mit den nächsten Schritten.
+Rufen Sie uns an, bevor Sie die nächste Flasche Reiniger kaufen, oder buchen Sie das Erstgespräch: 30 Minuten am Telefon oder per Video, unverbindlich. Sie erzählen uns, wo es feucht wird, wir geben Ihnen eine ehrliche erste Einschätzung zu Lüftung und Bestand. Danach erhalten Sie aus Ihren Fotos und Ihrem Grundriss ein Projektblatt mit den nächsten Schritten.
 
 **Weiterlesen:** [Badbeleuchtung am Spiegel planen](/magazin/badbeleuchtung-spiegel-licht-planen/) · [Heizen und Kühlen über Flächen](/magazin/heizen-kuehlen-flaechensysteme-wohnkomfort/) · [Naturstein im Bad](/magazin/naturstein-im-bad-pflege-mythen/) · [Wellness zu Hause](/magazin/wellness-bad-zuhause-sauna-dampf/)

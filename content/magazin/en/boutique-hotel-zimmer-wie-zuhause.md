@@ -112,7 +112,7 @@ The following sequence has proved its worth:
 5. **Prefabrication in the joinery:** Built-ins such as headboards, wardrobes, vanity bases and cabinets are made at Tischlerkultur while the rooms are still occupied.
 6. **Installation in stages:** In each stage a few rooms are closed, installed and handed over cleaned, so that the rest of the house stays lettable.
 
-Because planning and fabrication come from one coordinated hand, with one contact person for you and a joinery family-run since 1935, such time windows can be planned reliably. What this means concretely for clients is described in the article [Planning and execution from a single source](/magazin/planung-und-ausfuehrung-aus-einer-hand/). On costs, anything credible can only be said after a site survey, because condition, room size and depth of intervention vary greatly. A reliable estimate comes in the free first conversation, without obligation.
+Because planning and fabrication come from one coordinated hand, with one contact person for you and a joinery family-run since 1935, such time windows can be planned reliably. What this means concretely for clients is described in the article [Planning and execution from a single source](/magazin/planung-und-ausfuehrung-aus-einer-hand/). On costs, anything credible can only be said after a site survey, because condition, room size and depth of intervention vary greatly. A reliable estimate comes in the first conversation, without obligation.
 
 Many considerations from hospitality carry over directly to the breakfast room, lobby and bar of a small hotel. How acoustics, light and seating influence length of stay there is explained in the article [Designing a restaurant interior](/magazin/gastronomie-einrichten-gaeste-bleiben-laenger/), and how rooms convey calm and trust is shown in the article on [office and practice](/magazin/buero-praxis-einrichten-ruhe-vertrauen/). You will find an overview of our commercial projects under [Hospitality and commercial](/gastronomie/), and selected work under [References](/referenzen/).
 
@@ -144,7 +144,7 @@ No. Short-term tourist letting of flats has been more strictly regulated in Vien
 
 ## What happens next
 
-Back to Clara's sentence: "I'd like someone to feel at home by the second evening." Your guests could do exactly that, with the suitcase in its place, the light just right and a quiet night. Whether you are repositioning a small hotel, renewing individual rooms or furnishing a holiday apartment, it begins with a conversation about who your guests are and how they should feel. Call us or book the initial conversation: 30 minutes by phone or video, free, without obligation. We clarify the starting point, the timeframe and the next steps.
+Back to Clara's sentence: "I'd like someone to feel at home by the second evening." Your guests could do exactly that, with the suitcase in its place, the light just right and a quiet night. Whether you are repositioning a small hotel, renewing individual rooms or furnishing a holiday apartment, it begins with a conversation about who your guests are and how they should feel. Call us or book the initial conversation: 30 minutes by phone or video, without obligation. We clarify the starting point, the timeframe and the next steps.
 
 Afterwards you receive a project sheet, for which you send us photos and the floor plan, and one person accompanies you from the first sketch to the first guest. You can find out who stands behind Richard Atelier on the [Team](/team/) page.
 

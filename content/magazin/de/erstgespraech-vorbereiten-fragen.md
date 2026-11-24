@@ -12,7 +12,7 @@ date: 2026-11-05
 ---
 # Erstgespräch mit dem Innenarchitekten: Fragen und gute Vorbereitung
 
-**Kurz gesagt:** Das Erstgespräch mit einem Innenarchitekten dient dazu, Ihr Vorhaben zu verstehen, den Rahmen zu klären und zu prüfen, ob die Zusammenarbeit passt. Bei Richard Atelier dauert es 30 Minuten, ist kostenlos und findet am Telefon oder per Video statt. Am besten vorbereitet sind Sie mit einer kurzen Liste dessen, was im Alltag nicht funktioniert, einigen Fotos, einem Grundriss und einer ehrlichen Vorstellung von Budget und Zeitrahmen. Danach wissen Sie, wo Sie stehen, und haben sich zu nichts verpflichtet.
+**Kurz gesagt:** Das Erstgespräch mit einem Innenarchitekten dient dazu, Ihr Vorhaben zu verstehen, den Rahmen zu klären und zu prüfen, ob die Zusammenarbeit passt. Bei Richard Atelier dauert es 30 Minuten, ist unverbindlich und findet am Telefon oder per Video statt. Am besten vorbereitet sind Sie mit einer kurzen Liste dessen, was im Alltag nicht funktioniert, einigen Fotos, einem Grundriss und einer ehrlichen Vorstellung von Budget und Zeitrahmen. Danach wissen Sie, wo Sie stehen, und haben sich zu nichts verpflichtet.
 
 Sie sitzen am Abend vor dem Termin mit einem leeren Blatt am Esstisch, der Kugelschreiber klickt, und der Satz im Kopf lautet: Eigentlich weiß ich gar nicht genau, was ich will. Was, wenn die Fragen kommen und Sie keine Antwort haben? In 30 Minuten ist das Gespräch vorbei, Sie legen das Telefon weg und merken: Jemand hat zugehört, Ihr Durcheinander hat eine Reihenfolge, und der nächste Schritt ist klein.
 
@@ -22,7 +22,7 @@ Nennen wir sie Familie H., ein Beispiel. Ein Haus in Perchtoldsdorf, Baujahr 197
 
 Ein Erstgespräch ist das erste strukturierte Gespräch zwischen Bauherren und Innenarchitekt. Es klärt, worum es geht, welche Räume betroffen sind, welcher Rahmen realistisch ist und ob beide Seiten zueinander passen. Es ist kein Verkaufsgespräch und keine Planung, sondern eine gemeinsame Bestandsaufnahme der Ausgangslage.
 
-Bei Richard Atelier dauert das Erstgespräch 30 Minuten. Es ist kostenlos und findet am Telefon oder per Video statt, wie es Ihnen lieber ist. Per Video können Sie uns kurz einen Raum zeigen. Am Telefon können Sie dabei durch die Wohnung gehen, ohne auf einen Bildschirm zu achten.
+Bei Richard Atelier dauert das Erstgespräch 30 Minuten. Es ist unverbindlich und findet am Telefon oder per Video statt, wie es Ihnen lieber ist. Per Video können Sie uns kurz einen Raum zeigen. Am Telefon können Sie dabei durch die Wohnung gehen, ohne auf einen Bildschirm zu achten.
 
 Der Ablauf ist einfach. In den ersten Minuten erzählen Sie, was Sie vorhaben und warum. Dann stellen wir Fragen, die helfen, das Vorhaben einzuordnen. Am Ende besprechen wir die nächsten Schritte und geben Ihnen eine ehrliche erste Einschätzung. Wie dieser erste Termin in den ganzen Projektablauf passt, beschreibt der Beitrag [Mit einem Innenarchitekten arbeiten](/magazin/innenarchitekt-ablauf-zusammenarbeit/).
 
@@ -114,7 +114,7 @@ Soll ein Haus nach dem Auszug der Kinder neu gedacht werden, lohnt sich vorab au
 
 ### Wie lange dauert das Erstgespräch und was kostet es?
 
-Bei Richard Atelier dauert das Erstgespräch 30 Minuten und ist kostenlos. Es findet am Telefon oder per Video statt. Danach erhalten Sie auf Basis Ihrer Fotos und des Grundrisses ein Projektblatt mit Ausgangslage und nächsten Schritten. Es entstehen Ihnen dadurch keine Verpflichtungen.
+Bei Richard Atelier dauert das Erstgespräch 30 Minuten und ist unverbindlich. Es findet am Telefon oder per Video statt. Danach erhalten Sie auf Basis Ihrer Fotos und des Grundrisses ein Projektblatt mit Ausgangslage und nächsten Schritten. Es entstehen Ihnen dadurch keine Verpflichtungen.
 
 ### Muss ich schon genau wissen, was ich will?
 
@@ -140,6 +140,6 @@ Nein. Das Erstgespräch und das Projektblatt verpflichten Sie zu nichts. Sie ent
 
 Das leere Blatt darf ruhig leer bleiben. Schreiben Sie drei Dinge darauf, die Sie an Ihrem Zuhause täglich stören, das reicht. In ein paar Monaten liegt vielleicht ein Grundriss auf demselben Tisch, und aus dem Kartonzimmer ist das Zimmer geworden, das Ihnen immer gefehlt hat.
 
-Der nächste Schritt ist der kleinste im ganzen Projekt: Rufen Sie uns an oder buchen Sie Ihr Erstgespräch, 30 Minuten, kostenlos und unverbindlich, am Telefon oder per Video. Sie erzählen, wir fragen nach, und Sie hören eine ehrliche erste Einschätzung. Danach schicken Sie uns Fotos und Grundriss, und wir halten alles in einem Projektblatt fest. So wissen Sie nach kurzer Zeit, wo Sie stehen und was als Nächstes sinnvoll ist.
+Der nächste Schritt ist der kleinste im ganzen Projekt: Rufen Sie uns an oder buchen Sie Ihr Erstgespräch, 30 Minuten, unverbindlich, am Telefon oder per Video. Sie erzählen, wir fragen nach, und Sie hören eine ehrliche erste Einschätzung. Danach schicken Sie uns Fotos und Grundriss, und wir halten alles in einem Projektblatt fest. So wissen Sie nach kurzer Zeit, wo Sie stehen und was als Nächstes sinnvoll ist.
 
 **Weiterlesen:** [Mit einem Innenarchitekten arbeiten](/magazin/innenarchitekt-ablauf-zusammenarbeit/), [Lebenskonzept statt Einrichtung](/magazin/lebenskonzept-statt-einrichtung/), [Was kostet ein Gesamtkonzept?](/magazin/was-kostet-innenarchitektur-gesamtkonzept/), [Vom ersten Strich bis zum Einzug](/magazin/vom-erstgespraech-zum-fertigen-zuhause-geschichte/)

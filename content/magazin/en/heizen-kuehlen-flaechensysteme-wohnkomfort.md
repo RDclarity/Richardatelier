@@ -134,7 +134,7 @@ Yes, if you know where the pipes run. That is why we plan wall heating surfaces 
 
 ## What happens next
 
-Go back to that night in July and the pillow on the sofa. Soon it can be a night you do not remember. Whether floor, wall or ceiling suits your apartment depends on the existing structure and on how you live in summer and winter. Call us, or book the free initial consultation: 30 minutes, by phone or video, without obligation. We discuss your situation and give you an honest first assessment based on photos and a floor plan.
+Go back to that night in July and the pillow on the sofa. Soon it can be a night you do not remember. Whether floor, wall or ceiling suits your apartment depends on the existing structure and on how you live in summer and winter. Call us, or book the initial consultation: 30 minutes, by phone or video, without obligation. We discuss your situation and give you an honest first assessment based on photos and a floor plan.
 
 Afterwards you receive a project sheet, and one contact stays with you from the first plan to the first warm morning. How surface systems work together with bathrooms and built-ins is on the pages about [bathroom renovation](/badrenovierung/) and [built-in wardrobes](/einbauschraenke/). Call us, and let your next summer begin with a good night.
 

@@ -104,7 +104,7 @@ Sobre los costes: una reforma integral en un Altbau no tiene precio cerrado, por
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta reformar un piso Altbau en Viena?
-Depende mucho del estado de la vivienda y del alcance de los trabajos; no existe un precio cerrado. Instalaciones, baño, cocina y suelos son las grandes partidas. Una cifra seria solo surge tras el inventario y el proyecto de ejecución. En la primera conversación gratuita le damos una orientación honrada.
+Depende mucho del estado de la vivienda y del alcance de los trabajos; no existe un precio cerrado. Instalaciones, baño, cocina y suelos son las grandes partidas. Una cifra seria solo surge tras el inventario y el proyecto de ejecución. En la primera conversación le damos una orientación honrada.
 
 ### ¿Se puede conservar el parqué antiguo en un Altbau?
 A menudo sí. El parqué de espiga y de tablero puede lijarse, repararse y volver a aceitarse o sellarse en muchos casos. Las faltas se completan con madera antigua. Si el suelo conserva suficiente capa útil lo comprueba un instalador de suelos in situ. Antes de levantar nada, consúltenos: quizá lo que tiene vale más de lo que cree.
@@ -123,6 +123,6 @@ El plazo de obra propiamente dicho suele estar entre tres y seis meses en una re
 
 ## Cómo continuar
 
-Domingo por la mañana, la taza en la mano y la mirada en el techo. Dentro de un año puede seguir siendo así, con una diferencia: la escayola intacta, la cocina abierta a la enfilada y un baño en el que ya no se entra de lado. Todo empieza con una conversación. Reserve la primera en esta web o llámenos: media hora gratuita y sin compromiso, por teléfono o por vídeo, en la que le damos una valoración sincera de su Altbau. Después recibe, a partir de sus fotos y su plano, una ficha del proyecto: qué se conserva, qué se renueva y por dónde empezar. Desde el primer trazo hasta la entrega tiene a la misma persona al otro lado, y la carpintería Tischlerkultur, en la misma familia desde 1935, fabrica lo que su piso necesita. Su Altbau ha esperado cien años; usted no tiene por qué esperar uno más.
+Domingo por la mañana, la taza en la mano y la mirada en el techo. Dentro de un año puede seguir siendo así, con una diferencia: la escayola intacta, la cocina abierta a la enfilada y un baño en el que ya no se entra de lado. Todo empieza con una conversación. Reserve la primera en esta web o llámenos: media hora sin compromiso, por teléfono o por vídeo, en la que le damos una valoración sincera de su Altbau. Después recibe, a partir de sus fotos y su plano, una ficha del proyecto: qué se conserva, qué se renueva y por dónde empezar. Desde el primer trazo hasta la entrega tiene a la misma persona al otro lado, y la carpintería Tischlerkultur, en la misma familia desde 1935, fabrica lo que su piso necesita. Su Altbau ha esperado cien años; usted no tiene por qué esperar uno más.
 
 **Lea también:** [El baño en el Altbau vienés](/magazin/bad-im-altbau-leitungen-hoehen/) · [Permisos en el Altbau](/magazin/genehmigungen-altbau-wien-umbau/) · [El calendario realista de una reforma](/magazin/sanierung-zeitplan-realistisch/) · [El proyecto de materiales como hilo conductor](/magazin/materialkonzept-roter-faden-durch-alle-raeume/)

@@ -115,7 +115,7 @@ Da Richard Atelier progettazione ed esecuzione sono in una mano coordinata, con 
 
 ### Quanto costa all'incirca ristrutturare un bagno a Vienna?
 
-Non si può dire in modo serio senza vedere il bagno. I costi effettivi dipendono da dimensioni, tubazioni, stratigrafia del pavimento, formato delle piastrelle e dotazioni e si possono valutare con serietà solo dopo un sopralluogo; una valutazione affidabile arriva nel primo colloquio. Il primo colloquio è gratuito e senza impegno.
+Non si può dire in modo serio senza vedere il bagno. I costi effettivi dipendono da dimensioni, tubazioni, stratigrafia del pavimento, formato delle piastrelle e dotazioni e si possono valutare con serietà solo dopo un sopralluogo; una valutazione affidabile arriva nel primo colloquio. Il primo colloquio senza impegno.
 
 ### Un bagno piccolo è automaticamente più economico?
 
@@ -139,6 +139,6 @@ Una riserva intorno al dieci per cento è una regola pratica sensata, nell'Altba
 
 ## Come si prosegue
 
-Torni a quella mattina delle 6:40: nessuna attesa in corridoio, la doccia grande, il lavabo con due vasche e un bagno di cui conosce ogni scelta. Si comincia con una telefonata. Chiami Richard Atelier o prenoti il primo colloquio: è gratuito, dura 30 minuti, si svolge al telefono o in videochiamata e non La impegna a nulla. Ascoltiamo come desidera vivere il Suo bagno e Le diamo una prima valutazione sincera. In seguito ci invia fotografie e, se disponibile, una planimetria, e noi riassumiamo situazione di partenza e desideri in una scheda di progetto: così saprà presto che cosa conti nel Suo bagno. Un unico referente La accompagna dal primo tratto alla consegna.
+Torni a quella mattina delle 6:40: nessuna attesa in corridoio, la doccia grande, il lavabo con due vasche e un bagno di cui conosce ogni scelta. Si comincia con una telefonata. Chiami Richard Atelier o prenoti il primo colloquio: dura 30 minuti, si svolge al telefono o in videochiamata e non La impegna a nulla. Ascoltiamo come desidera vivere il Suo bagno e Le diamo una prima valutazione sincera. In seguito ci invia fotografie e, se disponibile, una planimetria, e noi riassumiamo situazione di partenza e desideri in una scheda di progetto: così saprà presto che cosa conti nel Suo bagno. Un unico referente La accompagna dal primo tratto alla consegna.
 
 **Da leggere:** [Ristrutturare il bagno a Vienna](/magazin/badezimmer-renovieren-wien-leitfaden/) · [Progettare la doccia a filo pavimento](/magazin/bodengleiche-dusche-planen/) · [Quanto dura la ristrutturazione di un bagno?](/magazin/badrenovierung-dauer-zeitplan/) · [Far sembrare grande un bagno piccolo](/magazin/kleines-bad-gross-wirken-lassen/)

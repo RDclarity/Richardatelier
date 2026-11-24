@@ -128,6 +128,6 @@ Depende del estado de los locales, del alcance de las obras y de las aclaracione
 
 ## Cómo continuar
 
-Vuelva a ese lunes por la mañana y a ese paciente en la puerta. Imagine que entra, mira a su alrededor y respira hondo. Para llegar ahí, llámenos o reserve el primer encuentro en línea: son 30 minutos gratuitos y sin compromiso, por teléfono o por videollamada. Hablamos de sus flujos de trabajo, de sus visitantes y de sus espacios, y le damos una primera valoración sincera. Después recogemos la situación de partida, los requisitos y los siguientes pasos en una ficha de proyecto.
+Vuelva a ese lunes por la mañana y a ese paciente en la puerta. Imagine que entra, mira a su alrededor y respira hondo. Para llegar ahí, llámenos o reserve el primer encuentro en línea: son 30 minutos sin compromiso, por teléfono o por videollamada. Hablamos de sus flujos de trabajo, de sus visitantes y de sus espacios, y le damos una primera valoración sincera. Después recogemos la situación de partida, los requisitos y los siguientes pasos en una ficha de proyecto.
 
 **Lea también:** [Interiorismo para restaurantes](/magazin/gastronomie-einrichten-gaeste-bleiben-laenger/) · [Acústica en el espacio de estar abierto](/magazin/akustik-im-offenen-wohnraum/) · [Vidrio y metal en el interior](/magazin/glas-und-metall-im-interior/) · [Planificación de la luz para la vivienda](/magazin/lichtplanung-wohnung-grundlagen/)

@@ -140,6 +140,6 @@ Una primera estimación es posible tras la toma de datos. El desglose de costes 
 
 ## Cómo continuar
 
-Vuelva a esa pregunta anotada en el móvil. Llámenos o reserve su primera conversación: 30 minutos gratuitos, sin compromiso, por teléfono o por videollamada. Hablamos del alcance, de las prioridades y de su marco, y le damos una primera valoración honesta de lo que es realista. Si decide seguir, lo resumimos todo en una ficha de proyecto, sobre cuya base podrá decidir con tranquilidad, y una sola persona le acompaña hasta la entrega.
+Vuelva a esa pregunta anotada en el móvil. Llámenos o reserve su primera conversación: 30 minutos sin compromiso, por teléfono o por videollamada. Hablamos del alcance, de las prioridades y de su marco, y le damos una primera valoración honesta de lo que es realista. Si decide seguir, lo resumimos todo en una ficha de proyecto, sobre cuya base podrá decidir con tranquilidad, y una sola persona le acompaña hasta la entrega.
 
 **Lea también:** [Proyecto integral para la vivienda](/magazin/gesamtkonzept-wohnung-was-bedeutet-das/) · [¿Cuánto cuesta una cocina empotrada en Viena?](/magazin/was-kostet-eine-einbaukueche-wien/) · [¿Cuánto cuesta reformar un baño en Viena?](/magazin/was-kostet-eine-badrenovierung-wien/) · [Preparar la primera conversación](/magazin/erstgespraech-vorbereiten-fragen/)

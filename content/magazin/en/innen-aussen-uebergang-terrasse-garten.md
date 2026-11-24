@@ -153,7 +153,7 @@ By lighting the terrace and garden in the evening as well, ideally with the same
 
 ## What happens next
 
-Go back to the June evening and the sofa. Soon you could be standing on the terrace barefoot, coffee in hand, without having decided anything. Whether a step can disappear, how far your front can open and what your existing building allows can usually be judged roughly from photos and a floor plan. So call us or book the initial conversation: 30 minutes by phone or video, free and without obligation, with an honest first assessment.
+Go back to the June evening and the sofa. Soon you could be standing on the terrace barefoot, coffee in hand, without having decided anything. Whether a step can disappear, how far your front can open and what your existing building allows can usually be judged roughly from photos and a floor plan. So call us or book the initial conversation: 30 minutes by phone or video, without obligation, with an honest first assessment.
 
 After the call you send us photos and a floor plan, and we prepare a project sheet that records the most important questions about your transition outdoors. One person accompanies you from the first sketch to handover, and our own workshop builds what belongs to it.
 

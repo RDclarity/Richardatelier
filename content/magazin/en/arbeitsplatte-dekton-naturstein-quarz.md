@@ -127,6 +127,6 @@ For most natural stones, sealing is recommended, as it slows the penetration of 
 
 ## What happens next
 
-Saturday morning: the pan goes down, the lemon is squeezed, and the stone looks as beautiful as it did on the first day. Call us or book the first conversation: 30 minutes, free, without obligation, by phone or video. Tell us how you cook, and we give you an honest first assessment of which material suits your habits, your room and your fronts. Then you receive a project sheet, and on that basis we prepare the sample selection. You will find examples of our work under [References](/referenzen/).
+Saturday morning: the pan goes down, the lemon is squeezed, and the stone looks as beautiful as it did on the first day. Call us or book the first conversation: 30 minutes, without obligation, by phone or video. Tell us how you cook, and we give you an honest first assessment of which material suits your habits, your room and your fronts. Then you receive a project sheet, and on that basis we prepare the sample selection. You will find examples of our work under [References](/referenzen/).
 
 **Read next:** [Dekton explained](/magazin/dekton-was-ist-das/) · [Kitchen fronts compared](/magazin/kuechenfronten-lack-furnier-massivholz/) · [Planning a kitchen island](/magazin/kochinsel-planen-masse-abstaende/) · [Sustainable means long-lasting](/magazin/nachhaltige-materialien-langlebigkeit/)

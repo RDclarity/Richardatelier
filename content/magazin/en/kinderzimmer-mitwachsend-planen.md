@@ -146,7 +146,7 @@ For children between about six and ten, often yes; afterwards they are usually l
 
 ## What happens next
 
-Go back to the nursery floor and the wardrobe that is already too small. In a few weeks it can be a room you will not have to rethink for ten years. Call us, or book the free initial consultation: 30 minutes, by phone or video, without obligation. We look at your room, your family and your plans for the next few years, and give you an honest first assessment of which elements should be fixed and which kept open.
+Go back to the nursery floor and the wardrobe that is already too small. In a few weeks it can be a room you will not have to rethink for ten years. Call us, or book the initial consultation: 30 minutes, by phone or video, without obligation. We look at your room, your family and your plans for the next few years, and give you an honest first assessment of which elements should be fixed and which kept open.
 
 Afterwards you receive a project sheet and one contact who stays with you from the first sketch to handover. If you would like to see in advance how we integrate built-ins into living spaces, examples are under [References](/referenzen/). Call us, and let the next time your child grows be a good surprise for the room.
 

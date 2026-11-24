@@ -132,6 +132,6 @@ That depends heavily on the condition of the room, the scope of the work and the
 
 Think of the Friday evening and the bill after the first glass. In a few months it could be the second round, and the third, with your guests leaning back and the room humming softly.
 
-If you wish to open or redesign a venue, call us or book the initial consultation online. It is free, takes 30 minutes, commits you to nothing and is held by phone or video. We talk about your concept, your guests and your space and give you an honest first assessment. Afterwards we summarise the starting point, requirements and next steps in a project sheet. Call us, and let your guests stay.
+If you wish to open or redesign a venue, call us or book the initial consultation online. It takes 30 minutes, commits you to nothing and is held by phone or video. We talk about your concept, your guests and your space and give you an honest first assessment. Afterwards we summarise the starting point, requirements and next steps in a project sheet. Call us, and let your guests stay.
 
 **Read next:** [Furnishing an office or practice](/magazin/buero-praxis-einrichten-ruhe-vertrauen/), [Boutique hotel and holiday apartment](/magazin/boutique-hotel-zimmer-wie-zuhause/), [Acoustics in open-plan living](/magazin/akustik-im-offenen-wohnraum/), [Dekton explained](/magazin/dekton-was-ist-das/)

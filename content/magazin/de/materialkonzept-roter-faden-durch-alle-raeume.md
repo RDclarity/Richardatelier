@@ -133,6 +133,6 @@ Mit ausreichend großen Mustern, die nebeneinander im eigenen Raum liegen, bei T
 
 Das Vorzimmer vom Anfang, der Mantel am Haken. Diesmal bleibt Ihr Blick nicht hängen. Er läuft über den Boden durch die Wohnung, trifft das Holz wieder, das Sie von der Garderobe kennen, und kommt beim Tisch zur Ruhe. Das Zuhause ist dasselbe. Nur stimmt jetzt alles miteinander überein.
 
-Vielleicht reichen dafür schon wenige Eingriffe. Finden Sie es heraus: Rufen Sie uns an, oder tragen Sie sich für ein Erstgespräch ein. Wir nehmen uns 30 Minuten, telefonisch oder per Video, kostenlos und unverbindlich, hören zu, wie Sie leben möchten, und geben Ihnen eine ehrliche erste Einschätzung, wo Sie anfangen sollten. Danach erstellen wir aus Fotos und Grundriss ein erstes Projektblattmit Ihren nächsten Schritten.
+Vielleicht reichen dafür schon wenige Eingriffe. Finden Sie es heraus: Rufen Sie uns an, oder tragen Sie sich für ein Erstgespräch ein. Wir nehmen uns 30 Minuten, telefonisch oder per Video, unverbindlich, hören zu, wie Sie leben möchten, und geben Ihnen eine ehrliche erste Einschätzung, wo Sie anfangen sollten. Danach erstellen wir aus Fotos und Grundriss ein erstes Projektblattmit Ihren nächsten Schritten.
 
 **Weiterlesen:** [Farbkonzept für die ganze Wohnung](/magazin/farbkonzept-wohnung-ruhe-statt-trend/) · [Arbeitsplatte im ehrlichen Vergleich](/magazin/arbeitsplatte-dekton-naturstein-quarz/) · [Bodenbeläge im Vergleich](/magazin/bodenbelaege-vergleich-parkett-stein-keramik/) · [Altbauwohnung in Wien sanieren](/magazin/altbauwohnung-wien-sanieren-gesamtkonzept/)

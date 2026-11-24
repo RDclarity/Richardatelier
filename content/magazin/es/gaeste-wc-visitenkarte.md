@@ -147,6 +147,6 @@ La ejecución suele durar de una a dos semanas, según el alcance y los tiempos 
 
 Piense otra vez en aquel sábado por la noche. Esta vez el invitado cierra la puerta y se queda un momento más, en una estancia pequeña con una luz que le favorece. Es un proyecto pequeño con un gran efecto.
 
-Basta una llamada o una cita para empezar: 30 minutos gratuitos y sin compromiso, por teléfono o videollamada. Con unas fotos y cuatro medidas le decimos con sinceridad qué es posible en su estancia y qué la haría memorable. Después recibe una ficha de proyecto con los siguientes pasos. A menudo se convierte en el comienzo de una reflexión más amplia sobre recibidor y baño, como muestra nuestra página de [Cuartos de baño](/badezimmer/).
+Basta una llamada o una cita para empezar: 30 minutos sin compromiso, por teléfono o videollamada. Con unas fotos y cuatro medidas le decimos con sinceridad qué es posible en su estancia y qué la haría memorable. Después recibe una ficha de proyecto con los siguientes pasos. A menudo se convierte en el comienzo de una reflexión más amplia sobre recibidor y baño, como muestra nuestra página de [Cuartos de baño](/badezimmer/).
 
 **Lea también:** [Llegar a casa: por qué la entrada marca todo el hogar](/magazin/eingangsbereich-ankommen-gestalten/) · [Reformar el cuarto de baño en Viena](/magazin/badezimmer-renovieren-wien-leitfaden/) · [Cerámica de gran formato en el baño](/magazin/grossformatige-fliesen-bad-fugen/) · [Lavabo a medida](/magazin/waschtisch-nach-mass-stauraum/)

@@ -141,6 +141,6 @@ Technisch ist die Abdichtung der wichtigste Schritt, weil sie unsichtbar ist und
 
 Morgen früh stehen Sie vielleicht wieder an der Küchenspüle mit der Zahnbürste im Mund. Das „Irgendwann“ muss aber nicht ewig dauern. Am Ende steht ein ganz gewöhnlicher Morgen: warme Füße, stilles Licht, zwei Becken, kein Vorhang. Und zum ersten Mal seit Jahren gehen Sie nicht gereizt aus dem Bad.
 
-Machen Sie aus dem Irgendwann einen Termin: Rufen Sie uns an oder buchen Sie Ihr Erstgespräch. Es ist kostenlos und unverbindlich, dauert 30 Minuten und läuft per Telefon oder Video. Wir sprechen über Ihren Alltag, sehen uns Fotos und Grundriss an und sagen Ihnen ehrlich, welchen Umfang wir sehen. Die nächsten Schritte bekommen Sie danach als Projektblatt, und Sie entscheiden in Ruhe, ob Sie mit uns weitergehen.
+Machen Sie aus dem Irgendwann einen Termin: Rufen Sie uns an oder buchen Sie Ihr Erstgespräch. Es ist unverbindlich, dauert 30 Minuten und läuft per Telefon oder Video. Wir sprechen über Ihren Alltag, sehen uns Fotos und Grundriss an und sagen Ihnen ehrlich, welchen Umfang wir sehen. Die nächsten Schritte bekommen Sie danach als Projektblatt, und Sie entscheiden in Ruhe, ob Sie mit uns weitergehen.
 
 **Weiterlesen:** [Naturstein im Bad](/magazin/naturstein-im-bad-pflege-mythen/) · [Großformatige Keramik im Bad](/magazin/grossformatige-fliesen-bad-fugen/) · [Armaturen richtig auswählen](/magazin/armaturen-auswahl-messing-edelstahl/) · [Barrierefreies Bad mit Designanspruch](/magazin/bad-altersgerecht-barrierefrei-design/)

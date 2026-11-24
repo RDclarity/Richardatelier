@@ -139,6 +139,6 @@ Sí, si se emplean con coherencia y la luz está bien planificada. Un baño oscu
 
 ## Cómo continuar
 
-Vuelva a la mañana en que el codo tira el frasco. Imagine que se gira, y no hay nada que derribar: el suelo corre limpio, la puerta abre hacia fuera y todo tiene su sitio. Llámenos o reserve el primer encuentro en línea: son 30 minutos gratuitos y sin compromiso, por teléfono o por videollamada. Hablamos de su día a día y le damos una primera valoración sincera de lo que es posible en su estancia. Después recibirá una ficha de proyecto con los siguientes pasos.
+Vuelva a la mañana en que el codo tira el frasco. Imagine que se gira, y no hay nada que derribar: el suelo corre limpio, la puerta abre hacia fuera y todo tiene su sitio. Llámenos o reserve el primer encuentro en línea: son 30 minutos sin compromiso, por teléfono o por videollamada. Hablamos de su día a día y le damos una primera valoración sincera de lo que es posible en su estancia. Después recibirá una ficha de proyecto con los siguientes pasos.
 
 **Lea también:** [Reformar el cuarto de baño en Viena](/magazin/badezimmer-renovieren-wien-leitfaden/) · [Cerámica de gran formato en el baño](/magazin/grossformatige-fliesen-bad-fugen/) · [Cerámica sanitaria: lavabo e inodoro](/magazin/badkeramik-waschtisch-wc-auswaehlen/) · [¿Cuánto cuesta una reforma de baño en Viena?](/magazin/was-kostet-eine-badrenovierung-wien/)

@@ -108,7 +108,7 @@ Bei Richard Atelier liegen Planung und Ausführung in einer abgestimmten Hand, v
 
 ### Was kostet eine Badrenovierung in Wien ungefähr?
 
-Die tatsächlichen Kosten hängen von Größe, Leitungen, Bodenaufbau, Fliesenformat und Ausstattung ab. Seriös festlegen lassen sie sich erst nach einer Besichtigung. Eine ehrliche erste Einschätzung bekommen Sie aber schon im kostenlosen Erstgespräch, und zwar ohne jede Verpflichtung.
+Die tatsächlichen Kosten hängen von Größe, Leitungen, Bodenaufbau, Fliesenformat und Ausstattung ab. Seriös festlegen lassen sie sich erst nach einer Besichtigung. Eine ehrliche erste Einschätzung bekommen Sie aber schon im Erstgespräch, und zwar ohne jede Verpflichtung.
 
 ### Ist ein kleines Bad automatisch günstiger?
 
@@ -134,6 +134,6 @@ Eine Reserve im Budget ist eine sinnvolle Faustregel, im Altbau sollte sie groß
 
 Zurück zum Morgen auf dem Gang. Stellen Sie sich vor, um 6:40 Uhr steht niemand mehr draußen, das Wasser hat beim ersten Griff die richtige Temperatur, und die Rechnung, die dahintersteht, hat Sie nicht überrascht, weil Sie jeden Posten vorher kannten.
 
-Bevor Sie drei Angebote vergleichen, rufen Sie uns an oder buchen Sie das Erstgespräch: eine halbe Stunde am Telefon oder per Video, kostenlos und unverbindlich, mit einer ehrlichen ersten Einschätzung. Danach schicken Sie uns Fotos und, falls vorhanden, einen Grundriss, und wir fassen Ausgangslage und Wünsche in einem Projektblatt zusammen. So wissen Sie früh, worauf es in Ihrem Bad ankommt.
+Bevor Sie drei Angebote vergleichen, rufen Sie uns an oder buchen Sie das Erstgespräch: eine halbe Stunde am Telefon oder per Video, unverbindlich, mit einer ehrlichen ersten Einschätzung. Danach schicken Sie uns Fotos und, falls vorhanden, einen Grundriss, und wir fassen Ausgangslage und Wünsche in einem Projektblatt zusammen. So wissen Sie früh, worauf es in Ihrem Bad ankommt.
 
 **Weiterlesen:** [Badezimmer renovieren in Wien](/magazin/badezimmer-renovieren-wien-leitfaden/), [Bodengleiche Dusche planen](/magazin/bodengleiche-dusche-planen/), [Wie lange dauert eine Badrenovierung?](/magazin/badrenovierung-dauer-zeitplan/), [Kleines Bad groß wirken lassen](/magazin/kleines-bad-gross-wirken-lassen/)

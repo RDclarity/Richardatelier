@@ -128,6 +128,6 @@ Sí, si se sabe dónde están los tubos. Por eso planificamos las superficies ra
 
 Retroceda a la noche de julio, a las dos de la madrugada. Esta vez el dormitorio está agradable, no se oye nada y el sofá queda para leer. Eso se planifica con antelación, antes de abrir una sola pared.
 
-Cuéntenos cómo vive usted en verano e invierno: llámenos o reserve la primera consulta, 30 minutos gratuitos y sin compromiso, por teléfono o videollamada. Le damos una valoración honesta con sus fotos y su plano y, después, una ficha de proyecto. Cómo se combinan los sistemas por superficies con los baños y los empotrados lo muestran las páginas de [reforma de baños](/badrenovierung/) y de [armarios empotrados](/einbauschraenke/).
+Cuéntenos cómo vive usted en verano e invierno: llámenos o reserve la primera consulta, 30 minutos sin compromiso, por teléfono o videollamada. Le damos una valoración honesta con sus fotos y su plano y, después, una ficha de proyecto. Cómo se combinan los sistemas por superficies con los baños y los empotrados lo muestran las páginas de [reforma de baños](/badrenovierung/) y de [armarios empotrados](/einbauschraenke/).
 
 **Lea también:** [Amueblar un penthouse](/magazin/penthouse-einrichten-gesamtkonzept/) · [Planificación eléctrica: pensar antes](/magazin/elektroplanung-steckdosen-vorher-denken/) · [Planificación de la iluminación de la vivienda](/magazin/lichtplanung-wohnung-grundlagen/) · [Sostenible significa duradero](/magazin/nachhaltige-materialien-langlebigkeit/)

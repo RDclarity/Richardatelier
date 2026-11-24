@@ -120,7 +120,7 @@ Hinweise geben die Lage, etwa die Mittelmauer parallel zur Straße im Gründerze
 
 ### Was kostet es, eine tragende Wand zu entfernen?
 
-Das hängt von Spannweite, Deckenkonstruktion und Folgearbeiten ab. Große Öffnungen oder Stützen machen einen Durchbruch mit Stahlträger deutlich aufwendiger. Hinzu kommen Statik, Behördenverfahren, Brandschutz und Folgearbeiten wie Boden, Putz und Elektro. Eine ehrliche erste Einschätzung für Ihre Wohnung bekommen Sie im Erstgespräch, kostenlos und unverbindlich.
+Das hängt von Spannweite, Deckenkonstruktion und Folgearbeiten ab. Große Öffnungen oder Stützen machen einen Durchbruch mit Stahlträger deutlich aufwendiger. Hinzu kommen Statik, Behördenverfahren, Brandschutz und Folgearbeiten wie Boden, Putz und Elektro. Eine ehrliche erste Einschätzung für Ihre Wohnung bekommen Sie im Erstgespräch, unverbindlich.
 
 ### Wie lange dauert ein Wanddurchbruch?
 
@@ -138,6 +138,6 @@ Ja, und das ist oft eine sehr gute Lösung. Bleiben an beiden Enden Mauerpfeiler
 
 Morgen läuft der Kaffee wieder, und das Licht fällt wieder hinter die Mauer. Vielleicht trinken Sie ihn bald an der Insel, mit dem Blick bis zu den Fenstern. Ob das bei Ihnen geht, lässt sich in einem ersten Schritt oft schon mit Grundriss, Fotos und der Lage im Haus einordnen.
 
-Klopfen Sie nicht selbst an die Mauer. Rufen Sie uns an oder buchen Sie das Erstgespräch: In 30 kostenlosen, unverbindlichen Minuten am Telefon oder per Video hören Sie unsere ehrliche erste Einschätzung und die nächsten Schritte mit Statik und Behörde. Danach erhalten Sie ein Projektblatt mit allen offenen Fragen. Wer bei uns die Planung verantwortet, lernen Sie auf der Seite [Team](/team/) kennen.
+Klopfen Sie nicht selbst an die Mauer. Rufen Sie uns an oder buchen Sie das Erstgespräch: In 30 unverbindlichen Minuten am Telefon oder per Video hören Sie unsere ehrliche erste Einschätzung und die nächsten Schritte mit Statik und Behörde. Danach erhalten Sie ein Projektblatt mit allen offenen Fragen. Wer bei uns die Planung verantwortet, lernen Sie auf der Seite [Team](/team/) kennen.
 
 **Weiterlesen:** [Offene Wohnküche: Wann die Wand fallen darf](/magazin/offene-wohnkueche-wand-entfernen/) · [Genehmigungen beim Umbau im Wiener Altbau](/magazin/genehmigungen-altbau-wien-umbau/) · [Halboffen statt offen](/magazin/halboffene-grundrisse-schiebetueren-glas/) · [Zwei Wohnungen zusammenlegen](/magazin/wohnung-zusammenlegen-zwei-werden-eine/)

@@ -136,9 +136,9 @@ Si considera gradevole un'umidità relativa dell'aria di circa 40-60 per cento. 
 
 ### Il riscaldamento a pavimento aiuta contro la muffa in bagno?
 Il riscaldamento a pavimento asciuga più in fretta il pavimento dopo la doccia e mantiene calde le superfici, il che riduce la condensa. Non sostituisce però la ventilazione, perché l'umidità deve comunque uscire dal locale. In combinazione con un buon aspiratore è un'integrazione sensata.
- Nel colloquio gratuito valutiamo insieme se nel Suo bagno ha senso.
+ Nel colloquio valutiamo insieme se nel Suo bagno ha senso.
 ## Come si prosegue
 
-Torni a quella mattina: l'ultima doccia è finita, lo specchio torna limpido mentre in cucina si fa colazione, e l'angolo sopra la doccia resta bianco. Non è fortuna: sono aria, calore e materiali giusti, progettati insieme. Chiami Richard Atelier o prenoti il primo colloquio: è gratuito, dura 30 minuti, si svolge al telefono o in videochiamata e non La impegna a nulla. Guardiamo ventilazione, stato di fatto e uso del Suo bagno, ascoltiamo come desidera viverlo e Le diamo una prima valutazione sincera. Poi riceverà una scheda di progetto con i passi successivi.
+Torni a quella mattina: l'ultima doccia è finita, lo specchio torna limpido mentre in cucina si fa colazione, e l'angolo sopra la doccia resta bianco. Non è fortuna: sono aria, calore e materiali giusti, progettati insieme. Chiami Richard Atelier o prenoti il primo colloquio: dura 30 minuti, si svolge al telefono o in videochiamata e non La impegna a nulla. Guardiamo ventilazione, stato di fatto e uso del Suo bagno, ascoltiamo come desidera viverlo e Le diamo una prima valutazione sincera. Poi riceverà una scheda di progetto con i passi successivi.
 
 **Da leggere:** [Progettare l'illuminazione del bagno allo specchio](/magazin/badbeleuchtung-spiegel-licht-planen/) · [Riscaldare e raffrescare con sistemi radianti](/magazin/heizen-kuehlen-flaechensysteme-wohnkomfort/) · [Pietra naturale in bagno](/magazin/naturstein-im-bad-pflege-mythen/) · [Il benessere a casa](/magazin/wellness-bad-zuhause-sauna-dampf/)

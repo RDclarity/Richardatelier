@@ -107,7 +107,7 @@ Large-format ceramic is not the only way to a calm, low-joint bathroom. Dependin
 - **Micro-cement and trowelled finishes:** Truly jointless, but with limits on durability and application. More in the article [Jointless: micro-cement and trowelled finishes](/magazin/mikrozement-fugenlos-bad-wohnen/).
 - **Terrazzo:** A Viennese classic with its own history, see [Terrazzo for floor and vanity unit](/magazin/terrazzo-comeback-boden-waschtisch/).
 
-As for cost: large-format slabs are often no more expensive in material than high-quality small tiles. The laying, however, is more demanding, because substrate, handling and cutting require more work. Per square metre, laying costs are therefore usually well above those of standard formats. What a complete bathroom renovation in Vienna costs depends on the project, and a reliable estimate comes in the free first conversation, without obligation. More about our work on the page [bathroom renovation](/badrenovierung/), and insights into finished bathrooms under [bathrooms](/badezimmer/).
+As for cost: large-format slabs are often no more expensive in material than high-quality small tiles. The laying, however, is more demanding, because substrate, handling and cutting require more work. Per square metre, laying costs are therefore usually well above those of standard formats. What a complete bathroom renovation in Vienna costs depends on the project, and a reliable estimate comes in the first conversation, without obligation. More about our work on the page [bathroom renovation](/badrenovierung/), and insights into finished bathrooms under [bathrooms](/badezimmer/).
 
 ## Frequently asked questions
 
@@ -131,7 +131,7 @@ Large-format ceramic is very robust, easy to care for and available in many fini
 
 ## What happens next
 
-Back to the shower and the grid you counted without wanting to. A few months from now you could stand under the water in front of one quiet surface, and cleaning could be a cloth and a minute. If you are planning a bathroom with large slabs, an early look at the room, the substrate and the access route pays off. Call us or book the initial conversation: 30 minutes by phone or video, free, without obligation. We tell you honestly which formats make sense in your bathroom.
+Back to the shower and the grid you counted without wanting to. A few months from now you could stand under the water in front of one quiet surface, and cleaning could be a cloth and a minute. If you are planning a bathroom with large slabs, an early look at the room, the substrate and the access route pays off. Call us or book the initial conversation: 30 minutes by phone or video, without obligation. We tell you honestly which formats make sense in your bathroom.
 
 Afterwards you receive a project sheet with all the important points, and one person accompanies you from the first sketch to handover.
 

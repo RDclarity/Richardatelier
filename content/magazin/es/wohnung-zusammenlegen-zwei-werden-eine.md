@@ -131,7 +131,7 @@ Desde la primera idea hasta la mudanza conviene contar con un año o algo más. 
 
 ## Cómo continuar
 
-Vuelva a esa mañana de las siete: la mochila, el baño ocupado, el pasillo en el que todos se rozan. Dentro de un año puede ser otra cosa. Un desayuno largo junto a la ventana que da al parque, el sol sobre la mesa, cada uno con su habitación y todos con un sitio para encontrarse. Si ya tiene la vivienda vecina, o está a punto de tenerla, llámenos antes de decidir nada. En 30 minutos, gratis y sin compromiso, por teléfono o por videollamada, le damos una primera valoración honesta de qué conviene aclarar antes que nada en su unión.
+Vuelva a esa mañana de las siete: la mochila, el baño ocupado, el pasillo en el que todos se rozan. Dentro de un año puede ser otra cosa. Un desayuno largo junto a la ventana que da al parque, el sol sobre la mesa, cada uno con su habitación y todos con un sitio para encontrarse. Si ya tiene la vivienda vecina, o está a punto de tenerla, llámenos antes de decidir nada. En 30 minutos, sin compromiso, por teléfono o por videollamada, le damos una primera valoración honesta de qué conviene aclarar antes que nada en su unión.
 
 Después le pedimos planos y fotos, y preparamos una primera ficha del proyecto. Tendrá un único interlocutor de principio a fin, y detrás, una carpintería vienesa con tradición desde 1935. Llámenos o reserve su primera conversación. Su familia ya ha comprado el espacio; falta darle forma.
 

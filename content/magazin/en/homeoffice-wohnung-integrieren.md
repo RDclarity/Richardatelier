@@ -138,6 +138,6 @@ Not necessarily, but additional sockets at desk height and a network connection 
 
 Go back to six in the evening and the laptop on the dining table. A home office that fits into the apartment is usually a matter of a few well-chosen interventions.
 
-Call us or book the free initial call. It takes 30 minutes by phone or video, costs nothing and commits you to nothing. You tell us how you work, and we give you an honest first assessment of where in your apartment the right place lies. Afterwards you receive a project sheet with first ideas, and soon the evening belongs to you again. Examples of integrated built-ins can also be found under [References](/referenzen/).
+Call us or book the initial call. It takes 30 minutes by phone or video, costs nothing and commits you to nothing. You tell us how you work, and we give you an honest first assessment of where in your apartment the right place lies. Afterwards you receive a project sheet with first ideas, and soon the evening belongs to you again. Examples of integrated built-ins can also be found under [References](/referenzen/).
 
 **Read next:** [Made-to-measure fitted wardrobe or modular system](/magazin/einbauschrank-nach-mass-vs-system/) · [The home library](/magazin/bibliothek-lesezimmer-zuhause/) · [Electrical planning](/magazin/elektroplanung-steckdosen-vorher-denken/) · [Furnishing a living room without a TV wall](/magazin/wohnzimmer-einrichten-ohne-fernseherwand/)

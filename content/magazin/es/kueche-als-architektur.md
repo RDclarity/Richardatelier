@@ -115,7 +115,7 @@ Muy bien, si responde al espacio. Entonces juntas y columnas recogen ventanas y 
 
 ### ¿De qué dependen los costes de una cocina arquitectónica?
 
-Dependen sobre todo del tamaño, los materiales, los electrodomésticos, la encimera y el esfuerzo de adaptar el espacio. A ello se suman conducciones, extracción, electricidad, suelo e iluminación, que no están incluidos en el precio de la cocina. Por eso, la primera conversación gratuita es el momento para una valoración honesta.
+Dependen sobre todo del tamaño, los materiales, los electrodomésticos, la encimera y el esfuerzo de adaptar el espacio. A ello se suman conducciones, extracción, electricidad, suelo e iluminación, que no están incluidos en el precio de la cocina. Por eso, la primera conversación es el momento para una valoración honesta.
 
 ### ¿Se puede combinar una cocina modular con trabajos de carpintería?
 
@@ -129,6 +129,6 @@ Desde la primera planificación hasta el montaje suelen pasar varios meses. Plan
 
 Vuelva a aquella noche, a las ocho. Esta vez cocina de cara al salón, la isla es un punto de encuentro y la cocina se funde con la estancia, sin romperla. Eso se planifica antes de elegir el primer armario.
 
-Empiece por una llamada o por la reserva de la primera conversación: 30 minutos gratuitos y sin compromiso, por teléfono o videollamada. Hablamos de sus hábitos al cocinar y vivir y del papel que debe desempeñar la cocina, y le damos una valoración honesta. Después recibe una ficha de proyecto con fotos y plano. Ejemplos de nuestro trabajo, en [Referencias](/referenzen/).
+Empiece por una llamada o por la reserva de la primera conversación: 30 minutos sin compromiso, por teléfono o videollamada. Hablamos de sus hábitos al cocinar y vivir y del papel que debe desempeñar la cocina, y le damos una valoración honesta. Después recibe una ficha de proyecto con fotos y plano. Ejemplos de nuestro trabajo, en [Referencias](/referenzen/).
 
 **Lea también:** [Planificar una nueva cocina empotrada en Viena](/magazin/neue-einbaukueche-planen-wien-leitfaden/) · [Planificar la isla de cocina](/magazin/kochinsel-planen-masse-abstaende/) · [¿Cocina de carpintero o cocina de marca?](/magazin/kueche-aus-tischlerhand-vs-markenkueche/) · [Evitar errores en la planificación de la cocina](/magazin/kuechenplanung-fehler-vermeiden/)

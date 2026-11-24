@@ -134,7 +134,7 @@ Especially for projects with several rooms, many bespoke built-ins and tight dea
 
 ## What happens next
 
-Go back to the niche, the wardrobe a centimetre and a half too wide. In your project that sentence never has to be said. Call us, or book the free initial consultation: 30 minutes, by phone or video, without obligation. You tell us what you are planning, and we say openly whether our model suits it, with an honest first assessment.
+Go back to the niche, the wardrobe a centimetre and a half too wide. In your project that sentence never has to be said. Call us, or book the initial consultation: 30 minutes, by phone or video, without obligation. You tell us what you are planning, and we say openly whether our model suits it, with an honest first assessment.
 
 Afterwards we summarise the key points in a project sheet, and one contact stays with you from the first sketch to the day of handover. Call us, and let the next time something does not fit be a problem that has already been solved.
 

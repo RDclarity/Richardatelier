@@ -123,7 +123,7 @@ Indizi sono la posizione, per esempio il muro di spina parallelo alla strada nel
 
 ### Quanto costa eliminare un muro portante?
 
-Dipende da luce libera, struttura del solaio e lavori successivi. Grandi aperture o pilastri aumentano nettamente l'impegno. Si aggiungono calcolo statico, procedura presso l'autorità, protezione antincendio e lavori successivi come pavimento, intonaco e impianto elettrico. Una valutazione affidabile si ottiene nel primo colloquio. Il colloquio è gratuito e non La impegna.
+Dipende da luce libera, struttura del solaio e lavori successivi. Grandi aperture o pilastri aumentano nettamente l'impegno. Si aggiungono calcolo statico, procedura presso l'autorità, protezione antincendio e lavori successivi come pavimento, intonaco e impianto elettrico. Una valutazione affidabile si ottiene nel primo colloquio. Il colloquio non La impegna.
 
 ### Quanto dura un'apertura nel muro?
 
@@ -139,6 +139,6 @@ Sì, ed è spesso una soluzione molto buona. Se ai due estremi restano in piedi 
 
 ## Come si prosegue
 
-Torni a quella cucina: Lei ai fornelli, gli ospiti nell'altra stanza, e questa volta li vede, li sente, e tra voi c'è la luce delle finestre sulla strada. Quel momento comincia con una telefonata. Chiami Richard Atelier o prenoti il primo colloquio: è gratuito, dura 30 minuti, si svolge al telefono o in videochiamata e non La impegna a nulla. Con planimetria, foto e posizione nell'edificio Le diamo una prima valutazione sincera, perché se un muro nel Suo appartamento possa cadere si può spesso inquadrare già in questo primo passo. Poi riceverà una scheda di progetto con tutte le questioni aperte, e un unico referente coordina strutturista e autorità, dal primo tratto alla consegna. Chi si assume da noi la responsabilità della progettazione lo conosce alla pagina [Team](/team/).
+Torni a quella cucina: Lei ai fornelli, gli ospiti nell'altra stanza, e questa volta li vede, li sente, e tra voi c'è la luce delle finestre sulla strada. Quel momento comincia con una telefonata. Chiami Richard Atelier o prenoti il primo colloquio: dura 30 minuti, si svolge al telefono o in videochiamata e non La impegna a nulla. Con planimetria, foto e posizione nell'edificio Le diamo una prima valutazione sincera, perché se un muro nel Suo appartamento possa cadere si può spesso inquadrare già in questo primo passo. Poi riceverà una scheda di progetto con tutte le questioni aperte, e un unico referente coordina strutturista e autorità, dal primo tratto alla consegna. Chi si assume da noi la responsabilità della progettazione lo conosce alla pagina [Team](/team/).
 
 **Da leggere:** [Cucina abitabile aperta: quando il muro può cadere](/magazin/offene-wohnkueche-wand-entfernen/) · [Autorizzazioni per ristrutturare nell'Altbau viennese](/magazin/genehmigungen-altbau-wien-umbau/) · [Semiaperto anziché aperto](/magazin/halboffene-grundrisse-schiebetueren-glas/) · [Unire due appartamenti](/magazin/wohnung-zusammenlegen-zwei-werden-eine/)

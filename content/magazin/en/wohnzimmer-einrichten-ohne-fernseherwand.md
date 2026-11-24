@@ -153,7 +153,7 @@ A soft base light, a directional reading light, accent light for wall or art and
 
 ## What happens next
 
-Back to that Tuesday evening and the black rectangle. Soon it can be an evening of window, book and good company. Call us, or book the free initial consultation: 30 minutes, by phone or video, without obligation. We talk about what your evenings look like, look at photographs and the floor plan of your room, and give you an honest first assessment of the focal point that suits you and where the television finds its place.
+Back to that Tuesday evening and the black rectangle. Soon it can be an evening of window, book and good company. Call us, or book the initial consultation: 30 minutes, by phone or video, without obligation. We talk about what your evenings look like, look at photographs and the floor plan of your room, and give you an honest first assessment of the focal point that suits you and where the television finds its place.
 
 You will find examples of living spaces under [References](/referenzen/). Call us, and let your next film night begin with the doors opening, and end with them closed.
 

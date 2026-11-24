@@ -131,6 +131,6 @@ Eine Speisekammer dient vor allem der Lagerung von Vorräten. Eine Pantry hat zu
 
 Der nächste Samstag kommt bestimmt, mit Wasserkisten, Mehl und Kartoffeln. Stellen Sie sich vor, Sie stellen alles in Ihre Speis, ziehen die Tür zu und setzen sich mit einem Kaffee an eine leere Arbeitsplatte, in eine Küche, die nichts von Ihrem Einkauf weiß.
 
-Ob bei Ihnen Platz dafür ist, zeigt oft erst ein frischer Blick auf den Grundriss. Suchen wir gemeinsam den Platz dafür: Rufen Sie an oder buchen Sie das Erstgespräch, 30 Minuten, kostenlos, unverbindlich, am Telefon oder per Video. Wir sehen uns Fotos und Pläne an und raten Ihnen ehrlich zu der Form, die zu Ihrem Alltag passt, auch wenn es nur ein gut geplanter Hochschrank ist. Danach erhalten Sie ein Projektblatt mit den nächsten Schritten.
+Ob bei Ihnen Platz dafür ist, zeigt oft erst ein frischer Blick auf den Grundriss. Suchen wir gemeinsam den Platz dafür: Rufen Sie an oder buchen Sie das Erstgespräch, 30 Minuten, unverbindlich, am Telefon oder per Video. Wir sehen uns Fotos und Pläne an und raten Ihnen ehrlich zu der Form, die zu Ihrem Alltag passt, auch wenn es nur ein gut geplanter Hochschrank ist. Danach erhalten Sie ein Projektblatt mit den nächsten Schritten.
 
 **Weiterlesen:** [Neue Einbauküche planen in Wien](/magazin/neue-einbaukueche-planen-wien-leitfaden/) · [Kleine Küche groß denken](/magazin/kleine-kueche-gross-denken/) · [Eingangsbereich gestalten](/magazin/eingangsbereich-ankommen-gestalten/) · [Haus komplett neu gestalten](/magazin/haus-komplett-neu-gestalten-ablauf/)

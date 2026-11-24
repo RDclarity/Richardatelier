@@ -140,6 +140,6 @@ Una cucina esterna compatta con barbecue, piano di lavoro e lavello richiede, co
 
 ## Come si prosegue
 
-Torni a quella processione serale, con i taglieri in equilibrio tra la porta e il tavolo. Poi la immagini finita: la brace pronta, gli ospiti che ridono, un piano d'appoggio a destra e a sinistra, e l'inverno che passa senza lasciare un segno. Per cominciare, ci chiami o prenoti il primo colloquio, gratuito, di 30 minuti, telefonico o in video e senza impegno. Guardiamo insieme foto e piante e Le diciamo, con franchezza, come potrebbe essere la Sua cucina esterna. Se la strada Le piace, un unico interlocutore la segue fino alla consegna.
+Torni a quella processione serale, con i taglieri in equilibrio tra la porta e il tavolo. Poi la immagini finita: la brace pronta, gli ospiti che ridono, un piano d'appoggio a destra e a sinistra, e l'inverno che passa senza lasciare un segno. Per cominciare, ci chiami o prenoti il primo colloquio, di 30 minuti, telefonico o in video e senza impegno. Guardiamo insieme foto e piante e Le diciamo, con franchezza, come potrebbe essere la Sua cucina esterna. Se la strada Le piace, un unico interlocutore la segue fino alla consegna.
 
 **Da leggere:** [Il dentro diventa fuori](/magazin/innen-aussen-uebergang-terrasse-garten/) · [Dekton spiegato](/magazin/dekton-was-ist-das/) · [Progettare l'isola cucina](/magazin/kochinsel-planen-masse-abstaende/) · [Sostenibile significa durevole](/magazin/nachhaltige-materialien-langlebigkeit/)

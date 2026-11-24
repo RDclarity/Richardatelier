@@ -2,7 +2,7 @@
 slug: home-office-in-casa-integrato
 source_slug: homeoffice-wohnung-integrieren
 title: Home office in casa: lavorare senza che tutto diventi un ufficio, e chiudere la giornata davvero
-description: Home office in appartamento: posto, luce, acustica e contenitori per dare spazio al lavoro e far restare la Sua casa a Vienna una casa. Colloquio gratuito.
+description: Home office in appartamento: posto, luce, acustica e contenitori per dare spazio al lavoro e far restare la Sua casa a Vienna una casa. Colloquio.
 category: wohnen
 cta: wohnen
 keywords: arredare home office in casa, postazione di lavoro in soggiorno, home office interior design, nicchia studio
@@ -136,6 +136,6 @@ Non necessariamente, ma prese aggiuntive all'altezza del piano e un collegamento
 
 ## Come si prosegue
 
-Torni alle 18, al tavolo da pranzo con il portatile. Tra qualche mese chiude l'anta, spegne la luce da lavoro e la stanza è di nuovo casa. Il primo passo è una telefonata. Ci chiami o prenoti il primo colloquio: è gratuito, dura 30 minuti, senza impegno, per telefono o in video. Parliamo di come lavora e di dove, nel Suo appartamento, si trovi il posto giusto, e Le diamo una prima valutazione sincera. Poi riceve una scheda di progetto con le prime riflessioni, e un solo interlocutore La accompagna fino alla consegna. Esempi di inserimenti integrati li trova anche nelle [Referenze](/referenzen/).
+Torni alle 18, al tavolo da pranzo con il portatile. Tra qualche mese chiude l'anta, spegne la luce da lavoro e la stanza è di nuovo casa. Il primo passo è una telefonata. Ci chiami o prenoti il primo colloquio: dura 30 minuti, senza impegno, per telefono o in video. Parliamo di come lavora e di dove, nel Suo appartamento, si trovi il posto giusto, e Le diamo una prima valutazione sincera. Poi riceve una scheda di progetto con le prime riflessioni, e un solo interlocutore La accompagna fino alla consegna. Esempi di inserimenti integrati li trova anche nelle [Referenze](/referenzen/).
 
 **Da leggere:** [Armadio su misura o armadio modulare](/magazin/einbauschrank-nach-mass-vs-system/) · [La biblioteca domestica](/magazin/bibliothek-lesezimmer-zuhause/) · [Progetto dell'impianto elettrico](/magazin/elektroplanung-steckdosen-vorher-denken/) · [Arredare il soggiorno senza parete TV](/magazin/wohnzimmer-einrichten-ohne-fernseherwand/)

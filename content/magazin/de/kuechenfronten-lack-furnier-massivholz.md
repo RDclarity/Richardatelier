@@ -131,6 +131,6 @@ Ja, und das ist oft sinnvoll. Bewährt hat sich, robuste Materialien dort einzus
 
 Sie wissen noch, die Fingerabdrücke neben dem Herd und die Kante mit dem Topf? Stellen Sie sich vor, Sie streichen morgens im Vorbeigehen über eine Front, die Sie nach Jahren noch genauso gern anfassen wie am ersten Tag.
 
-Legen Sie Ihre Favoriten bereit und rufen Sie uns an, oder buchen Sie das Erstgespräch. Eine halbe Stunde, kostenlos und unverbindlich, am Telefon oder per Video: Wir fragen, wie Sie leben möchten, und sagen Ihnen offen, was wir von Ihren Favoriten halten. Aus dem Projektblatt, das danach entsteht, bereiten wir eine gezielte Bemusterung vor, mit echten Mustern für Ihr Tageslicht. Beispiele aus unserer Arbeit finden Sie unter [Referenzen](/referenzen/).
+Legen Sie Ihre Favoriten bereit und rufen Sie uns an, oder buchen Sie das Erstgespräch. Eine halbe Stunde, unverbindlich, am Telefon oder per Video: Wir fragen, wie Sie leben möchten, und sagen Ihnen offen, was wir von Ihren Favoriten halten. Aus dem Projektblatt, das danach entsteht, bereiten wir eine gezielte Bemusterung vor, mit echten Mustern für Ihr Tageslicht. Beispiele aus unserer Arbeit finden Sie unter [Referenzen](/referenzen/).
 
 **Weiterlesen:** [Furnier oder Massivholz](/magazin/furnier-vs-massivholz-ehrlich/) · [Grifflose Küche](/magazin/grifflose-kueche-vor-nachteile/) · [Arbeitsplatte im Vergleich](/magazin/arbeitsplatte-dekton-naturstein-quarz/) · [Küche vom Tischler oder Markenküche](/magazin/kueche-aus-tischlerhand-vs-markenkueche/)

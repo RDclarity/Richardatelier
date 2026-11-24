@@ -129,6 +129,6 @@ Besonders bei Projekten mit mehreren Räumen, vielen maßgefertigten Einbauten u
 
 Das Telefon am Ohr, die eineinhalb Zentimeter, der Maurer, der auf den Plan verweist: Das muss sich nicht wiederholen. Stellen Sie sich den Tag der Übergabe vor. Sie gehen durch Ihre Wohnung, öffnen jede Lade, und neben Ihnen steht die Person, die Sie von Anfang an kennen.
 
-Ein Anruf genügt auch hier: Rufen Sie uns an oder buchen Sie Ihr Erstgespräch. 30 Minuten am Telefon oder per Video, kostenlos und unverbindlich. Wir besprechen, was Sie vorhaben, und sagen offen, ob unser Modell dazu passt. Danach fassen wir die Eckpunkte in einem Projektblatt zusammen, und Sie entscheiden in Ruhe, wie es weitergeht.
+Ein Anruf genügt auch hier: Rufen Sie uns an oder buchen Sie Ihr Erstgespräch. 30 Minuten am Telefon oder per Video, unverbindlich. Wir besprechen, was Sie vorhaben, und sagen offen, ob unser Modell dazu passt. Danach fassen wir die Eckpunkte in einem Projektblatt zusammen, und Sie entscheiden in Ruhe, wie es weitergeht.
 
 **Weiterlesen:** [Gesamtkonzept für die Wohnung](/magazin/gesamtkonzept-wohnung-was-bedeutet-das/), [Mit einem Innenarchitekten arbeiten](/magazin/innenarchitekt-ablauf-zusammenarbeit/), [Küche vom Tischler oder Markenküche?](/magazin/kueche-aus-tischlerhand-vs-markenkueche/), [Das Erstgespräch vorbereiten](/magazin/erstgespraech-vorbereiten-fragen/)

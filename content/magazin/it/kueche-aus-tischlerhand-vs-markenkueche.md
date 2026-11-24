@@ -113,7 +113,7 @@ Nel rispondere a queste domande La accompagniamo indipendentemente dalla proveni
 
 ### Una cucina di falegnameria costa più di una cucina di marca?
 
-Non automaticamente. Una semplice cucina di falegnameria può costare meno di una cucina di marca di pregio, una cucina di falegnameria elaborata con legno massello e molte soluzioni speciali anche nettamente di più. Decisivi sono dimensioni, materiale, apparecchi e l'impegno di adattamento nel locale in questione. Una prima stima onesta la riceve già nel colloquio gratuito.
+Non automaticamente. Una semplice cucina di falegnameria può costare meno di una cucina di marca di pregio, una cucina di falegnameria elaborata con legno massello e molte soluzioni speciali anche nettamente di più. Decisivi sono dimensioni, materiale, apparecchi e l'impegno di adattamento nel locale in questione. Una prima stima onesta la riceve già nel colloquio.
 
 ### Le cucine di marca sono una buona scelta per gli appartamenti d'epoca?
 
@@ -137,6 +137,6 @@ In una cucina di falegnameria il laboratorio realizza una nuova anta in un mater
 
 ## Come si prosegue
 
-Torni a quella sera con i due showroom nella testa. Fra qualche mese, la domenica mattina, entra in cucina e trova una cucina che sembra nata per la Sua casa: gli spazi giusti, i materiali che Lei ha scelto, nessun compromesso nascosto. Il primo passo è una telefonata. Ci chiami o prenoti il primo colloquio: è gratuito, dura 30 minuti, si svolge per telefono o in video e non La impegna in nulla. Guardiamo insieme la Sua pianta e i Suoi desideri, Le diamo una prima valutazione sincera e discutiamo quale strada fa al caso Suo. Poi riceve una scheda di progetto con i passi successivi.
+Torni a quella sera con i due showroom nella testa. Fra qualche mese, la domenica mattina, entra in cucina e trova una cucina che sembra nata per la Sua casa: gli spazi giusti, i materiali che Lei ha scelto, nessun compromesso nascosto. Il primo passo è una telefonata. Ci chiami o prenoti il primo colloquio: dura 30 minuti, si svolge per telefono o in video e non La impegna in nulla. Guardiamo insieme la Sua pianta e i Suoi desideri, Le diamo una prima valutazione sincera e discutiamo quale strada fa al caso Suo. Poi riceve una scheda di progetto con i passi successivi.
 
 **Da leggere:** [Design italiano: come riconoscere la qualità](/magazin/italienisches-design-qualitaet-erkennen/) · [Armadio a muro su misura o armadio di sistema](/magazin/einbauschrank-nach-mass-vs-system/) · [Cucina senza maniglie](/magazin/grifflose-kueche-vor-nachteile/) · [Dodici errori nella progettazione della cucina](/magazin/kuechenplanung-fehler-vermeiden/)

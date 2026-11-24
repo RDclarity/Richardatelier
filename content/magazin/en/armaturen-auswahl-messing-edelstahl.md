@@ -141,6 +141,6 @@ With a soft cloth, water and a mild cleaner. Abrasives, coarse-textured microfib
 
 ## What happens next
 
-In the seventh winter the lever still glides and the brass still glows, and you have forgotten that you once weighed it for weeks. To get there, call us or book the first conversation: free, 30 minutes, non-binding, by phone or video. Tell us about your bathroom and your daily routine, and we give you an honest first assessment of which finish suits you and when the technology has to be settled. How we plan bathrooms from concept to installation can be seen on our page on [bathrooms](/badezimmer/).
+In the seventh winter the lever still glides and the brass still glows, and you have forgotten that you once weighed it for weeks. To get there, call us or book the first conversation: 30 minutes, non-binding, by phone or video. Tell us about your bathroom and your daily routine, and we give you an honest first assessment of which finish suits you and when the technology has to be settled. How we plan bathrooms from concept to installation can be seen on our page on [bathrooms](/badezimmer/).
 
 **Read next:** [Renovating a bathroom in Vienna](/magazin/badezimmer-renovieren-wien-leitfaden/) · [Freestanding bathtub](/magazin/freistehende-badewanne-voraussetzungen/) · [Natural stone in the bathroom](/magazin/naturstein-im-bad-pflege-mythen/) · [Sustainable means long-lasting](/magazin/nachhaltige-materialien-langlebigkeit/)

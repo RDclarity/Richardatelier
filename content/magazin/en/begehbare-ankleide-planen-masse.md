@@ -138,6 +138,6 @@ That depends on the room. Made-to-measure solutions make optimal use of niches, 
 
 ## What happens next
 
-Half past six: the sliding door glides aside, every piece is in view, and the chair is just a chair again. Let us make that real. Call us or book the first conversation, 30 minutes at no cost, without obligation, by phone or video. Tell us how you dress and what you own, and we give you an honest first assessment of which layout fits your room and how much space your clothes really need. A project sheet with the next steps follows. You will find examples of dressing rooms and built-in wardrobes under [References](/referenzen/).
+Half past six: the sliding door glides aside, every piece is in view, and the chair is just a chair again. Let us make that real. Call us or book the first conversation, 30 minutes, without obligation, by phone or video. Tell us how you dress and what you own, and we give you an honest first assessment of which layout fits your room and how much space your clothes really need. A project sheet with the next steps follows. You will find examples of dressing rooms and built-in wardrobes under [References](/referenzen/).
 
 **Read next:** [Made-to-measure built-in wardrobe or modular system?](/magazin/einbauschrank-nach-mass-vs-system/) · [Arriving: the entrance area](/magazin/eingangsbereich-ankommen-gestalten/) · [The bedroom as a place of rest](/magazin/schlafzimmer-ruhe-planen/) · [Furnishing a living room without a TV wall](/magazin/wohnzimmer-einrichten-ohne-fernseherwand/)

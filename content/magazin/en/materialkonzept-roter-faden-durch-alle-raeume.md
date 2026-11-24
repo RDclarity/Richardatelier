@@ -2,7 +2,7 @@
 slug: material-concept-common-thread-home
 source_slug: materialkonzept-roter-faden-durch-alle-raeume
 title: A Material Concept for Your Home: One Common Thread Through Every Room
-description: A material concept for your home ties flooring, timber, stone, metal and textiles into one calm whole, so rooms in Vienna feel coherent. Free first call.
+description: A material concept for your home ties flooring, timber, stone, metal and textiles into one calm whole, so rooms in Vienna feel coherent. Personal first call.
 category: gesamtkonzept
 cta: gesamtkonzept
 keywords: material concept for the home, coordinating materials, cohesive interior design, Vienna

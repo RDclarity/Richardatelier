@@ -119,7 +119,7 @@ Human-Centered Living Design es el enfoque de planificación de Richard Atelier.
 No necesariamente. A veces bastan un mobiliario a medida nuevo, otro amueblamiento y una mejor iluminación para cambiar de forma perceptible la vida diaria. En otros casos, el proyecto de vida revela que conviene abrir un tabique o ampliar un baño.
 
 ### ¿Cuánto se tarda en elaborar un proyecto de vida?
-La base surge en una o dos conversaciones detalladas y una cita in situ. A partir de ahí se desarrolla un primer borrador del proyecto. Cuánto se tarda después hasta la ejecución depende del alcance de las obras. Y para empezar basta una llamada: la primera conversación es gratuita y no le compromete a nada.
+La base surge en una o dos conversaciones detalladas y una cita in situ. A partir de ahí se desarrolla un primer borrador del proyecto. Cuánto se tarda después hasta la ejecución depende del alcance de las obras. Y para empezar basta una llamada: la primera conversación no le compromete a nada.
 
 ### ¿Tiene sentido un proyecto de vida también para solteros o parejas?
 Sí. También una persona sola tiene costumbres que un espacio puede apoyar o entorpecer. Sobre todo en viviendas pequeñas ayuda conocer bien las propias rutinas, porque cada metro cuadrado tiene que asumir varias funciones.
@@ -129,6 +129,6 @@ Es más frecuente de lo que se piensa y no supone ningún problema. En la conver
 
 ## Cómo continuar
 
-Vuelva un momento a esas 7:30, con las llaves en una mano y el zapato en la otra. Así no tiene por qué empezar el día. Llámenos o reserve su primera conversación: 30 minutos gratuitos, sin compromiso, por teléfono o por videollamada. Usted nos cuenta cómo vive hoy y cómo quiere vivir, y le damos una primera valoración sincera. Si después le apetece seguir, nos envía fotos y plano, y recogemos las primeras ideas en una ficha del proyecto.
+Vuelva un momento a esas 7:30, con las llaves en una mano y el zapato en la otra. Así no tiene por qué empezar el día. Llámenos o reserve su primera conversación: 30 minutos sin compromiso, por teléfono o por videollamada. Usted nos cuenta cómo vive hoy y cómo quiere vivir, y le damos una primera valoración sincera. Si después le apetece seguir, nos envía fotos y plano, y recogemos las primeras ideas en una ficha del proyecto.
 
 **Lea también:** [Proyecto integral para la vivienda](/magazin/gesamtkonzept-wohnung-was-bedeutet-das/) · [Salón sin pared de televisión](/magazin/wohnzimmer-einrichten-ohne-fernseherwand/) · [Teletrabajo en la vivienda](/magazin/homeoffice-wohnung-integrieren/) · [El dormitorio como espacio de descanso](/magazin/schlafzimmer-ruhe-planen/)

@@ -135,6 +135,6 @@ Because walls and floors are rarely exactly straight, especially in Altbau build
 
 ## What happens next
 
-Three quotations lie on your table. With a checklist in hand, each answer has a name behind it, and the choice feels like yours. Bring the quotations to a first conversation: call us or book it, 30 minutes, free, non-binding, by phone or video. Whether you are comparing or just starting out, we clarify what your room and daily life demand of a kitchen and give you an honest first assessment. A project sheet with photos and floor plan follows. How we plan [fitted kitchens](/einbaukuechen/) is also shown in our [references](/referenzen/).
+Three quotations lie on your table. With a checklist in hand, each answer has a name behind it, and the choice feels like yours. Bring the quotations to a first conversation: call us or book it, 30 minutes, non-binding, by phone or video. Whether you are comparing or just starting out, we clarify what your room and daily life demand of a kitchen and give you an honest first assessment. A project sheet with photos and floor plan follows. How we plan [fitted kitchens](/einbaukuechen/) is also shown in our [references](/referenzen/).
 
 **Read next:** [Planning a new fitted kitchen in Vienna](/magazin/neue-einbaukueche-planen-wien-leitfaden/) · [The kitchen as architecture](/magazin/kueche-als-architektur/) · [Easy-care surfaces honestly assessed](/magazin/oberflaechen-pflegeleicht-ehrlich-bewertet/) · [Kitchen and dining room as one space](/magazin/kueche-und-esszimmer-ein-raum/)

@@ -13,7 +13,7 @@ date: 2026-11-05
 ---
 # Il primo colloquio con l'interior designer: come prepararlo e che cosa Le porta davvero
 
-**In breve:** il primo colloquio con un interior designer serve a comprendere il Suo progetto, a chiarire il quadro e a verificare se la collaborazione sia adatta. Da Richard Atelier dura 30 minuti, è gratuito, non La impegna in nulla e si svolge per telefono o in videochiamata. La preparazione migliore è un breve elenco di ciò che nella vita quotidiana non funziona, alcune fotografie, una planimetria e un'idea sincera di budget e tempi. Alla fine Lei ha una prima valutazione onesta e sa qual è il passo successivo.
+**In breve:** il primo colloquio con un interior designer serve a comprendere il Suo progetto, a chiarire il quadro e a verificare se la collaborazione sia adatta. Da Richard Atelier dura 30 minuti, non La impegna in nulla e si svolge per telefono o in videochiamata. La preparazione migliore è un breve elenco di ciò che nella vita quotidiana non funziona, alcune fotografie, una planimetria e un'idea sincera di budget e tempi. Alla fine Lei ha una prima valutazione onesta e sa qual è il passo successivo.
 
 È sera, il foglio davanti a Lei è bianco e domani c'è un appuntamento. Che cosa deve preparare? Che cosa Le verrà chiesto? E se non sa con esattezza che cosa vuole? Respiri. Il colloquio è fatto proprio per chi ha ancora le idee confuse. Immagini invece di riattaccare dopo mezz'ora: i pensieri sono in ordine, qualcuno ha ascoltato davvero la Sua giornata in casa e sa che cosa fare dopo.
 
@@ -23,7 +23,7 @@ Il nostro esempio è inventato: la famiglia H., una casa a Perchtoldsdorf, anno 
 
 Un primo colloquio è la prima conversazione strutturata tra committenti e interior designer. Chiarisce di che cosa si tratta, quali ambienti sono coinvolti, quale quadro sia realistico e se le due parti siano adatte l'una all'altra. Non è una trattativa di vendita né una progettazione, ma un rilievo condiviso della situazione di partenza.
 
-Da Richard Atelier il primo colloquio dura 30 minuti. È gratuito e si svolge per telefono o in videochiamata, a seconda di ciò che preferisce. La videochiamata ha il vantaggio che può mostrarci brevemente un ambiente. Il telefono ha il vantaggio che può percorrere l'appartamento senza badare a uno schermo.
+Da Richard Atelier il primo colloquio dura 30 minuti. Si svolge per telefono o in videochiamata, a seconda di ciò che preferisce. La videochiamata ha il vantaggio che può mostrarci brevemente un ambiente. Il telefono ha il vantaggio che può percorrere l'appartamento senza badare a uno schermo.
 
 Lo svolgimento è semplice. Nei primi minuti Lei racconta che cosa ha in mente e perché. Poi poniamo domande che aiutano a inquadrare il progetto. Alla fine discutiamo i passi successivi. Come questo primo appuntamento si inserisca nell'intero percorso del progetto lo descrive l'articolo [Lavorare con un interior designer](/magazin/innenarchitekt-ablauf-zusammenarbeit/). Ma quali domande Le facciamo?
 
@@ -113,7 +113,7 @@ Se una casa come quella della famiglia H. deve essere ripensata dopo che i figli
 
 ### Quanto dura il primo colloquio e quanto costa?
 
-Da Richard Atelier il primo colloquio dura 30 minuti ed è gratuito. I costi del progetto dipendono da superficie, dotazione, materiali e profondità dell'intervento, e una stima affidabile arriva proprio nel primo colloquio. Si svolge per telefono o in videochiamata. In seguito, sulla base delle Sue fotografie e della planimetria, riceve una scheda di progetto con situazione di partenza e prossimi passi. Nessun obbligo: è un primo passo sincero.
+Da Richard Atelier il primo colloquio dura 30 minuti. I costi del progetto dipendono da superficie, dotazione, materiali e profondità dell'intervento, e una stima affidabile arriva proprio nel primo colloquio. Si svolge per telefono o in videochiamata. In seguito, sulla base delle Sue fotografie e della planimetria, riceve una scheda di progetto con situazione di partenza e prossimi passi. Nessun obbligo: è un primo passo sincero.
 
 ### Devo già sapere esattamente che cosa voglio?
 
@@ -137,6 +137,6 @@ No. Il primo colloquio e la scheda di progetto non La impegnano a nulla. Dopo, d
 
 ## Come si prosegue
 
-Torni a quella sera con il foglio bianco. Domani, o appena può, alzi il telefono: ci chiami o prenoti il primo colloquio. Sono 30 minuti, gratuiti, senza impegno, per telefono o in video, e Le diamo una prima valutazione sincera. Lei racconta, noi chiediamo, e poi fissiamo tutto in una scheda di progetto. Tra poco tempo il foglio non è più bianco: sa a che punto è, che cosa è sensato fare dopo, e c'è un solo interlocutore che La accompagna dal primo tratto alla consegna.
+Torni a quella sera con il foglio bianco. Domani, o appena può, alzi il telefono: ci chiami o prenoti il primo colloquio. Sono 30 minuti, senza impegno, per telefono o in video, e Le diamo una prima valutazione sincera. Lei racconta, noi chiediamo, e poi fissiamo tutto in una scheda di progetto. Tra poco tempo il foglio non è più bianco: sa a che punto è, che cosa è sensato fare dopo, e c'è un solo interlocutore che La accompagna dal primo tratto alla consegna.
 
 **Da leggere:** [Lavorare con un interior designer](/magazin/innenarchitekt-ablauf-zusammenarbeit/) · [Progetto di vita invece di arredamento](/magazin/lebenskonzept-statt-einrichtung/) · [Quanto costa un progetto complessivo?](/magazin/was-kostet-innenarchitektur-gesamtkonzept/) · [Dal primo tratto al trasloco](/magazin/vom-erstgespraech-zum-fertigen-zuhause-geschichte/)

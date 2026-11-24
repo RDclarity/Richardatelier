@@ -134,6 +134,6 @@ Then the situation is examined, with a structural engineer where necessary, and 
 
 ## What happens next
 
-A Sunday in September: kettle on, boxes empty, and the date held, because you counted back from it months before. Make your first step a call, or book the first conversation online: 30 minutes, free, non-binding, by phone or video. Tell us when you want to move in, and we give you an honest first assessment of what is realistic and which decisions come first. A project sheet with the next steps follows, and one named person at Richard Atelier holds the thread until the handover.
+A Sunday in September: kettle on, boxes empty, and the date held, because you counted back from it months before. Make your first step a call, or book the first conversation online: 30 minutes, non-binding, by phone or video. Tell us when you want to move in, and we give you an honest first assessment of what is realistic and which decisions come first. A project sheet with the next steps follows, and one named person at Richard Atelier holds the thread until the handover.
 
 **Read next:** [Conversions in a Viennese Altbau: permits](/magazin/genehmigungen-altbau-wien-umbau/), [How long does a bathroom renovation take?](/magazin/badrenovierung-dauer-zeitplan/), [Redesigning a whole house](/magazin/haus-komplett-neu-gestalten-ablauf/), [Working with an interior designer](/magazin/innenarchitekt-ablauf-zusammenarbeit/)

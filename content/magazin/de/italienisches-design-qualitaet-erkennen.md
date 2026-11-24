@@ -132,6 +132,6 @@ Ja, das ist in einem bewohnten Raum oft sogar natürlicher als eine geschlossene
 
 Die vierzig Fotos dürfen bleiben. Bringen Sie sie einfach mit. Am Ende bleiben vielleicht acht, und von denen wissen Sie genau, warum, und abends läuft die Lade so ruhig wie versprochen.
 
-Rufen Sie uns dafür an oder buchen Sie das Erstgespräch. In 30 kostenlosen Minuten ohne Verpflichtung, am Telefon oder per Video, sortieren wir gemeinsam, was zu Ihrem Haus und Ihrem Alltag passt, und sagen Ihnen ehrlich, was wir sehen. Danach erhalten Sie ein Projektblatt aus Ihren Fotos und Ihrem Grundriss. Wie das in fertigen Räumen aussieht, zeigen unsere [Referenzen](/referenzen/).
+Rufen Sie uns dafür an oder buchen Sie das Erstgespräch. In 30 Minuten ohne Verpflichtung, am Telefon oder per Video, sortieren wir gemeinsam, was zu Ihrem Haus und Ihrem Alltag passt, und sagen Ihnen ehrlich, was wir sehen. Danach erhalten Sie ein Projektblatt aus Ihren Fotos und Ihrem Grundriss. Wie das in fertigen Räumen aussieht, zeigen unsere [Referenzen](/referenzen/).
 
 **Weiterlesen:** [Gesamtkonzept für die Wohnung](/magazin/gesamtkonzept-wohnung-was-bedeutet-das/) · [Küche aus Tischlerhand oder Markenküche](/magazin/kueche-aus-tischlerhand-vs-markenkueche/) · [Materialkonzept als roter Faden](/magazin/materialkonzept-roter-faden-durch-alle-raeume/) · [Nachhaltige Materialien](/magazin/nachhaltige-materialien-langlebigkeit/)

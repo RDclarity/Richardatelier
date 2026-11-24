@@ -141,6 +141,6 @@ Sì, se sono usati con coerenza e la luce è ben progettata. Un bagno scuro in t
 
 Sono le sette del mattino. Il pavimento scorre libero fino alla doccia, la luce allo specchio è morbida e Lei si gira senza urtare nulla. Il Suo bagno non è più grande: è finalmente vuoto abbastanza da respirare. Comincia con una telefonata.
 
-Ci chiami oppure prenoti il colloquio iniziale: è gratuito, dura 30 minuti, è senza impegno e si svolge per telefono o in video. Parliamo della Sua vita quotidiana e Le diamo una prima valutazione onesta su ciò che è possibile nel Suo locale. Poi riceverà una scheda di progetto con i passi successivi.
+Ci chiami oppure prenoti il colloquio iniziale: dura 30 minuti, è senza impegno e si svolge per telefono o in video. Parliamo della Sua vita quotidiana e Le diamo una prima valutazione onesta su ciò che è possibile nel Suo locale. Poi riceverà una scheda di progetto con i passi successivi.
 
 **Da leggere:** [Ristrutturare il bagno a Vienna](/magazin/badezimmer-renovieren-wien-leitfaden/) · [Ceramica di grande formato in bagno](/magazin/grossformatige-fliesen-bad-fugen/) · [Ceramica sanitaria: lavabo e WC](/magazin/badkeramik-waschtisch-wc-auswaehlen/) · [Quanto costa ristrutturare un bagno a Vienna?](/magazin/was-kostet-eine-badrenovierung-wien/)

@@ -154,6 +154,6 @@ Not entirely freely, because waste water, extraction and electrics help determin
 
 ## What happens next
 
-Tuesday, 6:45 p.m., and for once nobody is in anybody's way. Two workstations, homework within sight, dinner coming together almost by itself. That kitchen begins with one conversation. Book it online or simply call: 30 minutes, free of charge, no strings attached, by phone or video. We go through your room, your wishes and your budget range and give you an honest first assessment. Afterwards you receive a project sheet with photos, floor plan and the key questions for your new kitchen. You will find examples of our work under [References](/referenzen/).
+Tuesday, 6:45 p.m., and for once nobody is in anybody's way. Two workstations, homework within sight, dinner coming together almost by itself. That kitchen begins with one conversation. Book it online or simply call: 30 minutes, no strings attached, by phone or video. We go through your room, your wishes and your budget range and give you an honest first assessment. Afterwards you receive a project sheet with photos, floor plan and the key questions for your new kitchen. You will find examples of our work under [References](/referenzen/).
 
 **Read next:** [Kitchen layouts compared](/magazin/kuechenformen-l-u-insel-einzeilig/) · [Planning a cooking island](/magazin/kochinsel-planen-masse-abstaende/) · [What does a fitted kitchen cost in Vienna](/magazin/was-kostet-eine-einbaukueche-wien/) · [Twelve mistakes in kitchen planning](/magazin/kuechenplanung-fehler-vermeiden/)

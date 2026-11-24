@@ -2,7 +2,7 @@
 slug: daylight-windows-mirrors-colour-orientation
 source_slug: tageslicht-nutzen-fenster-spiegel-farbe
 title: Making Use of Daylight at Home: Windows, Mirrors, Colour and Orientation
-description: Improve daylight at home and brighten a dark Altbau apartment in Vienna with the right orientation, colour, mirrors, glass and furniture. Free first call.
+description: Improve daylight at home and brighten a dark Altbau apartment in Vienna with the right orientation, colour, mirrors, glass and furniture. Personal first call.
 category: licht-technik
 cta: gesamtkonzept
 keywords: improve daylight apartment, brighten a dark flat, daylight planning, bright Altbau apartment, interior windows Altbau
@@ -128,6 +128,6 @@ Yes, a light floor throws light back up to the ceiling, which spreads it further
 
 ## What happens next
 
-Eleven in the morning, and the hallway is bright without a lamp. The light was there all along. Send us photos of your rooms taken at different times of day, together with a floor plan, and talk to us: call, or book a first conversation of 30 minutes, free, no obligation, by phone or video. You get an honest first assessment of how much brighter your apartment can become, then a project sheet. How light built-ins and kitchens can carry light is shown on the pages about [built-in wardrobes](/einbauschraenke/) and [fitted kitchens](/einbaukuechen/).
+Eleven in the morning, and the hallway is bright without a lamp. The light was there all along. Send us photos of your rooms taken at different times of day, together with a floor plan, and talk to us: call, or book a first conversation of 30 minutes, no obligation, by phone or video. You get an honest first assessment of how much brighter your apartment can become, then a project sheet. How light built-ins and kitchens can carry light is shown on the pages about [built-in wardrobes](/einbauschraenke/) and [fitted kitchens](/einbaukuechen/).
 
 **Read next:** [One floor for all rooms](/magazin/bodenbelag-durchgaengig-raeume-verbinden/) · [Easy-care surfaces honestly assessed](/magazin/oberflaechen-pflegeleicht-ehrlich-bewertet/) · [Heating and cooling through surfaces](/magazin/heizen-kuehlen-flaechensysteme-wohnkomfort/) · [Luminaires in lighting design](/magazin/leuchten-auswaehlen-teil-der-lichtplanung/)

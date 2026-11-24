@@ -130,6 +130,6 @@ Sobre todo en proyectos con varias estancias, muchos muebles a medida y plazos a
 
 Regrese a ese momento ante el armario. Esta vez cada pieza encaja y nadie le explica de quién fue la culpa. Eso empieza con alguien que responda de todo.
 
-Pida la primera conversación o llámenos: 30 minutos gratuitos, sin compromiso, por teléfono o videollamada. Comentamos lo que tiene previsto y le decimos con franqueza si nuestro modelo encaja. Después resumimos los puntos clave en una ficha de proyecto. Detrás de cada pieza trabaja el taller que Leopold Dobrohruschka fundó en Viena en 1935.
+Pida la primera conversación o llámenos: 30 minutos sin compromiso, por teléfono o videollamada. Comentamos lo que tiene previsto y le decimos con franqueza si nuestro modelo encaja. Después resumimos los puntos clave en una ficha de proyecto. Detrás de cada pieza trabaja el taller que Leopold Dobrohruschka fundó en Viena en 1935.
 
 **Lea también:** [Proyecto integral para la vivienda](/magazin/gesamtkonzept-wohnung-was-bedeutet-das/) · [Trabajar con un interiorista](/magazin/innenarchitekt-ablauf-zusammenarbeit/) · [¿Cocina de carpintería o cocina de marca?](/magazin/kueche-aus-tischlerhand-vs-markenkueche/) · [Preparar la primera conversación](/magazin/erstgespraech-vorbereiten-fragen/)

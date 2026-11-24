@@ -149,6 +149,6 @@ Directly at the door, hard surfaces that tolerate moisture, such as natural ston
 
 Think back to the 7:35 a.m. search for shoes. A hallway can often be assessed well from a floor plan and a few photos, and it helps if you first note what you put down at the door every day.
 
-Call us or book the free initial call. It lasts 30 minutes, costs nothing, commits you to nothing and takes place by phone or video. We go through your list with you, give you an honest first assessment and sketch how the zones could sit in your entrance. Afterwards you receive a project sheet as the basis for further planning. Soon the keys have their place, the shoes their bench and the morning its calm. You will find examples of our work under [References](/referenzen/).
+Call us or book the initial call. It lasts 30 minutes, costs nothing, commits you to nothing and takes place by phone or video. We go through your list with you, give you an honest first assessment and sketch how the zones could sit in your entrance. Afterwards you receive a project sheet as the basis for further planning. Soon the keys have their place, the shoes their bench and the morning its calm. You will find examples of our work under [References](/referenzen/).
 
 **Read next:** [Storage concept for the whole flat](/magazin/stauraumkonzept-ganze-wohnung/) · [Bespoke fitted wardrobe or modular system](/magazin/einbauschrank-nach-mass-vs-system/) · [Planning a walk-in wardrobe](/magazin/begehbare-ankleide-planen-masse/) · [Light as a transition](/magazin/licht-als-raumuebergang/)

@@ -135,6 +135,6 @@ Not necessarily, because built-in LEDs allow very slim forms and last long when 
 
 Think back to the evening with the book and the pendant light over nothing. Whether your luminaires are in the right place is often shown already by a floor plan with furnishing and a few photos of the evening.
 
-Call us or book the free first meeting. It takes 30 minutes by phone or video, costs nothing and commits you to nothing. We talk about how you use your rooms and where light is missing, and you receive an honest first assessment. Afterwards you receive a project sheet, and soon the light you imagined has a place on the plan. How light and furnishing work together in finished rooms can be seen in our [references](/referenzen/).
+Call us or book the first meeting. It takes 30 minutes by phone or video, costs nothing and commits you to nothing. We talk about how you use your rooms and where light is missing, and you receive an honest first assessment. Afterwards you receive a project sheet, and soon the light you imagined has a place on the plan. How light and furnishing work together in finished rooms can be seen in our [references](/referenzen/).
 
 **Read next:** [Lighting design for the apartment](/magazin/lichtplanung-wohnung-grundlagen/) · [Kitchen lighting in three layers](/magazin/kueche-beleuchtung-drei-ebenen/) · [Planning electrics ahead](/magazin/elektroplanung-steckdosen-vorher-denken/) · [Planning the dining table as the centrepiece](/magazin/esszimmer-tisch-als-mittelpunkt/)

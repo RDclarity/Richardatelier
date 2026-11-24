@@ -1,6 +1,6 @@
 /* ============================================================
    RICHARD ATELIER — Erstgespräch buchen (/termin/)
-   Kostenloses 30-Minuten-Erstgespräch, telefonisch oder per Video, rund um die Uhr buchbar.
+   30-Minuten-Erstgespräch, telefonisch oder per Video, rund um die Uhr buchbar.
    Drei Schritte: Gesprächsart + Tag + Uhrzeit → Daten → Bestätigung.
    Kein Kalender-Anschluss: freie Slots = feste Zeitfenster minus bereits
    gebuchte Termine (GET auf die Edge Function). Vanilla JS.

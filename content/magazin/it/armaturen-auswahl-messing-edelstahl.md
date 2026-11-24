@@ -145,6 +145,6 @@ Con un panno morbido, acqua e un detergente delicato. Abrasivi, spugne in microf
 
 È mattina. La mano trova la leva, il getto è morbido, la temperatura arriva subito, il metallo è tiepido e liscio, e non c'è nessuna domanda da farsi. Questa è la differenza che una piccola scelta fa per anni, e comincia con una telefonata.
 
-Ci chiami oppure prenoti il colloquio iniziale: è gratuito, dura 30 minuti, è senza impegno e si svolge per telefono o in video. Discutiamo quale finitura sia adatta al Suo bagno e alla Sua vita quotidiana, quando la tecnica debba essere definita, e Le diamo una prima valutazione onesta. Come progettiamo i bagni dal concept al montaggio lo vede nella nostra pagina dedicata ai [Bagni](/badezimmer/).
+Ci chiami oppure prenoti il colloquio iniziale: dura 30 minuti, è senza impegno e si svolge per telefono o in video. Discutiamo quale finitura sia adatta al Suo bagno e alla Sua vita quotidiana, quando la tecnica debba essere definita, e Le diamo una prima valutazione onesta. Come progettiamo i bagni dal concept al montaggio lo vede nella nostra pagina dedicata ai [Bagni](/badezimmer/).
 
 **Da leggere:** [Ristrutturare il bagno a Vienna](/magazin/badezimmer-renovieren-wien-leitfaden/) · [Vasca freestanding](/magazin/freistehende-badewanne-voraussetzungen/) · [La pietra naturale in bagno](/magazin/naturstein-im-bad-pflege-mythen/) · [Sostenibile significa durevole](/magazin/nachhaltige-materialien-langlebigkeit/)

@@ -104,7 +104,7 @@ El último punto se subestima con frecuencia. Sin la cerámica definitiva no se 
 
 Lo que cuesta al final la cerámica sanitaria depende menos de una pieza suelta que del esfuerzo que la rodea. Cuenta si se trasladan conducciones, si se construye un bastidor y si el lavabo va sobre un mueble a medida. Material y formato influyen igual que las formas especiales, las superficies específicas y los extras técnicos del inodoro.
 
-Un lavabo de borde fino suele compensar allí donde gana espacio cada día. En el inodoro importa más un montaje limpio que el nombre. Cómo se reparten los bloques de costes en todo el baño lo muestra el artículo sobre los [costes de una reforma de baño](/magazin/was-kostet-eine-badrenovierung-wien/), y en qué se reconoce la calidad con independencia de una etiqueta figura en el artículo sobre el [diseño italiano](/magazin/italienisches-design-qualitaet-erkennen/). En la primera conversación gratuita le damos una valoración honesta para su baño. El mueble inferior sale de nuestro taller, con la cerámica ya prevista.
+Un lavabo de borde fino suele compensar allí donde gana espacio cada día. En el inodoro importa más un montaje limpio que el nombre. Cómo se reparten los bloques de costes en todo el baño lo muestra el artículo sobre los [costes de una reforma de baño](/magazin/was-kostet-eine-badrenovierung-wien/), y en qué se reconoce la calidad con independencia de una etiqueta figura en el artículo sobre el [diseño italiano](/magazin/italienisches-design-qualitaet-erkennen/). En la primera conversación le damos una valoración honesta para su baño. El mueble inferior sale de nuestro taller, con la cerámica ya prevista.
 
 ## Preguntas frecuentes
 
@@ -136,6 +136,6 @@ No, pero el tono y el lenguaje formal deberían combinar. Los distintos blancos 
 
 Vuelva a aquellas 6:40 de la mañana. Esta vez los dos llegan al lavabo a la vez y nadie se roza. La puerta abre del todo. Eso se decide en un plano, antes de pedir una sola pieza.
 
-Llame o reserve la primera consulta: 30 minutos gratuitos, sin compromiso, por teléfono o videollamada. Hablamos de cómo usa su baño y de dónde faltan centímetros, y le damos una valoración honesta; después recibe una ficha de proyecto. Encontrará más sobre nuestro trabajo en las páginas de [reforma de baño](/badrenovierung/) y de [cuarto de baño](/badezimmer/).
+Llame o reserve la primera consulta: 30 minutos sin compromiso, por teléfono o videollamada. Hablamos de cómo usa su baño y de dónde faltan centímetros, y le damos una valoración honesta; después recibe una ficha de proyecto. Encontrará más sobre nuestro trabajo en las páginas de [reforma de baño](/badrenovierung/) y de [cuarto de baño](/badezimmer/).
 
 **Lea también:** [Azulejos de gran formato en el baño](/magazin/grossformatige-fliesen-bad-fugen/) · [Planificar una ducha a ras de suelo](/magazin/bodengleiche-dusche-planen/) · [Diseño italiano: reconocer la calidad](/magazin/italienisches-design-qualitaet-erkennen/) · [Cuánto dura una reforma de baño](/magazin/badrenovierung-dauer-zeitplan/)

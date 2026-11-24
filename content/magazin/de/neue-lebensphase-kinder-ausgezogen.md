@@ -126,6 +126,6 @@ Bei kleineren Eingriffen und in Etappen ist das oft möglich. Werden Bad und Kü
 
 Beim nächsten Lüften stehen Sie wieder in dieser Tür, zwischen Poster und altem Schreibtisch. Vielleicht denken Sie dann an den Fensterplatz, an den warmen Boden am Sonntagmorgen, an den Tisch, der zu Weihnachten einfach mitwächst. Dieses Haus haben Sie schon. Es muss nur neu geordnet werden.
 
-Rufen Sie uns an, gern zu zweit auf Lautsprecher, oder buchen Sie einen Termin. In 30 kostenlosen, unverbindlichen Minuten, auch per Video, erzählen Sie uns, wie Sie die nächsten Jahre leben möchten, und hören unsere ehrliche erste Einschätzung, was Ihr Haus dafür braucht. Danach erstellen wir aus Ihren Fotos und dem Grundriss ein erstes Projektblatt, das Sie zu zweit in Ruhe lesen können.
+Rufen Sie uns an, gern zu zweit auf Lautsprecher, oder buchen Sie einen Termin. In 30 unverbindlichen Minuten, auch per Video, erzählen Sie uns, wie Sie die nächsten Jahre leben möchten, und hören unsere ehrliche erste Einschätzung, was Ihr Haus dafür braucht. Danach erstellen wir aus Ihren Fotos und dem Grundriss ein erstes Projektblatt, das Sie zu zweit in Ruhe lesen können.
 
 **Weiterlesen:** [Altersgerecht wohnen ohne Pflegeheim-Optik](/magazin/altersgerecht-wohnen-ohne-pflegeheim-optik/) · [Gesamtkonzept für die Wohnung](/magazin/gesamtkonzept-wohnung-was-bedeutet-das/) · [Die Hausbibliothek](/magazin/bibliothek-lesezimmer-zuhause/) · [Das Materialkonzept als roter Faden](/magazin/materialkonzept-roter-faden-durch-alle-raeume/)

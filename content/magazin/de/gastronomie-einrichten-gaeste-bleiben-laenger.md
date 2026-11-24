@@ -131,6 +131,6 @@ Das hängt stark vom Zustand des Raums, dem Umfang der Arbeiten und den behördl
 
 Zurück zu Tisch vier, zum Freitag kurz nach neun. Stellen Sie sich vor, Sie stehen hinter der Schank, der Raum klingt warm, Ihr Team arbeitet ohne Hektik, und Sie gehen mit einer weiteren Flasche durch den Raum, weil jemand danach gefragt hat.
 
-Reden wir über Ihr Lokal. Rufen Sie uns an oder buchen Sie das Erstgespräch, 30 Minuten per Telefon oder Video, kostenlos und unverbindlich. Sie erzählen von Konzept, Gästen und Raum und hören unsere ehrliche erste Einschätzung. Danach fassen wir Ausgangslage, Anforderungen und nächste Schritte in einem Projektblatt zusammen.
+Reden wir über Ihr Lokal. Rufen Sie uns an oder buchen Sie das Erstgespräch, 30 Minuten per Telefon oder Video, unverbindlich. Sie erzählen von Konzept, Gästen und Raum und hören unsere ehrliche erste Einschätzung. Danach fassen wir Ausgangslage, Anforderungen und nächste Schritte in einem Projektblatt zusammen.
 
 **Weiterlesen:** [Büro und Praxis einrichten](/magazin/buero-praxis-einrichten-ruhe-vertrauen/), [Boutique-Hotel und Ferienwohnung](/magazin/boutique-hotel-zimmer-wie-zuhause/), [Akustik im offenen Wohnraum](/magazin/akustik-im-offenen-wohnraum/), [Dekton erklärt](/magazin/dekton-was-ist-das/)

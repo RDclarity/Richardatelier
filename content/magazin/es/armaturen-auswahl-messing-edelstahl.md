@@ -143,6 +143,6 @@ Con un paño suave, agua y un limpiador suave. Los abrasivos, las esponjas de mi
 
 ## Cómo continuar
 
-Vuelva a esa mano que busca la maneta cada mañana. Imagine que gira, que el agua llega sin esperar y que no piensa en ello. Todo empieza con una llamada. Llámenos o reserve el primer encuentro en línea: son 30 minutos gratuitos y sin compromiso, por teléfono o por videollamada. Hablamos de qué acabado encaja con su baño y su día a día y de cuándo debe estar fijada la técnica, y le damos una primera valoración sincera. Cómo planificamos los baños desde el concepto hasta el montaje lo verá en nuestra página de [Cuartos de baño](/badezimmer/).
+Vuelva a esa mano que busca la maneta cada mañana. Imagine que gira, que el agua llega sin esperar y que no piensa en ello. Todo empieza con una llamada. Llámenos o reserve el primer encuentro en línea: son 30 minutos sin compromiso, por teléfono o por videollamada. Hablamos de qué acabado encaja con su baño y su día a día y de cuándo debe estar fijada la técnica, y le damos una primera valoración sincera. Cómo planificamos los baños desde el concepto hasta el montaje lo verá en nuestra página de [Cuartos de baño](/badezimmer/).
 
 **Lea también:** [Reformar el cuarto de baño en Viena](/magazin/badezimmer-renovieren-wien-leitfaden/) · [Bañera exenta](/magazin/freistehende-badewanne-voraussetzungen/) · [Piedra natural en el baño](/magazin/naturstein-im-bad-pflege-mythen/) · [Sostenible significa duradero](/magazin/nachhaltige-materialien-langlebigkeit/)

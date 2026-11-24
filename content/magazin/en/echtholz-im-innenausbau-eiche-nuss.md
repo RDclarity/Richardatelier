@@ -136,6 +136,6 @@ Yes, in moderation. One main species and a second for accents or individual room
 
 Remember your palm on the oak plank. Which wood suits your home is best decided on a real sample, in the light of your rooms and with your daily life in view.
 
-Call us or book the free initial call. It takes 30 minutes by phone or video, costs nothing and commits you to nothing. We talk about your rooms and your wishes and give you an honest first assessment. Afterwards you receive a project sheet with first material recommendations, and soon you can hold the samples that will decide your rooms. If you would like to meet the people behind planning and workshop, you will find them under [Team](/team/).
+Call us or book the initial call. It takes 30 minutes by phone or video, costs nothing and commits you to nothing. We talk about your rooms and your wishes and give you an honest first assessment. Afterwards you receive a project sheet with first material recommendations, and soon you can hold the samples that will decide your rooms. If you would like to meet the people behind planning and workshop, you will find them under [Team](/team/).
 
 **Read next:** [Veneer or solid wood](/magazin/furnier-vs-massivholz-ehrlich/) · [Made-to-measure fitted wardrobe or modular system](/magazin/einbauschrank-nach-mass-vs-system/) · [Easy to care for? Which surfaces last](/magazin/oberflaechen-pflegeleicht-ehrlich-bewertet/) · [One floor for all rooms](/magazin/bodenbelag-durchgaengig-raeume-verbinden/)

@@ -106,7 +106,7 @@ Quanto ai costi: una ristrutturazione generale in un Altbau non ha un prezzo fis
 ## Domande frequenti
 
 ### Quanto costa ristrutturare un appartamento d'epoca a Vienna?
-Dipende molto dallo stato dell'appartamento e dall'entità dei lavori, un prezzo fisso non esiste. Impianti, bagno, cucina e pavimenti sono le voci principali. Una valutazione affidabile si fa nel primo colloquio e si precisa dopo il rilievo e il progetto esecutivo. Nel primo colloquio gratuito ne ha una prima idea, senza impegno.
+Dipende molto dallo stato dell'appartamento e dall'entità dei lavori, un prezzo fisso non esiste. Impianti, bagno, cucina e pavimenti sono le voci principali. Una valutazione affidabile si fa nel primo colloquio e si precisa dopo il rilievo e il progetto esecutivo. Nel primo colloquio ne ha una prima idea, senza impegno.
 
 ### Si può conservare il vecchio parquet nell'Altbau?
 Spesso sì. Il parquet a spina di pesce e a tavole si può in molti casi levigare, riparare e oliare o verniciare di nuovo. Le lacune vengono integrate con legno antico. Se il pavimento abbia ancora abbastanza strato d'usura lo verifica sul posto un posatore.
@@ -125,6 +125,6 @@ Il solo tempo di cantiere per una ristrutturazione generale si aggira di norma t
 
 ## Come si prosegue
 
-Torni a quell'ingresso, con lo sguardo rivolto al rosone. Immagini di ritrovare, a lavori conclusi, la stessa emozione: stucchi intatti, parquet vivo, una cucina che sa farsi da parte e un bagno finalmente all'altezza della casa. Il primo passo è una telefonata. Chiami Richard Atelier o prenoti il primo colloquio: è gratuito, dura 30 minuti, si fa al telefono o in videochiamata e non La impegna a nulla. Ascoltiamo come desidera vivere e Le diamo una prima valutazione sincera su che cosa vale la pena conservare nel Suo Altbau. Poi, da foto e planimetria, elaboriamo una prima scheda di progetto.
+Torni a quell'ingresso, con lo sguardo rivolto al rosone. Immagini di ritrovare, a lavori conclusi, la stessa emozione: stucchi intatti, parquet vivo, una cucina che sa farsi da parte e un bagno finalmente all'altezza della casa. Il primo passo è una telefonata. Chiami Richard Atelier o prenoti il primo colloquio: dura 30 minuti, si fa al telefono o in videochiamata e non La impegna a nulla. Ascoltiamo come desidera vivere e Le diamo una prima valutazione sincera su che cosa vale la pena conservare nel Suo Altbau. Poi, da foto e planimetria, elaboriamo una prima scheda di progetto.
 
 **Da leggere:** [Il bagno nell'Altbau viennese](/magazin/bad-im-altbau-leitungen-hoehen/) · [Permessi nell'Altbau](/magazin/genehmigungen-altbau-wien-umbau/) · [Il cronoprogramma realistico di una ristrutturazione](/magazin/sanierung-zeitplan-realistisch/) · [Il progetto dei materiali come filo conduttore](/magazin/materialkonzept-roter-faden-durch-alle-raeume/)

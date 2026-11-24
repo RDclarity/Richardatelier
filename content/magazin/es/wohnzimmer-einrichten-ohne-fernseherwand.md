@@ -117,7 +117,7 @@ No decidirlo es silencioso, pero diario: la tele que impone una dirección, los 
 
 ### ¿Cómo se amuebla un salón sin el televisor como centro?
 
-Primero se aclara qué ocurre sobre todo en la estancia, por ejemplo conversación, lectura o invitados. Después se elige un nuevo punto central, por ejemplo la ventana, un círculo de conversación o una librería. El televisor se integra de modo que desaparezca cuando no está en marcha. En la primera conversación gratuita lo vemos juntos con fotos de su salón.
+Primero se aclara qué ocurre sobre todo en la estancia, por ejemplo conversación, lectura o invitados. Después se elige un nuevo punto central, por ejemplo la ventana, un círculo de conversación o una librería. El televisor se integra de modo que desaparezca cuando no está en marcha. En la primera conversación lo vemos juntos con fotos de su salón.
 
 ### ¿Cómo se puede esconder un televisor en el salón?
 
@@ -143,6 +143,6 @@ Un salón necesita una luz de base suave, una luz de lectura dirigida, luz de ac
 
 Imagine otra vez aquel martes por la noche. Esta vez el sofá mira a la ventana, la librería brilla cálida y, cuando llega el viernes, la pantalla aparece solo para la película. Eso empieza con una pregunta: ¿cómo son sus veladas?
 
-Llámenos o reserve la primera consulta y cuéntenos cómo son sus veladas: 30 minutos gratuitos y sin compromiso, por teléfono o videollamada. Con fotos y planta de su salón le decimos con franqueza qué punto central le conviene y dónde encuentra su lugar el televisor; después recibe una ficha de proyecto. Encontrará ejemplos de espacios de vida en [Referencias](/referenzen/).
+Llámenos o reserve la primera consulta y cuéntenos cómo son sus veladas: 30 minutos sin compromiso, por teléfono o videollamada. Con fotos y planta de su salón le decimos con franqueza qué punto central le conviene y dónde encuentra su lugar el televisor; después recibe una ficha de proyecto. Encontrará ejemplos de espacios de vida en [Referencias](/referenzen/).
 
 **Lea también:** [¿Armario empotrado a medida o armario modular?](/magazin/einbauschrank-nach-mass-vs-system/) · [Semiabierto en lugar de abierto](/magazin/halboffene-grundrisse-schiebetueren-glas/) · [El comedor](/magazin/esszimmer-tisch-als-mittelpunkt/) · [El dormitorio como espacio de calma](/magazin/schlafzimmer-ruhe-planen/)

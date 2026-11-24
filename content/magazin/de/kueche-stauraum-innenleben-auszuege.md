@@ -144,6 +144,6 @@ Flache Dinge, die Sie nicht täglich brauchen: Backbleche, Tabletts, Platzsets, 
 
 Keine Knie mehr vor dem Eckschrank, kein Arm mehr im Dunkeln. Sie stehen an einer freien Arbeitsfläche, die Lade gleitet, der Topf ist da, und das Schneidbrett liegt genau dort, wo Ihre linke Hand es vermutet.
 
-Der erste Schritt ist ein Blick in Ihre heutigen Schränke, und den machen wir zusammen. Rufen Sie uns an, oder buchen Sie gleich das Erstgespräch. In 30 Minuten per Telefon oder Video, kostenlos und unverbindlich, erzählen Sie, wie Sie kochen, und bekommen eine ehrliche erste Einschätzung, ob Nachrüsten reicht oder eine Neuplanung lohnt. Danach wissen Sie, was als Nächstes ansteht. Beispiele finden Sie in unseren [Referenzen](/referenzen/).
+Der erste Schritt ist ein Blick in Ihre heutigen Schränke, und den machen wir zusammen. Rufen Sie uns an, oder buchen Sie gleich das Erstgespräch. In 30 Minuten per Telefon oder Video, unverbindlich, erzählen Sie, wie Sie kochen, und bekommen eine ehrliche erste Einschätzung, ob Nachrüsten reicht oder eine Neuplanung lohnt. Danach wissen Sie, was als Nächstes ansteht. Beispiele finden Sie in unseren [Referenzen](/referenzen/).
 
 **Weiterlesen:** [Kleine Küche groß denken](/magazin/kleine-kueche-gross-denken/) · [Grifflose Küche](/magazin/grifflose-kueche-vor-nachteile/) · [Zwölf Fehler bei der Küchenplanung](/magazin/kuechenplanung-fehler-vermeiden/) · [Neue Einbauküche planen in Wien](/magazin/neue-einbaukueche-planen-wien-leitfaden/)

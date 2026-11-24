@@ -134,6 +134,6 @@ Dipende dallo stato degli ambienti, dall'entità dei lavori e dagli accertamenti
 
 Una persona varca la Sua porta con una preoccupazione. Vede la luce calda, la panca alla finestra, un banco che l'aspetta, e lascia andare le spalle prima ancora di dire il nome. Questo è ciò che il Suo spazio può fare per Lei. Il primo passo è una telefonata.
 
-Ci chiami oppure prenoti il colloquio iniziale: è gratuito, dura 30 minuti, è senza impegno e si svolge per telefono o in video. Parliamo dei Suoi flussi di lavoro, dei Suoi visitatori e dei Suoi spazi, e Le diamo una prima valutazione onesta. Poi fissiamo situazione di partenza, requisiti e prossimi passi in una scheda di progetto.
+Ci chiami oppure prenoti il colloquio iniziale: dura 30 minuti, è senza impegno e si svolge per telefono o in video. Parliamo dei Suoi flussi di lavoro, dei Suoi visitatori e dei Suoi spazi, e Le diamo una prima valutazione onesta. Poi fissiamo situazione di partenza, requisiti e prossimi passi in una scheda di progetto.
 
 **Da leggere:** [Arredare un locale](/magazin/gastronomie-einrichten-gaeste-bleiben-laenger/) · [Acustica nello spazio abitativo aperto](/magazin/akustik-im-offenen-wohnraum/) · [Vetro e metallo negli interni](/magazin/glas-und-metall-im-interior/) · [Progettazione della luce per l'appartamento](/magazin/lichtplanung-wohnung-grundlagen/)

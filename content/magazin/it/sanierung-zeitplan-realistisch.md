@@ -140,6 +140,6 @@ Allora si esamina la situazione, se necessario con uno strutturista, e si discut
 
 È la domenica prima del trasloco. Le scatole sono nell'ingresso, il legno nuovo profuma nelle stanze, e domani la chiave gira nella serratura di una casa finita. Per arrivarci, il primo passo è una telefonata.
 
-Ci chiami oppure prenoti il colloquio iniziale: è gratuito, dura 30 minuti, è senza impegno e si svolge per telefono o in video. Chiariamo quale quadro sia realistico per il Suo progetto e quali decisioni siano le prime a dover essere prese, e Le diamo una prima valutazione onesta. Poi riceve una scheda di progetto che fissa i passi successivi.
+Ci chiami oppure prenoti il colloquio iniziale: dura 30 minuti, è senza impegno e si svolge per telefono o in video. Chiariamo quale quadro sia realistico per il Suo progetto e quali decisioni siano le prime a dover essere prese, e Le diamo una prima valutazione onesta. Poi riceve una scheda di progetto che fissa i passi successivi.
 
 **Da leggere:** [Ristrutturare nell'Altbau viennese: i permessi](/magazin/genehmigungen-altbau-wien-umbau/) · [Quanto dura la ristrutturazione di un bagno?](/magazin/badrenovierung-dauer-zeitplan/) · [Ridisegnare una casa da cima a fondo](/magazin/haus-komplett-neu-gestalten-ablauf/) · [Lavorare con un interior designer](/magazin/innenarchitekt-ablauf-zusammenarbeit/)
