@@ -195,6 +195,12 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://richardatelier.com/en/hospitality/"/>
   </url>
   <url>
+    <loc>https://richardatelier.com/en/new-york/</loc>
+    <lastmod>2026-11-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://richardatelier.com/en/new-york/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://richardatelier.com/en/new-york/"/>
+  </url>
+  <url>
     <loc>https://richardatelier.com/en/imprint/</loc>
     <lastmod>2026-08-25</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://richardatelier.com/impressum/"/>
@@ -1642,7 +1648,7 @@
   </url>
   <url>
     <loc>https://richardatelier.com/magazin/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://richardatelier.com/magazin/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://richardatelier.com/en/journal/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://richardatelier.com/it/rivista/"/>
@@ -1651,7 +1657,7 @@
   </url>
   <url>
     <loc>https://richardatelier.com/magazin/gesamtkonzept/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://richardatelier.com/magazin/gesamtkonzept/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://richardatelier.com/en/journal/whole-home-concept/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://richardatelier.com/it/rivista/progetto-completo/"/>
@@ -1660,7 +1666,7 @@
   </url>
   <url>
     <loc>https://richardatelier.com/magazin/raumuebergaenge/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://richardatelier.com/magazin/raumuebergaenge/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://richardatelier.com/en/journal/room-transitions/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://richardatelier.com/it/rivista/passaggi-tra-ambienti/"/>
@@ -1669,7 +1675,7 @@
   </url>
   <url>
     <loc>https://richardatelier.com/magazin/kueche/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://richardatelier.com/magazin/kueche/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://richardatelier.com/en/journal/kitchen/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://richardatelier.com/it/rivista/cucina/"/>
@@ -1678,7 +1684,7 @@
   </url>
   <url>
     <loc>https://richardatelier.com/magazin/bad/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://richardatelier.com/magazin/bad/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://richardatelier.com/en/journal/bathroom/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://richardatelier.com/it/rivista/bagno/"/>
@@ -1687,7 +1693,7 @@
   </url>
   <url>
     <loc>https://richardatelier.com/magazin/wohnen/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://richardatelier.com/magazin/wohnen/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://richardatelier.com/en/journal/living/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://richardatelier.com/it/rivista/living/"/>
@@ -1696,7 +1702,7 @@
   </url>
   <url>
     <loc>https://richardatelier.com/magazin/materialien/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://richardatelier.com/magazin/materialien/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://richardatelier.com/en/journal/materials/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://richardatelier.com/it/rivista/materiali/"/>
@@ -1705,7 +1711,7 @@
   </url>
   <url>
     <loc>https://richardatelier.com/magazin/design-handwerk/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://richardatelier.com/magazin/design-handwerk/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://richardatelier.com/en/journal/design-craft/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://richardatelier.com/it/rivista/design-artigianato/"/>
@@ -1714,7 +1720,7 @@
   </url>
   <url>
     <loc>https://richardatelier.com/magazin/licht-technik/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://richardatelier.com/magazin/licht-technik/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://richardatelier.com/en/journal/light-technology/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://richardatelier.com/it/rivista/luce-tecnologia/"/>
@@ -1723,7 +1729,7 @@
   </url>
   <url>
     <loc>https://richardatelier.com/magazin/ablauf-kosten/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://richardatelier.com/magazin/ablauf-kosten/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://richardatelier.com/en/journal/process-costs/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://richardatelier.com/it/rivista/processo-costi/"/>
@@ -1732,7 +1738,7 @@
   </url>
   <url>
     <loc>https://richardatelier.com/magazin/gewerbe/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://richardatelier.com/magazin/gewerbe/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://richardatelier.com/en/journal/commercial/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://richardatelier.com/it/rivista/commerciale/"/>
@@ -2650,7 +2656,7 @@
   </url>
   <url>
     <loc>https://richardatelier.com/en/journal/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://richardatelier.com/magazin/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://richardatelier.com/en/journal/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://richardatelier.com/it/rivista/"/>
@@ -2659,7 +2665,7 @@
   </url>
   <url>
     <loc>https://richardatelier.com/en/journal/whole-home-concept/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://richardatelier.com/magazin/gesamtkonzept/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://richardatelier.com/en/journal/whole-home-concept/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://richardatelier.com/it/rivista/progetto-completo/"/>
@@ -2668,7 +2674,7 @@
   </url>
   <url>
     <loc>https://richardatelier.com/en/journal/room-transitions/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://richardatelier.com/magazin/raumuebergaenge/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://richardatelier.com/en/journal/room-transitions/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://richardatelier.com/it/rivista/passaggi-tra-ambienti/"/>
@@ -2677,7 +2683,7 @@
   </url>
   <url>
     <loc>https://richardatelier.com/en/journal/kitchen/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://richardatelier.com/magazin/kueche/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://richardatelier.com/en/journal/kitchen/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://richardatelier.com/it/rivista/cucina/"/>
@@ -2686,7 +2692,7 @@
   </url>
   <url>
     <loc>https://richardatelier.com/en/journal/bathroom/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://richardatelier.com/magazin/bad/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://richardatelier.com/en/journal/bathroom/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://richardatelier.com/it/rivista/bagno/"/>
@@ -2695,7 +2701,7 @@
   </url>
   <url>
     <loc>https://richardatelier.com/en/journal/living/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://richardatelier.com/magazin/wohnen/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://richardatelier.com/en/journal/living/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://richardatelier.com/it/rivista/living/"/>
@@ -2704,7 +2710,7 @@
   </url>
   <url>
     <loc>https://richardatelier.com/en/journal/materials/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://richardatelier.com/magazin/materialien/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://richardatelier.com/en/journal/materials/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://richardatelier.com/it/rivista/materiali/"/>
@@ -2713,7 +2719,7 @@
   </url>
   <url>
     <loc>https://richardatelier.com/en/journal/design-craft/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://richardatelier.com/magazin/design-handwerk/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://richardatelier.com/en/journal/design-craft/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://richardatelier.com/it/rivista/design-artigianato/"/>
@@ -2722,7 +2728,7 @@
   </url>
   <url>
     <loc>https://richardatelier.com/en/journal/light-technology/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://richardatelier.com/magazin/licht-technik/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://richardatelier.com/en/journal/light-technology/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://richardatelier.com/it/rivista/luce-tecnologia/"/>
@@ -2731,7 +2737,7 @@
   </url>
   <url>
     <loc>https://richardatelier.com/en/journal/process-costs/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://richardatelier.com/magazin/ablauf-kosten/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://richardatelier.com/en/journal/process-costs/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://richardatelier.com/it/rivista/processo-costi/"/>
@@ -2740,7 +2746,7 @@
   </url>
   <url>
     <loc>https://richardatelier.com/en/journal/commercial/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://richardatelier.com/magazin/gewerbe/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://richardatelier.com/en/journal/commercial/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://richardatelier.com/it/rivista/commerciale/"/>
@@ -3658,7 +3664,7 @@
   </url>
   <url>
     <loc>https://richardatelier.com/it/rivista/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://richardatelier.com/magazin/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://richardatelier.com/en/journal/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://richardatelier.com/it/rivista/"/>
@@ -3667,7 +3673,7 @@
   </url>
   <url>
     <loc>https://richardatelier.com/it/rivista/progetto-completo/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://richardatelier.com/magazin/gesamtkonzept/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://richardatelier.com/en/journal/whole-home-concept/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://richardatelier.com/it/rivista/progetto-completo/"/>
@@ -3676,7 +3682,7 @@
   </url>
   <url>
     <loc>https://richardatelier.com/it/rivista/passaggi-tra-ambienti/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://richardatelier.com/magazin/raumuebergaenge/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://richardatelier.com/en/journal/room-transitions/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://richardatelier.com/it/rivista/passaggi-tra-ambienti/"/>
@@ -3685,7 +3691,7 @@
   </url>
   <url>
     <loc>https://richardatelier.com/it/rivista/cucina/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://richardatelier.com/magazin/kueche/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://richardatelier.com/en/journal/kitchen/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://richardatelier.com/it/rivista/cucina/"/>
@@ -3694,7 +3700,7 @@
   </url>
   <url>
     <loc>https://richardatelier.com/it/rivista/bagno/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://richardatelier.com/magazin/bad/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://richardatelier.com/en/journal/bathroom/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://richardatelier.com/it/rivista/bagno/"/>
@@ -3703,7 +3709,7 @@
   </url>
   <url>
     <loc>https://richardatelier.com/it/rivista/living/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://richardatelier.com/magazin/wohnen/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://richardatelier.com/en/journal/living/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://richardatelier.com/it/rivista/living/"/>
@@ -3712,7 +3718,7 @@
   </url>
   <url>
     <loc>https://richardatelier.com/it/rivista/materiali/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://richardatelier.com/magazin/materialien/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://richardatelier.com/en/journal/materials/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://richardatelier.com/it/rivista/materiali/"/>
@@ -3721,7 +3727,7 @@
   </url>
   <url>
     <loc>https://richardatelier.com/it/rivista/design-artigianato/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://richardatelier.com/magazin/design-handwerk/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://richardatelier.com/en/journal/design-craft/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://richardatelier.com/it/rivista/design-artigianato/"/>
@@ -3730,7 +3736,7 @@
   </url>
   <url>
     <loc>https://richardatelier.com/it/rivista/luce-tecnologia/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://richardatelier.com/magazin/licht-technik/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://richardatelier.com/en/journal/light-technology/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://richardatelier.com/it/rivista/luce-tecnologia/"/>
@@ -3739,7 +3745,7 @@
   </url>
   <url>
     <loc>https://richardatelier.com/it/rivista/processo-costi/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://richardatelier.com/magazin/ablauf-kosten/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://richardatelier.com/en/journal/process-costs/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://richardatelier.com/it/rivista/processo-costi/"/>
@@ -3748,7 +3754,7 @@
   </url>
   <url>
     <loc>https://richardatelier.com/it/rivista/commerciale/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://richardatelier.com/magazin/gewerbe/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://richardatelier.com/en/journal/commercial/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://richardatelier.com/it/rivista/commerciale/"/>
@@ -4666,7 +4672,7 @@
   </url>
   <url>
     <loc>https://richardatelier.com/es/revista/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://richardatelier.com/magazin/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://richardatelier.com/en/journal/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://richardatelier.com/it/rivista/"/>
@@ -4675,7 +4681,7 @@
   </url>
   <url>
     <loc>https://richardatelier.com/es/revista/proyecto-integral/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://richardatelier.com/magazin/gesamtkonzept/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://richardatelier.com/en/journal/whole-home-concept/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://richardatelier.com/it/rivista/progetto-completo/"/>
@@ -4684,7 +4690,7 @@
   </url>
   <url>
     <loc>https://richardatelier.com/es/revista/transiciones/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://richardatelier.com/magazin/raumuebergaenge/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://richardatelier.com/en/journal/room-transitions/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://richardatelier.com/it/rivista/passaggi-tra-ambienti/"/>
@@ -4693,7 +4699,7 @@
   </url>
   <url>
     <loc>https://richardatelier.com/es/revista/cocina/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://richardatelier.com/magazin/kueche/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://richardatelier.com/en/journal/kitchen/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://richardatelier.com/it/rivista/cucina/"/>
@@ -4702,7 +4708,7 @@
   </url>
   <url>
     <loc>https://richardatelier.com/es/revista/bano/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://richardatelier.com/magazin/bad/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://richardatelier.com/en/journal/bathroom/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://richardatelier.com/it/rivista/bagno/"/>
@@ -4711,7 +4717,7 @@
   </url>
   <url>
     <loc>https://richardatelier.com/es/revista/estar/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://richardatelier.com/magazin/wohnen/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://richardatelier.com/en/journal/living/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://richardatelier.com/it/rivista/living/"/>
@@ -4720,7 +4726,7 @@
   </url>
   <url>
     <loc>https://richardatelier.com/es/revista/materiales/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://richardatelier.com/magazin/materialien/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://richardatelier.com/en/journal/materials/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://richardatelier.com/it/rivista/materiali/"/>
@@ -4729,7 +4735,7 @@
   </url>
   <url>
     <loc>https://richardatelier.com/es/revista/diseno-oficio/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://richardatelier.com/magazin/design-handwerk/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://richardatelier.com/en/journal/design-craft/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://richardatelier.com/it/rivista/design-artigianato/"/>
@@ -4738,7 +4744,7 @@
   </url>
   <url>
     <loc>https://richardatelier.com/es/revista/luz-tecnologia/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://richardatelier.com/magazin/licht-technik/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://richardatelier.com/en/journal/light-technology/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://richardatelier.com/it/rivista/luce-tecnologia/"/>
@@ -4747,7 +4753,7 @@
   </url>
   <url>
     <loc>https://richardatelier.com/es/revista/proceso-costes/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://richardatelier.com/magazin/ablauf-kosten/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://richardatelier.com/en/journal/process-costs/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://richardatelier.com/it/rivista/processo-costi/"/>
@@ -4756,7 +4762,7 @@
   </url>
   <url>
     <loc>https://richardatelier.com/es/revista/comercial/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://richardatelier.com/magazin/gewerbe/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://richardatelier.com/en/journal/commercial/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://richardatelier.com/it/rivista/commerciale/"/>

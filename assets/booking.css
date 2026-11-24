@@ -1,0 +1,209 @@
+/* ==========================================================
+   Buchungsfenster — New-York-Seite (/en/new-york/)
+   Termin wählen → Daten → Bestätigen. Preis erst im letzten Schritt.
+   ========================================================== */
+
+.book-cta {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.7rem;
+  margin-top: 0.4rem;
+  padding: 1.15rem 2.4rem;
+  border: 0;
+  border-radius: 999px;
+  background: var(--sand);
+  color: var(--ink);
+  font: 500 0.78rem/1 var(--font);
+  letter-spacing: 0.24em;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: background 250ms, transform 250ms;
+  width: fit-content;
+}
+.book-cta:hover { background: var(--line-yellow); transform: translateY(-1px); }
+.book-cta:focus-visible { outline: 2px solid var(--line-yellow); outline-offset: 3px; }
+.book-cta-note { margin-top: 0.9rem; font-size: 0.85rem; opacity: 0.8; }
+
+/* Fixierte Leiste am Handy, damit der Termin immer einen Fingertipp entfernt ist */
+.book-bar {
+  position: fixed;
+  left: 12px;
+  right: 12px;
+  bottom: calc(12px + var(--bk-lift, 0px) + env(safe-area-inset-bottom, 0px));
+  z-index: 10001;
+  display: none;
+  opacity: 0;
+  transform: translateY(24px);
+  pointer-events: none;
+  transition: opacity 300ms ease, transform 300ms ease, bottom 300ms ease;
+}
+.book-bar.show { opacity: 1; transform: none; pointer-events: auto; }
+.book-bar .book-cta { width: 100%; box-shadow: 0 10px 30px rgba(33, 29, 23, 0.35); }
+@media (max-width: 760px) {
+  .book-bar { display: block; }
+  /* Platz unter dem letzten Inhalt jeder Folie, damit die Leiste nichts verdeckt */
+  body.has-book-bar .split-copy,
+  body.has-book-bar .slide--feature .px-group { padding-bottom: 88px; }
+}
+body.bk-open .book-bar { display: none; }
+
+/* ---------- Fenster ---------- */
+body.bk-open { overflow: hidden; }
+.bk {
+  position: fixed;
+  inset: 0;
+  z-index: 10002; /* über dem Cookie-Banner (9999) */
+  display: grid;
+  place-items: center;
+  padding: 24px;
+  background: rgba(21, 19, 16, 0.62);
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+}
+.bk[hidden] { display: none; }
+.bk-panel {
+  position: relative;
+  width: min(100%, 600px);
+  max-height: calc(100dvh - 48px);
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  background: var(--paper);
+  color: var(--ink);
+  border-radius: 22px;
+  box-shadow: 0 30px 80px rgba(0, 0, 0, 0.35);
+}
+@media (max-width: 600px) {
+  .bk { padding: 0; place-items: stretch; }
+  .bk-panel { max-height: none; height: 100dvh; border-radius: 0; padding-bottom: env(safe-area-inset-bottom, 0px); }
+}
+.bk-top {
+  position: sticky;
+  top: 0;
+  z-index: 2;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 18px 22px;
+  background: var(--paper);
+  border-bottom: 1px solid var(--paper-deep);
+}
+.bk-steps { display: flex; gap: 6px; margin: 0; padding: 0; list-style: none; font-size: 0.78rem; letter-spacing: 0.08em; }
+.bk-steps li { display: flex; align-items: center; gap: 6px; padding: 5px 10px 5px 5px; border-radius: 999px; color: var(--ink-soft); }
+.bk-steps b { display: grid; place-items: center; width: 22px; height: 22px; border-radius: 50%; background: var(--paper-deep); font-weight: 600; font-size: 0.72rem; }
+.bk-steps li.on { background: var(--ink); color: var(--paper); }
+.bk-steps li.on b { background: var(--sand); color: var(--ink); }
+.bk-steps li.done b { background: var(--ink); color: var(--paper); }
+@media (max-width: 420px) { .bk-steps li:not(.on) { font-size: 0; gap: 0; padding-right: 5px; } }
+.bk-close { border: 0; background: none; width: 40px; height: 40px; border-radius: 50%; font-size: 1.5rem; line-height: 1; color: var(--ink); cursor: pointer; }
+.bk-close:hover { background: var(--paper-deep); }
+
+.bk-body { display: grid; gap: 18px; padding: 26px 26px 32px; }
+.bk-body h2 { margin: 0; font-size: clamp(1.6rem, 4.6vw, 2.1rem); font-weight: 400; line-height: 1.1; letter-spacing: -0.02em; }
+.bk-body h2 strong { font-weight: 600; }
+.bk-body h2:focus { outline: none; }
+.bk-sub { margin: 0; color: var(--ink-soft); font-size: 0.95rem; line-height: 1.5; }
+.bk-host { display: flex; align-items: center; gap: 12px; font-size: 0.9rem; color: var(--ink-soft); }
+.bk-host i { display: block; width: 28px; height: 1px; background: var(--umber); }
+
+/* Kalender */
+.bk-cal { display: grid; gap: 8px; }
+.bk-month { margin: 0; font-weight: 600; font-size: 1rem; }
+.bk-grid { display: grid; grid-template-columns: repeat(7, minmax(0, 1fr)); gap: 4px; text-align: center; }
+.bk-grid .dow { font-size: 0.7rem; letter-spacing: 0.12em; color: var(--ink-soft); padding: 4px 0; }
+.bk-day { position: relative; aspect-ratio: 1; border: 0; border-radius: 12px; background: none; color: var(--ink-soft); font: inherit; font-size: 0.95rem; opacity: 0.35; }
+.bk-day.open { opacity: 1; color: var(--ink); background: #fff; font-weight: 600; cursor: pointer; box-shadow: inset 0 0 0 1px var(--paper-deep); }
+.bk-day.open::after { content: ""; position: absolute; left: 50%; bottom: 18%; width: 4px; height: 4px; margin-left: -2px; border-radius: 50%; background: var(--sand); }
+.bk-day.open:hover { box-shadow: inset 0 0 0 1px var(--sand); }
+.bk-day.sel { background: var(--ink); color: var(--paper); }
+.bk-day.sel::after { background: var(--line-yellow); }
+.bk-day small { position: absolute; top: 5%; left: 0; right: 0; font-size: 0.58rem; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; color: var(--umber-deep); }
+.bk-day.sel small { color: var(--paper-deep); }
+.bk-day:focus-visible, .bk-time:focus-visible { outline: 2px solid var(--sand); outline-offset: 2px; }
+
+.bk-times { display: grid; gap: 10px; }
+.bk-times-head { font-size: 0.9rem; font-weight: 600; }
+.bk-times-head span { font-weight: 400; color: var(--ink-soft); }
+.bk-time-row { display: grid; grid-template-columns: repeat(auto-fill, minmax(118px, 1fr)); gap: 8px; }
+.bk-time { display: grid; gap: 2px; padding: 12px 10px; border: 1px solid var(--sand); border-radius: 12px; background: #fff; color: var(--ink); font: inherit; font-weight: 600; cursor: pointer; transition: background 200ms; }
+.bk-time small { font-weight: 400; font-size: 0.72rem; color: var(--ink-soft); }
+.bk-time:hover { background: var(--paper-deep); }
+.bk-time.sel { background: var(--ink); color: var(--paper); border-color: var(--ink); }
+.bk-time.sel small { color: var(--paper-deep); }
+.bk-empty { margin: 0; padding: 14px 16px; border-radius: 12px; background: var(--paper-deep); font-size: 0.92rem; }
+
+/* Gewählter Termin */
+.bk-chosen { display: flex; justify-content: space-between; align-items: center; gap: 12px; padding: 14px 16px; border-radius: 14px; background: var(--ink); color: var(--paper); font-size: 0.95rem; }
+.bk-chosen b { display: block; font-weight: 600; }
+.bk-chosen span { color: var(--paper-deep); font-size: 0.82rem; }
+.bk-chosen button { border: 0; background: none; color: var(--line-yellow); font: inherit; font-size: 0.85rem; text-decoration: underline; cursor: pointer; }
+
+/* Felder */
+.bk-field { display: grid; gap: 6px; }
+.bk-field label { font-size: 0.85rem; font-weight: 600; }
+.bk-field input { width: 100%; min-height: 54px; padding: 12px 16px; border: 1px solid var(--paper-deep); border-radius: 12px; background: #fff; color: var(--ink); font: inherit; font-size: 1rem; }
+.bk-field input:focus { outline: none; border-color: var(--sand); box-shadow: 0 0 0 3px rgba(181, 156, 122, 0.25); }
+.bk-field [aria-invalid="true"] { border-color: #A32A16; }
+.bk-err { margin: 0; color: #A32A16; font-size: 0.85rem; font-weight: 500; }
+.bk-err[hidden] { display: none; }
+.bk-hp { position: absolute; left: -9999px; width: 1px; height: 1px; overflow: hidden; }
+
+/* Zusammenfassung mit Preis */
+.bk-summary { display: grid; margin: 0; padding: 4px 18px; list-style: none; background: #fff; border-radius: 16px; }
+.bk-summary li { display: flex; justify-content: space-between; gap: 16px; padding: 13px 0; border-bottom: 1px solid var(--paper-deep); font-size: 0.95rem; }
+.bk-summary li span:last-child { text-align: right; color: var(--ink-soft); }
+.bk-summary li.total { border-bottom: 0; font-weight: 600; font-size: 1.15rem; }
+.bk-summary li.total span:last-child { color: var(--ink); }
+.bk-incl { display: grid; gap: 6px; margin: 0; padding: 0; list-style: none; font-size: 0.92rem; color: var(--ink-soft); }
+.bk-incl li { display: flex; gap: 8px; }
+.bk-incl li::before { content: "✓"; color: var(--umber-deep); font-weight: 700; }
+
+.bk-go { width: 100%; min-height: 58px; border: 0; border-radius: 999px; background: var(--ink); color: var(--paper); font: 600 1rem/1 var(--font); letter-spacing: 0.02em; cursor: pointer; transition: background 200ms; }
+.bk-go:hover { background: #000; }
+.bk-go[disabled] { background: var(--paper-deep); color: var(--ink-soft); cursor: wait; }
+.bk-back { justify-self: center; border: 0; background: none; color: var(--ink-soft); font: inherit; font-size: 0.9rem; text-decoration: underline; cursor: pointer; }
+.bk-trust { margin: 0; text-align: center; font-size: 0.8rem; color: var(--ink-soft); }
+.bk-notice { margin: 0; padding: 12px 16px; border-radius: 12px; background: var(--paper-deep); font-size: 0.92rem; }
+
+/* Hochladen nach der Zahlung */
+.bk-drop { position: relative; display: grid; justify-items: center; gap: 4px; padding: 32px 16px; border: 1.5px dashed var(--umber); border-radius: 16px; background: #fff; text-align: center; cursor: pointer; }
+.bk-drop.over { background: var(--paper-deep); }
+.bk-drop input { position: absolute; inset: 0; width: 100%; height: 100%; opacity: 0; cursor: pointer; }
+.bk-drop b { font-size: 1.05rem; }
+.bk-drop span { font-size: 0.85rem; color: var(--ink-soft); }
+.bk-thumbs { display: grid; grid-template-columns: repeat(auto-fill, minmax(96px, 1fr)); gap: 8px; }
+.bk-thumbs:empty { display: none; }
+.bk-thumb { display: grid; gap: 3px; font-size: 0.72rem; min-width: 0; }
+.bk-thumb img, .bk-thumb .doc { display: grid; place-items: center; width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: 8px; background: var(--paper-deep); }
+.bk-thumb span { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; color: var(--ink-soft); }
+
+@media (prefers-reduced-motion: reduce) { .book-cta, .bk-time, .bk-go { transition: none; } }
+
+/* ---------- Keine Überschneidungen auf Handy & Tablet (nur diese Seite) ----------
+   Folien sind hier höher als der Bildschirm. Der Parallax-Effekt würde
+   Bild und Text beim Scrollen ineinanderschieben, daher aus. */
+@media (max-width: 1024px) {
+  body.has-book-bar [data-px] { transform: none !important; }
+  body.has-book-bar .ui-clocks { display: none; }
+  body.has-book-bar .slide--feature .ai-disclosure { top: auto; bottom: calc(96px + env(safe-area-inset-bottom, 0px)); left: clamp(2.4rem, 7vw, 4rem); right: auto; }
+  /* Milchglas hinter Logo, Menü und Sprache: durchlaufender Text kollidiert nicht mit der Kopfzeile */
+  body.has-book-bar::after {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: calc(clamp(92px, 13vw, 120px) + env(safe-area-inset-top, 0px));
+    z-index: 45;
+    pointer-events: none;
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+    -webkit-mask-image: linear-gradient(#000 65%, transparent);
+    mask-image: linear-gradient(#000 65%, transparent);
+  }
+}
+
+/* Anruf unter dem Buchungs-Button: US-Nummer, ein Tipp wählt */
+.book-cta-call { display: inline-block; margin-top: 0.5rem; padding: 0.4rem 0; color: inherit; font-size: 0.95rem; text-decoration: underline; text-underline-offset: 3px; }
+.book-cta-call:hover { color: var(--line-yellow); }
