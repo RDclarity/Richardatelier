@@ -170,7 +170,8 @@
         field("name", "Name", 'autocomplete="name" autocapitalize="words"') +
         field("email", "Email", 'type="email" autocomplete="email" inputmode="email"') +
         field("phone", "Phone", 'type="tel" autocomplete="tel" inputmode="tel"') +
-        field("billing", "Billing address", 'autocomplete="street-address" placeholder="Street, city, state, ZIP"') +
+        // Rechnungsadresse nur mit Rechnungs-Backend (Pflichtangabe auf der Rechnung).
+        (LIVE ? field("billing", "Billing address", 'autocomplete="street-address" placeholder="Street, city, state, ZIP"') : "") +
         '<div class="bk-hp" aria-hidden="true"><label for="bk-website">Website</label><input id="bk-website" name="website" tabindex="-1" autocomplete="off"></div>' +
         '<button class="bk-go" type="submit">Continue</button>' +
         "</div></form>";
@@ -182,7 +183,7 @@
         "<li><span>" + esc(fmt(state.date, { weekday: "short", month: "short", day: "numeric" })) + "</span><span>" + esc(state.time) + " ET</span></li>" +
         '<li class="total"><span>Total</span><span>' + esc(PRICE) + "</span></li></ul>" +
         // Vor dem verbindlichen Klick unmissverständlich: kostenpflichtig, Betrag, Rechnung.
-        '<p class="bk-fee"><strong>Paid consultation: ' + esc(PRICE) + ".</strong> Invoice by email, payable by bank transfer.</p>" +
+        '<p class="bk-fee"><strong>Paid consultation: ' + esc(PRICE) + ".</strong>" + (LIVE ? " Invoice by email, payable by bank transfer." : "") + "</p>" +
         '<p class="bk-err" data-err="form" hidden></p>' +
         '<button class="bk-go" type="button" data-pay' + (state.busy ? " disabled" : "") + ">" + (state.busy ? "Booking …" : "Book for " + esc(PRICE)) + "</button>" +
         '<button class="bk-back" type="button" data-goto="1">Back</button>';
@@ -195,7 +196,7 @@
       '<div class="bk-chosen"><div><b>' + esc(longDate(state.date)) + "</b><span>" + esc(state.time) + " ET · 45-min video call</span></div></div>" +
       '<p class="bk-sub">' + (LIVE
         ? "Your Teams link and invoice " + esc(b.invoiceNumber || "") + " are on their way to " + esc(state.email) + ". Reply to that email with photos of your space."
-        : "Richard confirms by email. Your invoice follows.") + "</p>" +
+        : "Richard confirms by email.") + "</p>" +
       '<button class="bk-go" type="button" data-close>Done</button>';
   }
 
@@ -288,14 +289,14 @@
   body.addEventListener("submit", function (e) {
     e.preventDefault();
     var f = e.target;
-    ["name", "email", "phone", "billing"].forEach(function (k) { state[k] = f.elements[k].value.trim(); });
+    ["name", "email", "phone", "billing"].forEach(function (k) { if (f.elements[k]) state[k] = f.elements[k].value.trim(); });
     state.website = f.elements.website.value;
     var bad = null;
     var check = function (k, ok, msg) { setErr(k, ok ? "" : msg); if (!ok && !bad) bad = k; };
     check("name", state.name.length > 1, "Please enter your name.");
     check("email", /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(state.email), "Please enter a valid email, like name@example.com.");
     check("phone", state.phone.replace(/\D/g, "").length >= 10, "Please enter a phone number with area code.");
-    check("billing", state.billing.length > 8, "Please enter your billing address.");
+    if (LIVE) check("billing", state.billing.length > 8, "Please enter your billing address.");
     if (bad) { f.elements[bad].focus(); return; }
     state.step = 2;
     render(true);
@@ -347,7 +348,7 @@
     data.append("email", state.email);
     data.append("phone", state.phone);
     data.append("company", state.website || "");
-    data.append("nachricht", "New York design consultation (" + PRICE + ", invoice). Video call: " + longDate(state.date) + ", " + state.time + " New York time. Billing address: " + state.billing);
+    data.append("nachricht", "New York design consultation (" + PRICE + "). Video call: " + longDate(state.date) + ", " + state.time + " New York time.");
     data.append("lang", "en");
     data.append("marketing_consent", window.raConsent || "");
     fetch(CONTACT_ENDPOINT, { method: "POST", body: data, headers: { Accept: "application/json" } })
