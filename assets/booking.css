@@ -186,7 +186,6 @@ body.bk-open { overflow: hidden; }
 @media (max-width: 1024px) {
   body.has-book-bar [data-px] { transform: none !important; }
   body.has-book-bar .ui-clocks { display: none; }
-  body.has-book-bar .slide--feature .ai-disclosure { top: auto; bottom: calc(96px + env(safe-area-inset-bottom, 0px)); left: clamp(2.4rem, 7vw, 4rem); right: auto; }
   /* Milchglas hinter Logo, Menü und Sprache: durchlaufender Text kollidiert nicht mit der Kopfzeile */
   body.has-book-bar::after {
     content: "";
