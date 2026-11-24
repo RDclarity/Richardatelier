@@ -163,6 +163,8 @@ body.bk-open { overflow: hidden; }
 .bk-go:hover { background: #000; }
 .bk-go[disabled] { background: var(--paper-deep); color: var(--ink-soft); cursor: wait; }
 .bk-back { justify-self: center; border: 0; background: none; color: var(--ink-soft); font: inherit; font-size: 0.9rem; text-decoration: underline; cursor: pointer; }
+.bk-fee { margin: 0; padding: 14px 16px; border-left: 3px solid var(--sand); border-radius: 4px 12px 12px 4px; background: var(--paper-deep); font-size: 0.92rem; line-height: 1.5; }
+.bk-fee strong { font-weight: 600; }
 .bk-trust { margin: 0; text-align: center; font-size: 0.8rem; color: var(--ink-soft); }
 .bk-notice { margin: 0; padding: 12px 16px; border-radius: 12px; background: var(--paper-deep); font-size: 0.92rem; }
 

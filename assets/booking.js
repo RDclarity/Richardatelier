@@ -183,10 +183,13 @@
         "<li><span>" + esc(fmt(state.date, { weekday: "short", month: "short", day: "numeric" })) + "</span><span>" + esc(state.time) + " ET</span></li>" +
         '<li class="total"><span>Total</span><span>' + esc(PRICE) + "</span></li></ul>" +
         '<ul class="bk-incl"><li>Richard reviews your photos, video and floor plan before the call</li><li>Your personal video consultation, room by room</li><li>Clear next steps, and a fixed-price proposal if you want to go ahead</li></ul>' +
+        // Vor dem verbindlichen Klick unmissverständlich: kostenpflichtig, Betrag, Rechnung per E-Mail.
+        '<p class="bk-fee"><strong>This is a paid consultation:</strong> the design assessment costs ' + esc(PRICE) + ". " +
+        (LIVE ? "You pay by card in the next step, and your invoice arrives by email." : "Your invoice is sent to you by email.") + "</p>" +
         '<p class="bk-err" data-err="form" hidden></p>' +
         '<button class="bk-go" type="button" data-pay' + (state.busy ? " disabled" : "") + ">" +
-        (state.busy ? (LIVE ? "Opening secure checkout …" : "Sending …") : LIVE ? "Pay " + esc(PRICE) + " securely" : "Request this time") + "</button>" +
-        '<p class="bk-trust">' + (LIVE ? "Secure card payment by Stripe. Your Teams link arrives by email right after." : "Richard confirms your time personally and sends you a secure payment link.") + "</p>" +
+        (state.busy ? (LIVE ? "Opening secure checkout …" : "Sending …") : LIVE ? "Book and pay " + esc(PRICE) : "Book for " + esc(PRICE)) + "</button>" +
+        '<p class="bk-trust">' + (LIVE ? "Secure card payment by Stripe. Your Teams link arrives by email right after." : "Richard confirms your time personally and sends your Teams invitation.") + "</p>" +
         '<button class="bk-back" type="button" data-goto="1">Back</button>';
     }
   ];
@@ -195,8 +198,8 @@
     if (state.lost) return '<h2 tabindex="-1">We could not open this booking.</h2><p class="bk-sub">' + esc(state.lost) + '</p><button class="bk-go" type="button" data-close>Back to the page</button>';
     if (!LIVE) {
       return '<h2 tabindex="-1">Thank you, <strong>' + esc(state.name.split(/\s+/)[0]) + ".</strong></h2>" +
-        '<div class="bk-chosen"><div><b>' + esc(longDate(state.date)) + "</b><span>" + esc(state.time) + " New York time · requested</span></div></div>" +
-        '<p class="bk-sub">Richard will confirm your time personally, usually within one working day, and send you a secure payment link together with your Teams invitation.</p>' +
+        '<div class="bk-chosen"><div><b>' + esc(longDate(state.date)) + "</b><span>" + esc(state.time) + " New York time · booked</span></div></div>" +
+        '<p class="bk-sub">Richard will confirm your time personally, usually within one working day. Your invoice for ' + esc(PRICE) + " and your Teams invitation follow by email.</p>" +
         '<button class="bk-go" type="button" data-close>Done</button>';
     }
     var b = state.booked;
